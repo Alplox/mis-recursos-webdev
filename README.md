@@ -553,4 +553,4 @@ Mi bitácora de aprendizaje: https://github.com/Alplox/mi-bitacora-webdev
     * https://www.admiretheweb.com/
     * https://calltoidea.com/
 
-[![Visits Badge](https://badges.pufler.dev/visits/Alplox/mis-recursos-web-dev)](https://badges.pufler.dev)
+[![Visits Badge](https://badges.pufler.dev/visits/Alplox/mis-recursos-webdev)](https://badges.pufler.dev)
