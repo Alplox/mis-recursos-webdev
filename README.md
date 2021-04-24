@@ -16,7 +16,7 @@ Mi bitácora de aprendizaje: https://github.com/Alplox/mi-bitacora-webdev
 - [Snippets](#snippets-)
 - [Foros-Blogs-Inspiración](#foros-blogs-inspiración-)
 
-## Editores de código online [^](#tabla-de-contenido)
+## Editores de código online [↑](#tabla-de-contenido)
 * https://jsfiddle.net/
 * https://codesandbox.io/
 * https://codepen.io/
@@ -33,7 +33,7 @@ Mi bitácora de aprendizaje: https://github.com/Alplox/mi-bitacora-webdev
 * https://regex101.com/ 
 * https://regexr.com/
 
-## Herramientas [^](#tabla-de-contenido)
+## Herramientas [↑](#tabla-de-contenido)
 * https://iframely.com/ (Herramienta para generar embed iframes)
 * https://caniuse.com/ (Conocer compatibilidad con navegadores acorde a características front-end)
 * https://sketch2code.azurewebsites.net/ (Dibujo a HTML)
@@ -198,7 +198,7 @@ Mi bitácora de aprendizaje: https://github.com/Alplox/mi-bitacora-webdev
     * https://www.softr.io/tools/svg-wave-generator (Generar curvas)
     * https://app.haikei.app/ (Generar formas, fondos)
 
-## Recursos [^](#tabla-de-contenido)
+## Recursos [↑](#tabla-de-contenido)
 * https://pastebin.com/gfBPg24A (PHP)
 * https://free-for.dev (Recursos gratuitos para desarrolladores)
 * https://github.com/dypsilon/frontend-dev-bookmarks
@@ -270,7 +270,7 @@ Mi bitácora de aprendizaje: https://github.com/Alplox/mi-bitacora-webdev
     * https://www.launchaco.com/
     * https://www.jimdo.com/es/
 
-## Guías [^](#tabla-de-contenido)
+## Guías [↑](#tabla-de-contenido)
 * https://code.visualstudio.com/docs/languages/overview (Guías de como interactúan diferentes lenguajes con Visual Studio Code)
 * https://github.com/bmorelli25/Become-A-Full-Stack-Web-Developer/ (Guía y recursos generales para ser un web developer)
 * https://piccalil.li/ (Guía y recursos generales front-end)
@@ -322,7 +322,7 @@ Mi bitácora de aprendizaje: https://github.com/Alplox/mi-bitacora-webdev
     * https://www.matuzo.at/blog/html-boilerplate/ (Artículo que explica estructura básica documento HTML)
     * https://www.designwizard.com/blog/design-tips/color-theory?msID=06a7c0a7-132a-4824-860b-edce47068070 (Colores)
 
-## Guías y cursos escritos [^](#tabla-de-contenido)
+## Guías y cursos escritos [↑](#tabla-de-contenido)
 *Algunos si incluyen videos*
 * https://developer.mozilla.org/es/docs/Learn/Getting_started_with_the_web (HTML, CSS y JS)
 * https://www.w3schools.com/ (HTML, CSS y JS)
@@ -360,7 +360,7 @@ Mi bitácora de aprendizaje: https://github.com/Alplox/mi-bitacora-webdev
     * https://practicaltypography.com/typography-in-ten-minutes.html (Tipografía)
     * http://www.typogui.de/ (Tipografía)
 
-## Gratuito [^](#tabla-de-contenido)
+## Gratuito [↑](#tabla-de-contenido)
 *Gratuito != No Copyright*
 * https://github.com/neutraltone/awesome-stock-resources
 * https://github.com/shime/creative-commons-media
@@ -510,7 +510,7 @@ Mi bitácora de aprendizaje: https://github.com/Alplox/mi-bitacora-webdev
     * https://desket.co/collections/all (Mockups, Iconos, Ilustraciones, Templates)
     * https://gpldl.com/ (Templates)
 
-## Snippets [^](#tabla-de-contenido)
+## Snippets [↑](#tabla-de-contenido)
 * https://codepen.io/MikeyT24/pen/xrQvxe (Portfolio)
 * https://mdbootstrap.com/snippets/jquery/pjoter-2-0/934696 (Parallax Live Preview)
 * https://codepen.io/nicolaspavlotsky/full/ZJPXgy (Tips diseño UI)
@@ -547,7 +547,7 @@ Mi bitácora de aprendizaje: https://github.com/Alplox/mi-bitacora-webdev
     * https://www.codeply.com/p/rYdxaRzAYw (sketchJs animation)
     * https://codepen.io/jasonleewilson/pen/gPrxwX (Reloj con millisegundos)
 
-## Foros-Blogs-Inspiración [^](#tabla-de-contenido)
+## Foros-Blogs-Inspiración [↑](#tabla-de-contenido)
 * Foros Desarrollo
     * https://dev.to/
     * https://developerbacon.ca/
