@@ -61,6 +61,7 @@ Mi bitácora de aprendizaje: https://github.com/Alplox/mi-bitacora-webdev
 * https://www.programmingfonts.org/ (Probar múltiples fuentes online para IDE)
 * https://app.diagrams.net/ (Diagramas)
 * https://getbutton.io (Botón de chat gratuito)
+* https://whatismyviewport.com/ (Conocer Viewport)
 * Herramientas de colores
     * https://www.colorhexa.com/
     * https://uigradients.com
@@ -141,6 +142,7 @@ Mi bitácora de aprendizaje: https://github.com/Alplox/mi-bitacora-webdev
     * https://larsenwork.com/easing-gradients/ (Generar suaves UI/Gradientes)
     * https://griddy.io/ (Herramienta CSS Grid)
     * http://www.minifycss.com/css-compressor/ (Comprimir código CSS)
+    * https://csscompressor.net/ (Comprimir código CSS)
 * JS 
     * http://www.minifyjavascript.com/ (Comprimir código JS)
     * https://jscompress.com/ (Comprimir código JS)
@@ -295,6 +297,11 @@ Mi bitácora de aprendizaje: https://github.com/Alplox/mi-bitacora-webdev
 * https://code.tutsplus.com/tutorials/the-30-css-selectors-you-must-memorize--net-16048
 * https://www.freecodecamp.org/news/how-to-understand-css-position-absolute-once-and-for-all-b71ca10cd3fd/
 * https://codepen.io/tigt/post/optimizing-svgs-in-data-uris
+* https://medium.com/@nmayurashok/file-and-folder-structure-for-web-development-8c5c83810a5 (Folder Structure for Web Development)
+* https://www.freecodecamp.org/news/use-svg-images-in-css-html/ (Uso SVG)
+* https://softwaretestingfundamentals.com/unit-testing/
+* https://www.atlassian.com/continuous-delivery/software-testing/types-of-software-testing
+* https://www.freecodecamp.org/news/how-to-start-unit-testing-javascript/
 * Practicas/Ejercicios
     * https://cssgridgarden.com/#es (CSS)
     * https://exercism.io/ (Diversos lenguajes)
@@ -357,6 +364,7 @@ Mi bitácora de aprendizaje: https://github.com/Alplox/mi-bitacora-webdev
     * https://www.figma.com/resources/learn-design/ (Diseño UI)
     * https://goodui.org/ (Diseño UI)
     * https://hackdesign.org/lessons (Diseño)
+    * https://www.homeandlearn.co.uk/WD/WebDesign.html (Web Design)
     * https://practicaltypography.com/typography-in-ten-minutes.html (Tipografía)
     * http://www.typogui.de/ (Tipografía)
 
