@@ -199,6 +199,7 @@ Mi bitácora de aprendizaje: https://github.com/Alplox/mi-bitacora-webdev
     * https://www.softr.io/tools/svg-shape-generator (Generar formas)
     * https://www.softr.io/tools/svg-wave-generator (Generar curvas)
     * https://app.haikei.app/ (Generar formas, fondos)
+    * https://pattern.monster/ (Generador de patrones)
 
 ## Recursos [↑](#tabla-de-contenido)
 * https://pastebin.com/gfBPg24A (PHP)
@@ -542,6 +543,7 @@ Mi bitácora de aprendizaje: https://github.com/Alplox/mi-bitacora-webdev
     * https://jsfiddle.net/8dmxqngs/ (scaleAnimation ancla)
     * https://codepen.io/supah/pen/ExabJxB (Animación Flow field)
     * https://codepen.io/cristina-silva/pen/XXOpga (CSS Tooltip)
+    * https://codepen.io/ainalem/full/ZELZKwg (CSS Tooltip)
     * https://codepen.io/thebabydino/pen/RRRRZE (Animación corazón sin JS)
     * https://codepen.io/goodkatz/pen/LYPGxQz (CSS Waves)
     * https://codepen.io/moPsych/pen/abmKKKZ (Animación)
@@ -551,6 +553,20 @@ Mi bitácora de aprendizaje: https://github.com/Alplox/mi-bitacora-webdev
     * https://codepen.io/gubb/pen/PdZqKy (Windows 10 calendar effect)
     * https://codepen.io/ainalem/full/OJWQbor (Hamburger menu)
     * https://css-tricks.com/going-from-solid-to-knockout-text-on-scroll/ (Going From Solid to Knockout Text on Scroll)
+        * Typewriter effect
+            * https://codepen.io/hi-im-si/pen/DHoup
+            * https://codepen.io/stathisg/pen/Bkvhg/
+            * https://codepen.io/daviddcarr/pen/XVyQMM/
+            * https://codepen.io/CheeseTurtle/pen/jzdgI/
+            * https://codepen.io/aryanpatel170504/pen/xLXVZm/
+            * https://codepen.io/aakhya/pen/NErZry/
+            * https://codepen.io/stevn/pen/jEZvXa/
+            * https://codepen.io/aakhya/pen/wQWZXV/
+            * https://codepen.io/aakhya/pen/MzeRmK/
+            * https://codepen.io/aakhya/pen/bQeJaX/
+            * https://codepen.io/aakhya/pen/dQXLGZ/
+            * https://codepen.io/aakhya/pen/zMBbog/
+            * https://codepen.io/aakhya/pen/EOxqOV/
 * JS
     * https://www.codeply.com/p/rYdxaRzAYw (sketchJs animation)
     * https://codepen.io/jasonleewilson/pen/gPrxwX (Reloj con millisegundos)
