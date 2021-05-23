@@ -1,11 +1,12 @@
 # WEB DEV Herramientas, Recursos, Inspiración, Guías y Otros
 Lista de todo sitio (útil) que he ido encontrando durante mi proceso de auto aprendizaje para desarrollo web.
 
-¿Por qué? Porque tengo muchos marcadores en favoritos.
+¿Por qué? Porque tengo muchos marcadores.
 
 Mi bitácora de aprendizaje: https://github.com/Alplox/mi-bitacora-webdev
 
-[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/made-with-markdown.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com) 
 # Tabla de contenido
 - [Editores de código online](#editores-de-código-online)
 - [Herramientas](#herramientas)
@@ -54,6 +55,7 @@ Mi bitácora de aprendizaje: https://github.com/Alplox/mi-bitacora-webdev
 * https://gitexplorer.com/ (Ayuda para comandos Git)
 * https://dummyimage.com/ (Generador de imágenes estáticas con su resolución)
 * https://bluetree.ai/screenfly/ (Ver sitio en multiples resoluciones)
+* https://www.browserling.com/ (Probar sitio en multiples navegadores)
 * https://favicon.io/ (Generador de Favicons)
 * https://realfavicongenerator.net/ (Generador de Favicons)
 * https://www.favicon-generator.org/ (Generador de Favicons)
@@ -64,6 +66,7 @@ Mi bitácora de aprendizaje: https://github.com/Alplox/mi-bitacora-webdev
 * https://app.diagrams.net/ (Diagramas)
 * https://getbutton.io (Botón de chat gratuito)
 * https://whatismyviewport.com/ (Conocer Viewport)
+* https://10015.io/ (Toolkit)
 ### Herramientas de colores
    * https://www.colorhexa.com/
    * https://uigradients.com
@@ -126,6 +129,7 @@ Mi bitácora de aprendizaje: https://github.com/Alplox/mi-bitacora-webdev
    * http://getuicolors.com/
    * https://paletton.com/
    * https://www.schemecolor.com/
+   * https://jxnblk.github.io/Spectral/
 ### HTML
    * https://htmlboilerplates.com/ (Plantilla interactiva HTML)
    * https://validator.w3.org/#validate_by_input (Validar estructura HTML)
@@ -145,6 +149,7 @@ Mi bitácora de aprendizaje: https://github.com/Alplox/mi-bitacora-webdev
    * https://griddy.io/ (Herramienta CSS Grid)
    * http://www.minifycss.com/css-compressor/ (Comprimir código CSS)
    * https://csscompressor.net/ (Comprimir código CSS)
+   * https://superdesigner.co/tools
 ### JS 
    * http://www.minifyjavascript.com/ (Comprimir código JS)
    * https://jscompress.com/ (Comprimir código JS)
@@ -159,7 +164,7 @@ Mi bitácora de aprendizaje: https://github.com/Alplox/mi-bitacora-webdev
    * https://orama-interactive.itch.io/pixelorama (Editor PixelArt)
    * https://www.pixilart.com/ (Editor PixelArt)
    * https://patternico.com/ (Generador de patrones)
-   * https://trianglify.io/ (Generador de fondos, de pago)
+   * https://trianglify.io/ (de Pago, Generador de fondos)
    * https://tomato.to/ (Descargar imágenes stock sin marca de agua)
    * https://coolbackgrounds.io/ (Generador de fondos)
    * https://www.stickermule.com/upscale (Upscale)
@@ -184,7 +189,7 @@ Mi bitácora de aprendizaje: https://github.com/Alplox/mi-bitacora-webdev
    * https://www.protopie.io/
    * https://mockitt.wondershare.com/
    * https://build.mmm.page/
-   * https://resoume.com/ (CV, de pago)
+   * https://resoume.com/ (de Pago, CV)
    * https://beefree.io/ (Emails)
 ### SVG
    * https://www.coffee-break-designs.com/labs/svg_stripe_generator/ (Generador de líneas)
@@ -202,6 +207,9 @@ Mi bitácora de aprendizaje: https://github.com/Alplox/mi-bitacora-webdev
    * https://www.softr.io/tools/svg-wave-generator (Generar curvas)
    * https://app.haikei.app/ (Generar formas, fondos)
    * https://pattern.monster/ (Generador de patrones)
+### Fuentes
+   * https://fontjoy.com/ (Generador para emparejar Fuentes)
+   * https://justmytype.co/ (Colección de emparejamiento de Fuentes)
 
 ## Recursos
 [↑](#tabla-de-contenido)
@@ -221,11 +229,21 @@ Mi bitácora de aprendizaje: https://github.com/Alplox/mi-bitacora-webdev
 ### Software
    * https://responsively.app (Navegador diseñado para desarrolladores)
    * https://sizzy.co/ (Navegador diseñado para desarrolladores)
+   * https://polypane.app/ (de Pago, Navegador diseñado para desarrolladores)
    * https://gitloft.com/ (Lista software Open Source)
    * https://www.streamlit.io/ (Scripts into sharable web apps)
    * https://typora.io/ (Editor Markdown)
    * https://zealdocs.org/ (Documentación offline para desarroladores)
-   * https://bootstrapstudio.io/ (Bootstrap, de pago)
+   * https://bootstrapstudio.io/ (de Pago, Bootstrap)
+      * IDE's
+          * https://www.sublimetext.com/
+          * https://atom.io/
+          * http://brackets.io/
+          * https://code.visualstudio.com/
+          * https://vscodium.com/
+          * https://www.eclipse.org/ide/
+          * https://www.vim.org/
+          * https://notepad-plus-plus.org/
 ### Librerías
    * https://randomuser.me/ (API generar usuarios random)
    * https://www.abstractapi.com/user-avatar-api (API generar usuarios random)
@@ -255,7 +273,6 @@ Mi bitácora de aprendizaje: https://github.com/Alplox/mi-bitacora-webdev
          * https://purecss.io/ (Módulo pequeño y responsive de CSS)
          * https://simplecss.org/ (Classless CSS framework)
          * https://github.com/troxler/awesome-css-frameworks (Lista de Frameworks CSS)
-         * https://jdan.github.io/98.css/ (Emula estilo Windows 98)
          * https://github.com/uhub/awesome-css (Lista de Frameworks, librerías y software CSS)
          * https://materializecss.com/about.html (Front-end Framework basado en Material Design)
          * https://blocks.wickedtemplates.com/ (Colección layouts Tailwind CSS V2)
@@ -263,10 +280,21 @@ Mi bitácora de aprendizaje: https://github.com/Alplox/mi-bitacora-webdev
          * https://tachyons.io/ (Módulo pequeño y responsive de CSS)
          * http://getskeleton.com/ (Módulo pequeño y responsive de CSS)
          * https://animxyz.com/ (Animaciones)
-         * https://mdbootstrap.com/ (Material Design Bootstrap, pago)
+         * https://mdbootstrap.com/ (de Pago, Material Design Bootstrap)
          * https://metroui.org.ua/ (Windows UI, Metro)
-         * https://bootswatch.com/cosmo/ (Windows UI, Metro)
          * https://github.com/winjs/winstrap (Windows UI, Metro)
+         * https://codyhouse.co/ (UI Framework)
+         * http://www.justinaguilar.com/animations/index.html (Animaciones)
+         * https://unsemantic.com/ (fluid grid system)
+         * http://designmodo.github.io/Flat-UI/ (Módulo pequeño y responsive de CSS)
+            * Estilos inpirados en otros preexistentes
+                * https://jdan.github.io/98.css/ (Estilo Windows 98)
+                * https://botoxparty.github.io/XP.css/ (Estilo Windows XP)
+                * https://khang-nd.github.io/7.css/ (Estilo Windows 7)
+                * https://micah5.github.io/PSone.css/ (Estilo PS1)
+                * https://nostalgic-css.github.io/NES.css/ (Estilo NES)
+                * https://www.getpapercss.com/ (Estilo dibujo a mano)
+                * https://terminalcss.xyz/ (Estilo terminal)
 ### Hosting gratuito
    * https://neocities.org/
    * https://pages.github.com/
@@ -333,6 +361,7 @@ Mi bitácora de aprendizaje: https://github.com/Alplox/mi-bitacora-webdev
    * https://www.oakharborwebdesigns.com/blog/articles/how-to-design-a-website.html#blog-post (Artículo con consejos respecto a diseñar un sitio web)
    * https://www.matuzo.at/blog/html-boilerplate/ (Artículo que explica estructura básica documento HTML)
    * https://www.designwizard.com/blog/design-tips/color-theory?msID=06a7c0a7-132a-4824-860b-edce47068070 (Colores)
+   * https://www.canva.com/font-combinations/ (Emparejar fuentes)
 
 ## Guías y cursos escritos
 [↑](#tabla-de-contenido) *Algunos si incluyen videos*
@@ -346,6 +375,9 @@ Mi bitácora de aprendizaje: https://github.com/Alplox/mi-bitacora-webdev
 * https://openlibra.com/es/book/introduccion-a-javascript (JS)
 * https://learnxinyminutes.com/docs/es-es/javascript-es/ (JS)
 * https://aprendejavascript.org/ (JS)
+### Libros
+   * https://www.joshwcomeau.com/effective-portfolio/ (Gratuito, requiere un [correo](https://temp-mail.org) - [Link directo](https://storage.googleapis.com/joshwcomeau/building-an-effective-dev-portfolio.pdf))
+   * https://jgthms.com/css-in-44-minutes-ebook/ (De pago $15, [Link Directo](https://cl1lib.org/book/5232937/eb4770))
 ### Inglés
    * https://www.freecodecamp.org/ (HTML, CSS y JS)
    * https://www.theodinproject.com/ (HTML, CSS y JS)
@@ -359,6 +391,7 @@ Mi bitácora de aprendizaje: https://github.com/Alplox/mi-bitacora-webdev
    * https://hackr.io/ (HTML, CSS y JS)
    * https://www.educba.com/software-development/software-development-tutorials/ (HTML, CSS y JS)
    * https://upskillcourses.com/courses/essential-web-developer-course (HTML, CSS y JS)
+   * https://frontendmasters.com/ (HTML, CSS y JS)
    * https://movethewebforward.org/ (HTML y CSS)
    * https://jgthms.com/javascript-in-14-minutes/ (JS)
    * https://eloquentjavascript.net/ (JS)
@@ -380,6 +413,7 @@ Mi bitácora de aprendizaje: https://github.com/Alplox/mi-bitacora-webdev
 * https://github.com/goabstract/Awesome-Design-Tools/blob/master/Awesome-Design-UI-Kits.md
 * https://icons8.com/ (Iconos, Ilustraciones, Imágenes, Música)
 * https://www.stockio.com/ (Iconos, Ilustraciones, Imágenes, Vídeos)
+* https://allthefreestock.com/ (Iconos, Ilustraciones, Imágenes, Vídeos, Sonidos, Templates, Fuentes)
 * https://thenounproject.com/ (Iconos e imágenes)
 * https://www.toptal.com/designers/subtlepatterns/ (Patrones)
 * https://products.ls.graphics/paaatterns/ (Patrones)
@@ -415,6 +449,8 @@ Mi bitácora de aprendizaje: https://github.com/Alplox/mi-bitacora-webdev
    * http://icon-works.com/
    * https://dryicons.com/
    * https://icomoon.io/
+   * https://iconscout.com/
+   * https://remixicon.com/
 ### Ilustraciones
    * https://undraw.co/illustrations
    * https://lukaszadam.com/illustrations
@@ -482,6 +518,7 @@ Mi bitácora de aprendizaje: https://github.com/Alplox/mi-bitacora-webdev
    * https://www.zerotheme.com/ (Templates variadas)
    * https://colorlib.com/wp/templates/ (Templates variadas)
    * https://splawr.com/freebies (Templates variadas)
+   * https://bootswatch.com/ (Templates Bootstrap)
 ### Fuentes
    * https://fonts.google.com/
    * https://github.com/larsenwork/Gidole
@@ -503,7 +540,6 @@ Mi bitácora de aprendizaje: https://github.com/Alplox/mi-bitacora-webdev
    * https://brick.im/
    * https://github.com/belluzj/fantasque-sans
    * http://www.fontsquirrel.com
-   * https://www.fontpair.co/
 ### Incluyen de pago
    * https://www.productdesignresources.com/
    * https://lordicon.com/
@@ -532,6 +568,8 @@ Mi bitácora de aprendizaje: https://github.com/Alplox/mi-bitacora-webdev
 * https://codepen.io/ElvisGmz_/pen/xxEVMZa (Responsive NavBar HTML + CSS)
 * https://codepen.io/GreenSock/pen/KKpLdWW (Layered pinning - ScrollTrigger)
 * https://dev.to/georgedoescode/create-a-generative-landing-page-webgl-powered-background-animation-3nl0
+* https://codemyui.com/ (Colección diversos Snippets)
+* http://youmightnotneedjquery.com/ (jQuery a JS)
 ### HTML
    * https://css-tricks.com/snippets/html/glyphs/ (Caracteres especiales HTML)
    * https://codepen.io/gita07/pen/QWKXBxw (menubar)
@@ -603,6 +641,12 @@ Mi bitácora de aprendizaje: https://github.com/Alplox/mi-bitacora-webdev
    * https://onextrapixel.com/
    * https://line25.com/
    * https://www.logomoose.com/
+   * https://www.thebestdesigns.com/
+   * https://siiimple.com/
+   * https://httpster.net/
+   * https://saaspages.xyz/
+   * https://www.designernews.co/
+   * https://www.csswinner.com/
 ### Blogs
    * https://hugodaniel.com/posts/ (HTML)
    * https://www.bufa.es/
@@ -626,9 +670,11 @@ Mi bitácora de aprendizaje: https://github.com/Alplox/mi-bitacora-webdev
    * https://sjmulder.nl/en/textonly.html
    * https://dibujartecss.musarte.dev/
    * https://reallygoodemails.com/
-   * https://femmebot.github.io/google-type/ (Fuentes)
    * https://www.siteinspire.com/
    * https://www.admiretheweb.com/
    * https://calltoidea.com/
+   * https://fontpair.co/ (Fuentes)
+   * https://femmebot.github.io/google-type/ (Fuentes)
+   * https://bueltge.de/free-web-font-combinations/ (Fuentes)
 
 [![Visits Badge](https://badges.pufler.dev/visits/Alplox/mis-recursos-webdev)](https://badges.pufler.dev)
