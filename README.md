@@ -1,5 +1,5 @@
-# WEB DEV Herramientas, Recursos, Inspiración, Guías y Otros
-Lista de todo sitio (útil) que he ido encontrando durante mi proceso de auto aprendizaje para desarrollo web.
+# Listado de enlaces con Herramientas, Recursos, Inspiración, Guías y Otros temas entorno al Desarrollo Web
+Colección de todo sitio (útil) que he ido encontrando durante mí proceso de auto aprendizaje.
 
 ¿Por qué? Porque tengo muchos marcadores.
 
