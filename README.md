@@ -28,7 +28,7 @@ Mi bitácora de aprendizaje: https://github.com/Alplox/mi-bitacora-webdev
 * https://codeshare.io/
 * https://repl.it/
 * https://www.codeply.com/
-* https://tinyeditor.pages.dev/ (Requiere cuenta)
+* https://tinyeditor.pages.dev/ (Requiere cuenta, [correo](https://temp-mail.org))
 * https://dillinger.io (Editor Markdown)
 * https://stackedit.io/ (Editor Markdown)
 * https://writemd.xyz/ (Editor Markdown)
@@ -473,6 +473,7 @@ Mi bitácora de aprendizaje: https://github.com/Alplox/mi-bitacora-webdev
    * https://devchallenges.io/ (Web, Front-end, Full-Stack)
    * https://flexboxfroggy.com/#es (CSS)
    * https://www.euismod.dev/#/ (CSS Grid)
+   * https://flukeout.github.io/ (CSS Selectors)
    * https://www.codingame.com/start (JS)
 ### Guías visuales (Roadmap) para ser un web developer
    * https://github.com/kamranahmedse/developer-roadmap
@@ -524,10 +525,14 @@ Mi bitácora de aprendizaje: https://github.com/Alplox/mi-bitacora-webdev
    * https://upskillcourses.com/courses/essential-web-developer-course (HTML, CSS y JS)
    * https://frontendmasters.com/ (HTML, CSS y JS)
    * https://github.com/microsoft/Web-Dev-For-Beginners (HTML, CSS y JS)
+   * https://www.w3docs.com/ (HTML, CSS y JS)
+   * https://www.khanacademy.org/ (HTML y JS)
    * https://movethewebforward.org/ (HTML y CSS)
    * https://html.spec.whatwg.org/ (HTML, Estándar)
    * https://jgthms.com/javascript-in-14-minutes/ (JS)
    * https://eloquentjavascript.net/ (JS)
+   * https://testautomationu.applitools.com/ (JS)
+   * https://web.dev/learn/ (CSS)
    * https://uxengineer.com/principles-of-design/ (Diseño UI)
    * https://shiftnudge.com/ (Diseño UI)
    * https://material.io/ (Diseño UI)
@@ -724,6 +729,7 @@ Mi bitácora de aprendizaje: https://github.com/Alplox/mi-bitacora-webdev
 * https://www.littlesnippets.net/ (Colección diversos Snippets)
 * https://www.30secondsofcode.org/ (Colección diversos Snippets)
 * https://freefrontend.com/ (Colección diversos Snippets)
+* https://kandi.openweaver.com/home (Colección diversos Snippets)
 ### Colección snippets específicos
    * https://www.sliderrevolution.com/resources/css-checkbox/ (Colección de checkboxes)
    * https://www.sliderrevolution.com/resources/css-gallery/ (Colección galerías)
