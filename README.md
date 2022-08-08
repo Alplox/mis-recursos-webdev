@@ -3,8 +3,6 @@ Colección de todo sitio (útil) que he ido encontrando durante mí proceso de a
 
 ¿Por qué? Porque tengo muchos marcadores.
 
-Mi bitácora de aprendizaje: https://github.com/Alplox/mi-bitacora-webdev
-
 [![forthebadge](https://forthebadge.com/images/badges/made-with-markdown.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com) 
 # Tabla de contenido
@@ -964,5 +962,3 @@ Mi bitácora de aprendizaje: https://github.com/Alplox/mi-bitacora-webdev
 * https://cloudinary.com/
 * https://www.tabnine.com/
 * https://lottielab.io/
-
-[![Visits Badge](https://badges.pufler.dev/visits/Alplox/mis-recursos-webdev)](https://badges.pufler.dev)
