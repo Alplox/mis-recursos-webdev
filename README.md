@@ -32,6 +32,7 @@ Colección de todo sitio (útil) que he ido encontrando durante mí proceso de a
 * https://www.codeply.com/
 * https://codeebox.vercel.app/
 * https://ideone.com/
+* https://codi.link/
 * https://tinyeditor.pages.dev/ (Requiere cuenta, [correo](https://temp-mail.org))
 * https://dillinger.io (Editor Markdown)
 * https://stackedit.io/ (Editor Markdown)
@@ -238,6 +239,7 @@ Colección de todo sitio (útil) que he ido encontrando durante mí proceso de a
    * https://cubic-bezier.com (Herramienta cubic-bezier)
    * https://animate.style/ (Animaciones CSS)
    * https://animista.net/ (Animaciones CSS)
+   * https://animotion.dev/ (Animaciones CSS)
    * https://9elements.github.io/fancy-border-radius/ (Herramienta border-radius)
    * https://neumorphism.io/ (Generar suaves UI)
    * https://shadows.brumm.af/ (Generar sombras suaves)
@@ -267,6 +269,7 @@ Colección de todo sitio (útil) que he ido encontrando durante mí proceso de a
    * https://www.cssgenerators.net/
    * https://cssbuttoncreator.com/
    * https://css3buttongenerator.com/
+   * https://css-generators.com/section-divider/
 ### JS 
    * http://www.minifyjavascript.com/ (Comprimir código JS)
    * https://jscompress.com/ (Comprimir código JS)
@@ -300,6 +303,7 @@ Colección de todo sitio (útil) que he ido encontrando durante mí proceso de a
    * https://png-svg.com/
    * https://www.pngtosvg.com/
    * https://tylify.app/ (Crear patrones)
+   * https://www.brandbird.app/
    * https://createfakeperson.com/
       * Editor PixelArt
         * https://pixelcraft.web.app/ (Editor PixelArt)
@@ -491,6 +495,7 @@ Colección de todo sitio (útil) que he ido encontrando durante mí proceso de a
          * https://react-select.com/home
          * https://www.gethalfmoon.com/
          * https://splidejs.com/
+         * https://www.animatereactnative.com/ (React)
       * CSS
          * https://bulma.io/ (Framework basado en Flexbox)
          * https://purecss.io/ (Módulo pequeño y responsive de CSS)
@@ -696,6 +701,7 @@ Colección de todo sitio (útil) que he ido encontrando durante mí proceso de a
    * https://lawsofux.com/ (Diseño UI)
    * https://www.figma.com/resources/learn-design/ (Diseño UI)
    * https://goodui.org/ (Diseño UI)
+   * https://motion.zajno.com/ (Diseño UI/UX)
    * https://hackdesign.org/lessons (Diseño)
    * https://www.uxdatabase.io/free-product-design-course (Diseño)
    * https://www.homeandlearn.co.uk/WD/WebDesign.html (Web Design)
@@ -1134,6 +1140,14 @@ Colección de todo sitio (útil) que he ido encontrando durante mí proceso de a
    * https://www.uxdatabase.io/ (Colección Enlaces)
    * https://www.bestfolios.com/home
    * https://land-book.com/
+   * https://www.curated.design/
+   * https://trending.design/
+   * https://www.darkmodedesign.com/
+   * https://maxibestof.one/
+   * https://www.footer.design/
+   * https://www.landing.love/
+   * https://uijar.com/
+   * https://mobbin.com/browse/web/apps
 
 ## Cursos de pago
 [↑](#tabla-de-contenido)
@@ -1157,6 +1171,8 @@ Colección de todo sitio (útil) que he ido encontrando durante mí proceso de a
 * https://huggingface.co/spaces
 * https://replicate.com/
 * https://www.tldraw.com/
+* https://consensus.app/
+* https://strut.so/ (requieren un [correo](https://temp-mail.org))
   * Colecciones/Toolkits
        * https://old.reddit.com/r/FREEMEDIAHECKYEAH/wiki/ai
        * https://www.futuretools.io/
@@ -1185,6 +1201,7 @@ Colección de todo sitio (útil) que he ido encontrando durante mí proceso de a
        * https://you.com/search?fromSearchBar=true&tbm=youchat
        * https://www.llama2.ai/
        * https://academicgpt.net/
+       * https://0dai.omegaai.io/
   * Imagenes
        * https://openart.ai/
        * https://www.bing.com/images/create
@@ -1204,8 +1221,12 @@ Colección de todo sitio (útil) que he ido encontrando durante mí proceso de a
        * https://gfxgen.com/ (requieren un [correo](https://temp-mail.org))
        * https://perchance.org/ai-text-to-image-generator
        * https://www.nextgenart.shop/
+       * https://www.mage.space/
   * Audio
        * https://ramblefix.com/
+  * Web Dev focus
+       * https://v0.dev/
+       * https://vzy.co/ (requieren un [correo](https://temp-mail.org))
 
 ## Otros
 [↑](#tabla-de-contenido) *No se como calificar estos sitios :/*
