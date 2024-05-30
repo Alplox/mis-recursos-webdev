@@ -328,7 +328,6 @@ Colección de todo sitio (útil) que he ido encontrando durante mí proceso de a
          * https://fotoflexer.com/
          * https://www.fotojet.com/
          * https://pixteller.com/
-         * https://scaleflex.github.io/filerobot-image-editor/
          * https://www7.lunapic.com/editor/
          * https://www.befunky.com/
          * https://photokit.com/
@@ -746,7 +745,6 @@ Colección de todo sitio (útil) que he ido encontrando durante mí proceso de a
    * https://wesbos.com/courses (requieren un [correo](https://temp-mail.org)) (HTML, CSS y JS)
    * https://hackr.io/ (HTML, CSS y JS)
    * https://www.educba.com/software-development/software-development-tutorials/ (HTML, CSS y JS)
-   * https://upskillcourses.com/courses/essential-web-developer-course (HTML, CSS y JS)
    * https://frontendmasters.com/ (HTML, CSS y JS)
    * https://github.com/microsoft/Web-Dev-For-Beginners (HTML, CSS y JS)
    * https://www.w3docs.com/ (HTML, CSS y JS)
@@ -1220,7 +1218,6 @@ Colección de todo sitio (útil) que he ido encontrando durante mí proceso de a
    * https://uidesigndaily.com/ (Pública diseños gratis)
    * https://100dailyui.webflow.io/ (Diseños)
    * https://www.hongkiat.com/blog/
-   * https://frontendfront.com/
    * https://code4animate.blogspot.com/ (muerto)
    * https://denic.hashnode.dev/
    * https://veithen.io/
@@ -1274,7 +1271,6 @@ Colección de todo sitio (útil) que he ido encontrando durante mí proceso de a
    * https://apple-summary-slides.vercel.app/
    * https://appmotion.design/
    * https://dalitdesigns.com/index.html
-   * https://www.darkmodedesign.com/
    * https://uxplanet.org/top-ui-ux-design-inspiration-139-2f0a40f3cf17
    * https://www.motherdesign.com/
    * https://scrnshts.club/
