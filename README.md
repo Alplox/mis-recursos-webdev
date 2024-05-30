@@ -58,7 +58,7 @@ Colección de todo sitio (útil) que he ido encontrando durante mí proceso de a
 * http://txti.es/ (Notas)
 * https://pad.disroot.org/ (Notas)
 * https://kvak.io/ (Notas)
-* https://writesolo.com/ (Notepad)
+* https://writesolo.com/ (Escritura literaria)
 * https://www.calmlywriter.com/online/ (Notas)
 * https://regex101.com/ 
 * https://regexr.com/
@@ -259,7 +259,6 @@ Colección de todo sitio (útil) que he ido encontrando durante mí proceso de a
    * https://superdesigner.co/tools
    * https://markodenic.com/tools/glassmorphism-css-generator/
    * https://ui.glass/generator/
-   * https://w3generator.com/scrollbar (Generar estilo Scrollbar)
    * http://webkit-scroll-gen.sourceforge.net/ (Generar estilo Scrollbar)
    * https://css-transform.moro.es/ (Generar css-transform)
    * https://bennettfeely.com/clippy/
@@ -402,7 +401,7 @@ Colección de todo sitio (útil) que he ido encontrando durante mí proceso de a
        * Figma plugin
             * https://musho.ai/ 
 ### SVG
-   * https://www.coffee-break-designs.com/labs/svg_stripe_generator/ (Generador de líneas)
+   * https://svg-stripe-generator.web.app/ (Generador de líneas)
    * https://www.svgbackgrounds.com/ (Generador de fondos) 
    * https://www.heropatterns.com/ (Generador de fondos) 
    * https://wickedbackgrounds.com/ (Generador de fondos)
@@ -542,7 +541,7 @@ Colección de todo sitio (útil) que he ido encontrando durante mí proceso de a
          * https://packery.metafizzy.co/ (Draggable layouts)
          * https://greensock.com/ (Animación)
          * https://micku7zu.github.io/vanilla-tilt.js/ (Animar objetos)
-         * https://jalal246.github.io/dflex/ (Manipular DOM, draggable)
+         * https://www.dflex.dev/ (Manipular DOM, draggable)
          * https://momentjs.com/ (Reloj)
          * https://playerjs.com/ (HTML5 player)
          * https://parceljs.org/
@@ -732,7 +731,7 @@ Colección de todo sitio (útil) que he ido encontrando durante mí proceso de a
 * https://runebook.dev/es/
 ### Libros
    * https://www.joshwcomeau.com/effective-portfolio/ (Gratuito, requiere un [correo](https://temp-mail.org) - [Link directo](https://storage.googleapis.com/joshwcomeau/building-an-effective-dev-portfolio.pdf))
-   * https://jgthms.com/css-in-44-minutes-ebook/ (De pago, [Link Directo](https://cl1lib.org/book/5232937/eb4770))
+   * https://jgthms.com/css-in-44-minutes-ebook (De pago, [Link Directo](https://cl1lib.org/book/5232937/eb4770))
 ### Inglés
    * https://www.freecodecamp.org/ (HTML, CSS y JS)
    * https://www.theodinproject.com/ (HTML, CSS y JS)
@@ -833,7 +832,7 @@ Colección de todo sitio (útil) que he ido encontrando durante mí proceso de a
    * https://www.visiwig.com/icons/
    * https://iconduck.com/
    * https://www.flaticon.com/
-   * https://twemoji.twitter.com/ (emojis)
+   * https://opensea.io/collection/twemojis (emojis)
    * https://icons.getbootstrap.com/
    * https://majesticons.com/
    * https://endlessicons.com/
