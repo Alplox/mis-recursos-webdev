@@ -136,6 +136,7 @@ Colección de todo sitio (útil) que he ido encontrando durante mí proceso de a
 * https://browser.lol/create (Navegador en la nube)
 * https://npm.devtool.tech/
 * https://www.withdiode.com/
+* https://sitechecker.pro/es/
 ### Herramientas de colores
    * https://www.nordtheme.com/ (Paleta de colores única)
    * https://www.0to255.com (Conocer degradado de un color)
@@ -274,6 +275,7 @@ Colección de todo sitio (útil) que he ido encontrando durante mí proceso de a
    * https://cssbuttoncreator.com/
    * https://css3buttongenerator.com/
    * https://css-generators.com/section-divider/
+   * https://shapefactory.co/
       * Gradientes
           * https://baseline.is/tools/css-gradients/
           * https://gradientbuttons.colorion.co/ (Color para botónes)
@@ -336,6 +338,10 @@ Colección de todo sitio (útil) que he ido encontrando durante mí proceso de a
          * https://www.pizap.com/
          * https://vectr.com/design
          * https://poet.so/ (muerto por API Twitter/X)
+         * https://brandmark.io/logo-crunch/
+         * https://tinter.uxie.io/
+         * https://www.screenstab.com/editor/
+         * https://www.designify.com/
       * Editor PixelArt
         * https://pixelcraft.web.app/ (Editor PixelArt)
         * https://www.piskelapp.com/ (Editor PixelArt)
@@ -356,6 +362,7 @@ Colección de todo sitio (útil) que he ido encontrando durante mí proceso de a
         * https://smartmockups.com/
         * https://shots.so/
         * https://www.mockup.zone/
+        * https://screely.com/
       * Remover Fondos
         * https://backgroundremover.app/ (Remover fondo a imágenes y vídeos)
         * https://www.remove.bg/
@@ -429,6 +436,7 @@ Colección de todo sitio (útil) que he ido encontrando durante mí proceso de a
    * https://svgl.app/
    * https://bestsnip.com/svg_animation/
    * https://www.autotracer.org/
+   * https://creatica.app/
 ### Fuentes
    * https://fontjoy.com/ (Generador para emparejar Fuentes)
    * https://justmytype.co/ (Colección de emparejamiento de Fuentes)
@@ -441,6 +449,8 @@ Colección de todo sitio (útil) que he ido encontrando durante mí proceso de a
    * https://typescale.com/
    * https://type.method.ac/ (Juego)
    * https://www.collletttivo.it/
+   * https://wordmark.it/
+   * https://pangrampangram.com/
 ### Compartir archivos
    * https://nafanz.github.io/ (Coleccion sitios)
    * https://mirrorace.com/
@@ -492,6 +502,9 @@ Colección de todo sitio (útil) que he ido encontrando durante mí proceso de a
 * https://www.framer.com/motion/ (React, librería movimiento)
 * https://github.com/DopplerHQ/awesome-interview-questions
 * https://buckets-of-bookmarks.daniebeler.com/
+* https://designjunction.xyz/
+* https://www.designsystemhunt.com/ (Index sistemas de diseño)
+* https://landingpage.fyi/landing-page-checklist
 ### Software
    * https://responsively.app (Navegador diseñado para desarrolladores)
    * https://sizzy.co/ (Navegador diseñado para desarrolladores)
@@ -524,6 +537,11 @@ Colección de todo sitio (útil) que he ido encontrando durante mí proceso de a
    * https://tamagui.dev/
    * https://auto-animate.formkit.com/
    * https://novu.co/
+   * https://quasar.dev/
+   * https://fslightbox.com/
+   * https://onsen.io/
+   * https://v2.grommet.io/
+   * https://rebass-v3.vercel.app/
       * JS 
          * https://modernizr.com/ (Detecta funcionalidades disponibles en navegadores usuarios) 
          * https://emotion.sh/docs/introduction (Escribir estilos CSS con JavaScript)
@@ -558,7 +576,11 @@ Colección de todo sitio (útil) que he ido encontrando durante mí proceso de a
          * https://react-select.com/home
          * https://www.gethalfmoon.com/
          * https://splidejs.com/
-         * https://www.animatereactnative.com/ (React)
+         * https://tarekraafat.github.io/autoComplete.js/
+         * https://github.com/jaywcjlove/hotkeys-js
+         * https://chriscavs.github.io/rallax-demo/
+         * https://daybrush.com/moveable/
+         * https://matvp91.github.io/indigo-player/
       * CSS
          * https://bulma.io/ (Framework basado en Flexbox)
          * https://purecss.io/ (Módulo pequeño y responsive de CSS)
@@ -567,13 +589,8 @@ Colección de todo sitio (útil) que he ido encontrando durante mí proceso de a
          * https://github.com/uhub/awesome-css (Lista de Frameworks, librerías y software CSS)
          * https://materializecss.com/about.html (Front-end Framework basado en Material Design)
          * https://blocks.wickedtemplates.com/ (Colección layouts Tailwind CSS V2)
-         * https://loading.io/css/ (animaciones loading)
          * https://tachyons.io/ (Módulo pequeño y responsive de CSS)
          * http://getskeleton.com/ (Módulo pequeño y responsive de CSS)
-         * https://animxyz.com/ (Animaciones)
-         * https://lottiefiles.com/ (Animaciones)
-         * https://github.com/animate-css/animate.css (Animaciones)
-         * http://www.justinaguilar.com/animations/index.html (Animaciones)
          * https://mdbootstrap.com/ (de Pago, Material Design Bootstrap)
          * https://codyhouse.co/ (UI Framework)
          * https://unsemantic.com/ (fluid grid system)
@@ -597,6 +614,7 @@ Colección de todo sitio (útil) que he ido encontrando durante mí proceso de a
          * https://lightningcss.dev/
          * https://code.hnldesign.nl/btn-deluxe/#
          * https://bootswatch.com/darkly/
+         * https://jonsuh.com/hamburgers/
             * Estilos inpirados en otros preexistentes
                 * https://jdan.github.io/98.css/ (Estilo Windows 98)
                 * https://botoxparty.github.io/XP.css/ (Estilo Windows XP)
@@ -607,10 +625,24 @@ Colección de todo sitio (útil) que he ido encontrando durante mí proceso de a
                 * https://terminalcss.xyz/ (Estilo terminal)
                 * https://metroui.org.ua/ (Windows UI, Metro)
                 * https://github.com/winjs/winstrap (Windows UI, Metro)
+            * Animación
+                * https://loading.io/css/ (animaciones loading)
+                * https://animxyz.com/
+                * https://lottiefiles.com/
+                * https://github.com/animate-css/animate.css
+                * http://www.justinaguilar.com/animations/index.html
+                * https://www.minimamente.com/project/magic/
+                * https://zurb.com/playground/motion-ui
+                * https://waitanimate.wstone.uk/
+                * https://whirl.netlify.app/
+                * https://michalsnik.github.io/aos/
        * REACT
+         * https://www.animatereactnative.com/
+         * https://ant.design/
            * Componentes
                * https://ui.aceternity.com/
                * https://ui.shadcn.com/
+               * https://react-simple-images-zoom-demo.vercel.app/
 
 ### Hosting gratuito
    * https://neocities.org/
@@ -637,6 +669,7 @@ Colección de todo sitio (útil) que he ido encontrando durante mí proceso de a
    * https://ionos.space/
    * https://ngrok.com/
    * https://byet.host/
+   * https://fleek.co/
 
 
 ## Guías
@@ -686,6 +719,7 @@ Colección de todo sitio (útil) que he ido encontrando durante mí proceso de a
    * https://www.euismod.dev/#/ (CSS Grid)
    * https://flukeout.github.io/ (CSS Selectors)
    * https://www.codingame.com/start (JS)
+   * http://www.hexinvaders.com/ (Hex)
 ### Guías visuales (Roadmap) para ser un web developer
    * https://github.com/kamranahmedse/developer-roadmap
    * https://learn-anything.xyz/web-development
@@ -759,6 +793,7 @@ Colección de todo sitio (útil) que he ido encontrando durante mí proceso de a
    * https://eloquentjavascript.net/ (JS)
    * https://testautomationu.applitools.com/ (JS)
    * https://javascriptkit.com/ (JS)
+   * https://github.com/airbnb/javascript (JS)
    * https://web.dev/learn/ (CSS)
    * https://drafts.csswg.org/ (CSS)
    * https://ishadeed.com/article/learn-box-alignment/
@@ -774,7 +809,10 @@ Colección de todo sitio (útil) que he ido encontrando durante mí proceso de a
    * https://hackdesign.org/lessons (Diseño)
    * https://www.uxdatabase.io/free-product-design-course (Diseño)
    * https://www.designsystemchecklist.com/ (Diseño)
+   * https://askplaybook.com/ (Diseño)
    * https://www.homeandlearn.co.uk/WD/WebDesign.html (Web Design)
+   * https://www.figma.com/community/file/849353769466663442 (Web Design)
+   * https://www.checklist.design/ (Web Design)
    * https://practicaltypography.com/typography-in-ten-minutes.html (Tipografía)
    * http://www.typogui.de/ (Tipografía)
    * https://betterwebtype.com/ (Tipografía) (requieren un [correo](https://temp-mail.org))
@@ -817,8 +855,14 @@ Colección de todo sitio (útil) que he ido encontrando durante mí proceso de a
 * https://www.tooplate.com/ (HTML Templates)
 * https://www.vecteezy.com/ (Iconos, Ilustraciones, Imágenes)
 * https://www.vektors.pro/ (Iconos, Ilustraciones, Imágenes)
+* https://graphicburger.com/ (Iconos, Ilustraciones, Imágenes)
 * https://uigoodies.com/
+* https://freebiesbug.com/
+* https://unblast.com/ (PSD templates)
 * https://easlo.notion.site/Notion-Resources-61db8d8ecc0040f7bfac85e21738d906?p=2063488f6b83451db9900db35e2cf88b&pm=s
+* https://www.mockupworld.co/
+* https://www.pixeden.com/
+* https://graficzny.com.pl
 ### Iconos
    * https://svgbox.net/
    * https://www.svgrepo.com
@@ -856,6 +900,8 @@ Colección de todo sitio (útil) que he ido encontrando durante mí proceso de a
    * http://demo.amitjakhu.com/dripicons/
    * https://icones.js.org/
    * https://iconsax.io/
+   * https://lineicons.com/
+   * https://www.pixsellz.io/material-icons-library
 ### Ilustraciones
    * https://undraw.co/illustrations
    * https://lukaszadam.com/illustrations
@@ -892,6 +938,7 @@ Colección de todo sitio (útil) que he ido encontrando durante mí proceso de a
    * https://personas.draftbit.com/ (Avatares)
    * https://avatar.pixeos.art/ (Avatares)
    * https://patterns.helloyes.dev/
+   * https://www.ls.graphics/products/wham (Requiere cuenta, [correo](https://temp-mail.org))
 ### Imágenes
    * https://pxhere.com/en/
    * https://pixabay.com/
@@ -918,6 +965,12 @@ Colección de todo sitio (útil) que he ido encontrando durante mí proceso de a
    * https://picsum.photos/
    * https://www.stockvault.net/
    * https://kaboompics.com/
+   * https://www.shutterstock.com/es/
+   * https://pngimg.com/
+   * https://freepngimg.com/
+   * https://pngimgtree.com/
+   * https://favpng.com/
+   * https://www.stickpng.com/es
 ### Vídeos
    * https://www.cutestockfootage.com/
    * https://coverr.co/
@@ -962,6 +1015,10 @@ Colección de todo sitio (útil) que he ido encontrando durante mí proceso de a
    * http://www.fontsquirrel.com
    * https://www.jetbrains.com/lp/mono/
    * https://www.fontget.com/
+   * https://www.fontspace.com/
+   * https://www.dafont.com/es/
+   * https://befonts.com/
+   * https://fonts.adobe.com/
 ### Audio
    * https://freesound.org/
    * https://www.extrememusic.com/
@@ -986,6 +1043,12 @@ Colección de todo sitio (útil) que he ido encontrando durante mí proceso de a
    * https://ui8.net/ (Templates)
    * https://amritpaldesign.com/toy-faces (Avatares)
    * https://leonidasesteban.com/proyectos/todos (Proyectos)
+   * https://creativemarket.com/
+   * https://ui8.net/
+   * https://www.designhill.com/
+   * https://www.graphicpear.com/
+   * https://mrmockup.com/
+   * https://craftwork.design/
 
 ## API's
 [↑](#tabla-de-contenido)
@@ -1002,6 +1065,7 @@ Colección de todo sitio (útil) que he ido encontrando durante mí proceso de a
 * https://www.abstractapi.com/user-avatar-api (API generar usuarios random)
 * https://newsapi.org/
 * https://remoteok.com/api
+* https://www.api-football.com/
 
 ## Snippets
 [↑](#tabla-de-contenido)
@@ -1136,9 +1200,10 @@ Colección de todo sitio (útil) que he ido encontrando durante mí proceso de a
 * https://overapi.com
 * https://dev.to/worldindev/the-ultimate-compilation-of-cheat-sheets-100-268g
 * https://html-css-js.com/ (CheatSheets y Generadores HTML, CSS y JS)
-* https://pixllabs.io/blog/web-development/css-cheat-sheet/ (CheatSheet CSS)
-* https://websitesetup.org/css3-cheat-sheet/ (CheatSheet CSS)
-* https://dev.to/joyshaheb/css-grid-cheat-sheet-illustrated-in-2021-1a3 (CheatSheet CSS)
+* https://pixllabs.io/blog/web-development/css-cheat-sheet/
+* https://websitesetup.org/css3-cheat-sheet/
+* https://dev.to/joyshaheb/css-grid-cheat-sheet-illustrated-in-2021-1a3
+* https://grid.malven.co/
 * https://gist.github.com/bradtraversy/c831baaad44343cc945e76c2e30927b3 (CheatSheet MySQL)
 * https://github.com/anish000kumar/Javascript-DOM-API-cheatsheet
 * https://www.buttoncheatsheet.com/
@@ -1278,6 +1343,10 @@ Colección de todo sitio (útil) que he ido encontrando durante mí proceso de a
    * https://designsystemsrepo.com/
    * https://appshots.design/apps/
    * https://designsystems.surf/
+   * https://mobbin.com/
+   * https://muz.li/es/
+   * https://logopond.com/
+   * https://www.logolounge.com/
 
 ## Cursos de pago
 [↑](#tabla-de-contenido)
@@ -1294,6 +1363,11 @@ Colección de todo sitio (útil) que he ido encontrando durante mí proceso de a
 * https://lottielab.io/
 * https://getterms.io/
 * https://www.profolio.design/
+* https://elements.envato.com/es/
+* https://graphicriver.net/
+* https://www.designcuts.com/
+* https://quickrdesignsystem.com/
+* https://fly.io/
 
 ## AI
 [↑](#tabla-de-contenido)
@@ -1534,3 +1608,6 @@ Colección de todo sitio (útil) que he ido encontrando durante mí proceso de a
 * https://musicforprogramming.net/latest/
 * https://diagram.com/
 * https://ascii.theater/
+* https://vagon.io/ (Cloud)
+* https://pegasusdesignsystem.com/
+* https://www.videoask.com/
