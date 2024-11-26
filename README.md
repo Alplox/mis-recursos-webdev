@@ -429,13 +429,20 @@ Colección de todo sitio (útil) que he ido encontrando durante mí proceso de a
         * https://meshgradient.com/
         * https://coolbackgrounds.io/
      * Upscale 
-        * https://www.stickermule.com/upscale
         * http://waifu2x.udp.jp/
         * https://waifu2x.pro/
         * https://waifu2x.booru.pics/
         * https://bigjpg.com/en
+        * https://imggen.ai/tools/upscale-image
+        * https://upscalepics.com/editor?product=Upscaler
+        * https://upscale.pro/app
+        * https://ai.nero.com/image-upscaler
+        * https://overscale.imagewith.ai/
+        * https://www.upscale.media/es/upload
+        * https://imageupscaler.com/upscale-image-4x/
         * https://www.restorephotos.io/ (Requiere cuenta)
         * https://letsenhance.io/ (Requiere cuenta)
+        * https://www.stickermule.com/upscale (Requiere cuenta)
       * Mockups
         * https://smartmockups.com/
         * https://shots.so/
@@ -682,6 +689,7 @@ Colección de todo sitio (útil) que he ido encontrando durante mí proceso de a
           * https://affinity.serif.com/en-gb/ (de pago)
           * https://www.adobe.com/cl/products/photoshop.html (de pago)
           * https://www.pixelmator.com/pro/ (de pago)
+          * https://upscayl.org/
       * Browsers
           * https://github.com/nerdyslacker/desktop-web-browsers
           * https://www.mozilla.org/es-CL/firefox/new/
@@ -1878,6 +1886,7 @@ Colección de todo sitio (útil) que he ido encontrando durante mí proceso de a
        * https://www.img2go.com/
        * https://lumalabs.ai/genie?view=preview (Requiere cuenta)
        * https://magnific.ai/ (Requiere cuenta)
+       * https://www.aiease.ai/app/enhance-photo
   * Audio
        * https://ramblefix.com/
        * https://murf.ai/ (Requiere cuenta)
