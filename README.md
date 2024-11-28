@@ -2,8 +2,14 @@
 Colección de todo sitio (útil) que he ido encontrando durante mí proceso de auto aprendizaje.
 
 ¿Por qué? Porque tengo muchos marcadores.
+
+
 [![forthebadge](https://forthebadge.com/images/badges/made-with-markdown.svg)](https://forthebadge.com)
+
+
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com) 
+
+
 [![ko-fi](https://www.ko-fi.com/img/donate_sm.png)](https://ko-fi.com/alenpls)
 
 # Tabla de contenido
@@ -164,6 +170,7 @@ Colección de todo sitio (útil) que he ido encontrando durante mí proceso de a
 * https://pagespeed.web.dev/
 * https://tools.pingdom.com/
 * https://www.pwabuilder.com/
+* https://new.express.adobe.com
 ### Herramientas de colores
    * https://www.nordtheme.com/ (Paleta de colores única)
    * https://www.0to255.com (Conocer degradado de un color)
@@ -239,22 +246,22 @@ Colección de todo sitio (útil) que he ido encontrando durante mí proceso de a
    * https://arantius.github.io/web-color-wheel/
    * https://hihayk.github.io/scale/
    * https://tailwindpalette.jurs.me/
-       * Revisar contraste
-          * https://color.review/
-          * https://color.cloudflare.design/ (Revisar contrastes y Herramientas de colores y Fuentes)
-          * https://webaim.org/resources/contrastchecker/
-          * https://colorable.jxnblk.com/
-          * https://whocanuse.com/
-          * https://onetwobrand.com/
-          * https://leonardocolor.io
-          * https://colorific.darrellhanley.com/
-          * https://accessible-colors.com/
-          * https://marijohannessen.github.io/color-contrast-checker/
-          * https://cliambrown.com/contrast/
-          * https://css-tricks.com/color-contrast-accessibility-tools/
-          * https://www.oddcontrast.com/
-          * https://coolcontrast.vercel.app/
-          * https://colourcontrast.cc/
+#### Revisar contraste
+   * https://color.review/
+   * https://color.cloudflare.design/ (Revisar contrastes y Herramientas de colores y Fuentes)
+   * https://webaim.org/resources/contrastchecker/
+   * https://colorable.jxnblk.com/
+   * https://whocanuse.com/
+   * https://onetwobrand.com/
+   * https://leonardocolor.io
+   * https://colorific.darrellhanley.com/
+   * https://accessible-colors.com/
+   * https://marijohannessen.github.io/color-contrast-checker/
+   * https://cliambrown.com/contrast/
+   * https://css-tricks.com/color-contrast-accessibility-tools/
+   * https://www.oddcontrast.com/
+   * https://coolcontrast.vercel.app/
+   * https://colourcontrast.cc/
 ### HTML
    * https://htmlboilerplates.com/ (Plantilla interactiva HTML)
    * https://validator.w3.org/#validate_by_input (Validar estructura HTML)
@@ -322,32 +329,32 @@ Colección de todo sitio (útil) que he ido encontrando durante mí proceso de a
    * https://wweb.dev/resources
    * https://getwaves.io/
    * https://scrollbar.app/
-      * Gradientes
-          * https://larsenwork.com/easing-gradients/
-          * https://polychroma.app/
-          * https://grainy-gradients.vercel.app/
-          * https://www.colorzilla.com/gradient-editor/
-          * https://www.joshwcomeau.com/gradient-generator/
-          * https://baseline.is/tools/css-gradients/
-          * https://gradientbuttons.colorion.co/ (Color para botónes)
-          * https://uigradients.com
-          * https://webgradients.com/
-          * https://gradienthunt.com/
-          * https://cssgradient.io/
-          * https://gradienta.io/
-          * https://hexcolorcodes.org/
-          * https://mathiasisaksen.github.io/gradient-explorer/
-          * https://www.gradientmagic.com/
-          * https://colorgradient.dev/
-          * https://learnui.design/tools/gradient-generator.html
-          * https://csspro.com/css-gradients
-          * https://www.designgradients.com/
-          * https://www.eggradients.com/
-      * Animación
-          * https://animate.style/
-          * https://animista.net/
-          * https://animotion.dev/
-          * https://easings.net/
+#### Gradientes
+   * https://larsenwork.com/easing-gradients/
+   * https://polychroma.app/
+   * https://grainy-gradients.vercel.app/
+   * https://www.colorzilla.com/gradient-editor/
+   * https://www.joshwcomeau.com/gradient-generator/
+   * https://baseline.is/tools/css-gradients/
+   * https://gradientbuttons.colorion.co/ (Color para botónes)
+   * https://uigradients.com
+   * https://webgradients.com/
+   * https://gradienthunt.com/
+   * https://cssgradient.io/
+   * https://gradienta.io/
+   * https://hexcolorcodes.org/
+   * https://mathiasisaksen.github.io/gradient-explorer/
+   * https://www.gradientmagic.com/
+   * https://colorgradient.dev/
+   * https://learnui.design/tools/gradient-generator.html
+   * https://csspro.com/css-gradients
+   * https://www.designgradients.com/
+   * https://www.eggradients.com/
+### Animación
+   * https://animate.style/
+   * https://animista.net/
+   * https://animotion.dev/
+   * https://easings.net/
 ### JS 
    * http://www.minifyjavascript.com/ (Comprimir código JS)
    * https://jscompress.com/ (Comprimir código JS)
@@ -366,6 +373,7 @@ Colección de todo sitio (útil) que he ido encontrando durante mí proceso de a
    * https://viliusle.github.io/miniPaint/ (Dibujar/Pizarra)
    * https://www.tldraw.com/ (Dibujar/Pizarra)
    * https://kleki.com/ (Dibujar/Pizarra)
+   * https://jspaint.app/ (Dibujar/Pizarra)
    * https://studio.polotno.dev/ (Editor de diseños rápido)
    * https://carbon.now.sh (Compartir código como imagen)
    * https://gettyimages-downloader.beatsnoop.com/ (Descargar imágenes stock sin marca de agua)
@@ -393,82 +401,93 @@ Colección de todo sitio (útil) que he ido encontrando durante mí proceso de a
    * https://objectremover.com/
    * https://asciiart.pankajtanwar.in/
    * https://squoosh.app
-      * Editar imágenes online
-         * https://www.photopea.com/
-         * https://ui.toast.com/tui-image-editor
-         * https://pixlr.com/es/editor/
-         * https://edit.photo/
-         * https://pixlr.com/es/express/
-         * https://fotoflexer.com/
-         * https://www.fotojet.com/
-         * https://pixteller.com/
-         * https://www7.lunapic.com/editor/
-         * https://www.befunky.com/
-         * https://photokit.com/
-         * https://ipiccy.com/
-         * https://www.ribbet.com/
-         * https://www.fotor.com/
-         * https://www.pizap.com/
-         * https://vectr.com/design
-         * https://poet.so/ (muerto por API Twitter/X)
-         * https://brandmark.io/logo-crunch/
-         * https://tinter.uxie.io/
-         * https://www.screenstab.com/editor/
-         * https://www.designify.com/
-         * https://promptcache.com/tools/depth-text (Añadir texto al fondo)
-         * https://huggingface.co/spaces/Kwai-Kolors/Kolors-Virtual-Try-On (Reemplaza ropa)
-      * Editor PixelArt
-        * https://pixelcraft.web.app/
-        * https://www.piskelapp.com/
-        * https://orama-interactive.itch.io/pixelorama
-        * https://www.pixilart.com/
-        * https://fjolt.com/article/css-pixel-art-generator
-      * Generador de Fondos
-        * https://trianglify.io/ (de Pago)
-        * https://raaatio.com/ (de Pago)
-        * https://meshgradient.com/
-        * https://coolbackgrounds.io/
-     * Upscale 
-        * http://waifu2x.udp.jp/
-        * https://waifu2x.pro/
-        * https://waifu2x.booru.pics/
-        * https://bigjpg.com/en
-        * https://imggen.ai/tools/upscale-image
-        * https://upscalepics.com/editor?product=Upscaler
-        * https://upscale.pro/app
-        * https://ai.nero.com/image-upscaler
-        * https://overscale.imagewith.ai/
-        * https://www.upscale.media/es/upload
-        * https://imageupscaler.com/upscale-image-4x/
-        * https://www.restorephotos.io/ (Requiere cuenta)
-        * https://letsenhance.io/ (Requiere cuenta)
-        * https://www.stickermule.com/upscale (Requiere cuenta)
-      * Mockups
-        * https://smartmockups.com/
-        * https://shots.so/
-        * https://www.mockup.zone/
-        * https://screely.com/
-        * https://mockover.com/mockups/t-shirt/
-        * https://mockupapp.ls.graphics/banner/latest-free-mockups
-        * https://screen.traction.one/
-        * https://deviceshots.com/
-        * https://previewed.app/ (de Pago)
-      * Remover Fondos
-        * https://backgroundremover.app/ (Remover fondo a imágenes y vídeos)
-        * https://www.remove.bg/
-        * https://removal.ai/
-        * https://pixlr.com/es/remove-background/
-        * https://bgeraser.com/
-        * https://spark.adobe.com/tools/remove-background
-        * https://picsart.com/background-remover
-        * https://www.slazzer.com/
-        * https://backgroundremover.net/
-        * https://www.unscreen.com/ (Remover fondo videos)
-        * https://www.stickermule.com/trace
-        * https://fyrean.itch.io/bgbye-background-remover
-        * https://huggingface.co/spaces/Xenova/remove-background-web
-        * https://bgbye.fyrean.com/
-        * https://www.adobe.com/express/feature/image/remove-background
+   * https://prankshit.com/
+   * https://jpeg.rocks/
+   * https://fotoforensics.com/
+   * https://www.onlineocr.net/
+   * https://saurabhdaware.github.io/text-to-handwriting/
+#### Editar imágenes online
+   * https://www.photopea.com/
+   * https://ui.toast.com/tui-image-editor
+   * https://pixlr.com/es/editor/
+   * https://edit.photo/
+   * https://pixlr.com/es/express/
+   * https://fotoflexer.com/
+   * https://www.fotojet.com/
+   * https://pixteller.com/
+   * https://www7.lunapic.com/editor/
+   * https://www.befunky.com/
+   * https://photokit.com/
+   * https://ipiccy.com/
+   * https://www.ribbet.com/
+   * https://www.fotor.com/
+   * https://www.pizap.com/
+   * https://vectr.com/design
+   * https://poet.so/ (muerto por API Twitter/X)
+   * https://brandmark.io/logo-crunch/
+   * https://tinter.uxie.io/
+   * https://www.screenstab.com/editor/
+   * https://www.designify.com/
+   * https://promptcache.com/tools/depth-text (Añadir texto al fondo)
+   * https://huggingface.co/spaces/Kwai-Kolors/Kolors-Virtual-Try-On (Reemplaza ropa)
+   * https://www.makewordart.com/
+   * https://waifu.lofiu.com/index.html
+   * https://hotpot.ai/restore-picture
+   * https://www.canva.com
+   * https://www.befunky.com/create/
+#### Editor PixelArt
+   * https://pixelcraft.web.app/
+   * https://www.piskelapp.com/
+   * https://orama-interactive.itch.io/pixelorama
+   * https://www.pixilart.com/
+   * https://fjolt.com/article/css-pixel-art-generator
+   * https://app.monopro.org/pixel/
+#### Generador de Fondos
+   * https://trianglify.io/ (de Pago)
+   * https://raaatio.com/ (de Pago)
+   * https://meshgradient.com/
+   * https://coolbackgrounds.io/
+#### Upscale 
+   * http://waifu2x.udp.jp/
+   * https://waifu2x.pro/
+   * https://waifu2x.booru.pics/
+   * https://bigjpg.com/en
+   * https://imggen.ai/tools/upscale-image
+   * https://upscalepics.com/editor?product=Upscaler
+   * https://upscale.pro/app
+   * https://ai.nero.com/image-upscaler
+   * https://overscale.imagewith.ai/
+   * https://www.upscale.media/es/upload
+   * https://imageupscaler.com/upscale-image-4x/
+   * https://www.restorephotos.io/ (Requiere cuenta)
+   * https://letsenhance.io/ (Requiere cuenta)
+   * https://www.stickermule.com/upscale (Requiere cuenta)
+#### Mockups
+   * https://smartmockups.com/
+   * https://shots.so/
+   * https://www.mockup.zone/
+   * https://screely.com/
+   * https://mockover.com/mockups/t-shirt/
+   * https://mockupapp.ls.graphics/banner/latest-free-mockups
+   * https://screen.traction.one/
+   * https://deviceshots.com/
+   * https://previewed.app/ (de Pago)
+#### Remover Fondos
+   * https://backgroundremover.app/ (Remover fondo a imágenes y vídeos)
+   * https://www.remove.bg/
+   * https://removal.ai/
+   * https://pixlr.com/es/remove-background/
+   * https://bgeraser.com/
+   * https://spark.adobe.com/tools/remove-background
+   * https://picsart.com/background-remover
+   * https://www.slazzer.com/
+   * https://backgroundremover.net/
+   * https://www.unscreen.com/ (Remover fondo videos)
+   * https://www.stickermule.com/trace
+   * https://fyrean.itch.io/bgbye-background-remover
+   * https://huggingface.co/spaces/Xenova/remove-background-web
+   * https://bgbye.fyrean.com/
+   * https://www.adobe.com/express/feature/image/remove-background
 ### Diseño 
    * https://aspect.app/ 
    * https://builderx.io/ (React Native & React)
@@ -506,11 +525,11 @@ Colección de todo sitio (útil) que he ido encontrando durante mí proceso de a
    * https://spline.design/ (Requiere cuenta)
    * https://www.umso.com/
        * Figma plugin
-            * https://musho.ai/
-            * https://www.figcomponents.com/
-            * https://www.figma.com/community/plugin/1159123024924461424/html-to-design-by-divriots-import-websites-to-figma-designs-web-html-css
-            * https://www.figma.com/community/plugin/1264600219316901594/vector-to-3d
-            * https://www.shadergradient.co
+         * https://musho.ai/
+         * https://www.figcomponents.com/
+         * https://www.figma.com/community/plugin/1159123024924461424/html-to-design-by-divriots-import-websites-to-figma-designs-web-html-css
+         * https://www.figma.com/community/plugin/1264600219316901594/vector-to-3d
+         * https://www.shadergradient.co
 ### SVG
    * https://svg-stripe-generator.web.app/ (Generador de líneas)
    * https://www.svgbackgrounds.com/ (Generador de fondos) 
@@ -609,6 +628,12 @@ Colección de todo sitio (útil) que he ido encontrando durante mí proceso de a
 * https://voicemaker.in/
 * https://voicegenerator.io/
 * https://www.beepbox.co
+* https://www.yukitools.com/audio-silence-remover
+* https://www.acapella-extractor.com/
+* https://mvsep.com/
+* https://www.szynalski.com/tone-generator/
+* https://audiomass.co/
+* https://femurdesign.com/theremin/
 
 
 ## Recursos
@@ -661,53 +686,53 @@ Colección de todo sitio (útil) que he ido encontrando durante mí proceso de a
    * https://obsidian.md/ (notas)
    * https://www.sketch.com/ (de Pago)
    * https://www.adobe.com/cl/products/illustrator.html (de Pago)
-      * Screen Recorder/Capturar Pantalla
-        * https://www.screen.studio/
-        * https://getkap.co/
-        * https://cap.so/
-        * https://getsharex.com/
-      * IDE's
-          * https://www.sublimetext.com/
-          * https://atom.io/
-          * http://brackets.io/
-          * https://code.visualstudio.com/
-            * Extensiones
-            * https://console-ninja.com/ (Console log output helper)
-            * https://www.flyde.dev/ (Visual programming)
-            * https://ide.swmansion.com/ (React Native)
-          * https://vscodium.com/
-          * https://www.eclipse.org/ide/
-          * https://www.vim.org/
-          * https://notepad-plus-plus.org/
-          * https://zed.dev/
-      * Editores imágenes
-          * https://krita.org/
-          * https://www.gimp.org/
-          * https://www.getpaint.net/index.html
-          * https://firealpaca.com/
-          * https://www.systemax.jp/en/sai/devdept.html
-          * https://affinity.serif.com/en-gb/ (de pago)
-          * https://www.adobe.com/cl/products/photoshop.html (de pago)
-          * https://www.pixelmator.com/pro/ (de pago)
-          * https://upscayl.org/
-      * Browsers
-          * https://github.com/nerdyslacker/desktop-web-browsers
-          * https://www.mozilla.org/es-CL/firefox/new/
-          * https://zen-browser.app/
-          * https://librewolf.net/
-          * https://www.waterfox.net/
-          * https://floorp.app/
-          * https://www.google.com/intl/es_us/chrome/
-          * https://www.chromium.org/getting-involved/download-chromium/
-          * https://www.microsoft.com/es-es/edge/download
-          * https://vivaldi.com/es/
-          * https://brave.com/
-          * https://www.opera.com/es
-          * https://www.opera.com/es/gx
-          * https://arc.net/
-          * https://kagi.com/orion/
-          * https://sigmaos.com/
-          * https://www.torproject.org/download/
+#### Screen Recorder/Capturar Pantalla
+   * https://www.screen.studio/
+   * https://getkap.co/
+   * https://cap.so/
+   * https://getsharex.com/
+#### IDE's
+   * https://www.sublimetext.com/
+   * https://atom.io/
+   * http://brackets.io/
+   * https://code.visualstudio.com/
+     * Extensiones
+       * https://console-ninja.com/ (Console log output helper)
+       * https://www.flyde.dev/ (Visual programming)
+       * https://ide.swmansion.com/ (React Native)
+       * https://vscodium.com/
+       * https://www.eclipse.org/ide/
+       * https://www.vim.org/
+       * https://notepad-plus-plus.org/
+       * https://zed.dev/
+#### Editores imágenes
+   * https://krita.org/
+   * https://www.gimp.org/
+   * https://www.getpaint.net/index.html
+   * https://firealpaca.com/
+   * https://www.systemax.jp/en/sai/devdept.html
+   * https://affinity.serif.com/en-gb/ (de pago)
+   * https://www.adobe.com/cl/products/photoshop.html (de pago)
+   * https://www.pixelmator.com/pro/ (de pago)
+   * https://upscayl.org/
+#### Browsers
+   * https://github.com/nerdyslacker/desktop-web-browsers
+   * https://www.mozilla.org/es-CL/firefox/new/
+   * https://zen-browser.app/
+   * https://librewolf.net/
+   * https://www.waterfox.net/
+   * https://floorp.app/
+   * https://www.google.com/intl/es_us/chrome/
+   * https://www.chromium.org/getting-involved/download-chromium/
+   * https://www.microsoft.com/es-es/edge/download
+   * https://vivaldi.com/es/
+   * https://brave.com/
+   * https://www.opera.com/es
+   * https://www.opera.com/es/gx
+   * https://arc.net/
+   * https://kagi.com/orion/
+   * https://sigmaos.com/
+   * https://www.torproject.org/download/
 
 ### Librerías
    * https://scaleflex.github.io/filerobot-image-editor/
@@ -732,137 +757,137 @@ Colección de todo sitio (útil) que he ido encontrando durante mí proceso de a
    * https://franken-ui.dev/
    * https://docusaurus.io/docs
    * https://medusajs.com/
-      * JS 
-         * https://modernizr.com/ (Detecta funcionalidades disponibles en navegadores usuarios) 
-         * https://emotion.sh/docs/introduction (Escribir estilos CSS con JavaScript)
-         * https://animejs.com/ (Animaciones con JavaScript)
-         * https://scrollrevealjs.org/ (Animaciones cuando elementos entran y salen de viewport)
-         * https://livejs.com/ (Actualiza tu sitio web de manera automática al sufrir cambios)
-         * https://blotter.js.org/ (Efectos para letras)
-         * https://sweetalert.js.org/guides/ (Cambia aspecto alertas JS)
-         * https://www.pixijs.com/ (2D WebGL renderer)
-         * https://github.com/cmiscm/leonsans (Efectos para letras)
-         * https://www.curtainsjs.com/ (Convierte elementos HTML que contengan imágenes y/o videos en texturas 3D WebGL)
-         * https://zzz.dog/ (Motor 3D para canvas y SVG)
-         * https://barba.js.org/ (Animar transiciones dentro de páginas en un sitio web)
-         * https://alvarotrigo.com/fullPage/es/ (Animar transiciones dentro de páginas en un sitio web)
-         * https://packery.metafizzy.co/ (Draggable layouts)
-         * https://greensock.com/ (Animación)
-         * https://micku7zu.github.io/vanilla-tilt.js/ (Animar objetos)
-         * https://www.dflex.dev/ (Manipular DOM, draggable)
-         * https://momentjs.com/ (Reloj)
-         * https://playerjs.com/ (HTML5 player)
-         * https://parceljs.org/
-         * https://alvarotrigo.com/pagePiling/ (Presentar sitio con scrolling, como PPT)
-         * https://github.com/ganlanyuan/tiny-slider
-         * https://scrollmagic.io/
-         * https://gooey-react.netlify.app/
-         * https://adir-sl.github.io/JSinCSS/
-         * https://atroposjs.com/
-         * https://fabricjs.com/
-         * https://pawelgrzybek.github.io/siema/
-         * https://www.vantajs.com/ (Fondos animados)
-         * https://hammerjs.github.io/
-         * https://react-select.com/home
-         * https://www.gethalfmoon.com/
-         * https://splidejs.com/
-         * https://tarekraafat.github.io/autoComplete.js/
-         * https://github.com/jaywcjlove/hotkeys-js
-         * https://chriscavs.github.io/rallax-demo/
-         * https://daybrush.com/moveable/
-         * https://matvp91.github.io/indigo-player/
-         * https://babeljs.io/
-         * https://athenacrisis.com/open-source/
-         * https://nickpiscitelli.github.io/Glider.js/
-         * https://felixg.io/works/inline
-         * https://chartkick.com/mapkick
-         * https://simpleparallax.com/
-      * CSS
-         * https://bulma.io/ (Framework basado en Flexbox)
-         * https://purecss.io/ (Módulo pequeño y responsive de CSS)
-         * https://simplecss.org/ (Classless CSS framework)
-         * https://github.com/troxler/awesome-css-frameworks (Lista de Frameworks CSS)
-         * https://github.com/uhub/awesome-css (Lista de Frameworks, librerías y software CSS)
-         * https://materializecss.com/about.html (Front-end Framework basado en Material Design)
-         * https://blocks.wickedtemplates.com/ (Colección layouts Tailwind CSS V2)
-         * https://tachyons.io/ (Módulo pequeño y responsive de CSS)
-         * http://getskeleton.com/ (Módulo pequeño y responsive de CSS)
-         * https://mdbootstrap.com/ (de Pago, Material Design Bootstrap)
-         * https://codyhouse.co/ (UI Framework)
-         * https://unsemantic.com/ (fluid grid system)
-         * http://designmodo.github.io/Flat-UI/ (Módulo pequeño y responsive de CSS)
-         * https://github.com/oxalorg/sakura (Tema para sitios minimalista)
-         * https://www.w3schools.com/w3css/defaulT.asp (Módulo pequeño y responsive de CSS)
-         * https://tailwindcss.com/
-         * https://getbootstrap.com/
-         * https://windicss.org/
-         * https://github.com/dbohdan/classless-css (Colección Classless CSS)
-         * https://bootflat.github.io/
-         * https://muellergridsystem.com/
-         * https://get.foundation/
-         * https://github.com/themesberg/neumorphism-ui-bootstrap
-         * https://purgecss.com/
-         * https://github.com/ingram-projects/animxyz
-         * https://github.com/720kb/radiobox.css
-         * https://www.pollen.style/
-         * https://cssnano.co/
-         * https://github.com/necolas/normalize.css
-         * https://lightningcss.dev/
-         * https://code.hnldesign.nl/btn-deluxe/#
-         * https://bootswatch.com/darkly/
-         * https://jonsuh.com/hamburgers/
-         * https://fluid.tw/
-         * https://matcha.mizu.sh/
-         * https://magicui.design/
-         * https://ianlunn.github.io/Hover/
-         * https://css.master.co/
-         * https://splitting.js.org/
-         * https://a11y-dialog.netlify.app/
-         * https://merakiui.com/
-         * https://picocss.com/
-         * https://preline.co/
-            * Estilos inpirados en otros preexistentes
-                * https://jdan.github.io/98.css/ (Estilo Windows 98)
-                * https://botoxparty.github.io/XP.css/ (Estilo Windows XP)
-                * https://khang-nd.github.io/7.css/ (Estilo Windows 7)
-                * https://micah5.github.io/PSone.css/ (Estilo PS1)
-                * https://nostalgic-css.github.io/NES.css/ (Estilo NES)
-                * https://www.getpapercss.com/ (Estilo dibujo a mano)
-                * https://terminalcss.xyz/ (Estilo terminal)
-                * https://metroui.org.ua/ (Windows UI, Metro)
-                * https://github.com/winjs/winstrap (Windows UI, Metro)
-            * Animación
-                * https://github.com/sergey-pimenov/awesome-web-animation
-                * https://loading.io/css/ (animaciones loading)
-                * https://animxyz.com/
-                * https://lottiefiles.com/
-                * https://github.com/animate-css/animate.css
-                * http://www.justinaguilar.com/animations/index.html
-                * https://www.minimamente.com/project/magic/
-                * https://zurb.com/playground/motion-ui
-                * https://waitanimate.wstone.uk/
-                * https://whirl.netlify.app/
-                * https://michalsnik.github.io/aos/
-                * https://animation.ibelick.com/
-                * https://tailwindcss-animations.vercel.app/
-                * https://gsap.com/
-       * REACT
-         * https://www.animatereactnative.com/
-         * https://ant.design/
-         * https://preactjs.com/
-         * https://bui.dd360.mx/
-         * https://pigeon-maps.js.org/
-         * https://github.com/pmndrs/uikit
-         * https://react-spectrum.adobe.com/react-aria/index.html
-           * Componentes
-               * https://ui.aceternity.com/
-               * https://ui.shadcn.com/
-               * https://react-simple-images-zoom-demo.vercel.app/
-               * https://floating-ui.com/
-               * https://formik.org/
-               * https://mafs.dev/
-               * https://mironov.github.io/react-redux-loading-bar/
-               * https://sonner.emilkowal.ski/
+#### JS 
+   * https://modernizr.com/ (Detecta funcionalidades disponibles en navegadores usuarios) 
+   * https://emotion.sh/docs/introduction (Escribir estilos CSS con JavaScript)
+   * https://animejs.com/ (Animaciones con JavaScript)
+   * https://scrollrevealjs.org/ (Animaciones cuando elementos entran y salen de viewport)
+   * https://livejs.com/ (Actualiza tu sitio web de manera automática al sufrir cambios)
+   * https://blotter.js.org/ (Efectos para letras)
+   * https://sweetalert.js.org/guides/ (Cambia aspecto alertas JS)
+   * https://www.pixijs.com/ (2D WebGL renderer)
+   * https://github.com/cmiscm/leonsans (Efectos para letras)
+   * https://www.curtainsjs.com/ (Convierte elementos HTML que contengan imágenes y/o videos en texturas 3D WebGL)
+   * https://zzz.dog/ (Motor 3D para canvas y SVG)
+   * https://barba.js.org/ (Animar transiciones dentro de páginas en un sitio web)
+   * https://alvarotrigo.com/fullPage/es/ (Animar transiciones dentro de páginas en un sitio web)
+   * https://packery.metafizzy.co/ (Draggable layouts)
+   * https://greensock.com/ (Animación)
+   * https://micku7zu.github.io/vanilla-tilt.js/ (Animar objetos)
+   * https://www.dflex.dev/ (Manipular DOM, draggable)
+   * https://momentjs.com/ (Reloj)
+   * https://playerjs.com/ (HTML5 player)
+   * https://parceljs.org/
+   * https://alvarotrigo.com/pagePiling/ (Presentar sitio con scrolling, como PPT)
+   * https://github.com/ganlanyuan/tiny-slider
+   * https://scrollmagic.io/
+   * https://gooey-react.netlify.app/
+   * https://adir-sl.github.io/JSinCSS/
+   * https://atroposjs.com/
+   * https://fabricjs.com/
+   * https://pawelgrzybek.github.io/siema/
+   * https://www.vantajs.com/ (Fondos animados)
+   * https://hammerjs.github.io/
+   * https://react-select.com/home
+   * https://www.gethalfmoon.com/
+   * https://splidejs.com/
+   * https://tarekraafat.github.io/autoComplete.js/
+   * https://github.com/jaywcjlove/hotkeys-js
+   * https://chriscavs.github.io/rallax-demo/
+   * https://daybrush.com/moveable/
+   * https://matvp91.github.io/indigo-player/
+   * https://babeljs.io/
+   * https://athenacrisis.com/open-source/
+   * https://nickpiscitelli.github.io/Glider.js/
+   * https://felixg.io/works/inline
+   * https://chartkick.com/mapkick
+   * https://simpleparallax.com/
+#### CSS
+   * https://bulma.io/ (Framework basado en Flexbox)
+   * https://purecss.io/ (Módulo pequeño y responsive de CSS)
+   * https://simplecss.org/ (Classless CSS framework)
+   * https://github.com/troxler/awesome-css-frameworks (Lista de Frameworks CSS)
+   * https://github.com/uhub/awesome-css (Lista de Frameworks, librerías y software CSS)
+   * https://materializecss.com/about.html (Front-end Framework basado en Material Design)
+   * https://blocks.wickedtemplates.com/ (Colección layouts Tailwind CSS V2)
+   * https://tachyons.io/ (Módulo pequeño y responsive de CSS)
+   * http://getskeleton.com/ (Módulo pequeño y responsive de CSS)
+   * https://mdbootstrap.com/ (de Pago, Material Design Bootstrap)
+   * https://codyhouse.co/ (UI Framework)
+   * https://unsemantic.com/ (fluid grid system)
+   * http://designmodo.github.io/Flat-UI/ (Módulo pequeño y responsive de CSS)
+   * https://github.com/oxalorg/sakura (Tema para sitios minimalista)
+   * https://www.w3schools.com/w3css/defaulT.asp (Módulo pequeño y responsive de CSS)
+   * https://tailwindcss.com/
+   * https://getbootstrap.com/
+   * https://windicss.org/
+   * https://github.com/dbohdan/classless-css (Colección Classless CSS)
+   * https://bootflat.github.io/
+   * https://muellergridsystem.com/
+   * https://get.foundation/
+   * https://github.com/themesberg/neumorphism-ui-bootstrap
+   * https://purgecss.com/
+   * https://github.com/ingram-projects/animxyz
+   * https://github.com/720kb/radiobox.css
+   * https://www.pollen.style/
+   * https://cssnano.co/
+   * https://github.com/necolas/normalize.css
+   * https://lightningcss.dev/
+   * https://code.hnldesign.nl/btn-deluxe/#
+   * https://bootswatch.com/darkly/
+   * https://jonsuh.com/hamburgers/
+   * https://fluid.tw/
+   * https://matcha.mizu.sh/
+   * https://magicui.design/
+   * https://ianlunn.github.io/Hover/
+   * https://css.master.co/
+   * https://splitting.js.org/
+   * https://a11y-dialog.netlify.app/
+   * https://merakiui.com/
+   * https://picocss.com/
+   * https://preline.co/
+##### Estilos inpirados en otros preexistentes
+   * https://jdan.github.io/98.css/ (Estilo Windows 98)
+   * https://botoxparty.github.io/XP.css/ (Estilo Windows XP)
+   * https://khang-nd.github.io/7.css/ (Estilo Windows 7)
+   * https://micah5.github.io/PSone.css/ (Estilo PS1)
+   * https://nostalgic-css.github.io/NES.css/ (Estilo NES)
+   * https://www.getpapercss.com/ (Estilo dibujo a mano)
+   * https://terminalcss.xyz/ (Estilo terminal)
+   * https://metroui.org.ua/ (Windows UI, Metro)
+   * https://github.com/winjs/winstrap (Windows UI, Metro)
+##### Animación
+   * https://github.com/sergey-pimenov/awesome-web-animation
+   * https://loading.io/css/ (animaciones loading)
+   * https://animxyz.com/
+   * https://lottiefiles.com/
+   * https://github.com/animate-css/animate.css
+   * http://www.justinaguilar.com/animations/index.html
+   * https://www.minimamente.com/project/magic/
+   * https://zurb.com/playground/motion-ui
+   * https://waitanimate.wstone.uk/
+   * https://whirl.netlify.app/
+   * https://michalsnik.github.io/aos/
+   * https://animation.ibelick.com/
+   * https://tailwindcss-animations.vercel.app/
+   * https://gsap.com/
+#### REACT
+   * https://www.animatereactnative.com/
+   * https://ant.design/
+   * https://preactjs.com/
+   * https://bui.dd360.mx/
+   * https://pigeon-maps.js.org/
+   * https://github.com/pmndrs/uikit
+   * https://react-spectrum.adobe.com/react-aria/index.html
+     * Componentes
+         * https://ui.aceternity.com/
+         * https://ui.shadcn.com/
+         * https://react-simple-images-zoom-demo.vercel.app/
+         * https://floating-ui.com/
+         * https://formik.org/
+         * https://mafs.dev/
+         * https://mironov.github.io/react-redux-loading-bar/
+         * https://sonner.emilkowal.ski/
 
 ### Hosting gratuito
    * https://neocities.org/
@@ -1132,6 +1157,9 @@ Colección de todo sitio (útil) que he ido encontrando durante mí proceso de a
 * https://github.com/bradtraversy/design-resources-for-developers
 * https://github.com/heyalexej/awesome-images
 * https://github.com/EbookFoundation/free-programming-books
+* https://www.happyediting.co/access-samplepack
+* https://mixkit.co/
+* https://www.behance.net/search/projects/FREE
 ### Iconos
    * https://svgbox.net/
    * https://www.svgrepo.com
@@ -1263,6 +1291,10 @@ Colección de todo sitio (útil) que he ido encontrando durante mí proceso de a
    * https://www.clipcanvas.com/free-footage
    * https://www.videezy.com/
    * https://www.vidsplay.com/
+   * https://www.bouncecolor.com/search?type=product%2Cpage%2Carticle&q=free*
+   * https://www.shutterstock.com/blog/free-video-editor-toolkit-assets
+   * https://www.actionvfx.com/collections/free-vfx/category
+   * https://cinepacks.store/collections/free-packs
 ### Templates
    * https://cssauthor.com/ (Templates variadas)
    * https://mobirise.com/bootstrap-4-theme/navbar-template.html (Bootstrap)
@@ -1307,9 +1339,12 @@ Colección de todo sitio (útil) que he ido encontrando durante mí proceso de a
    * https://fonts.adobe.com/
    * https://fixmyinterfont.com/
    * https://www.youworkforthem.com/fonts/free
+   * https://www.behance.net/gallery/157098593/Estrella-Free-Display-Font
+   * https://pixelsurplus.com/collections/free-fonts
 ### Audio
    * https://freesound.org/
    * https://www.extrememusic.com/
+   * https://creatorchords.com/
 ### Incluyen de pago
    * https://www.productdesignresources.com/
    * https://lordicon.com/
@@ -1339,6 +1374,7 @@ Colección de todo sitio (útil) que he ido encontrando durante mí proceso de a
    * https://craftwork.design/
    * https://ui.lndev.me/
    * https://www.ls.graphics/free-mockups
+   * https://www.motionvfx.com/
 
 ## API's
 [↑](#tabla-de-contenido)
@@ -1540,7 +1576,6 @@ Colección de todo sitio (útil) que he ido encontrando durante mí proceso de a
 
 ## Foros-Blogs-Inspiración
 [↑](#tabla-de-contenido)
-* https://www.curationofcurations.com/
 ### Foros Desarrollo
    * https://dev.to/
    * https://developerbacon.ca/
@@ -1598,6 +1633,7 @@ Colección de todo sitio (útil) que he ido encontrando durante mí proceso de a
    * https://www.designprinciplesftw.com/
    * https://geometryclub.org/
    * https://muz.li/es (Extension)
+   * https://www.curationofcurations.com/
 ### Blogs
    * https://hugodaniel.com/posts/ (HTML)
    * https://www.bufa.es/
@@ -1752,158 +1788,191 @@ Colección de todo sitio (útil) que he ido encontrando durante mí proceso de a
 * https://www.krea.ai/home (Requiere cuenta)
 * https://explorer.globe.engineer/ (Quiero aprender de...)
 * https://goblin.tools/ (Breaking things down)
-  * Colecciones/Toolkits
-       * https://old.reddit.com/r/FREEMEDIAHECKYEAH/wiki/ai
-       * https://www.futuretools.io/
-       * https://topai.tools/
-       * https://www.futurepedia.io/
-       * https://theresanaiforthat.com/
-       * https://www.literallyanything.io/
-       * https://www.airepo.io/
-       * https://tooldirectory.ai/
-       * https://aivalley.ai/aitools/
-       * https://ai-advantage.notion.site/640360e552b3444e8422948f479740cd?v=8983ce52e0d54c66bd30f9b4ec9b1322
-       * https://flowgpt.com/
-       * https://adamlivas.notion.site/1000-Prompts-Avanzados-para-ChatGPT-4-52cfa4bb512841cc9946263640695502
-       * https://aiforums.co/
-       * https://domore.ai/
-       * https://www.toolsnocode.com/ai
-       * https://ai-finder.net/
-       * https://toolscout.ai/
-       * https://www.insidr.ai/ai-tools/
-       * https://appsandwebsites.com/
-       * https://www.tenereteam.com/ai-tool
-       * https://faind.ai/
-       * https://digiprotoolz.com/
-       * https://aicenter.ai/
-       * https://ai-search.io/
-       * https://favird.com/l/ai-tools-and-applications
-       * https://gptforge.net/
-       * https://www.theaigeneration.com/
-       * https://letsview.com/ai-tools
-       * https://www.futureagitools.com/
-       * https://aitoolboard.com/
-       * https://www.aitools.directory/
-       * https://www.thewarehouse.ai/
-       * https://aiinfinity-meetpatel.notion.site/AI-Infinity-AI-Tools-Directory-0da673c487124ea2b6f8ebe59b75a231
-       * https://www.toptools.ai/
-       * https://every-ai.com/
-       * https://noteableai.com/
-       * https://uneedbest.com/
-       * https://nextpedia.io/
-       * https://aitooltips.com/
-       * https://aitoptools.com/
-       * https://victrays.com/
-       * https://aitoolguru.com/
-       * https://toolsai.net/
-       * https://chatgptdemo.com/
-       * https://aitoolsguide.com/
-       * https://aioftheday.com/
-       * https://free-ai-tools-directory.com/
-       * https://aispotter.io/
-       * https://aiscout.net/
-       * https://www.aitoolhunt.com/
-       * https://www.gptdemo.net/
-       * https://aitoolsdirectory.com/
-       * https://www.startupaitools.com/
-       * https://www.gptacademy.co/
-       * https://textify.ai/directory/
-       * https://www.toolspedia.io/
-       * https://aitools.fyi/es
-       * https://aitoolsarena.com/
-       * https://www.marsx.dev/ai-startups
-       * https://aitrendz.xyz/
-       * https://saasaitools.com/
-       * https://saasgpters.com/
-       * https://easywithai.com/
-       * https://supertools.therundown.ai/
-       * https://allthingsai.com/
-       * https://www.aicyclopedia.com/
-       * https://whattheai.tech/
-       * https://www.aiawesome.com/
-       * https://aimarketing.directory/
-       * https://descenedigital.com/aitoolsdirectory/
-       * https://ai-hunter.io/
-       * https://www.aitoolnet.com/
-       * https://dang.ai/
-       * https://promptbase.com/
-       * https://aifindy.com/
-  * Chatbots
-       * https://chatgpt.com/ (Requiere cuenta)
-       * https://www.bing.com/chat
-       * https://gemini.google.com/ (Requiere cuenta)
-       * https://www.phind.com/agent?home=true
-       * https://www.perplexity.ai/
-       * https://claude.ai/ (Requiere cuenta)
-       * https://deepai.org/chat
-       * https://talkai.info/es/chat/
-       * https://www.aichatting.net/es/
-       * https://echatgpt.org/es/chat
-       * https://laia.uno/
-       * https://gitmind.com/es/ai-chat
-       * https://you.com/search?fromSearchBar=true&tbm=youchat
-       * https://www.llama2.ai/
-       * https://academicgpt.net/
-       * https://0dai.omegaai.io/
-       * https://kagi.com/fastgpt
-       * https://candy.ai/ (revolución industrial y sus consecuencias)
-       * https://digi.ai/ (revolución industrial y sus consecuencias)
-       * https://www.blackbox.ai/
-       * https://chat.lmsys.org/
-       * https://poe.com/ (Requiere cuenta)
-       * https://groq.com/ (Requiere cuenta)
-       * https://www.turboseek.io/
-       * https://4o.run/
-       * https://exa.ai/
-       * https://www.chatpdf.com/
-       * https://thegigabrain.com/
-       * https://delve.a9.io/
-  * Imagenes
-       * https://openart.ai/
-       * https://www.bing.com/images/create
-       * https://www.myheritage.es/deep-nostalgia
-       * https://www.roomgpt.io/
-       * https://pixai.art/
-       * https://huggingface.co/spaces/huggingface-projects/diffuse-the-rest
-       * https://huggingface.co/spaces/fffiloni/stable-diffusion-inpainting
-       * https://civitai.com/
-       * https://getimg.ai/
-       * https://animegenius.live3d.io/text-to-image
-       * https://www.artguru.ai/
-       * https://www.hitpaw.ai/tools/4aipaw
-       * https://app.leonardo.ai/ (Requiere cuenta)
-       * https://www.soulgen.net/es/create
-       * https://www.fotor.com/ai-image-generator/
-       * https://gfxgen.com/ (Requiere cuenta)
-       * https://perchance.org/ai-text-to-image-generator
-       * https://www.nextgenart.shop/
-       * https://www.mage.space/
-       * https://www.craiyon.com/
-       * https://photoai.com/ (Requiere cuenta)
-       * https://fliphtml5.com/e
-       * https://portrait.vana.com/ (Requiere cuenta)
-       * https://geospy.ai/ (Photo geolocation)
-       * https://www.img2go.com/
-       * https://lumalabs.ai/genie?view=preview (Requiere cuenta)
-       * https://magnific.ai/ (Requiere cuenta)
-       * https://www.aiease.ai/app/enhance-photo
-  * Audio
-       * https://ramblefix.com/
-       * https://murf.ai/ (Requiere cuenta)
-  * Música
-      * https://suno.com/
-      * https://www.udio.com/
-  * Web Dev focus
-       * https://v0.dev/
-       * https://vzy.co/ (Requiere cuenta)
-       * https://www.magicpatterns.com/ (Requiere cuenta)
-       * https://www.relume.io/ (Requiere cuenta, de Pago)
-       * https://www.vue0.dev/ (Requiere cuenta)
-  * Software
-       * https://www.nomic.ai/gpt4all
-       * https://github.com/ai-shifu/ChatALL
-       * https://ia.net/writer (de Pago)
-       * https://sider.ai/es
+### Colecciones/Toolkits
+   * https://old.reddit.com/r/FREEMEDIAHECKYEAH/wiki/ai
+   * https://www.futuretools.io/
+   * https://topai.tools/
+   * https://www.futurepedia.io/
+   * https://theresanaiforthat.com/
+   * https://www.literallyanything.io/
+   * https://www.airepo.io/
+   * https://tooldirectory.ai/
+   * https://aivalley.ai/aitools/
+   * https://ai-advantage.notion.site/640360e552b3444e8422948f479740cd?v=8983ce52e0d54c66bd30f9b4ec9b1322
+   * https://flowgpt.com/
+   * https://adamlivas.notion.site/1000-Prompts-Avanzados-para-ChatGPT-4-52cfa4bb512841cc9946263640695502
+   * https://aiforums.co/
+   * https://domore.ai/
+   * https://www.toolsnocode.com/ai
+   * https://ai-finder.net/
+   * https://toolscout.ai/
+   * https://www.insidr.ai/ai-tools/
+   * https://appsandwebsites.com/
+   * https://www.tenereteam.com/ai-tool
+   * https://faind.ai/
+   * https://digiprotoolz.com/
+   * https://aicenter.ai/
+   * https://ai-search.io/
+   * https://favird.com/l/ai-tools-and-applications
+   * https://gptforge.net/
+   * https://www.theaigeneration.com/
+   * https://letsview.com/ai-tools
+   * https://www.futureagitools.com/
+   * https://aitoolboard.com/
+   * https://www.aitools.directory/
+   * https://www.thewarehouse.ai/
+   * https://aiinfinity-meetpatel.notion.site/AI-Infinity-AI-Tools-Directory-0da673c487124ea2b6f8ebe59b75a231
+   * https://www.toptools.ai/
+   * https://every-ai.com/
+   * https://noteableai.com/
+   * https://uneedbest.com/
+   * https://nextpedia.io/
+   * https://aitooltips.com/
+   * https://aitoptools.com/
+   * https://victrays.com/
+   * https://aitoolguru.com/
+   * https://toolsai.net/
+   * https://chatgptdemo.com/
+   * https://aitoolsguide.com/
+   * https://aioftheday.com/
+   * https://free-ai-tools-directory.com/
+   * https://aispotter.io/
+   * https://aiscout.net/
+   * https://www.aitoolhunt.com/
+   * https://www.gptdemo.net/
+   * https://aitoolsdirectory.com/
+   * https://www.startupaitools.com/
+   * https://www.gptacademy.co/
+   * https://textify.ai/directory/
+   * https://www.toolspedia.io/
+   * https://aitools.fyi/es
+   * https://aitoolsarena.com/
+   * https://www.marsx.dev/ai-startups
+   * https://aitrendz.xyz/
+   * https://saasaitools.com/
+   * https://saasgpters.com/
+   * https://easywithai.com/
+   * https://supertools.therundown.ai/
+   * https://allthingsai.com/
+   * https://www.aicyclopedia.com/
+   * https://whattheai.tech/
+   * https://www.aiawesome.com/
+   * https://aimarketing.directory/
+   * https://descenedigital.com/aitoolsdirectory/
+   * https://ai-hunter.io/
+   * https://www.aitoolnet.com/
+   * https://dang.ai/
+   * https://promptbase.com/
+   * https://aifindy.com/
+### Chatbots
+   * https://chatgpt.com/ (Requiere cuenta)
+   * https://www.bing.com/chat
+   * https://gemini.google.com/ (Requiere cuenta)
+   * https://www.phind.com/agent?home=true
+   * https://www.perplexity.ai/
+   * https://claude.ai/ (Requiere cuenta)
+   * https://deepai.org/chat
+   * https://talkai.info/es/chat/
+   * https://www.aichatting.net/es/
+   * https://echatgpt.org/es/chat
+   * https://laia.uno/
+   * https://gitmind.com/es/ai-chat
+   * https://you.com/search?fromSearchBar=true&tbm=youchat
+   * https://www.llama2.ai/
+   * https://academicgpt.net/
+   * https://0dai.omegaai.io/
+   * https://kagi.com/fastgpt
+   * https://candy.ai/ (revolución industrial y sus consecuencias)
+   * https://digi.ai/ (revolución industrial y sus consecuencias)
+   * https://www.blackbox.ai/
+   * https://chat.lmsys.org/
+   * https://poe.com/ (Requiere cuenta)
+   * https://groq.com/ (Requiere cuenta)
+   * https://www.turboseek.io/
+   * https://4o.run/
+   * https://exa.ai/
+   * https://www.chatpdf.com/
+   * https://thegigabrain.com/
+   * https://delve.a9.io/
+### Imagenes
+   * https://fmhy.pages.dev/ai#image-generation
+   * https://openart.ai/ (Requiere cuenta)
+   * https://www.bing.com/images/create (Requiere cuenta)
+   * https://www.myheritage.es/deep-nostalgia (Requiere cuenta)
+   * https://www.roomgpt.io/ (Requiere cuenta)
+   * https://pixai.art/ (Requiere cuenta)
+   * https://huggingface.co/spaces/huggingface-projects/diffuse-the-rest
+   * https://civitai.com/ (Requiere cuenta)
+   * https://getimg.ai/ (Requiere cuenta)
+   * https://animegenius.live3d.io/text-to-image (Requiere cuenta)
+   * https://www.artguru.ai/ 
+   * https://www.hitpaw.ai/tools/4aipaw
+   * https://app.leonardo.ai/ (Requiere cuenta)
+   * https://www.soulgen.net/es/create (Requiere cuenta)
+   * https://www.fotor.com/ai-image-generator/ (Requiere cuenta)
+   * https://gfxgen.com/ (Requiere cuenta)
+   * https://perchance.org/ai-text-to-image-generator
+   * https://www.mage.space/
+   * https://www.craiyon.com/
+   * https://photoai.com/ (Requiere cuenta)
+   * https://fliphtml5.com/ (Requiere cuenta)
+   * https://portrait.vana.com/ (Requiere cuenta)
+   * https://geospy.ai/ (Photo geolocation)
+   * https://www.img2go.com/
+   * https://lumalabs.ai/genie?view=preview (Requiere cuenta)
+   * https://magnific.ai/ (Requiere cuenta)
+   * https://www.aiease.ai/app/enhance-photo
+   * https://www.freepik.com/ai/image-generator (Requiere cuenta)
+   * https://www.appypie.com/design/meme/maker
+   * https://kaiber.ai/ (Requiere cuenta - videos cortos e imágenes)
+   * https://klingai.com/ (Requiere cuenta - videos cortos e imágenes)
+   * https://leonardo.ai/  (Requiere cuenta - videos cortos e imágenes)
+   * https://ideogram.ai/ (Requiere cuenta)
+   * https://replicate.com/stability-ai/stable-diffusion-3.5-large-turbo (Requiere cuenta)
+   * https://replicate.com/stability-ai/stable-diffusion-3.5-large (Requiere cuenta)
+   * https://replicate.com/stability-ai/stable-diffusion-3.5-medium (Requiere cuenta)
+   * https://huggingface.co/spaces/black-forest-labs/FLUX.1-dev
+   * https://dezgo.com
+   * https://designer.microsoft.com/image-creator (Requiere cuenta)
+   * https://www.meta.ai/icebreakers/imagine/ (Requiere cuenta)
+   * https://replicate.com/bytedance/sdxl-lightning-4step (Requiere cuenta)
+   * https://huggingface.co/spaces/stabilityai/stable-diffusion
+   * https://image.nexusapi.tech/
+   * https://app.prodia.com/
+   * https://build.nvidia.com/
+   * https://aigallery.app/
+### Audio
+   * https://ramblefix.com/ (de Pago, Requiere cuenta)
+   * https://murf.ai/ (Requiere cuenta)
+   * https://www.uberduck.ai/ (Requiere cuenta)
+   * https://huggingface.co/spaces/bestoai/text-to-video
+   * https://huggingface.co/spaces/suno/bark
+### Música
+   * https://suno.com/ (Requiere cuenta)
+   * https://www.udio.com/
+   * https://huggingface.co/spaces/facebook/MusicGen
+   * https://tones.wolfram.com/
+   * https://fredericbriolet.com/avg/
+   * https://www.fakemusicgenerator.com/
+   * https://aidn.jp/jingle/
+### Video
+   * https://huggingface.co/spaces/Lightricks/LTX-Video-Playground
+   * https://huggingface.co/spaces/multimodalart/stable-video-diffusion
+   * https://web.vidon.ai/ (de Pago, Requiere cuenta)
+   * https://rollideo.com/
+   * https://hailuoai.video/ (Requiere cuenta)
+   * https://app.pixverse.ai/ (Requiere cuenta)
+### Web Dev focus
+   * https://v0.dev/
+   * https://vzy.co/ (Requiere cuenta)
+   * https://www.magicpatterns.com/ (Requiere cuenta)
+   * https://www.relume.io/ (Requiere cuenta, de Pago)
+   * https://www.vue0.dev/ (Requiere cuenta)
+### Software
+   * https://www.nomic.ai/gpt4all
+   * https://github.com/ai-shifu/ChatALL
+   * https://ia.net/writer (de Pago)
+   * https://sider.ai/es
 
 ## Búsqueda trabajo
 [↑](#tabla-de-contenido) 
@@ -1925,103 +1994,103 @@ Colección de todo sitio (útil) que he ido encontrando durante mí proceso de a
 * https://www.talent.com/jobs
 * https://www.google.com/about/careers/applications/
 * https://www.sercanto.cl/
-  * Chile Focus
-    * https://www.bne.cl/
-    * https://lookerstudio.google.com/u/0/reporting/1Tt-TIit7n1AaPPtdXLHOzgPSNFCLGQRf/page/DRf3B?s=hVvWWJQlD5w
-    * https://www.empleospublicos.cl/pub/convocatorias/convocatorias.aspx
-    * https://www.serviciocivil.cl/postulantes/
-    * https://firstjob.me/
-    * https://www.chiletrabajos.cl/
-    * https://www.trabajando.cl/
-    * https://finderhr.cl/
-    * https://miguru.ai/
-    * https://www.yapo.cl/empleos-y-servicios/inicio
-    * https://empleo.trovit.cl/
-    * https://cl.talent.com/jobs
-    * https://www.rastro.com/
-      * Universidades/Institutos
-        * https://rrii.ubiobio.cl/empleos-ubb/
-        * https://www.creaempleo.cl/
-        * https://duoclaboral.cl/
-        * https://emplea.inacap.cl/
-        * https://laboral.inacap.cl/
-        * https://laetitia.usach.cl/bolsa-de-trabajo
-        * http://www.empleos.uchile.cl/
-        * http://portaltrabajos.ulagos.cl/
-        * https://utalca.trabajando.cl/
-        * http://empleos.utalca.cl/
-  * Remoto focus
-    * https://www.getonbrd.world/
-    * https://www.weremoto.com/
-    * https://remote.com/
-    * https://lapieza.io/
-    * https://www.trabajando.cl/trabajo-remoto/
-    * https://www.trabajando.com/trabajo-remoto/
-    * https://www.publipega.com/
-    * https://remoteok.com/
-    * https://www.remote.io/
-    * https://www.realworkfromanywhere.com/
-    * https://weworkremotely.com/
-    * https://jobgether.com/
-    * https://www.workingnomads.com/jobs
-    * https://www.flexjobs.com/
-    * https://wellfound.com/
-    * https://nodesk.co/
-    * https://remotive.com/
-    * https://www.devjobsscanner.com/
-    * https://www.skipthedrive.com/
-    * https://jobs.telusinternational.com/en_US/careers/Home
-    * https://arc.dev/talent
-    * https://www.showwcase.com/
-  * Easy task (Freelance)
-    * https://www.remotasks.com/
-    * https://www.freelancer.com/
-    * https://www.mturk.com/
-    * https://www.glassdoor.com/index.htm
-    * https://www.upwork.com/
-    * US focus
-       * https://www.neevo.ai/
-       * https://www.prolific.com/
-       * https://www.clickworker.com/clickworker/
-       * https://www.swagbucks.com/
-  * Herramientas
-       * https://nomadlist.com/
-       * https://github.com/devschile/remoto-desde-chile
-       * https://insights.getonbrd.com/
-       * https://campus.fundaciontelefonicamovistar.com/nueva-empleabilidad/mapa-del-empleo/
-       * https://orientador.fundaciontelefonica.com/
-       * https://grow.google/certificates/interview-warmup/
-          * CV
-            * Editores
-              * https://resume.fullstackarchitect.dev/
-              * https://rxresu.me/
-              * https://cv.me/
-              * https://createresumo.herokuapp.com/
-              * https://flowcv.com/
-              * https://resoume.com/ (de Pago)
-              * https://zety.com/ (de Pago)
-              * https://artickl.com/ (de Pago)
-              * https://standardresume.co (de Pago)
-            * Ejemplos/planillas
-              * https://sence.gob.cl/sites/default/files/elabor1.pdf
-              * https://careerservices.fas.harvard.edu/resources/bullet-point-resume-template/
-              * https://create.microsoft.com/es-es/templates/curr%C3%ADculos
-              * https://www.ejecutivolatino.com/posts/curriculum-vitae/#13-plantilla-descargable
-              * https://sheetsresume.com/resume-template/
-          * Salario
-              * https://www.boleteo.cl/
-              * https://boletas.nolineal.cl/
-              * https://tusalario.org
-              * https://www.bbva.es/personas/productos/cuentas/calculadora-sueldo-neto.html
-              * https://knowyourworth.app/
-  * "Certificaciones"
-       * https://www.classcentral.com/report/free-certificates/
-       * https://eligetucurso.sence.cl/
-       * https://learn.microsoft.com/es-es/training/browse/
-       * https://codered.eccouncil.org/
-       * https://www.codecademy.com/
-  * No permiten búsqueda
-       * https://devlist.co/ Marketing via email (Requiere cuenta)
+### Chile Focus
+   * https://www.bne.cl/
+   * https://lookerstudio.google.com/u/0/reporting/1Tt-TIit7n1AaPPtdXLHOzgPSNFCLGQRf/page/DRf3B?s=hVvWWJQlD5w
+   * https://www.empleospublicos.cl/pub/convocatorias/convocatorias.aspx
+   * https://www.serviciocivil.cl/postulantes/
+   * https://firstjob.me/
+   * https://www.chiletrabajos.cl/
+   * https://www.trabajando.cl/
+   * https://finderhr.cl/
+   * https://miguru.ai/
+   * https://www.yapo.cl/empleos-y-servicios/inicio
+   * https://empleo.trovit.cl/
+   * https://cl.talent.com/jobs
+   * https://www.rastro.com/
+#### Universidades/Institutos
+   * https://rrii.ubiobio.cl/empleos-ubb/
+   * https://www.creaempleo.cl/
+   * https://duoclaboral.cl/
+   * https://emplea.inacap.cl/
+   * https://laboral.inacap.cl/
+   * https://laetitia.usach.cl/bolsa-de-trabajo
+   * http://www.empleos.uchile.cl/
+   * http://portaltrabajos.ulagos.cl/
+   * https://utalca.trabajando.cl/
+   * http://empleos.utalca.cl/
+### Remoto focus
+   * https://www.getonbrd.world/
+   * https://www.weremoto.com/
+   * https://remote.com/
+   * https://lapieza.io/
+   * https://www.trabajando.cl/trabajo-remoto/
+   * https://www.trabajando.com/trabajo-remoto/
+   * https://www.publipega.com/
+   * https://remoteok.com/
+   * https://www.remote.io/
+   * https://www.realworkfromanywhere.com/
+   * https://weworkremotely.com/
+   * https://jobgether.com/
+   * https://www.workingnomads.com/jobs
+   * https://www.flexjobs.com/
+   * https://wellfound.com/
+   * https://nodesk.co/
+   * https://remotive.com/
+   * https://www.devjobsscanner.com/
+   * https://www.skipthedrive.com/
+   * https://jobs.telusinternational.com/en_US/careers/Home
+   * https://arc.dev/talent
+   * https://www.showwcase.com/
+### Easy task (Freelance)
+   * https://www.remotasks.com/
+   * https://www.freelancer.com/
+   * https://www.mturk.com/
+   * https://www.glassdoor.com/index.htm
+   * https://www.upwork.com/
+### US focus
+   * https://www.neevo.ai/
+   * https://www.prolific.com/
+   * https://www.clickworker.com/clickworker/
+   * https://www.swagbucks.com/
+### Herramientas
+   * https://nomadlist.com/
+   * https://github.com/devschile/remoto-desde-chile
+   * https://insights.getonbrd.com/
+   * https://campus.fundaciontelefonicamovistar.com/nueva-empleabilidad/mapa-del-empleo/
+   * https://orientador.fundaciontelefonica.com/
+   * https://grow.google/certificates/interview-warmup/
+#### CV
+   * Editores
+     * https://resume.fullstackarchitect.dev/
+     * https://rxresu.me/
+     * https://cv.me/
+     * https://createresumo.herokuapp.com/
+     * https://flowcv.com/
+     * https://resoume.com/ (de Pago)
+     * https://zety.com/ (de Pago)
+     * https://artickl.com/ (de Pago)
+     * https://standardresume.co (de Pago)
+   * Ejemplos/planillas
+     * https://sence.gob.cl/sites/default/files/elabor1.pdf
+     * https://careerservices.fas.harvard.edu/resources/bullet-point-resume-template/
+     * https://create.microsoft.com/es-es/templates/curr%C3%ADculos
+     * https://www.ejecutivolatino.com/posts/curriculum-vitae/#13-plantilla-descargable
+     * https://sheetsresume.com/resume-template/
+   * Salario
+     * https://www.boleteo.cl/
+     * https://boletas.nolineal.cl/
+     * https://tusalario.org
+     * https://www.bbva.es/personas/productos/cuentas/calculadora-sueldo-neto.html
+     * https://knowyourworth.app/
+   * "Certificaciones"
+     * https://www.classcentral.com/report/free-certificates/
+     * https://eligetucurso.sence.cl/
+     * https://learn.microsoft.com/es-es/training/browse/
+     * https://codered.eccouncil.org/
+     * https://www.codecademy.com/
+   * No permiten búsqueda
+     * https://devlist.co/ Marketing via email (Requiere cuenta)
 
 ## Otros
 [↑](#tabla-de-contenido) *No se como calificar estos sitios :/*
