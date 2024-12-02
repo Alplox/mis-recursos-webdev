@@ -128,6 +128,7 @@ Enlace: <https://alplox.github.io/mis-recursos-webdev/>
 - <https://freecodetools.org/>
 - <https://webcode.tools/>
 - <https://sumo.app/>
+- <https://webaggr.com/free-tools>
 - <https://promptr.co/> (Teleprompter Online)
 - <https://www.opengraph.xyz/> (Generador Open Graph Meta Tags)
 - <https://metatags.io/> (Generador Open Graph Meta Tags)
@@ -415,6 +416,7 @@ Enlace: <https://alplox.github.io/mis-recursos-webdev/>
 - <https://tineye.com/> (Reverse Image Search)
 - <https://yandex.com/images/> (Reverse Image Search)
 - <https://ray.so/> (Compartir código)
+- <https://giffium.com/> (Compartir código)
 - <https://pfpmaker.com/> (Editor foto perfil)
 - <https://png-svg.com/>
 - <https://www.cleanpng.com/>
@@ -433,6 +435,9 @@ Enlace: <https://alplox.github.io/mis-recursos-webdev/>
 - <https://fotoforensics.com/>
 - <https://www.onlineocr.net/>
 - <https://saurabhdaware.github.io/text-to-handwriting/>
+- <https://pixelframe.design/tag/generator/>
+- <https://ezgif.com/webp-to-gif>
+- <https://frinkiac.com/> (Simpsons)
 
 #### Editar imágenes online
 
@@ -657,7 +662,9 @@ Enlace: <https://alplox.github.io/mis-recursos-webdev/>
 - <https://qtext.io> (Texto)
 - <https://ctxt.io/> (Texto)
 - <https://onedoes.github.io/snapdrop/>
-  - P2P
+
+#### P2P
+
     - <https://file.pizza/>
     - <https://instant.io/>
     - <https://toffeeshare.com/es/>
@@ -762,7 +769,9 @@ Enlace: <https://alplox.github.io/mis-recursos-webdev/>
 - <https://atom.io/>
 - <http://brackets.io/>
 - <https://code.visualstudio.com/>
-  - Extensiones
+
+##### Extensiones
+
     - <https://console-ninja.com/> (Console log output helper)
     - <https://www.flyde.dev/> (Visual programming)
     - <https://ide.swmansion.com/> (React Native)
@@ -803,6 +812,24 @@ Enlace: <https://alplox.github.io/mis-recursos-webdev/>
 - <https://kagi.com/orion/>
 - <https://sigmaos.com/>
 - <https://www.torproject.org/download/>
+
+#### Editores video
+
+- <https://smartmediacutter.com/>
+- <https://www.capcut.com/>
+- <https://clipchamp.com/>
+- <https://www.shutterencoder.com/> (Encoder/Decoder)
+- <https://www.shotcut.org/>
+- <https://www.openshot.org/>
+- <https://handbrake.fr> (Transcoder)
+- <https://losslesscut.app/>
+- <https://www.blackmagicdesign.com/products/davinciresolve>
+- <https://fxhome.com/product/hitfilm>
+- <https://kdenlive.org/>
+- <https://www.vegascreativesoftware.com/es/vegas-pro/> (de Pago)
+- <https://www.adobe.com/es/products/aftereffects.html> (de Pago)
+- <https://olivevideoeditor.org/>
+- <https://www.techsmith.es/camtasia/> (de Pago)
 
 ### Librerías
 
@@ -1388,6 +1415,7 @@ Enlace: <https://alplox.github.io/mis-recursos-webdev/>
 - <https://favpng.com/>
 - <https://purepng.com/>
 - <https://www.stickpng.com/es>
+- <https://www.pngwing.com>
 - <https://vavebg.com/> (AI CC0)
 - <https://pixelmob.co/>
 
@@ -1455,7 +1483,7 @@ Enlace: <https://alplox.github.io/mis-recursos-webdev/>
 - <https://www.behance.net/gallery/157098593/Estrella-Free-Display-Font>
 - <https://pixelsurplus.com/collections/free-fonts>
 
-### Audios
+### Audios Gratuitos
 
 - <https://freesound.org/>
 - <https://www.extrememusic.com/>
@@ -1463,6 +1491,9 @@ Enlace: <https://alplox.github.io/mis-recursos-webdev/>
 - <https://www.bensound.com/>
 - <https://audiojungle.net/> (de Pago)
 - <https://musicbed.com/> (de Pago)
+- <https://www.chosic.com/free-music/all/>
+- <https://www.musopen.org/>
+- <https://sounddino.com/>
 
 ### Incluyen de pago
 
@@ -1940,6 +1971,8 @@ Enlace: <https://alplox.github.io/mis-recursos-webdev/>
 - <https://explorer.globe.engineer/> (Quiero aprender de...)
 - <https://goblin.tools/> (Breaking things down)
 - <https://fakeyou.com/>
+- <https://prompthero.com/>
+- <https://www.fanvue.com/> (OnlyFans, Requiere cuenta)
 
 ### AI Colecciones/Toolkit
 
@@ -2110,6 +2143,7 @@ Enlace: <https://alplox.github.io/mis-recursos-webdev/>
 - <https://dream.ai/>
 - <https://replicate.com/pixray/text2image> (de Pago, Requiere cuenta)
 - <https://notrealcats.com/>
+- <https://colab.research.google.com/github/lllyasviel/Fooocus/blob/main/fooocus_colab.ipynb>
 
 ### AI Audio
 
@@ -2141,6 +2175,7 @@ Enlace: <https://alplox.github.io/mis-recursos-webdev/>
 - <https://app.pixverse.ai/> (Requiere cuenta)
 - <https://runwayml.com/> (de Pago, Requiere cuenta)
 - <https://exemplary.ai/ai-clips> (Requiere cuenta)
+- <https://www.clipmove.com> (Requiere cuenta)
 
 ### AI Web Dev focus
 
@@ -2157,6 +2192,8 @@ Enlace: <https://alplox.github.io/mis-recursos-webdev/>
 - <https://ia.net/writer> (de Pago)
 - <https://sider.ai/es>
 - <https://rentry.org/sdg-link> (Guías)
+- <https://github.com/mcmonkeyprojects/SwarmUI> (Imágenes)
+- <https://easydiffusion.github.io/docs/installation/> (Imágenes)
 
 ## Búsqueda trabajo
 
@@ -2263,36 +2300,46 @@ Enlace: <https://alplox.github.io/mis-recursos-webdev/>
 
 #### CV
 
-- Editores
-  - <https://resume.fullstackarchitect.dev/>
-  - <https://rxresu.me/>
-  - <https://cv.me/>
-  - <https://createresumo.herokuapp.com/>
-  - <https://flowcv.com/>
-  - <https://resoume.com/> (de Pago)
-  - <https://zety.com/> (de Pago)
-  - <https://artickl.com/> (de Pago)
-  - <https://standardresume.co> (de Pago)
-- Ejemplos/planillas
-  - <https://sence.gob.cl/sites/default/files/elabor1.pdf>
-  - <https://careerservices.fas.harvard.edu/resources/bullet-point-resume-template/>
-  - <https://create.microsoft.com/es-es/templates/curr%C3%ADculos>
-  - <https://www.ejecutivolatino.com/posts/curriculum-vitae/#13-plantilla-descargable>
-  - <https://sheetsresume.com/resume-template/>
-- Salario
-  - <https://www.boleteo.cl/>
-  - <https://boletas.nolineal.cl/>
-  - <https://tusalario.org>
-  - <https://www.bbva.es/personas/productos/cuentas/calculadora-sueldo-neto.html>
-  - <https://knowyourworth.app/>
-- "Certificaciones"
-  - <https://www.classcentral.com/report/free-certificates/>
-  - <https://eligetucurso.sence.cl/>
-  - <https://learn.microsoft.com/es-es/training/browse/>
-  - <https://codered.eccouncil.org/>
-  - <https://www.codecademy.com/>
-- No permiten búsqueda
-  - <https://devlist.co/> Marketing via email (Requiere cuenta)
+##### Editores
+
+- <https://resume.fullstackarchitect.dev/>
+- <https://rxresu.me/>
+- <https://cv.me/>
+- <https://createresumo.herokuapp.com/>
+- <https://flowcv.com/>
+- <https://resoume.com/> (de Pago)
+- <https://zety.com/> (de Pago)
+- <https://artickl.com/> (de Pago)
+- <https://standardresume.co> (de Pago)
+
+##### Ejemplos/planillas
+
+- <https://sence.gob.cl/sites/default/files/elabor1.pdf>
+- <https://careerservices.fas.harvard.edu/resources/bullet-point-resume-template/>
+- <https://create.microsoft.com/es-es/templates/curr%C3%ADculos>
+- <https://www.ejecutivolatino.com/posts/curriculum-vitae/#13-plantilla-descargable>
+- <https://sheetsresume.com/resume-template/>
+
+##### Salario
+
+- <https://www.boleteo.cl/>
+- <https://boletas.nolineal.cl/>
+- <https://tusalario.org>
+- <https://www.bbva.es/personas/productos/cuentas/calculadora-sueldo-neto.html>
+- <https://knowyourworth.app/>
+
+##### "Certificaciones"
+
+- <https://www.classcentral.com/report/free-certificates/>
+- <https://eligetucurso.sence.cl/>
+- <https://learn.microsoft.com/es-es/training/browse/>
+- <https://codered.eccouncil.org/>
+- <https://www.codecademy.com/>
+- <https://www.aws.training/>
+
+##### No permiten búsqueda
+
+- <https://devlist.co/> Marketing via email (Requiere cuenta)
 
 ## Otros
 
