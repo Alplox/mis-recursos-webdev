@@ -470,6 +470,7 @@ Enlace: <https://alplox.github.io/mis-recursos-webdev/>
 - <https://www.canva.com>
 - <https://www.befunky.com/create/>
 - <https://snappify.com/editor>
+- <https://ezgif.com/> (GIF editor y convertidor)
 
 #### Editor PixelArt
 
@@ -482,8 +483,8 @@ Enlace: <https://alplox.github.io/mis-recursos-webdev/>
 
 #### Generador de Fondos
 
-- <https://trianglify.io/> (de Pago)
-- <https://raaatio.com/> (de Pago)
+- <https://trianglify.io/> (Pagada)
+- <https://raaatio.com/> (Pagada)
 - <https://meshgradient.com/>
 - <https://coolbackgrounds.io/>
 
@@ -514,7 +515,7 @@ Enlace: <https://alplox.github.io/mis-recursos-webdev/>
 - <https://mockupapp.ls.graphics/banner/latest-free-mockups>
 - <https://screen.traction.one/>
 - <https://deviceshots.com/>
-- <https://previewed.app/> (de Pago)
+- <https://previewed.app/> (Pagada)
 
 #### Remover Fondos
 
@@ -599,7 +600,7 @@ Enlace: <https://alplox.github.io/mis-recursos-webdev/>
 - <https://www.softr.io/tools/svg-wave-generator> (Generar curvas)
 - <https://app.haikei.app/> (Generar formas, fondos)
 - <https://pattern.monster/> (Generador de patrones)
-- <https://www.svgator.com/> (de Pago, animar SVG)
+- <https://www.svgator.com/> (Pagada, animar SVG)
 - <https://chaosmach.com/> (Generar formas, fondos)
 - <https://svg-generator.netlify.app/>
 - <https://picsvg.com/> (Imagen a SVG)
@@ -700,6 +701,8 @@ Enlace: <https://alplox.github.io/mis-recursos-webdev/>
 - <https://audiomass.co/>
 - <https://femurdesign.com/theremin/>
 - <https://vocali.se>
+- <https://vocalremover.org/>
+- <https://audiotrimmer.com/>
 
 ## Recursos
 
@@ -738,12 +741,12 @@ Enlace: <https://alplox.github.io/mis-recursos-webdev/>
 
 - <https://responsively.app> (Navegador diseñado para desarrolladores)
 - <https://sizzy.co/> (Navegador diseñado para desarrolladores)
-- <https://polypane.app/> (de Pago, Navegador diseñado para desarrolladores)
+- <https://polypane.app/> (Pagada, Navegador diseñado para desarrolladores)
 - <https://gitloft.com/> (Lista software Open Source)
 - <https://www.streamlit.io/> (Scripts into sharable web apps)
 - <https://typora.io/> (Editor Markdown)
 - <https://zealdocs.org/> (Documentación offline para desarrolladores)
-- <https://bootstrapstudio.io/> (de Pago, Bootstrap)
+- <https://bootstrapstudio.io/> (Pagada, Bootstrap)
 - <https://getloaf.io/> (Animar SVG)
 - <https://fontba.se/> (Administrador de Fuentes)
 - <https://community.chocolatey.org/> (Alternativa a WinGet)
@@ -753,8 +756,8 @@ Enlace: <https://alplox.github.io/mis-recursos-webdev/>
 - <https://iconset.io/>
 - <https://logseq.com/> (notas)
 - <https://obsidian.md/> (notas)
-- <https://www.sketch.com/> (de Pago)
-- <https://www.adobe.com/cl/products/illustrator.html> (de Pago)
+- <https://www.sketch.com/> (Pagada)
+- <https://www.adobe.com/cl/products/illustrator.html> (Pagada)
 
 #### Screen Recorder/Capturar Pantalla
 
@@ -788,9 +791,9 @@ Enlace: <https://alplox.github.io/mis-recursos-webdev/>
 - <https://www.getpaint.net/index.html>
 - <https://firealpaca.com/>
 - <https://www.systemax.jp/en/sai/devdept.html>
-- <https://affinity.serif.com/en-gb/> (de pago)
-- <https://www.adobe.com/cl/products/photoshop.html> (de pago)
-- <https://www.pixelmator.com/pro/> (de pago)
+- <https://affinity.serif.com/en-gb/> (Pagada)
+- <https://www.adobe.com/cl/products/photoshop.html> (Pagada)
+- <https://www.pixelmator.com/pro/> (Pagada)
 - <https://upscayl.org/>
 
 #### Browsers
@@ -826,10 +829,10 @@ Enlace: <https://alplox.github.io/mis-recursos-webdev/>
 - <https://www.blackmagicdesign.com/products/davinciresolve>
 - <https://fxhome.com/product/hitfilm>
 - <https://kdenlive.org/>
-- <https://www.vegascreativesoftware.com/es/vegas-pro/> (de Pago)
-- <https://www.adobe.com/es/products/aftereffects.html> (de Pago)
+- <https://www.vegascreativesoftware.com/es/vegas-pro/> (Pagada)
+- <https://www.adobe.com/es/products/aftereffects.html> (Pagada)
 - <https://olivevideoeditor.org/>
-- <https://www.techsmith.es/camtasia/> (de Pago)
+- <https://www.techsmith.es/camtasia/> (Pagada)
 
 ### Librerías
 
@@ -914,7 +917,7 @@ Enlace: <https://alplox.github.io/mis-recursos-webdev/>
 - <https://blocks.wickedtemplates.com/> (Colección layouts Tailwind CSS V2)
 - <https://tachyons.io/> (Módulo pequeño y responsive de CSS)
 - <http://getskeleton.com/> (Módulo pequeño y responsive de CSS)
-- <https://mdbootstrap.com/> (de Pago, Material Design Bootstrap)
+- <https://mdbootstrap.com/> (Pagada, Material Design Bootstrap)
 - <https://codyhouse.co/> (UI Framework)
 - <https://unsemantic.com/> (fluid grid system)
 - <http://designmodo.github.io/Flat-UI/> (Módulo pequeño y responsive de CSS)
@@ -1154,7 +1157,7 @@ Enlace: <https://alplox.github.io/mis-recursos-webdev/>
 ### Libros
 
 - <https://www.joshwcomeau.com/effective-portfolio/> (Gratuito, requiere un [correo](https://temp-mail.org) - [Link directo](https://storage.googleapis.com/joshwcomeau/building-an-effective-dev-portfolio.pdf))
-- <https://jgthms.com/css-in-44-minutes-ebook> (De pago, [Link Directo](https://cl1lib.org/book/5232937/eb4770))
+- <https://jgthms.com/css-in-44-minutes-ebook> (Pagada, [Link Directo](https://cl1lib.org/book/5232937/eb4770))
 
 ### Inglés
 
@@ -1380,6 +1383,8 @@ Enlace: <https://alplox.github.io/mis-recursos-webdev/>
 - <https://storytale.io/browse/?isFree=true>
 - <https://svgdoodles.com/>
 - <https://ultima.storytale.io/>
+- <https://sensa.co/emoji>
+- <https://emoji.gg/>
 
 ### Imágenes Gratuitas
 
@@ -1418,6 +1423,7 @@ Enlace: <https://alplox.github.io/mis-recursos-webdev/>
 - <https://www.pngwing.com>
 - <https://vavebg.com/> (AI CC0)
 - <https://pixelmob.co/>
+- <https://giphy.com>
 
 ### Vídeos Gratuitos
 
@@ -1489,8 +1495,8 @@ Enlace: <https://alplox.github.io/mis-recursos-webdev/>
 - <https://www.extrememusic.com/>
 - <https://creatorchords.com/>
 - <https://www.bensound.com/>
-- <https://audiojungle.net/> (de Pago)
-- <https://musicbed.com/> (de Pago)
+- <https://audiojungle.net/> (Pagada)
+- <https://musicbed.com/> (Pagada)
 - <https://www.chosic.com/free-music/all/>
 - <https://www.musopen.org/>
 - <https://sounddino.com/>
@@ -1915,7 +1921,7 @@ Enlace: <https://alplox.github.io/mis-recursos-webdev/>
 
 [↑](#tabla-de-contenido)
 
-- <https://courseit.io/catalogo/> (HTML y CSS gratis, resto de Pago)
+- <https://courseit.io/catalogo/> (HTML y CSS gratis, Pagada)
 - <https://ed.team/cursos> (la típica de "esta en oferta" dejando ver solo una parte del curso gratis)
 - <https://generalassemb.ly/browse>
 - <https://devcode.la/>
@@ -2083,6 +2089,7 @@ Enlace: <https://alplox.github.io/mis-recursos-webdev/>
 - <https://www.chatpdf.com/>
 - <https://thegigabrain.com/>
 - <https://delve.a9.io/>
+- <https://character.ai/>
 
 ### AI Imágenes
 
@@ -2119,21 +2126,21 @@ Enlace: <https://alplox.github.io/mis-recursos-webdev/>
 - <https://klingai.com/> (Requiere cuenta - videos cortos e imágenes)
 - <https://leonardo.ai/>  (Requiere cuenta - videos cortos e imágenes)
 - <https://ideogram.ai/> (Requiere cuenta)
-- <https://replicate.com/stability-ai/stable-diffusion-3.5-large-turbo> (Requiere cuenta)
-- <https://replicate.com/stability-ai/stable-diffusion-3.5-large> (Requiere cuenta)
-- <https://replicate.com/stability-ai/stable-diffusion-3.5-medium> (Requiere cuenta)
+- <https://replicate.com/stability-ai/stable-diffusion-3.5-large-turbo> (Pagada, Requiere cuenta)
+- <https://replicate.com/stability-ai/stable-diffusion-3.5-large> (Pagada, Requiere cuenta)
+- <https://replicate.com/stability-ai/stable-diffusion-3.5-medium> (Pagada, Requiere cuenta)
 - <https://huggingface.co/spaces/black-forest-labs/FLUX.1-dev>
 - <https://dezgo.com>
 - <https://designer.microsoft.com/image-creator> (Requiere cuenta)
 - <https://www.meta.ai/icebreakers/imagine/> (Requiere cuenta)
-- <https://replicate.com/bytedance/sdxl-lightning-4step> (Requiere cuenta)
+- <https://replicate.com/bytedance/sdxl-lightning-4step> (Pagada, Requiere cuenta)
 - <https://huggingface.co/spaces/stabilityai/stable-diffusion>
 - <https://image.nexusapi.tech/>
 - <https://app.prodia.com/>
 - <https://build.nvidia.com/>
 - <https://aigallery.app/>
 - <https://creator.nightcafe.studio/> (Requiere cuenta)
-- <https://www.shutterstock.com/es/ai-image-generator> (de Pago, Requiere cuenta)
+- <https://www.shutterstock.com/es/ai-image-generator> (Pagada, Requiere cuenta)
 - <https://openai.com/index/dall-e-2/> (Requiere cuenta)
 - <https://deepdreamgenerator.com/>
 - <https://www.artbreeder.com/>
@@ -2141,19 +2148,35 @@ Enlace: <https://alplox.github.io/mis-recursos-webdev/>
 - <https://deepai.org/machine-learning-model/text2img>
 - <https://starryai.com/> (Requiere cuenta)
 - <https://dream.ai/>
-- <https://replicate.com/pixray/text2image> (de Pago, Requiere cuenta)
+- <https://replicate.com/pixray/text2image> (Pagada, Requiere cuenta)
 - <https://notrealcats.com/>
 - <https://colab.research.google.com/github/lllyasviel/Fooocus/blob/main/fooocus_colab.ipynb>
+- <https://visualmath-ai.vercel.app/>
+- <https://replicate.com/xlabs-ai/flux-dev-realism> (Pagada, Requiere cuenta)
+- <https://replicate.com/fofr/consistent-character> (Pagada, Requiere cuenta)
+- <https://replicate.com/ostris/flux-dev-lora-trainer/train> (Pagada, Requiere cuenta)
+- <https://huggingface.co/spaces/black-forest-labs/FLUX.1-schnell>
+- <https://www.midjourney.com/> (Pagada, Requiere cuenta)
 
 ### AI Audio
 
-- <https://ramblefix.com/> (de Pago, Requiere cuenta)
-- <https://murf.ai/> (Requiere cuenta)
-- <https://www.uberduck.ai/> (Requiere cuenta)
+- <https://ramblefix.com/> (Pagada, Requiere cuenta)
+- <https://murf.ai/> (Pagada, Requiere cuenta, 10 min gratis al mes)
+- <https://www.uberduck.ai/> (Pagada, Requiere cuenta, 300 créditos al mes)
 - <https://huggingface.co/spaces/bestoai/text-to-video>
 - <https://huggingface.co/spaces/suno/bark>
-- <https://elevenlabs.io> (Requiere cuenta)
-- <https://cloud.google.com/text-to-speech>
+- <https://elevenlabs.io> (Pagada, Requiere cuenta, 10 min gratis al mes)
+- <https://cloud.google.com/text-to-speech> (1 millon caracteres gratis al mes)
+- <https://www.acoust.io/> (Pagada, Requiere cuenta, 12 min gratis al mes)
+- <https://ttsreader.com/player/> (Pagada, Requiere cuenta, 5000 caracteres gratis por día)
+- <https://www.readspeaker.com/> (Pagada, Requiere cuenta, 250 caracteres gratis)
+- <https://voicemaker.in/> (Pagada, Requiere cuenta, 250 caracteres gratis)
+- <https://aivoicegenerator.com/> (1500 caracteres)
+- <https://www.freetts.com/> (Pagada, Requiere cuenta, 5000 caracteres gratis por sesión)
+- <https://www.getlisten2it.com/> (Pagada, Requiere cuenta, 1000 palabras gratis al mes)
+- <https://ttstool.com/> (1000 caracteres)
+- <https://play.ht/text-to-speech/> (Pagada, Requiere cuenta, 12500 caracteres gratis al mes)
+- <https://ttsmaker.com/> (Pagada, Requiere cuenta, 20000 caracteres gratis por semana (≈1.84 Horas))
 
 ### AI Música
 
@@ -2164,36 +2187,43 @@ Enlace: <https://alplox.github.io/mis-recursos-webdev/>
 - <https://fredericbriolet.com/avg/>
 - <https://www.fakemusicgenerator.com/>
 - <https://aidn.jp/jingle/>
+- <https://mubert.com/>
 
 ### AI Video
 
 - <https://huggingface.co/spaces/Lightricks/LTX-Video-Playground>
 - <https://huggingface.co/spaces/multimodalart/stable-video-diffusion>
-- <https://web.vidon.ai/> (de Pago, Requiere cuenta)
+- <https://web.vidon.ai/> (Pagada, Requiere cuenta)
 - <https://rollideo.com/>
 - <https://hailuoai.video/> (Requiere cuenta)
 - <https://app.pixverse.ai/> (Requiere cuenta)
-- <https://runwayml.com/> (de Pago, Requiere cuenta)
+- <https://runwayml.com/> (Pagada, Requiere cuenta)
 - <https://exemplary.ai/ai-clips> (Requiere cuenta)
 - <https://www.clipmove.com> (Requiere cuenta)
+- <https://image2video.ai/> (Requiere cuenta)
+- <https://focalml.com/> (Pagada, Requiere cuenta, 50seg gratis al mes con Watermark)
+- <https://videomaker.me/> (5 seg gratis con Watermark)
+- <https://haiper.ai/> (Pagada, Requiere cuenta, 100 créditos gratis al mes con Watermark)
 
 ### AI Web Dev focus
 
 - <https://v0.dev/>
 - <https://vzy.co/> (Requiere cuenta)
 - <https://www.magicpatterns.com/> (Requiere cuenta)
-- <https://www.relume.io/> (Requiere cuenta, de Pago)
+- <https://www.relume.io/> (Requiere cuenta, Pagada)
 - <https://www.vue0.dev/> (Requiere cuenta)
 
 ### AI Software
 
 - <https://www.nomic.ai/gpt4all>
 - <https://github.com/ai-shifu/ChatALL>
-- <https://ia.net/writer> (de Pago)
+- <https://ia.net/writer> (Pagada)
 - <https://sider.ai/es>
 - <https://rentry.org/sdg-link> (Guías)
 - <https://github.com/mcmonkeyprojects/SwarmUI> (Imágenes)
 - <https://easydiffusion.github.io/docs/installation/> (Imágenes)
+- <https://github.com/fishaudio/fish-speech> (Text to Speech)
+- <https://github.com/daswer123/xtts-finetune-webui> (Text to Speech)
 
 ## Búsqueda trabajo
 
@@ -2273,7 +2303,7 @@ Enlace: <https://alplox.github.io/mis-recursos-webdev/>
 - <https://www.showwcase.com/>
 - <https://jobs.remotrek.com/>
 
-### Easy task (Freelance)
+### Freelance
 
 - <https://www.remotasks.com/>
 - <https://www.freelancer.com/>
@@ -2287,6 +2317,7 @@ Enlace: <https://alplox.github.io/mis-recursos-webdev/>
 - <https://www.prolific.com/>
 - <https://www.clickworker.com/clickworker/>
 - <https://www.swagbucks.com/>
+- <https://www.ycombinator.com/jobs>
 
 ### Herramientas Trabajo
 
@@ -2307,10 +2338,10 @@ Enlace: <https://alplox.github.io/mis-recursos-webdev/>
 - <https://cv.me/>
 - <https://createresumo.herokuapp.com/>
 - <https://flowcv.com/>
-- <https://resoume.com/> (de Pago)
-- <https://zety.com/> (de Pago)
-- <https://artickl.com/> (de Pago)
-- <https://standardresume.co> (de Pago)
+- <https://resoume.com/> (Pagada)
+- <https://zety.com/> (Pagada)
+- <https://artickl.com/> (Pagada)
+- <https://standardresume.co> (Pagada)
 
 ##### Ejemplos/planillas
 
