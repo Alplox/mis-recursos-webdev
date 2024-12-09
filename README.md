@@ -402,6 +402,7 @@ Enlace: <https://alplox.github.io/mis-recursos-webdev/>
 - <https://www.tldraw.com/> (Dibujar/Pizarra)
 - <https://kleki.com/> (Dibujar/Pizarra)
 - <https://jspaint.app/> (Dibujar/Pizarra)
+- <https://www.autodraw.com/> (Dibujar/Pizarra)
 - <https://studio.polotno.dev/> (Editor de diseños rápido)
 - <https://carbon.now.sh> (Compartir código como imagen)
 - <https://gettyimages-downloader.beatsnoop.com/> (Descargar imágenes stock sin marca de agua)
@@ -1979,6 +1980,8 @@ Enlace: <https://alplox.github.io/mis-recursos-webdev/>
 - <https://fakeyou.com/>
 - <https://prompthero.com/>
 - <https://www.fanvue.com/> (OnlyFans, Requiere cuenta)
+- <https://scripai.com/> (Texto/Guiones)
+- <https://www.dupdub.com/> (Content creation tools)
 
 ### AI Colecciones/Toolkit
 
@@ -2090,6 +2093,8 @@ Enlace: <https://alplox.github.io/mis-recursos-webdev/>
 - <https://thegigabrain.com/>
 - <https://delve.a9.io/>
 - <https://character.ai/>
+- <https://venice.ai/>
+- <https://getpoppy.ai/> (Pagada)
 
 ### AI Imágenes
 
@@ -2157,6 +2162,23 @@ Enlace: <https://alplox.github.io/mis-recursos-webdev/>
 - <https://replicate.com/ostris/flux-dev-lora-trainer/train> (Pagada, Requiere cuenta)
 - <https://huggingface.co/spaces/black-forest-labs/FLUX.1-schnell>
 - <https://www.midjourney.com/> (Pagada, Requiere cuenta)
+- <https://www.seaart.ai/> (Requiere cuenta)
+- <https://lorastudio.co/generate>
+- <https://gen-image.com/>
+- <https://dreamstudio.ai/generate> (Requiere cuenta)
+- <https://playground.com/design> (Requiere cuenta)
+- <https://magicstudio.com/es/ai-art-generator/>
+- <https://magichour.ai/products/ai-image-generator> (Watermark)
+- <https://imggen.ai/> (Requiere cuenta)
+- <https://problembo.com/en/services/ai-image-generator>
+- <https://tinywow.com/image/ai-image-generator>
+- <https://www.gening.ai/free-ai-image-generator>
+- <https://nuelink.com/tools/ai-image-generator>
+- <https://www.workintool.com/image-converter/ai-image-generator-online.html>
+- <https://diffusionart.co/> (Multiples en uno)
+- <https://stabledifffusion.com/tools/ai-image-generator> (Watermark)
+- <https://www.dzine.ai/> (Pagada, Requiere cuenta, Gratis con Watermark)
+- <https://www.recraft.ai/ai-image-generator> (Pagada, Requiere cuenta, 25 Gratis diarias y se publican a resto de usuarios)
 
 ### AI Audio
 
@@ -2204,6 +2226,14 @@ Enlace: <https://alplox.github.io/mis-recursos-webdev/>
 - <https://focalml.com/> (Pagada, Requiere cuenta, 50seg gratis al mes con Watermark)
 - <https://videomaker.me/> (5 seg gratis con Watermark)
 - <https://haiper.ai/> (Pagada, Requiere cuenta, 100 créditos gratis al mes con Watermark)
+- <https://pictory.ai/> (Pagada, Requiere cuenta)
+- <https://vivago.ai/> (Pagada, Requiere cuenta, 3 intentos gratis por dia de 5seg con Watermark (se puede evitar))
+- <https://ai.invideo.io/> (Pagada, Requiere cuenta, 10 minutos gratis con Watermark)
+- <https://workspace.google.com/products/vids/> (Pagada, Requiere cuenta)
+- <https://openai.com/sora/> (Pagada, Requiere cuenta)
+- <https://www.genmo.ai/play> (Pagada, Requiere cuenta, 4 videos gratis de 5 segundos cada 6 horas con Watermark)
+- <https://pollo.ai/> (Pagada, Requiere cuenta, 2 videos gratis de 5 segundos cada 6 horas con Watermark)
+- <https://studio.clipwise.ai/> (Pagada, Requiere cuenta [permite ver/descargar videos generados por usuarios])
 
 ### AI Web Dev focus
 
@@ -2224,6 +2254,7 @@ Enlace: <https://alplox.github.io/mis-recursos-webdev/>
 - <https://easydiffusion.github.io/docs/installation/> (Imágenes)
 - <https://github.com/fishaudio/fish-speech> (Text to Speech)
 - <https://github.com/daswer123/xtts-finetune-webui> (Text to Speech)
+- <https://lykos.ai/> (Imágenes)
 
 ## Búsqueda trabajo
 
