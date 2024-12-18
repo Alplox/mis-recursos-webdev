@@ -573,6 +573,7 @@ Enlace: <https://alplox.github.io/mis-recursos-webdev/>
 - <https://screensizemap.com/>
 - <https://spline.design/> (Requiere cuenta)
 - <https://www.umso.com/>
+- <https://motiff.com/>
 
 #### Figma plugin
 
@@ -1094,6 +1095,7 @@ Enlace: <https://alplox.github.io/mis-recursos-webdev/>
 - <https://github.com/colbyfayock/50-projects-for-react-and-the-static-web>
 - <https://github.com/florinpop17/app-ideas>
 - <https://pixact.ly/>
+- <https://neetcode.io/>
 
 ### Guías visuales (Roadmap) para ser un web developer
 
@@ -1422,6 +1424,7 @@ Enlace: <https://alplox.github.io/mis-recursos-webdev/>
 - <https://purepng.com/>
 - <https://www.stickpng.com/es>
 - <https://www.pngwing.com>
+- <https://www.pngegg.com/>
 - <https://vavebg.com/> (AI CC0)
 - <https://pixelmob.co/>
 - <https://giphy.com>
@@ -1849,6 +1852,7 @@ Enlace: <https://alplox.github.io/mis-recursos-webdev/>
 - <https://uxplanet.org/>
 - <https://news.todayin.design/>
 - <https://www.stateofeuropeantech.com/>
+- <https://interviewing.io/blog>
 
 ### Inspiración exclusivamente
 
@@ -2179,6 +2183,8 @@ Enlace: <https://alplox.github.io/mis-recursos-webdev/>
 - <https://stabledifffusion.com/tools/ai-image-generator> (Watermark)
 - <https://www.dzine.ai/> (Pagada, Requiere cuenta, Gratis con Watermark)
 - <https://www.recraft.ai/ai-image-generator> (Pagada, Requiere cuenta, 25 Gratis diarias y se publican a resto de usuarios)
+- <https://tensor.art/> (Pagada, Requiere cuenta, 50 créditos gratis diarios)
+- <https://pika.art/> (Pagada, Requiere cuenta, 150 créditos gratis mensuales)
 
 ### AI Audio
 
@@ -2234,6 +2240,8 @@ Enlace: <https://alplox.github.io/mis-recursos-webdev/>
 - <https://www.genmo.ai/play> (Pagada, Requiere cuenta, 4 videos gratis de 5 segundos cada 6 horas con Watermark)
 - <https://pollo.ai/> (Pagada, Requiere cuenta, 2 videos gratis de 5 segundos cada 6 horas con Watermark)
 - <https://studio.clipwise.ai/> (Pagada, Requiere cuenta [permite ver/descargar videos generados por usuarios])
+- <https://app.fliki.ai/> (Pagada, Requiere cuenta, 5 minutos gratis diarios)
+- <https://crayo.ai> (Pagada, Requiere cuenta, Brainrot)
 
 ### AI Web Dev focus
 
@@ -2242,6 +2250,7 @@ Enlace: <https://alplox.github.io/mis-recursos-webdev/>
 - <https://www.magicpatterns.com/> (Requiere cuenta)
 - <https://www.relume.io/> (Requiere cuenta, Pagada)
 - <https://www.vue0.dev/> (Requiere cuenta)
+- <https://uizard.io/> (Requiere cuenta)
 
 ### AI Software
 
@@ -2374,13 +2383,14 @@ Enlace: <https://alplox.github.io/mis-recursos-webdev/>
 - <https://artickl.com/> (Pagada)
 - <https://standardresume.co> (Pagada)
 
-##### Ejemplos/planillas
+##### Ejemplos/plantillas
 
 - <https://sence.gob.cl/sites/default/files/elabor1.pdf>
 - <https://careerservices.fas.harvard.edu/resources/bullet-point-resume-template/>
 - <https://create.microsoft.com/es-es/templates/curr%C3%ADculos>
 - <https://www.ejecutivolatino.com/posts/curriculum-vitae/#13-plantilla-descargable>
 - <https://sheetsresume.com/resume-template/>
+- <https://www.overleaf.com/latex/templates/tagged/cv>
 
 ##### Salario
 
