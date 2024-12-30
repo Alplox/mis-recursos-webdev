@@ -472,6 +472,7 @@ Enlace: <https://alplox.github.io/mis-recursos-webdev/>
 - <https://www.befunky.com/create/>
 - <https://snappify.com/editor>
 - <https://ezgif.com/> (GIF editor y convertidor)
+- <https://www.textstudio.com/> (Texto)
 
 #### Editor PixelArt
 
@@ -1032,6 +1033,7 @@ Enlace: <https://alplox.github.io/mis-recursos-webdev/>
 - <https://byet.host/>
 - <https://fleek.co/>
 - <https://codeberg.page/>
+- <https://mmm.page/>
 
 ## Guías
 
@@ -1284,6 +1286,7 @@ Enlace: <https://alplox.github.io/mis-recursos-webdev/>
 - <https://unblast.com/> (PSD templates)
 - <https://easlo.notion.site/Notion-Resources-61db8d8ecc0040f7bfac85e21738d906?p=2063488f6b83451db9900db35e2cf88b&pm=s>
 - <https://www.mockupworld.co/>
+- <https://resourceboy.com/>
 - <https://www.pixeden.com/>
 - <https://graficzny.com.pl>
 - <https://mckups.com/>
@@ -1425,6 +1428,7 @@ Enlace: <https://alplox.github.io/mis-recursos-webdev/>
 - <https://www.stickpng.com/es>
 - <https://www.pngwing.com>
 - <https://www.pngegg.com/>
+- <https://imgbin.com/>
 - <https://vavebg.com/> (AI CC0)
 - <https://pixelmob.co/>
 - <https://giphy.com>
@@ -2251,6 +2255,7 @@ Enlace: <https://alplox.github.io/mis-recursos-webdev/>
 - <https://www.relume.io/> (Requiere cuenta, Pagada)
 - <https://www.vue0.dev/> (Requiere cuenta)
 - <https://uizard.io/> (Requiere cuenta)
+- <https://bolt.new/>
 
 ### AI Software
 
