@@ -575,6 +575,7 @@ Enlace: <https://alplox.github.io/mis-recursos-webdev/>
 - <https://spline.design/> (Requiere cuenta)
 - <https://www.umso.com/>
 - <https://motiff.com/>
+- <https://miro.com>
 
 #### Figma plugin
 
@@ -2246,6 +2247,7 @@ Enlace: <https://alplox.github.io/mis-recursos-webdev/>
 - <https://studio.clipwise.ai/> (Pagada, Requiere cuenta [permite ver/descargar videos generados por usuarios])
 - <https://app.fliki.ai/> (Pagada, Requiere cuenta, 5 minutos gratis diarios)
 - <https://crayo.ai> (Pagada, Requiere cuenta, Brainrot)
+- <https://www.vidu.studio/> (Pagada, Requiere cuenta, 80 créditos mensuales para videos de 4s)
 
 ### AI Web Dev focus
 
@@ -2308,6 +2310,7 @@ Enlace: <https://alplox.github.io/mis-recursos-webdev/>
 - <https://empleo.trovit.cl/>
 - <https://cl.talent.com/jobs>
 - <https://www.rastro.com/>
+- <https://chile.trabajos.com/>
 
 #### Universidades/Institutos
 
@@ -2347,14 +2350,19 @@ Enlace: <https://alplox.github.io/mis-recursos-webdev/>
 - <https://arc.dev/talent>
 - <https://www.showwcase.com/>
 - <https://jobs.remotrek.com/>
+- <https://talently.tech/>
 
 ### Freelance
+
+También conocidos como: pagan por tarea
 
 - <https://www.remotasks.com/>
 - <https://www.freelancer.com/>
 - <https://www.mturk.com/>
 - <https://www.glassdoor.com/index.htm>
 - <https://www.upwork.com/>
+- <https://www.dataannotation.tech/>
+- <https://outlier.ai/>
 
 ### US focus
 
