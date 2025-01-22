@@ -576,6 +576,8 @@ Enlace: <https://alplox.github.io/mis-recursos-webdev/>
 - <https://www.umso.com/>
 - <https://motiff.com/>
 - <https://miro.com>
+- <https://www.pacdora.com/>
+- <https://www.kittl.com/>
 
 #### Figma plugin
 
@@ -1287,6 +1289,7 @@ Enlace: <https://alplox.github.io/mis-recursos-webdev/>
 - <https://unblast.com/> (PSD templates)
 - <https://easlo.notion.site/Notion-Resources-61db8d8ecc0040f7bfac85e21738d906?p=2063488f6b83451db9900db35e2cf88b&pm=s>
 - <https://www.mockupworld.co/>
+- <https://mockups-design.com/>
 - <https://resourceboy.com/>
 - <https://www.pixeden.com/>
 - <https://graficzny.com.pl>
@@ -2104,6 +2107,8 @@ Enlace: <https://alplox.github.io/mis-recursos-webdev/>
 - <https://character.ai/>
 - <https://venice.ai/>
 - <https://getpoppy.ai/> (Pagada)
+- <https://chat.deepseek.com> (Requiere cuenta)
+- <https://notebooklm.google/> (Interactua con documentos)
 
 ### AI Imágenes
 
@@ -2210,6 +2215,7 @@ Enlace: <https://alplox.github.io/mis-recursos-webdev/>
 - <https://ttstool.com/> (1000 caracteres)
 - <https://play.ht/text-to-speech/> (Pagada, Requiere cuenta, 12500 caracteres gratis al mes)
 - <https://ttsmaker.com/> (Pagada, Requiere cuenta, 20000 caracteres gratis por semana (≈1.84 Horas))
+- <https://tts.hircoir.eu.org/>
 
 ### AI Música
 
@@ -2248,6 +2254,9 @@ Enlace: <https://alplox.github.io/mis-recursos-webdev/>
 - <https://app.fliki.ai/> (Pagada, Requiere cuenta, 5 minutos gratis diarios)
 - <https://crayo.ai> (Pagada, Requiere cuenta, Brainrot)
 - <https://www.vidu.studio/> (Pagada, Requiere cuenta, 80 créditos mensuales para videos de 4s)
+- <https://invideo.io/> (Pagada, Requiere cuenta, 4 exportaciones por mes con Watermark)
+- <https://fliki.ai/> (Pagada, Requiere cuenta, 5 minutos gratis por mes)
+
 
 ### AI Web Dev focus
 
