@@ -74,6 +74,7 @@ Enlace: <https://alplox.github.io/mis-recursos-webdev/>
 - <https://regexr.com/>
 - <https://extendsclass.com/regex-tester.html>
 - <https://regexper.com/>
+- <https://rextester.com/>
 - <https://httpie.io/app>
 - <https://transform.tools/>
 - <https://simplepdf.com/>
@@ -1861,6 +1862,7 @@ Enlace: <https://alplox.github.io/mis-recursos-webdev/>
 - <https://news.todayin.design/>
 - <https://www.stateofeuropeantech.com/>
 - <https://interviewing.io/blog>
+- <https://hackerone.com/hacktivity/overview>
 
 ### Inspiración exclusivamente
 
@@ -1940,6 +1942,7 @@ Enlace: <https://alplox.github.io/mis-recursos-webdev/>
 - <https://devcode.la/>
 - <https://every-layout.dev/>
 - <https://www.edx.org>
+- <https://www.boot.dev/>
 
 ## Servicios de pago
 
@@ -2253,10 +2256,9 @@ Enlace: <https://alplox.github.io/mis-recursos-webdev/>
 - <https://studio.clipwise.ai/> (Pagada, Requiere cuenta [permite ver/descargar videos generados por usuarios])
 - <https://app.fliki.ai/> (Pagada, Requiere cuenta, 5 minutos gratis diarios)
 - <https://crayo.ai> (Pagada, Requiere cuenta, Brainrot)
-- <https://www.vidu.studio/> (Pagada, Requiere cuenta, 80 créditos mensuales para videos de 4s)
+- <https://www.vidu.com/> (Pagada, Requiere cuenta, 80 créditos mensuales para videos de 4s)
 - <https://invideo.io/> (Pagada, Requiere cuenta, 4 exportaciones por mes con Watermark)
 - <https://fliki.ai/> (Pagada, Requiere cuenta, 5 minutos gratis por mes)
-
 
 ### AI Web Dev focus
 
@@ -2308,6 +2310,7 @@ Enlace: <https://alplox.github.io/mis-recursos-webdev/>
 
 - <https://www.bne.cl/>
 - <https://lookerstudio.google.com/u/0/reporting/1Tt-TIit7n1AaPPtdXLHOzgPSNFCLGQRf/page/DRf3B?s=hVvWWJQlD5w>
+- <https://empleospublicos.cl/>
 - <https://www.empleospublicos.cl/pub/convocatorias/convocatorias.aspx>
 - <https://www.serviciocivil.cl/postulantes/>
 - <https://firstjob.me/>
@@ -2320,6 +2323,7 @@ Enlace: <https://alplox.github.io/mis-recursos-webdev/>
 - <https://cl.talent.com/jobs>
 - <https://www.rastro.com/>
 - <https://chile.trabajos.com/>
+- <https://www.trabajoconsentido.com/>
 
 #### Universidades/Institutos
 
@@ -2385,6 +2389,7 @@ También conocidos como: pagan por tarea
 
 - <https://nomadlist.com/>
 - <https://github.com/devschile/remoto-desde-chile>
+- <https://sence.gob.cl/personas/orientacion-laboral>
 - <https://insights.getonbrd.com/>
 - <https://campus.fundaciontelefonicamovistar.com/nueva-empleabilidad/mapa-del-empleo/>
 - <https://orientador.fundaciontelefonica.com/>
