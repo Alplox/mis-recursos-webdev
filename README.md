@@ -261,6 +261,7 @@ Enlace: <https://alplox.github.io/mis-recursos-webdev/>
 - <https://arantius.github.io/web-color-wheel/>
 - <https://hihayk.github.io/scale/>
 - <https://tailwindpalette.jurs.me/>
+- <https://www.canva.com/colors/color-wheel/>
 
 #### Revisar contraste
 
@@ -669,7 +670,9 @@ Enlace: <https://alplox.github.io/mis-recursos-webdev/>
 - <https://vioo.cc/> (video)
 - <https://qtext.io> (Texto)
 - <https://ctxt.io/> (Texto)
+- <https://chirp.hex.dance/> (Texto)
 - <https://onedoes.github.io/snapdrop/>
+
 
 #### P2P
 
@@ -772,6 +775,8 @@ Enlace: <https://alplox.github.io/mis-recursos-webdev/>
 - <https://getkap.co/>
 - <https://cap.so/>
 - <https://getsharex.com/>
+- <https://obsproject.com/es/download>
+- <https://meldstudio.co/>
 
 #### IDE's
 
@@ -1604,6 +1609,7 @@ Enlace: <https://alplox.github.io/mis-recursos-webdev/>
 - <https://tobiasahlin.com/moving-letters/>
 - <https://hypercolor.dev/>
 - <https://github.com/atherosai/ui>
+- <https://bg.ibelick.com/>
 
 ### HTML Snippets
 
@@ -2418,6 +2424,7 @@ También conocidos como: pagan por tarea
 - <https://www.ejecutivolatino.com/posts/curriculum-vitae/#13-plantilla-descargable>
 - <https://sheetsresume.com/resume-template/>
 - <https://www.overleaf.com/latex/templates/tagged/cv>
+- <https://blog.pragmaticengineer.com/the-pragmatic-engineers-resume-template/>
 
 ##### Salario
 
