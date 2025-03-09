@@ -676,10 +676,10 @@ Enlace: <https://alplox.github.io/mis-recursos-webdev/>
 
 #### P2P
 
-    - <https://file.pizza/>
-    - <https://instant.io/>
-    - <https://toffeeshare.com/es/>
-    - <https://winden.app/s>
+- <https://file.pizza/>
+- <https://instant.io/>
+- <https://toffeeshare.com/es/>
+- <https://winden.app/s>
 
 ### Video
 
@@ -787,14 +787,14 @@ Enlace: <https://alplox.github.io/mis-recursos-webdev/>
 
 ##### Extensiones
 
-    - <https://console-ninja.com/> (Console log output helper)
-    - <https://www.flyde.dev/> (Visual programming)
-    - <https://ide.swmansion.com/> (React Native)
-    - <https://vscodium.com/>
-    - <https://www.eclipse.org/ide/>
-    - <https://www.vim.org/>
-    - <https://notepad-plus-plus.org/>
-    - <https://zed.dev/>
+- <https://console-ninja.com/> (Console log output helper)
+- <https://www.flyde.dev/> (Visual programming)
+- <https://ide.swmansion.com/> (React Native)
+- <https://vscodium.com/>
+- <https://www.eclipse.org/ide/>
+- <https://www.vim.org/>
+- <https://notepad-plus-plus.org/>
+- <https://zed.dev/>
 
 #### Editores imágenes
 
