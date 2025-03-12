@@ -441,6 +441,7 @@ Enlace: <https://alplox.github.io/mis-recursos-webdev/>
 - <https://pixelframe.design/tag/generator/>
 - <https://ezgif.com/webp-to-gif>
 - <https://frinkiac.com/> (Simpsons)
+- <https://shotfaker.blazer.lol/> (Instagram)
 
 #### Editar imágenes online
 
@@ -475,6 +476,7 @@ Enlace: <https://alplox.github.io/mis-recursos-webdev/>
 - <https://snappify.com/editor>
 - <https://ezgif.com/> (GIF editor y convertidor)
 - <https://www.textstudio.com/> (Texto)
+- <https://www.3dgifmaker.com/360Spin>
 
 #### Editor PixelArt
 
@@ -672,7 +674,6 @@ Enlace: <https://alplox.github.io/mis-recursos-webdev/>
 - <https://ctxt.io/> (Texto)
 - <https://chirp.hex.dance/> (Texto)
 - <https://onedoes.github.io/snapdrop/>
-
 
 #### P2P
 
@@ -1452,10 +1453,11 @@ Enlace: <https://alplox.github.io/mis-recursos-webdev/>
 - <https://www.clipcanvas.com/free-footage>
 - <https://www.videezy.com/>
 - <https://www.vidsplay.com/>
-- <https://www.bouncecolor.com/search?type=product%2Cpage%2Carticle&q=free>*
+- <https://www.bouncecolor.com/search?type=product%2Cpage%2Carticle&q=free>
 - <https://www.shutterstock.com/blog/free-video-editor-toolkit-assets>
 - <https://www.actionvfx.com/collections/free-vfx/category>
 - <https://cinepacks.store/collections/free-packs>
+- <https://getyarn.io/>  (Buscar por frase)
 
 ### Templates Gratuitas
 
