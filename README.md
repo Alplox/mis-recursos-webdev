@@ -1355,6 +1355,7 @@ Enlace: <https://alplox.github.io/mis-recursos-webdev/>
 - <https://iconoir.com/>
 - <https://www.mingcute.com/>
 - <https://tabler.io/icons>
+- <https://animatedicons.co/>
 
 ### Ilustraciones Gratuitas
 
@@ -1520,6 +1521,9 @@ Enlace: <https://alplox.github.io/mis-recursos-webdev/>
 - <https://www.chosic.com/free-music/all/>
 - <https://www.musopen.org/>
 - <https://sounddino.com/>
+- <https://freetouse.com/music>
+- <https://www.zapsplat.com/>
+- <https://tuna.voicemod.net/>
 
 ### Incluyen de pago
 
@@ -1939,6 +1943,7 @@ Enlace: <https://alplox.github.io/mis-recursos-webdev/>
 - <https://refero.design/>
 - <https://watch.runwayml.com/generation>
 - <https://textvis.lnu.se/>
+- <https://glass.photo/> (Requiere cuenta)
 
 ## Cursos de pago
 
@@ -2088,7 +2093,9 @@ Enlace: <https://alplox.github.io/mis-recursos-webdev/>
 
 - <https://chatgpt.com/> (Requiere cuenta)
 - <https://www.bing.com/chat>
+- <https://chat.deepseek.com/>
 - <https://gemini.google.com/> (Requiere cuenta)
+- <https://chat.mistral.ai/chat>
 - <https://www.phind.com/agent?home=true>
 - <https://www.perplexity.ai/>
 - <https://claude.ai/> (Requiere cuenta)
