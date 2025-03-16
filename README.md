@@ -442,6 +442,7 @@ Enlace: <https://alplox.github.io/mis-recursos-webdev/>
 - <https://ezgif.com/webp-to-gif>
 - <https://frinkiac.com/> (Simpsons)
 - <https://shotfaker.blazer.lol/> (Instagram)
+- <https://schultzschultz.com/gridpaint/>
 
 #### Editar imágenes online
 
@@ -477,6 +478,8 @@ Enlace: <https://alplox.github.io/mis-recursos-webdev/>
 - <https://ezgif.com/> (GIF editor y convertidor)
 - <https://www.textstudio.com/> (Texto)
 - <https://www.3dgifmaker.com/360Spin>
+- <https://moshpro.app/> (Efectos,Watermark, De Pago)
+- <https://www.tooooools.app/> (Efectos)
 
 #### Editor PixelArt
 
@@ -650,6 +653,11 @@ Enlace: <https://alplox.github.io/mis-recursos-webdev/>
 - <https://fontshare.com/>
 - <https://fontsource.org/>
 - <https://www.realtimecolors.com>
+- <https://www.fontbrief.com/fontbrief>
+- <https://typedither.vercel.app/>
+- <https://enfont.javierarce.com/>
+- <https://uncut.wtf/>
+- <https://www.freefaces.gallery/>
 
 ### Compartir archivos
 
@@ -1444,6 +1452,8 @@ Enlace: <https://alplox.github.io/mis-recursos-webdev/>
 - <https://vavebg.com/> (AI CC0)
 - <https://pixelmob.co/>
 - <https://giphy.com>
+- <https://dupephotos.com/>
+- <https://www.lummi.ai/> (AI CC0)
 
 ### Vídeos Gratuitos
 
@@ -1556,6 +1566,7 @@ Enlace: <https://alplox.github.io/mis-recursos-webdev/>
 - <https://ui.lndev.me/>
 - <https://www.ls.graphics/free-mockups>
 - <https://www.motionvfx.com/>
+- <https://motionarray.com/> (Requiere cuenta)
 
 ## API's
 
@@ -1837,6 +1848,7 @@ Enlace: <https://alplox.github.io/mis-recursos-webdev/>
 - <https://geometryclub.org/>
 - <https://muz.li/es> (Extension)
 - <https://www.curationofcurations.com/>
+- <https://www.are.na/> (Requiere cuenta, De pago, 200 "bloques gratis")
 
 ### Blogs
 
@@ -1944,6 +1956,10 @@ Enlace: <https://alplox.github.io/mis-recursos-webdev/>
 - <https://watch.runwayml.com/generation>
 - <https://textvis.lnu.se/>
 - <https://glass.photo/> (Requiere cuenta)
+- <https://play.soot.com/>
+- <https://www.rebrand.gallery/>
+- <https://openverse.org/>
+- <https://beta.archivepdf.net/>
 
 ## Cursos de pago
 
@@ -2213,6 +2229,8 @@ Enlace: <https://alplox.github.io/mis-recursos-webdev/>
 - <https://www.recraft.ai/ai-image-generator> (Pagada, Requiere cuenta, 25 Gratis diarias y se publican a resto de usuarios)
 - <https://tensor.art/> (Pagada, Requiere cuenta, 50 créditos gratis diarios)
 - <https://pika.art/> (Pagada, Requiere cuenta, 150 créditos gratis mensuales)
+- <https://www.piclumen.com/> (Pagada, Requiere cuenta, 10 créditos (creaciones) gratis diarios)
+- <https://www.everypixel.com/> (Stock image search engine powered by AI)
 
 ### AI Audio
 
