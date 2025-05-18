@@ -543,6 +543,7 @@ Enlace: <https://alplox.github.io/mis-recursos-webdev/>
 - <https://huggingface.co/spaces/Xenova/remove-background-web>
 - <https://bgbye.fyrean.com/>
 - <https://www.adobe.com/express/feature/image/remove-background>
+- <https://www.pixelcut.ai/background-remover/png-maker>
 
 ### Diseño
 
@@ -585,6 +586,7 @@ Enlace: <https://alplox.github.io/mis-recursos-webdev/>
 - <https://miro.com>
 - <https://www.pacdora.com/>
 - <https://www.kittl.com/>
+- <https://milkshake.app/>
 
 #### Figma plugin
 
@@ -705,6 +707,8 @@ Enlace: <https://alplox.github.io/mis-recursos-webdev/>
 - <https://mastershot.app/> (Requiere cuenta)
 - <https://web-learn.netlify.app> (Tutoriales)
 - <https://autojumpcutter.com/>
+- <https://www.unscreen.com/upload> (remover fondo)
+- <https://www.geolayers.app/> (Mapas animados)
 
 ### Audio
 
@@ -722,6 +726,8 @@ Enlace: <https://alplox.github.io/mis-recursos-webdev/>
 - <https://vocali.se>
 - <https://vocalremover.org/>
 - <https://audiotrimmer.com/>
+- <https://voicechanger.io/>
+- <https://ttsfree.com/>
 
 ## Recursos
 
@@ -1448,6 +1454,8 @@ Enlace: <https://alplox.github.io/mis-recursos-webdev/>
 - <https://www.stickpng.com/es>
 - <https://www.pngwing.com>
 - <https://www.pngegg.com/>
+- <https://www.pngitem.com/>
+- <https://www.vhv.rs/>
 - <https://imgbin.com/>
 - <https://vavebg.com/> (AI CC0)
 - <https://pixelmob.co/>
@@ -1960,6 +1968,7 @@ Enlace: <https://alplox.github.io/mis-recursos-webdev/>
 - <https://www.rebrand.gallery/>
 - <https://openverse.org/>
 - <https://beta.archivepdf.net/>
+- <https://de.pinterest.com/daveweimann/>
 
 ## Cursos de pago
 
@@ -2004,6 +2013,7 @@ Enlace: <https://alplox.github.io/mis-recursos-webdev/>
 - <https://www.lambdatest.com/>
 - <https://www.browserstack.com/>
 - <https://www.soundsnap.com/>
+- <https://artlist.io/>
 
 ## AI
 
@@ -2110,6 +2120,7 @@ Enlace: <https://alplox.github.io/mis-recursos-webdev/>
 - <https://chatgpt.com/> (Requiere cuenta)
 - <https://www.bing.com/chat>
 - <https://chat.deepseek.com/>
+- <https://chat.qwen.ai/>
 - <https://gemini.google.com/> (Requiere cuenta)
 - <https://chat.mistral.ai/chat>
 - <https://www.phind.com/agent?home=true>
@@ -2252,6 +2263,9 @@ Enlace: <https://alplox.github.io/mis-recursos-webdev/>
 - <https://play.ht/text-to-speech/> (Pagada, Requiere cuenta, 12500 caracteres gratis al mes)
 - <https://ttsmaker.com/> (Pagada, Requiere cuenta, 20000 caracteres gratis por semana (≈1.84 Horas))
 - <https://tts.hircoir.eu.org/>
+- <https://fish.audio/> (Pagada, Requiere cuenta, 1 hora por mes gratis)
+- <https://huggingface.co/spaces/nari-labs/Dia-1.6B>
+- <https://www.weights.com> (Pagada, Requiere cuenta, 100 usos por mes)
 
 ### AI Música
 
@@ -2263,6 +2277,7 @@ Enlace: <https://alplox.github.io/mis-recursos-webdev/>
 - <https://www.fakemusicgenerator.com/>
 - <https://aidn.jp/jingle/>
 - <https://mubert.com/>
+- <https://sonauto.ai/>
 
 ### AI Video
 
@@ -2292,6 +2307,9 @@ Enlace: <https://alplox.github.io/mis-recursos-webdev/>
 - <https://www.vidu.com/> (Pagada, Requiere cuenta, 80 créditos mensuales para videos de 4s)
 - <https://invideo.io/> (Pagada, Requiere cuenta, 4 exportaciones por mes con Watermark)
 - <https://fliki.ai/> (Pagada, Requiere cuenta, 5 minutos gratis por mes)
+- <https://www.heygen.com/> (Pagada, Requiere Cuenta, AI Avatars, 3 Videos gratis por mes)
+- <https://deepmind.google/technologies/veo/veo-2/> (Requiere cuenta, Waiting list)
+- <https://firefly.adobe.com/> (Pagada, Requiere cuenta)
 
 ### AI Web Dev focus
 
