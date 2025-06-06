@@ -78,6 +78,7 @@ Enlace: <https://alplox.github.io/mis-recursos-webdev/>
 - <https://httpie.io/app>
 - <https://transform.tools/>
 - <https://simplepdf.com/>
+- <https://cryptpad.fr> (Office)
 
 ## Herramientas
 
@@ -443,6 +444,7 @@ Enlace: <https://alplox.github.io/mis-recursos-webdev/>
 - <https://frinkiac.com/> (Simpsons)
 - <https://shotfaker.blazer.lol/> (Instagram)
 - <https://schultzschultz.com/gridpaint/>
+- <https://tokcomment.com/> (tiktok msg)
 
 #### Editar imágenes online
 
@@ -810,6 +812,7 @@ Enlace: <https://alplox.github.io/mis-recursos-webdev/>
 - <https://www.vim.org/>
 - <https://notepad-plus-plus.org/>
 - <https://zed.dev/>
+- <https://www.task-master.dev/>
 
 #### Editores imágenes
 
@@ -2242,6 +2245,7 @@ Enlace: <https://alplox.github.io/mis-recursos-webdev/>
 - <https://pika.art/> (Pagada, Requiere cuenta, 150 créditos gratis mensuales)
 - <https://www.piclumen.com/> (Pagada, Requiere cuenta, 10 créditos (creaciones) gratis diarios)
 - <https://www.everypixel.com/> (Stock image search engine powered by AI)
+- <https://fal.ai/models/fal-ai/flux-pro/kontext/max/multi/playground> (Requiere cuenta)
 
 ### AI Audio
 
@@ -2266,6 +2270,7 @@ Enlace: <https://alplox.github.io/mis-recursos-webdev/>
 - <https://fish.audio/> (Pagada, Requiere cuenta, 1 hora por mes gratis)
 - <https://huggingface.co/spaces/nari-labs/Dia-1.6B>
 - <https://www.weights.com> (Pagada, Requiere cuenta, 100 usos por mes)
+- <https://www.hume.ai/> (Pagada, Requiere cuenta, 10,000 caracteres gratis al mes (~10 minutos))
 
 ### AI Música
 
@@ -2310,6 +2315,8 @@ Enlace: <https://alplox.github.io/mis-recursos-webdev/>
 - <https://www.heygen.com/> (Pagada, Requiere Cuenta, AI Avatars, 3 Videos gratis por mes)
 - <https://deepmind.google/technologies/veo/veo-2/> (Requiere cuenta, Waiting list)
 - <https://firefly.adobe.com/> (Pagada, Requiere cuenta)
+- <https://www.hedra.com/> (Pagada, Requiere cuent, 300 creditos por mes, No commercial use)
+- <https://ltx.studio/> (Pagada, Requiere cuenta, 800 segundos unicos, No commercial use)
 
 ### AI Web Dev focus
 
