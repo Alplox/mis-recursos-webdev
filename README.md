@@ -546,6 +546,7 @@ Enlace: <https://alplox.github.io/mis-recursos-webdev/>
 - <https://bgbye.fyrean.com/>
 - <https://www.adobe.com/express/feature/image/remove-background>
 - <https://www.pixelcut.ai/background-remover/png-maker>
+- <https://tools.dverso.io/bgremove/>
 
 ### Diseño
 
@@ -730,6 +731,7 @@ Enlace: <https://alplox.github.io/mis-recursos-webdev/>
 - <https://audiotrimmer.com/>
 - <https://voicechanger.io/>
 - <https://ttsfree.com/>
+- <https://multimedia.easeus.com/vocal-remover/>
 
 ## Recursos
 
@@ -1031,36 +1033,6 @@ Enlace: <https://alplox.github.io/mis-recursos-webdev/>
 - <https://mafs.dev/>
 - <https://mironov.github.io/react-redux-loading-bar/>
 - <https://sonner.emilkowal.ski/>
-
-### Hosting gratuito
-
-- <https://neocities.org/>
-- <https://pages.github.com/>
-- <https://www.netlify.com/>
-- <https://www.heroku.com/>
-- <https://www.000webhost.com/>
-- <https://www.launchaco.com/>
-- <https://www.jimdo.com/es/>
-- <https://vercel.com/>
-- <https://tiiny.host/>
-- <https://mdbgo.com/>
-- <https://firebase.google.com/>
-- <https://aws.amazon.com/es/>
-- <https://surge.sh/>
-- <https://render.com/>
-- <https://about.gitlab.com/>
-- <https://www.stormkit.io/>
-- <https://azure.microsoft.com/es-es/free/>
-- <https://hostman.com/>
-- <https://fosshost.org/>
-- <https://www.clodui.com/>
-- <https://pages.cloudflare.com/>
-- <https://ionos.space/>
-- <https://ngrok.com/>
-- <https://byet.host/>
-- <https://fleek.co/>
-- <https://codeberg.page/>
-- <https://mmm.page/>
 
 ## Guías
 
@@ -1465,6 +1437,7 @@ Enlace: <https://alplox.github.io/mis-recursos-webdev/>
 - <https://giphy.com>
 - <https://dupephotos.com/>
 - <https://www.lummi.ai/> (AI CC0)
+- <https://microsoft.design/wallpapers/>
 
 ### Vídeos Gratuitos
 
@@ -1530,6 +1503,13 @@ Enlace: <https://alplox.github.io/mis-recursos-webdev/>
 - <https://www.youworkforthem.com/fonts/free>
 - <https://www.behance.net/gallery/157098593/Estrella-Free-Display-Font>
 - <https://pixelsurplus.com/collections/free-fonts>
+- <https://github.com/github/mona-sans>
+- <https://github.com/mona-sans>
+- <https://www.fontshare.com/fonts/zodiak>
+- <https://fontesk.com/ts-crude-font/>
+- <https://www.fontshare.com/fonts/panchang>
+- <https://fontesk.com/thorsa-font/>
+- <https://fontesk.com/sage-grotesk-font/>
 
 ### Audios Gratuitos
 
@@ -1545,6 +1525,37 @@ Enlace: <https://alplox.github.io/mis-recursos-webdev/>
 - <https://freetouse.com/music>
 - <https://www.zapsplat.com/>
 - <https://tuna.voicemod.net/>
+
+### Hosting gratuito
+
+- <https://neocities.org/>
+- <https://pages.github.com/>
+- <https://www.netlify.com/>
+- <https://www.heroku.com/>
+- <https://www.000webhost.com/>
+- <https://www.launchaco.com/>
+- <https://www.jimdo.com/es/>
+- <https://vercel.com/>
+- <https://tiiny.host/>
+- <https://mdbgo.com/>
+- <https://firebase.google.com/>
+- <https://aws.amazon.com/es/>
+- <https://surge.sh/>
+- <https://render.com/>
+- <https://about.gitlab.com/>
+- <https://www.stormkit.io/>
+- <https://azure.microsoft.com/es-es/free/>
+- <https://hostman.com/>
+- <https://fosshost.org/>
+- <https://www.clodui.com/>
+- <https://pages.cloudflare.com/>
+- <https://ionos.space/>
+- <https://ngrok.com/>
+- <https://byet.host/>
+- <https://fleek.co/>
+- <https://codeberg.page/>
+- <https://mmm.page/>
+- <https://carrd.co/>
 
 ### Incluyen de pago
 
@@ -2157,6 +2168,7 @@ Enlace: <https://alplox.github.io/mis-recursos-webdev/>
 - <https://getpoppy.ai/> (Pagada)
 - <https://chat.deepseek.com> (Requiere cuenta)
 - <https://notebooklm.google/> (Interactua con documentos)
+- <https://manus.im/home> (prompt generator/helper)
 
 ### AI Imágenes
 
@@ -2246,6 +2258,9 @@ Enlace: <https://alplox.github.io/mis-recursos-webdev/>
 - <https://www.piclumen.com/> (Pagada, Requiere cuenta, 10 créditos (creaciones) gratis diarios)
 - <https://www.everypixel.com/> (Stock image search engine powered by AI)
 - <https://fal.ai/models/fal-ai/flux-pro/kontext/max/multi/playground> (Requiere cuenta)
+- <https://fooocus.one/> (Pagada, Requiere cuenta)
+- <https://ideogram.ai/t/explore> (Pagada, Requiere cuenta)
+- <https://labs.google/fx/tools/whisk> (Requiere cuenta)
 
 ### AI Audio
 
@@ -2317,6 +2332,8 @@ Enlace: <https://alplox.github.io/mis-recursos-webdev/>
 - <https://firefly.adobe.com/> (Pagada, Requiere cuenta)
 - <https://www.hedra.com/> (Pagada, Requiere cuent, 300 creditos por mes, No commercial use)
 - <https://ltx.studio/> (Pagada, Requiere cuenta, 800 segundos unicos, No commercial use)
+- <https://www.basedlabs.ai/> (Pagada, Requiere cuenta, 15 creditos gratis)
+- <https://higgsfield.ai/> (Pagada, Requiere cuenta, 5 creditos gratis por dia con watermark)
 
 ### AI Web Dev focus
 
@@ -2327,6 +2344,7 @@ Enlace: <https://alplox.github.io/mis-recursos-webdev/>
 - <https://www.vue0.dev/> (Requiere cuenta)
 - <https://uizard.io/> (Requiere cuenta)
 - <https://bolt.new/>
+- <https://lovable.dev/>
 
 ### AI Software
 
@@ -2340,6 +2358,7 @@ Enlace: <https://alplox.github.io/mis-recursos-webdev/>
 - <https://github.com/fishaudio/fish-speech> (Text to Speech)
 - <https://github.com/daswer123/xtts-finetune-webui> (Text to Speech)
 - <https://lykos.ai/> (Imágenes)
+- <https://zju3dv.github.io/freetimegs/>
 
 ## Búsqueda trabajo
 
