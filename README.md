@@ -406,6 +406,7 @@ Enlace: <https://alplox.github.io/mis-recursos-webdev/>
 - <https://kleki.com/> (Dibujar/Pizarra)
 - <https://jspaint.app/> (Dibujar/Pizarra)
 - <https://www.autodraw.com/> (Dibujar/Pizarra)
+- <https://app.affine.pro> (Dibujar/Pizarra)
 - <https://studio.polotno.dev/> (Editor de diseños rápido)
 - <https://carbon.now.sh> (Compartir código como imagen)
 - <https://gettyimages-downloader.beatsnoop.com/> (Descargar imágenes stock sin marca de agua)
@@ -1632,6 +1633,7 @@ Enlace: <https://alplox.github.io/mis-recursos-webdev/>
 - <https://tympanus.net/codrops/demos/>
 - <https://www.uilabs.dev/>
 - <https://component.gallery/>
+- <https://snipzy.dev/index.html>
 
 ### Colección snippets específicos
 
@@ -1909,6 +1911,7 @@ Enlace: <https://alplox.github.io/mis-recursos-webdev/>
 - <https://www.stateofeuropeantech.com/>
 - <https://interviewing.io/blog>
 - <https://hackerone.com/hacktivity/overview>
+- <https://substack.com/home> (literatura)
 
 ### Inspiración exclusivamente
 
