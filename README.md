@@ -333,7 +333,6 @@ Enlace: <https://alplox.github.io/mis-recursos-webdev/>
 - <https://unused-css.com/tools/clip-path-generator>
 - <https://10015.io/tools/css-clip-path-generator>
 - <https://www.cssportal.com/css-clip-path-generator/>
-- <https://wweb.dev/resources/css-separator-generator/> (Generar formas divisoras de contenido)
 - <https://autoprefixer.github.io/> (parses your CSS and adds vendor prefixes)
 - <https://jonassebastianohlsson.com/specificity-graph/>
 - <https://superdesigner.co/tools/css-backgrounds>
@@ -349,7 +348,6 @@ Enlace: <https://alplox.github.io/mis-recursos-webdev/>
 - <https://codepen.io/sosuke/pen/Pjoqqp> (CSS filter generator to convert from black to target hex color)
 - <https://cssbud.com/css-generator/css-glow-generator/>
 - <https://nekocalc.com/es/px-a-rem-conversor>
-- <https://wweb.dev/resources>
 - <https://getwaves.io/>
 - <https://scrollbar.app/>
 
@@ -683,6 +681,7 @@ Enlace: <https://alplox.github.io/mis-recursos-webdev/>
 - <https://easyupload.io/>
 - <https://gofile.io>
 - <https://streamable.com/> (video)
+- <https://glomble.com/> ("Youtube Alternative")
 - <https://vioo.cc/> (video)
 - <https://qtext.io> (Texto)
 - <https://ctxt.io/> (Texto)
@@ -703,7 +702,6 @@ Enlace: <https://alplox.github.io/mis-recursos-webdev/>
 - <https://mebm.xyz/>
 - <https://www.kapwing.com/video-editor>
 - <https://jitter.video/>
-- <https://clipchamp.com/>
 - <https://free.upscaler.video/>
 - <https://videoinu.com/>
 - <https://pikimov.com/>
@@ -848,6 +846,7 @@ Enlace: <https://alplox.github.io/mis-recursos-webdev/>
 - <https://kagi.com/orion/>
 - <https://sigmaos.com/>
 - <https://www.torproject.org/download/>
+- <https://deta.surf/>
 
 #### Editores video
 
@@ -2134,14 +2133,16 @@ Enlace: <https://alplox.github.io/mis-recursos-webdev/>
 
 ### AI Chatbot
 
-- <https://chatgpt.com/> (Requiere cuenta)
-- <https://www.bing.com/chat>
+- <https://duck.ai/>
+- <https://chatgpt.com/>
+- <https://copilot.microsoft.com>
 - <https://chat.deepseek.com/>
 - <https://chat.qwen.ai/>
-- <https://gemini.google.com/> (Requiere cuenta)
+- <https://gemini.google.com/>
 - <https://chat.mistral.ai/chat>
-- <https://www.phind.com/agent?home=true>
+- <https://www.phind.com/>
 - <https://www.perplexity.ai/>
+- <https://scira.ai/>
 - <https://claude.ai/> (Requiere cuenta)
 - <https://deepai.org/chat>
 - <https://talkai.info/es/chat/>
@@ -2172,6 +2173,10 @@ Enlace: <https://alplox.github.io/mis-recursos-webdev/>
 - <https://chat.deepseek.com> (Requiere cuenta)
 - <https://notebooklm.google/> (Interactua con documentos)
 - <https://manus.im/home> (prompt generator/helper)
+- <https://www.wolframalpha.com/>
+- <https://you.com/?chatMode=default>
+- <https://lmarena.ai/>
+- <https://chatgptspanish.org/>
 
 ### AI Imágenes
 
@@ -2348,6 +2353,7 @@ Enlace: <https://alplox.github.io/mis-recursos-webdev/>
 - <https://uizard.io/> (Requiere cuenta)
 - <https://bolt.new/>
 - <https://lovable.dev/>
+- <https://chat.z.ai/>
 
 ### AI Software
 
