@@ -4,13 +4,11 @@ Colección de todo sitio (útil) que he ido encontrando durante mí proceso de a
 
 ¿Por qué? Porque tengo muchos marcadores.
 
-Enlace: <https://alplox.github.io/mis-recursos-webdev/>
+## Enlace: <https://alplox.github.io/mis-recursos-webdev/>
 
 [![forthebadge](https://forthebadge.com/images/badges/made-with-markdown.svg)](https://forthebadge.com)
 
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
-
-[![ko-fi](https://www.ko-fi.com/img/donate_sm.png)](https://ko-fi.com/alenpls)
 
 ## Tabla de contenido
 
@@ -481,6 +479,7 @@ Enlace: <https://alplox.github.io/mis-recursos-webdev/>
 - <https://www.3dgifmaker.com/360Spin>
 - <https://moshpro.app/> (Efectos,Watermark, De Pago)
 - <https://www.tooooools.app/> (Efectos)
+- <https://pixelhunter.io/> (Resize para RRSS)
 
 #### Editor PixelArt
 
@@ -526,6 +525,7 @@ Enlace: <https://alplox.github.io/mis-recursos-webdev/>
 - <https://screen.traction.one/>
 - <https://deviceshots.com/>
 - <https://previewed.app/> (Pagada)
+- <https://desktop.fm/> (Editor CD's [NO PUBLICADO])
 
 #### Remover Fondos
 
@@ -731,6 +731,7 @@ Enlace: <https://alplox.github.io/mis-recursos-webdev/>
 - <https://voicechanger.io/>
 - <https://ttsfree.com/>
 - <https://multimedia.easeus.com/vocal-remover/>
+- <https://countik.com/es/tiktok-voice-generator>
 
 ## Recursos
 
@@ -1438,6 +1439,7 @@ Enlace: <https://alplox.github.io/mis-recursos-webdev/>
 - <https://dupephotos.com/>
 - <https://www.lummi.ai/> (AI CC0)
 - <https://microsoft.design/wallpapers/>
+- <https://texturelabs.org/>
 
 ### Vídeos Gratuitos
 
@@ -1452,7 +1454,8 @@ Enlace: <https://alplox.github.io/mis-recursos-webdev/>
 - <https://www.shutterstock.com/blog/free-video-editor-toolkit-assets>
 - <https://www.actionvfx.com/collections/free-vfx/category>
 - <https://cinepacks.store/collections/free-packs>
-- <https://getyarn.io/>  (Buscar por frase)
+- <https://getyarn.io/> (Buscar por frase)
+- <https://ineedfx.com/>
 
 ### Templates Gratuitas
 
@@ -1525,6 +1528,7 @@ Enlace: <https://alplox.github.io/mis-recursos-webdev/>
 - <https://freetouse.com/music>
 - <https://www.zapsplat.com/>
 - <https://tuna.voicemod.net/>
+- <https://www.animaudios.com/> (Lineas de diálogos)
 
 ### Hosting gratuito
 
@@ -1741,6 +1745,7 @@ Enlace: <https://alplox.github.io/mis-recursos-webdev/>
 - <https://codepen.io/Hyperplexed/pen/OJdpEME> (Canva's Magic Mouse Effect)
 - <https://codepen.io/Hyperplexed/pen/zYXZoZg> (Mario UI)
 - <https://stack-to-grid.vercel.app/>
+- <https://bentoed.vercel.app/>
 
 #### Typewriter effect
 
@@ -1985,6 +1990,9 @@ Enlace: <https://alplox.github.io/mis-recursos-webdev/>
 - <https://openverse.org/>
 - <https://beta.archivepdf.net/>
 - <https://de.pinterest.com/daveweimann/>
+- <https://bentogrids.com/>
+- <https://fancaps.net/> (Screencaps de películas)
+- <http://savethesounds.info/> (Colección de sonidos tecnología antigua)
 
 ## Cursos de pago
 
@@ -2030,6 +2038,13 @@ Enlace: <https://alplox.github.io/mis-recursos-webdev/>
 - <https://www.browserstack.com/>
 - <https://www.soundsnap.com/>
 - <https://artlist.io/>
+- <https://www.deathtothestockphoto.com/> (Requiere cuenta, Imágenes Stock)
+- <https://www.sociable.how/> (Requiere cuenta, Comentar/encontrar videos virales)
+- <https://viralfindr.com/> (Requiere cuenta, Comentar/encontrar videos virales)
+- <https://www.productioncrate.com/> (Requiere cuenta, Stock videos)
+- <https://www.premiumbeat.com/> (Requiere cuenta, Stock audios)
+- <https://www.filmcrux.com/> (Requiere cuenta, Stock audios)
+- <https://contentcore.xyz/> (Requiere cuenta, Mockups 3D)
 
 ## AI
 
@@ -2130,6 +2145,7 @@ Enlace: <https://alplox.github.io/mis-recursos-webdev/>
 - <https://dang.ai/>
 - <https://promptbase.com/>
 - <https://aifindy.com/>
+- <https://www.reliablesoft.net/chatgpt-prompts/> (Prompts con ejemplos visuales)
 
 ### AI Chatbot
 
@@ -2171,7 +2187,7 @@ Enlace: <https://alplox.github.io/mis-recursos-webdev/>
 - <https://venice.ai/>
 - <https://getpoppy.ai/> (Pagada)
 - <https://chat.deepseek.com> (Requiere cuenta)
-- <https://notebooklm.google/> (Interactua con documentos)
+- <https://notebooklm.google/> (Interactúa con documentos)
 - <https://manus.im/home> (prompt generator/helper)
 - <https://www.wolframalpha.com/>
 - <https://you.com/?chatMode=default>
@@ -2269,6 +2285,8 @@ Enlace: <https://alplox.github.io/mis-recursos-webdev/>
 - <https://fooocus.one/> (Pagada, Requiere cuenta)
 - <https://ideogram.ai/t/explore> (Pagada, Requiere cuenta)
 - <https://labs.google/fx/tools/whisk> (Requiere cuenta)
+- <https://pebblely.com/> (Pagada, Requiere cuenta, 40 imágenes gratis al mes)
+- <https://app.lupaupscaler.com/> (Pagada, Requiere cuenta)
 
 ### AI Audio
 
@@ -2278,7 +2296,7 @@ Enlace: <https://alplox.github.io/mis-recursos-webdev/>
 - <https://huggingface.co/spaces/bestoai/text-to-video>
 - <https://huggingface.co/spaces/suno/bark>
 - <https://elevenlabs.io> (Pagada, Requiere cuenta, 10 min gratis al mes)
-- <https://cloud.google.com/text-to-speech> (1 millon caracteres gratis al mes)
+- <https://cloud.google.com/text-to-speech> (1 millón caracteres gratis al mes)
 - <https://www.acoust.io/> (Pagada, Requiere cuenta, 12 min gratis al mes)
 - <https://ttsreader.com/player/> (Pagada, Requiere cuenta, 5000 caracteres gratis por día)
 - <https://www.readspeaker.com/> (Pagada, Requiere cuenta, 250 caracteres gratis)
@@ -2338,10 +2356,14 @@ Enlace: <https://alplox.github.io/mis-recursos-webdev/>
 - <https://www.heygen.com/> (Pagada, Requiere Cuenta, AI Avatars, 3 Videos gratis por mes)
 - <https://deepmind.google/technologies/veo/veo-2/> (Requiere cuenta, Waiting list)
 - <https://firefly.adobe.com/> (Pagada, Requiere cuenta)
-- <https://www.hedra.com/> (Pagada, Requiere cuent, 300 creditos por mes, No commercial use)
-- <https://ltx.studio/> (Pagada, Requiere cuenta, 800 segundos unicos, No commercial use)
-- <https://www.basedlabs.ai/> (Pagada, Requiere cuenta, 15 creditos gratis)
-- <https://higgsfield.ai/> (Pagada, Requiere cuenta, 5 creditos gratis por dia con watermark)
+- <https://www.hedra.com/> (Pagada, Requiere cuenta, 300 créditos por mes, No commercial use)
+- <https://ltx.studio/> (Pagada, Requiere cuenta, 800 segundos únicos, No commercial use)
+- <https://www.basedlabs.ai/> (Pagada, Requiere cuenta, 15 créditos gratis)
+- <https://higgsfield.ai/> (Pagada, Requiere cuenta, 5 créditos gratis por dia con watermark)
+- <https://www.pippit.ai/> (Pagada, Requiere cuenta, content creation tools)
+- <https://affogato.ai/> (Pagada, Requiere cuenta, content creation tools "UGC")
+- <https://mirage.decart.ai/> (5 minutos demo AI reimaginación video en directo)
+- <https://getblort.com/> (Pagada, Requiere cuenta, content creation tools "UGC")
 
 ### AI Web Dev focus
 
@@ -2354,6 +2376,8 @@ Enlace: <https://alplox.github.io/mis-recursos-webdev/>
 - <https://bolt.new/>
 - <https://lovable.dev/>
 - <https://chat.z.ai/>
+- <https://cursor.com/> (Pagada, Gratis con peticiones limitadas)
+- <https://wegic.ai> (Requiere cuenta, Pagada, 30 créditos gratis por mes)
 
 ### AI Software
 
@@ -2555,3 +2579,5 @@ También conocidos como: pagan por tarea
 - <https://www.atlassian.com/es/software/jira>
 - <https://humanstxt.org/>
 - <https://monkeytype.com/>
+- <https://generador.fantasmogenesis.com/> (Generador visuales para MIDI)
+- <https://derivative.ca/download> (Pagada, Generador visuales, Version gratis no comercial)
