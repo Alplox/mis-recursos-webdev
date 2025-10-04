@@ -598,6 +598,7 @@ Colección de todo sitio (útil) que he ido encontrando durante mí proceso de a
 - <https://www.figma.com/community/plugin/1264600219316901594/vector-to-3d>
 - <https://www.shadergradient.co>
 
+
 ### SVG
 
 - <https://svg-stripe-generator.web.app/> (Generador de líneas)
@@ -803,18 +804,19 @@ Colección de todo sitio (útil) que he ido encontrando durante mí proceso de a
 - <https://atom.io/>
 - <http://brackets.io/>
 - <https://code.visualstudio.com/>
+- <https://vscodium.com/>
+- <https://www.eclipse.org/ide/>
+- <https://www.vim.org/>
+- <https://notepad-plus-plus.org/>
+- <https://zed.dev/>
 
 ##### Extensiones
 
 - <https://console-ninja.com/> (Console log output helper)
 - <https://www.flyde.dev/> (Visual programming)
 - <https://ide.swmansion.com/> (React Native)
-- <https://vscodium.com/>
-- <https://www.eclipse.org/ide/>
-- <https://www.vim.org/>
-- <https://notepad-plus-plus.org/>
-- <https://zed.dev/>
 - <https://www.task-master.dev/>
+- <https://marketplace.visualstudio.com/items?itemName=tonybaloney.vscode-pets>
 
 #### Editores imágenes
 
@@ -984,6 +986,7 @@ Colección de todo sitio (útil) que he ido encontrando durante mí proceso de a
 - <https://merakiui.com/>
 - <https://picocss.com/>
 - <https://preline.co/>
+- <https://open-props.style/>
 
 ##### Estilos inspirados en otros preexistentes
 
@@ -1115,6 +1118,7 @@ Colección de todo sitio (útil) que he ido encontrando durante mí proceso de a
 - <https://www.smashingmagazine.com/2016/04/web-developer-guide-color/> (Guía de selección de color)
 - <https://medium.com/refactoring-ui/7-practical-tips-for-cheating-at-design-40c736799886>  (Tips diseño UI)
 - <https://www.ibm.com/design/language/> (Artículo con consejos respecto a crear logos)
+- <https://design.theguardian.com/> (Guía diseño)
 - <https://1linelayouts.glitch.me/> (10 layouts CSS)
 - <https://www.oakharborwebdesigns.com/blog/articles/how-to-design-a-website.html#blog-post> (Artículo con consejos respecto a diseñar un sitio web)
 - <https://www.matuzo.at/blog/html-boilerplate/> (Artículo que explica estructura básica documento HTML)
@@ -1204,6 +1208,7 @@ Colección de todo sitio (útil) que he ido encontrando durante mí proceso de a
 - <https://drafts.csswg.org/> (CSS)
 - <https://www.taniarascia.com/overview-of-css-concepts/> (CSS)
 - <https://github.com/l-hammer/You-need-to-know-css> (CSS)
+- <https://github.com/AllThingsSmitty/css-protips> (CSS)
 - <https://ishadeed.com/article/learn-box-alignment/>
 - <https://geddski.teachable.com/p/flexbox-zombies>
 - <https://regexlearn.com/>
@@ -1214,6 +1219,7 @@ Colección de todo sitio (útil) que he ido encontrando durante mí proceso de a
 - <https://www.figma.com/resources/learn-design/> (Diseño UI)
 - <https://goodui.org/> (Diseño UI)
 - <https://motion.zajno.com/> (Diseño UI/UX)
+- <https://wix-ux.com/when-life-gives-you-lemons-write-better-error-messages-46c5223e1a2f> (Diseño UI/UX)
 - <https://hackdesign.org/lessons> (Diseño)
 - <https://www.uxdatabase.io/free-product-design-course> (Diseño)
 - <https://www.designsystemchecklist.com/> (Diseño)
@@ -1456,6 +1462,7 @@ Colección de todo sitio (útil) que he ido encontrando durante mí proceso de a
 - <https://cinepacks.store/collections/free-packs>
 - <https://getyarn.io/> (Buscar por frase)
 - <https://ineedfx.com/>
+- <https://fluidmotion.app/>
 
 ### Templates Gratuitas
 
@@ -1637,6 +1644,7 @@ Colección de todo sitio (útil) que he ido encontrando durante mí proceso de a
 - <https://www.uilabs.dev/>
 - <https://component.gallery/>
 - <https://snipzy.dev/index.html>
+- <https://youmightnotneed.com/>
 
 ### Colección snippets específicos
 
@@ -1993,6 +2001,12 @@ Colección de todo sitio (útil) que he ido encontrando durante mí proceso de a
 - <https://bentogrids.com/>
 - <https://fancaps.net/> (Screencaps de películas)
 - <http://savethesounds.info/> (Colección de sonidos tecnología antigua)
+- <https://saaslandingpage.com/>
+- <https://mindsparklemag.com/category/website/>
+- <https://www.cssdesignawards.com/>
+- <https://www.hoverstat.es/>
+- <https://wow-web.co.uk/>
+- <https://deadsimplesites.com/>
 
 ## Cursos de pago
 
@@ -2045,6 +2059,8 @@ Colección de todo sitio (útil) que he ido encontrando durante mí proceso de a
 - <https://www.premiumbeat.com/> (Requiere cuenta, Stock audios)
 - <https://www.filmcrux.com/> (Requiere cuenta, Stock audios)
 - <https://contentcore.xyz/> (Requiere cuenta, Mockups 3D)
+- <https://curator.io/> (RRSS agregator)
+- <https://www.nocodescraper.com/>
 
 ## AI
 
@@ -2364,6 +2380,7 @@ Colección de todo sitio (útil) que he ido encontrando durante mí proceso de a
 - <https://affogato.ai/> (Pagada, Requiere cuenta, content creation tools "UGC")
 - <https://mirage.decart.ai/> (5 minutos demo AI reimaginación video en directo)
 - <https://getblort.com/> (Pagada, Requiere cuenta, content creation tools "UGC")
+- <https://viggle.ai/> (Pagada, Requiere cuenta, 5 exportaciones por mes con Watermark)
 
 ### AI Web Dev focus
 
