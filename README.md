@@ -598,7 +598,6 @@ Colección de todo sitio (útil) que he ido encontrando durante mí proceso de a
 - <https://www.figma.com/community/plugin/1264600219316901594/vector-to-3d>
 - <https://www.shadergradient.co>
 
-
 ### SVG
 
 - <https://svg-stripe-generator.web.app/> (Generador de líneas)
@@ -2061,6 +2060,7 @@ Colección de todo sitio (útil) que he ido encontrando durante mí proceso de a
 - <https://contentcore.xyz/> (Requiere cuenta, Mockups 3D)
 - <https://curator.io/> (RRSS agregator)
 - <https://www.nocodescraper.com/>
+- <https://userway.org/es/>
 
 ## AI
 
@@ -2522,6 +2522,8 @@ También conocidos como: pagan por tarea
 - <https://orientador.fundaciontelefonica.com/>
 - <https://grow.google/certificates/interview-warmup/>
 - <https://layoffs.fyi/>
+- <https://capacita.sii.cl/>
+- <https://www.registrodeempresasysociedades.cl/Curso.aspx>
 
 #### CV
 
