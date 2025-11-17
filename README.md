@@ -480,6 +480,7 @@ Colección de todo sitio (útil) que he ido encontrando durante mí proceso de a
 - <https://moshpro.app/> (Efectos,Watermark, De Pago)
 - <https://www.tooooools.app/> (Efectos)
 - <https://pixelhunter.io/> (Resize para RRSS)
+- <https://efecto.app/> (Manipular imagenes con filtros estilo ASCII)
 
 #### Editor PixelArt
 
@@ -849,6 +850,8 @@ Colección de todo sitio (útil) que he ido encontrando durante mí proceso de a
 - <https://sigmaos.com/>
 - <https://www.torproject.org/download/>
 - <https://deta.surf/>
+- <https://helium.computer/>
+- <https://ladybird.org/>
 
 #### Editores video
 
@@ -1036,6 +1039,7 @@ Colección de todo sitio (útil) que he ido encontrando durante mí proceso de a
 - <https://mafs.dev/>
 - <https://mironov.github.io/react-redux-loading-bar/>
 - <https://sonner.emilkowal.ski/>
+- <https://ascii.0xbalance.xyz/>
 
 ## Guías
 
@@ -1247,6 +1251,7 @@ Colección de todo sitio (útil) que he ido encontrando durante mí proceso de a
 - <https://education.github.com/experiences/intro_to_web_dev>
 - <https://linuxsurvival.com/>
 - <https://learn.mongodb.com/catalog>
+- <https://types.kitlangton.com/> (TypeScript)
 
 ### Udemy
 
@@ -1303,6 +1308,7 @@ Colección de todo sitio (útil) que he ido encontrando durante mí proceso de a
 - <https://www.happyediting.co/access-samplepack>
 - <https://mixkit.co/>
 - <https://www.behance.net/search/projects/FREE>
+- <https://publicapis.io/>
 
 ### Iconos Gratuitos
 
@@ -1351,6 +1357,7 @@ Colección de todo sitio (útil) que he ido encontrando durante mí proceso de a
 - <https://www.mingcute.com/>
 - <https://tabler.io/icons>
 - <https://animatedicons.co/>
+- <https://lucide.dev/>
 
 ### Ilustraciones Gratuitas
 
@@ -1753,6 +1760,7 @@ Colección de todo sitio (útil) que he ido encontrando durante mí proceso de a
 - <https://codepen.io/Hyperplexed/pen/zYXZoZg> (Mario UI)
 - <https://stack-to-grid.vercel.app/>
 - <https://bentoed.vercel.app/>
+- <https://cart-anim.vercel.app/>
 
 #### Typewriter effect
 
@@ -1884,6 +1892,7 @@ Colección de todo sitio (útil) que he ido encontrando durante mí proceso de a
 - <https://muz.li/es> (Extension)
 - <https://www.curationofcurations.com/>
 - <https://www.are.na/> (Requiere cuenta, De pago, 200 "bloques gratis")
+- <https://microsoft.design/>
 
 ### Blogs
 
@@ -1923,6 +1932,7 @@ Colección de todo sitio (útil) que he ido encontrando durante mí proceso de a
 - <https://interviewing.io/blog>
 - <https://hackerone.com/hacktivity/overview>
 - <https://substack.com/home> (literatura)
+- <https://danielsun.space/>
 
 ### Inspiración exclusivamente
 
@@ -2006,6 +2016,10 @@ Colección de todo sitio (útil) que he ido encontrando durante mí proceso de a
 - <https://www.hoverstat.es/>
 - <https://wow-web.co.uk/>
 - <https://deadsimplesites.com/>
+- <https://frameset.app/search> (Videos, Requiere cuenta, De pago)
+- <https://flippa.com/> (Mercado de SaaS/Páginas web)
+- <https://same.energy/>
+- <https://www.commuting.to/>
 
 ## Cursos de pago
 
@@ -2061,6 +2075,7 @@ Colección de todo sitio (útil) que he ido encontrando durante mí proceso de a
 - <https://curator.io/> (RRSS agregator)
 - <https://www.nocodescraper.com/>
 - <https://userway.org/es/>
+- <https://www.redomysite.com/> (Rehacer "cualquier sitio" en Astro, De pago ($3 por sitio))
 
 ## AI
 
@@ -2162,6 +2177,8 @@ Colección de todo sitio (útil) que he ido encontrando durante mí proceso de a
 - <https://promptbase.com/>
 - <https://aifindy.com/>
 - <https://www.reliablesoft.net/chatgpt-prompts/> (Prompts con ejemplos visuales)
+- <https://aifordevelopers.org/>
+- <https://aipure.ai/>
 
 ### AI Chatbot
 
@@ -2169,7 +2186,7 @@ Colección de todo sitio (útil) que he ido encontrando durante mí proceso de a
 - <https://chatgpt.com/>
 - <https://copilot.microsoft.com>
 - <https://chat.deepseek.com/>
-- <https://chat.qwen.ai/>
+- <https://chat.qwen.ai/> (Requiere cuenta)
 - <https://gemini.google.com/>
 - <https://chat.mistral.ai/chat>
 - <https://www.phind.com/>
@@ -2209,6 +2226,9 @@ Colección de todo sitio (útil) que he ido encontrando durante mí proceso de a
 - <https://you.com/?chatMode=default>
 - <https://lmarena.ai/>
 - <https://chatgptspanish.org/>
+- <https://grok.com>
+- <https://web.lmarena.ai/>
+- <https://app.khoj.dev/> (Requiere cuenta)
 
 ### AI Imágenes
 
@@ -2381,6 +2401,7 @@ Colección de todo sitio (útil) que he ido encontrando durante mí proceso de a
 - <https://mirage.decart.ai/> (5 minutos demo AI reimaginación video en directo)
 - <https://getblort.com/> (Pagada, Requiere cuenta, content creation tools "UGC")
 - <https://viggle.ai/> (Pagada, Requiere cuenta, 5 exportaciones por mes con Watermark)
+- <https://beta-agent.opus.pro/> (Requiere cuenta)
 
 ### AI Web Dev focus
 
@@ -2395,6 +2416,11 @@ Colección de todo sitio (útil) que he ido encontrando durante mí proceso de a
 - <https://chat.z.ai/>
 - <https://cursor.com/> (Pagada, Gratis con peticiones limitadas)
 - <https://wegic.ai> (Requiere cuenta, Pagada, 30 créditos gratis por mes)
+- <https://www.createanything.com> (Requiere cuenta)
+- <https://chat.z.ai/>
+- <https://codewiki.ai/>
+- <https://codewiki.google/>
+- <https://deepwiki.org/>
 
 ### AI Software
 
