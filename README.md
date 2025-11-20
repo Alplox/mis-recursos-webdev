@@ -261,6 +261,10 @@ Colección de todo sitio (útil) que he ido encontrando durante mí proceso de a
 - <https://hihayk.github.io/scale/>
 - <https://tailwindpalette.jurs.me/>
 - <https://www.canva.com/colors/color-wheel/>
+- <https://colorpalette.pro>
+- <https://meodai.github.io/poline/>
+- <https://github.com/meodai/color-names>
+- <https://farbvelo.elastiq.ch>
 
 #### Revisar contraste
 
@@ -809,6 +813,9 @@ Colección de todo sitio (útil) que he ido encontrando durante mí proceso de a
 - <https://www.vim.org/>
 - <https://notepad-plus-plus.org/>
 - <https://zed.dev/>
+- <https://cursor.ai/>
+- <https://windsurf.com/>
+- <https://antigravity.google/>
 
 ##### Extensiones
 
@@ -852,6 +859,7 @@ Colección de todo sitio (útil) que he ido encontrando durante mí proceso de a
 - <https://deta.surf/>
 - <https://helium.computer/>
 - <https://ladybird.org/>
+- <https://www.wikiboard.org/> (Es sitio web)
 
 #### Editores video
 
@@ -1893,6 +1901,7 @@ Colección de todo sitio (útil) que he ido encontrando durante mí proceso de a
 - <https://www.curationofcurations.com/>
 - <https://www.are.na/> (Requiere cuenta, De pago, 200 "bloques gratis")
 - <https://microsoft.design/>
+- <https://refero.design/> (Requiere cuenta)
 
 ### Blogs
 
@@ -2020,6 +2029,7 @@ Colección de todo sitio (útil) que he ido encontrando durante mí proceso de a
 - <https://flippa.com/> (Mercado de SaaS/Páginas web)
 - <https://same.energy/>
 - <https://www.commuting.to/>
+- <http://redwoodling.com/> (DVD menus)
 
 ## Cursos de pago
 
