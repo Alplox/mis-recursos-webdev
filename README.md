@@ -832,7 +832,7 @@ Colección de todo sitio (útil) que he ido encontrando durante mí proceso de a
 - <https://www.getpaint.net/index.html>
 - <https://firealpaca.com/>
 - <https://www.systemax.jp/en/sai/devdept.html>
-- <https://affinity.serif.com/en-gb/> (Pagada)
+- <https://www.affinity.studio>
 - <https://www.adobe.com/cl/products/photoshop.html> (Pagada)
 - <https://www.pixelmator.com/pro/> (Pagada)
 - <https://upscayl.org/>
@@ -1366,6 +1366,7 @@ Colección de todo sitio (útil) que he ido encontrando durante mí proceso de a
 - <https://tabler.io/icons>
 - <https://animatedicons.co/>
 - <https://lucide.dev/>
+- <https://www.lofiboards.com/> (AI)
 
 ### Ilustraciones Gratuitas
 
@@ -2195,7 +2196,7 @@ Colección de todo sitio (útil) que he ido encontrando durante mí proceso de a
 - <https://duck.ai/>
 - <https://chatgpt.com/>
 - <https://copilot.microsoft.com>
-- <https://chat.deepseek.com/>
+- <https://chat.deepseek.com/> (Requiere cuenta)
 - <https://chat.qwen.ai/> (Requiere cuenta)
 - <https://gemini.google.com/>
 - <https://chat.mistral.ai/chat>
@@ -2217,7 +2218,6 @@ Colección de todo sitio (útil) que he ido encontrando durante mí proceso de a
 - <https://candy.ai/> (revolución industrial y sus consecuencias)
 - <https://digi.ai/> (revolución industrial y sus consecuencias)
 - <https://www.blackbox.ai/>
-- <https://chat.lmsys.org/>
 - <https://poe.com/> (Requiere cuenta)
 - <https://groq.com/> (Requiere cuenta)
 - <https://www.turboseek.io/>
@@ -2229,7 +2229,6 @@ Colección de todo sitio (útil) que he ido encontrando durante mí proceso de a
 - <https://character.ai/>
 - <https://venice.ai/>
 - <https://getpoppy.ai/> (Pagada)
-- <https://chat.deepseek.com> (Requiere cuenta)
 - <https://notebooklm.google/> (Interactúa con documentos)
 - <https://manus.im/home> (prompt generator/helper)
 - <https://www.wolframalpha.com/>
@@ -2427,7 +2426,6 @@ Colección de todo sitio (útil) que he ido encontrando durante mí proceso de a
 - <https://cursor.com/> (Pagada, Gratis con peticiones limitadas)
 - <https://wegic.ai> (Requiere cuenta, Pagada, 30 créditos gratis por mes)
 - <https://www.createanything.com> (Requiere cuenta)
-- <https://chat.z.ai/>
 - <https://codewiki.ai/>
 - <https://codewiki.google/>
 - <https://deepwiki.org/>
@@ -2574,6 +2572,7 @@ También conocidos como: pagan por tarea
 - <https://zety.com/> (Pagada)
 - <https://artickl.com/> (Pagada)
 - <https://standardresume.co> (Pagada)
+- <https://buildmyresume.live/>
 
 ##### Ejemplos/plantillas
 
