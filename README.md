@@ -813,7 +813,7 @@ Colección de todo sitio (útil) que he ido encontrando durante mí proceso de a
 - <https://www.vim.org/>
 - <https://notepad-plus-plus.org/>
 - <https://zed.dev/>
-- <https://cursor.ai/>
+- <https://cursor.com/> (Pagada, Gratis con peticiones limitadas)
 - <https://windsurf.com/>
 - <https://antigravity.google/>
 
@@ -2031,6 +2031,7 @@ Colección de todo sitio (útil) que he ido encontrando durante mí proceso de a
 - <https://same.energy/>
 - <https://www.commuting.to/>
 - <http://redwoodling.com/> (DVD menus)
+- <https://shotdeck.com/> (Pagada, Requiere cuenta)
 
 ## Cursos de pago
 
@@ -2087,6 +2088,7 @@ Colección de todo sitio (útil) que he ido encontrando durante mí proceso de a
 - <https://www.nocodescraper.com/>
 - <https://userway.org/es/>
 - <https://www.redomysite.com/> (Rehacer "cualquier sitio" en Astro, De pago ($3 por sitio))
+- <https://freesvgicons.com/> (pagar pos svgs)
 
 ## AI
 
@@ -2332,6 +2334,7 @@ Colección de todo sitio (útil) que he ido encontrando durante mí proceso de a
 - <https://labs.google/fx/tools/whisk> (Requiere cuenta)
 - <https://pebblely.com/> (Pagada, Requiere cuenta, 40 imágenes gratis al mes)
 - <https://app.lupaupscaler.com/> (Pagada, Requiere cuenta)
+- <https://www.trybloom.ai/> (Pagada, Requiere cuenta)
 
 ### AI Audio
 
@@ -2423,12 +2426,12 @@ Colección de todo sitio (útil) que he ido encontrando durante mí proceso de a
 - <https://bolt.new/>
 - <https://lovable.dev/>
 - <https://chat.z.ai/>
-- <https://cursor.com/> (Pagada, Gratis con peticiones limitadas)
 - <https://wegic.ai> (Requiere cuenta, Pagada, 30 créditos gratis por mes)
 - <https://www.createanything.com> (Requiere cuenta)
 - <https://codewiki.ai/>
 - <https://codewiki.google/>
 - <https://deepwiki.org/>
+- <https://stitch.withgoogle.com/> (Requiere cuenta)
 
 ### AI Software
 
