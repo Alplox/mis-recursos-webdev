@@ -4,11 +4,13 @@ Colección de todo sitio (útil) que he ido encontrando durante mí proceso de a
 
 ¿Por qué? Porque tengo muchos marcadores.
 
-## Enlace: <https://alplox.github.io/mis-recursos-webdev/>
-
-[![forthebadge](https://forthebadge.com/images/badges/made-with-markdown.svg)](https://forthebadge.com)
-
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
+
+## ✨ Enlace(s)
+
+### <https://alplox.github.io/mis-recursos-webdev/>
+
+### <https://raindrop.io/Alplox/mis-recursos-webdev-64067715>
 
 ## Tabla de contenido
 
@@ -547,6 +549,7 @@ Colección de todo sitio (útil) que he ido encontrando durante mí proceso de a
 - <https://www.stickermule.com/trace>
 - <https://fyrean.itch.io/bgbye-background-remover>
 - <https://huggingface.co/spaces/Xenova/remove-background-web>
+- <https://huggingface.co/spaces/Xenova/remove-background-webgpu>
 - <https://bgbye.fyrean.com/>
 - <https://www.adobe.com/express/feature/image/remove-background>
 - <https://www.pixelcut.ai/background-remover/png-maker>
@@ -2032,6 +2035,8 @@ Colección de todo sitio (útil) que he ido encontrando durante mí proceso de a
 - <https://www.commuting.to/>
 - <http://redwoodling.com/> (DVD menus)
 - <https://shotdeck.com/> (Pagada, Requiere cuenta)
+- <https://www.cta.gallery/>
+- <https://www.supahero.io/>
 
 ## Cursos de pago
 
@@ -2432,6 +2437,7 @@ Colección de todo sitio (útil) que he ido encontrando durante mí proceso de a
 - <https://codewiki.google/>
 - <https://deepwiki.org/>
 - <https://stitch.withgoogle.com/> (Requiere cuenta)
+- <https://www.aura.build> (Requiere cuenta, Pagada, 10 prompts por mes)
 
 ### AI Software
 
@@ -2446,6 +2452,7 @@ Colección de todo sitio (útil) que he ido encontrando durante mí proceso de a
 - <https://github.com/daswer123/xtts-finetune-webui> (Text to Speech)
 - <https://lykos.ai/> (Imágenes)
 - <https://zju3dv.github.io/freetimegs/>
+- <https://opencode.ai/>
 
 ## Búsqueda trabajo
 
