@@ -1051,6 +1051,7 @@ Colección de todo sitio (útil) que he ido encontrando durante mí proceso de a
 - <https://mironov.github.io/react-redux-loading-bar/>
 - <https://sonner.emilkowal.ski/>
 - <https://ascii.0xbalance.xyz/>
+- <https://clerk.com/>
 
 ## Guías
 
@@ -1904,8 +1905,17 @@ Colección de todo sitio (útil) que he ido encontrando durante mí proceso de a
 - <https://muz.li/es> (Extension)
 - <https://www.curationofcurations.com/>
 - <https://www.are.na/> (Requiere cuenta, De pago, 200 "bloques gratis")
-- <https://microsoft.design/>
 - <https://refero.design/> (Requiere cuenta)
+
+#### Design/Brand Guidelines
+
+- <https://microsoft.design/>
+- <https://www.therawmaterials.com/>
+- <https://brand.klarna.com/>
+- <https://brand.dropbox.com/>
+- <https://design.cash.app/>
+- <https://wise.design/>
+- <https://www.therawmaterials.com/>
 
 ### Blogs
 
@@ -2037,6 +2047,8 @@ Colección de todo sitio (útil) que he ido encontrando durante mí proceso de a
 - <https://shotdeck.com/> (Pagada, Requiere cuenta)
 - <https://www.cta.gallery/>
 - <https://www.supahero.io/>
+- <https://www.palmer-dinnerware.com/>
+- <https://www.ideabrowser.com/trends>
 
 ## Cursos de pago
 
@@ -2340,6 +2352,7 @@ Colección de todo sitio (útil) que he ido encontrando durante mí proceso de a
 - <https://pebblely.com/> (Pagada, Requiere cuenta, 40 imágenes gratis al mes)
 - <https://app.lupaupscaler.com/> (Pagada, Requiere cuenta)
 - <https://www.trybloom.ai/> (Pagada, Requiere cuenta)
+- <https://www.canvai.co/> (Requiere cuenta, Pagada)
 
 ### AI Audio
 
@@ -2438,6 +2451,12 @@ Colección de todo sitio (útil) que he ido encontrando durante mí proceso de a
 - <https://deepwiki.org/>
 - <https://stitch.withgoogle.com/> (Requiere cuenta)
 - <https://www.aura.build> (Requiere cuenta, Pagada, 10 prompts por mes)
+- <https://www.figma.com/es-es/make/> (Requiere cuenta, Pagada)
+- <https://www.builder.io/> (Requiere cuenta, Pagada, 75 creditos por mes (limite diario 25))
+- <https://www.macaly.com/> (Requiere cuenta, Pagada, Up to 1M credits daily)
+- <https://readdy.ai/> (Requiere cuenta, Pagada, 250 creditos por mes)
+- <https://reshape.build/> (Requiere cuenta, Pagada) Nota: se ve vibe coded, no usar con información real/personal.
+- <https://www.vibed.inc/> (Requiere cuenta, Pagada)
 
 ### AI Software
 
@@ -2453,6 +2472,7 @@ Colección de todo sitio (útil) que he ido encontrando durante mí proceso de a
 - <https://lykos.ai/> (Imágenes)
 - <https://zju3dv.github.io/freetimegs/>
 - <https://opencode.ai/>
+- <https://www.orchids.app/> (IDE)
 
 ## Búsqueda trabajo
 
