@@ -354,6 +354,7 @@ Colección de todo sitio (útil) que he ido encontrando durante mí proceso de a
 - <https://nekocalc.com/es/px-a-rem-conversor>
 - <https://getwaves.io/>
 - <https://scrollbar.app/>
+- <https://www.squircle.style/>
 
 #### Gradientes
 
@@ -445,9 +446,12 @@ Colección de todo sitio (útil) que he ido encontrando durante mí proceso de a
 - <https://pixelframe.design/tag/generator/>
 - <https://ezgif.com/webp-to-gif>
 - <https://frinkiac.com/> (Simpsons)
-- <https://shotfaker.blazer.lol/> (Instagram)
+- <https://shotfaker.blazer.lol/> (Fake RRSS Messaging)
 - <https://schultzschultz.com/gridpaint/>
-- <https://tokcomment.com/> (tiktok msg)
+- <https://tokcomment.com/> (Fake RRSS Messaging)
+- <https://dm-simulator.vercel.app/> (Fake RRSS Messaging)
+- <https://www.getmockly.com/> (Fake RRSS Messaging)
+- <https://theyseeyourphotos.com/>
 
 #### Editar imágenes online
 
@@ -1052,6 +1056,8 @@ Colección de todo sitio (útil) que he ido encontrando durante mí proceso de a
 - <https://sonner.emilkowal.ski/>
 - <https://ascii.0xbalance.xyz/>
 - <https://clerk.com/>
+- <https://github.com/heroui-inc/heroui-native>
+- <https://makeitanimated.dev/>
 
 ## Guías
 
@@ -1132,8 +1138,6 @@ Colección de todo sitio (útil) que he ido encontrando durante mí proceso de a
 - <https://medium.com/@meetchopz/10-bad-typography-habits-that-scream-amateur-8bac07f9c041> (10 malos hábitos tipográficos)
 - <https://www.smashingmagazine.com/2016/04/web-developer-guide-color/> (Guía de selección de color)
 - <https://medium.com/refactoring-ui/7-practical-tips-for-cheating-at-design-40c736799886>  (Tips diseño UI)
-- <https://www.ibm.com/design/language/> (Artículo con consejos respecto a crear logos)
-- <https://design.theguardian.com/> (Guía diseño)
 - <https://1linelayouts.glitch.me/> (10 layouts CSS)
 - <https://www.oakharborwebdesigns.com/blog/articles/how-to-design-a-website.html#blog-post> (Artículo con consejos respecto a diseñar un sitio web)
 - <https://www.matuzo.at/blog/html-boilerplate/> (Artículo que explica estructura básica documento HTML)
@@ -1264,6 +1268,7 @@ Colección de todo sitio (útil) que he ido encontrando durante mí proceso de a
 - <https://linuxsurvival.com/>
 - <https://learn.mongodb.com/catalog>
 - <https://types.kitlangton.com/> (TypeScript)
+- <https://loggingsucks.com/>
 
 ### Udemy
 
@@ -1418,6 +1423,7 @@ Colección de todo sitio (útil) que he ido encontrando durante mí proceso de a
 - <https://ultima.storytale.io/>
 - <https://sensa.co/emoji>
 - <https://emoji.gg/>
+- <https://coolshap.es/>
 
 ### Imágenes Gratuitas
 
@@ -1867,6 +1873,8 @@ Colección de todo sitio (útil) que he ido encontrando durante mí proceso de a
 - <https://stackexchange.com/>
 - <https://plnkr.co/>
 - <https://stackshare.io/>
+- <https://microlaunch.net/>
+- <https://www.appstoretracker.com/>
 
 ### Foros Diseño
 
@@ -1916,6 +1924,10 @@ Colección de todo sitio (útil) que he ido encontrando durante mí proceso de a
 - <https://design.cash.app/>
 - <https://wise.design/>
 - <https://www.therawmaterials.com/>
+- <https://playbook.ebay.com/>
+- <https://www.ibm.com/design/language/>
+- <https://design.theguardian.com/>
+- <https://www.makingsoftware.com/>
 
 ### Blogs
 
@@ -2049,6 +2061,26 @@ Colección de todo sitio (útil) que he ido encontrando durante mí proceso de a
 - <https://www.supahero.io/>
 - <https://www.palmer-dinnerware.com/>
 - <https://www.ideabrowser.com/trends>
+- <https://prettyfolio.com/>
+- <https://justfuckinguse.com/>
+- <https://transcendentmotherfuckingwebsite.com/>
+- <https://omnicraft.vercel.app/>
+- <https://vizzzle.com/>
+- <https://21st.dev>
+- <https://www.vibecodinginspiration.com/>
+- <https://www.inspo.page/>
+- <https://mnmm.xyz/>
+- <https://blacklist.design/>
+- <https://nicefolios.com/>
+- <https://headings.one/>
+- <https://ogpedia.com/>
+- <https://bestdesignsonx.com/>
+- <https://worawork.vercel.app/>
+- <https://finddesignagency.com/>
+- <https://h1gallery.com/>
+- <http://404s.design/>
+- <http://icoon.co/>
+- <https://www.navbar.gallery/>
 
 ## Cursos de pago
 
@@ -2353,6 +2385,7 @@ Colección de todo sitio (útil) que he ido encontrando durante mí proceso de a
 - <https://app.lupaupscaler.com/> (Pagada, Requiere cuenta)
 - <https://www.trybloom.ai/> (Pagada, Requiere cuenta)
 - <https://www.canvai.co/> (Requiere cuenta, Pagada)
+- <https://letz.ai/> (Pagada, Requiere cuenta, 150 créditos gratis)
 
 ### AI Audio
 
@@ -2378,6 +2411,7 @@ Colección de todo sitio (útil) que he ido encontrando durante mí proceso de a
 - <https://huggingface.co/spaces/nari-labs/Dia-1.6B>
 - <https://www.weights.com> (Pagada, Requiere cuenta, 100 usos por mes)
 - <https://www.hume.ai/> (Pagada, Requiere cuenta, 10,000 caracteres gratis al mes (~10 minutos))
+- <https://huggingface.co/spaces/ResembleAI/chatterbox-turbo-demo>
 
 ### AI Música
 
@@ -2457,6 +2491,13 @@ Colección de todo sitio (útil) que he ido encontrando durante mí proceso de a
 - <https://readdy.ai/> (Requiere cuenta, Pagada, 250 creditos por mes)
 - <https://reshape.build/> (Requiere cuenta, Pagada) Nota: se ve vibe coded, no usar con información real/personal.
 - <https://www.vibed.inc/> (Requiere cuenta, Pagada)
+- <https://browser-use.com/> (Requiere cuenta, Pagada)
+- <https://caffeine.ai/>
+- <https://catdoes.com/> (Requiere cuenta, Pagada, 2 Créditos gratis diarios)
+- <https://llamacoder.together.ai/>
+- <https://mgx.dev/> (Requiere cuenta, Pagada, 7.5 créditos diarios (hasta 25 / mes))
+- <https://agents.md/>
+- <https://github.com/mds/floatprompt>
 
 ### AI Software
 
@@ -2473,6 +2514,12 @@ Colección de todo sitio (útil) que he ido encontrando durante mí proceso de a
 - <https://zju3dv.github.io/freetimegs/>
 - <https://opencode.ai/>
 - <https://www.orchids.app/> (IDE)
+- <https://ampcode.com/> (IDE Agentic coding)
+- <https://factory.ai/> (CLI Agentic coding)
+- <https://roocode.com/> (IDE Extension)
+- <https://marketplace.visualstudio.com/items?itemName=robertpiosik.gemini-coder> (IDE Extension)
+- <https://supermaven.com/> (IDE)
+- <https://www.term-v0.app/> (CLI Agentic coding)
 
 ## Búsqueda trabajo
 
@@ -2555,6 +2602,13 @@ Colección de todo sitio (útil) que he ido encontrando durante mí proceso de a
 - <https://www.showwcase.com/>
 - <https://jobs.remotrek.com/>
 - <https://talently.tech/>
+- <http://bolsarosa.com> (Exclusivo Mujeres)
+- <https://www.revelo.com/>
+- <https://latam.jobs/>
+- <https://www.torc.dev/>
+- <https://www.getmanfred.com/>
+- <https://global.welcometothejungle.com/>
+- <https://prosmarketplace.com/>
 
 ### Freelance
 
