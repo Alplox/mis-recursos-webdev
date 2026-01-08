@@ -1058,6 +1058,7 @@ Colección de todo sitio (útil) que he ido encontrando durante mí proceso de a
 - <https://clerk.com/>
 - <https://github.com/heroui-inc/heroui-native>
 - <https://makeitanimated.dev/>
+- <https://mapcn.vercel.app/>
 
 ## Guías
 
@@ -1149,6 +1150,7 @@ Colección de todo sitio (útil) que he ido encontrando durante mí proceso de a
 - <https://www.patterns.dev/>
 - <https://shouldiuseacarousel.com/>
 - <https://anthonyhobday.com/sideprojects/saferules/>
+- <https://supabase-design-system.vercel.app/design-system>
 
 ## Guías y cursos escritos
 
@@ -2081,6 +2083,7 @@ Colección de todo sitio (útil) que he ido encontrando durante mí proceso de a
 - <http://404s.design/>
 - <http://icoon.co/>
 - <https://www.navbar.gallery/>
+- <https://60fps.design/>
 
 ## Cursos de pago
 
