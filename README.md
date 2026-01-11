@@ -2501,6 +2501,8 @@ Colección de todo sitio (útil) que he ido encontrando durante mí proceso de a
 - <https://mgx.dev/> (Requiere cuenta, Pagada, 7.5 créditos diarios (hasta 25 / mes))
 - <https://agents.md/>
 - <https://github.com/mds/floatprompt>
+- <https://www.ui-skills.com/>
+- <https://github.com/simstudioai/sim>
 
 ### AI Software
 
@@ -2565,6 +2567,7 @@ Colección de todo sitio (útil) que he ido encontrando durante mí proceso de a
 - <https://www.rastro.com/>
 - <https://chile.trabajos.com/>
 - <https://www.trabajoconsentido.com/>
+- <https://www.stack.cl/>
 
 #### Universidades/Institutos
 
