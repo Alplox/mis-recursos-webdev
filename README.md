@@ -1123,6 +1123,7 @@ Colección de todo sitio (útil) que he ido encontrando durante mí proceso de a
 - <https://github.com/florinpop17/app-ideas>
 - <https://pixact.ly/>
 - <https://neetcode.io/>
+- <https://kodekloud.com/studio/labs>
 
 ### Guías visuales (Roadmap) para ser un web developer
 
@@ -2415,6 +2416,8 @@ Colección de todo sitio (útil) que he ido encontrando durante mí proceso de a
 - <https://www.weights.com> (Pagada, Requiere cuenta, 100 usos por mes)
 - <https://www.hume.ai/> (Pagada, Requiere cuenta, 10,000 caracteres gratis al mes (~10 minutos))
 - <https://huggingface.co/spaces/ResembleAI/chatterbox-turbo-demo>
+- <https://huggingface.co/spaces/Qwen/Qwen3-TTS>
+- <https://huggingface.co/nvidia/personaplex-7b-v1>
 
 ### AI Música
 
@@ -2503,6 +2506,8 @@ Colección de todo sitio (útil) que he ido encontrando durante mí proceso de a
 - <https://github.com/mds/floatprompt>
 - <https://www.ui-skills.com/>
 - <https://github.com/simstudioai/sim>
+- <https://www.aitmpl.com/agents>
+- <https://skillsmp.com/>
 
 ### AI Software
 
@@ -2525,6 +2530,7 @@ Colección de todo sitio (útil) que he ido encontrando durante mí proceso de a
 - <https://marketplace.visualstudio.com/items?itemName=robertpiosik.gemini-coder> (IDE Extension)
 - <https://supermaven.com/> (IDE)
 - <https://www.term-v0.app/> (CLI Agentic coding)
+- <https://www.pencil.dev/> (Figma alternative)
 
 ## Búsqueda trabajo
 
@@ -2615,6 +2621,7 @@ Colección de todo sitio (útil) que he ido encontrando durante mí proceso de a
 - <https://www.getmanfred.com/>
 - <https://global.welcometothejungle.com/>
 - <https://prosmarketplace.com/>
+- <https://www.available.dev/>
 
 ### Freelance
 
@@ -2627,6 +2634,8 @@ También conocidos como: pagan por tarea
 - <https://www.upwork.com/>
 - <https://www.dataannotation.tech/>
 - <https://outlier.ai/>
+- <https://www.vyro.com/>
+- <https://whop.com>
 
 ### US focus
 
