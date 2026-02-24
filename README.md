@@ -1004,6 +1004,7 @@ Colección de todo sitio (útil) que he ido encontrando durante mí proceso de a
 - <https://picocss.com/>
 - <https://preline.co/>
 - <https://open-props.style/>
+- <https://kokonutui.com/>
 
 ##### Estilos inspirados en otros preexistentes
 
@@ -2531,6 +2532,8 @@ Colección de todo sitio (útil) que he ido encontrando durante mí proceso de a
 - <https://supermaven.com/> (IDE)
 - <https://www.term-v0.app/> (CLI Agentic coding)
 - <https://www.pencil.dev/> (Figma alternative)
+- <https://github.com/jamiepine/voicebox/releases> (audio)
+- <https://openclaw.ai/> ("AI")
 
 ## Búsqueda trabajo
 
@@ -2672,6 +2675,7 @@ También conocidos como: pagan por tarea
 - <https://artickl.com/> (Pagada)
 - <https://standardresume.co> (Pagada)
 - <https://buildmyresume.live/>
+- <https://www.generacv.cl/>
 
 ##### Ejemplos/plantillas
 
@@ -2682,6 +2686,7 @@ También conocidos como: pagan por tarea
 - <https://sheetsresume.com/resume-template/>
 - <https://www.overleaf.com/latex/templates/tagged/cv>
 - <https://blog.pragmaticengineer.com/the-pragmatic-engineers-resume-template/>
+- <https://docs.google.com/document/d/1_zB6eWfH00beu8cONeY1mZKEHOQbLDi4/> - [fuente](https://www.linkedin.com/posts/midudev_el-mejor-cv-para-conseguir-trabajo-seg%C3%BAn-activity-7251213305296408576-Uwni)
 
 ##### Salario
 
