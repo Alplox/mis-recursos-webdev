@@ -1273,6 +1273,8 @@ Colección de todo sitio (útil) que he ido encontrando durante mí proceso de a
 - <https://learn.mongodb.com/catalog>
 - <https://types.kitlangton.com/> (TypeScript)
 - <https://loggingsucks.com/>
+- <https://anthropic.skilljar.com/>
+- <https://www.conventionalcommits.org>
 
 ### Udemy
 
@@ -2294,6 +2296,7 @@ Colección de todo sitio (útil) que he ido encontrando durante mí proceso de a
 - <https://grok.com>
 - <https://web.lmarena.ai/>
 - <https://app.khoj.dev/> (Requiere cuenta)
+- <https://www.tplr.ai/chat>
 
 ### AI Imágenes
 
@@ -2474,7 +2477,7 @@ Colección de todo sitio (útil) que he ido encontrando durante mí proceso de a
 - <https://viggle.ai/> (Pagada, Requiere cuenta, 5 exportaciones por mes con Watermark)
 - <https://beta-agent.opus.pro/> (Requiere cuenta)
 
-### AI Web Dev focus
+### AI Vibe Coding
 
 - <https://v0.dev/>
 - <https://vzy.co/> (Requiere cuenta)
@@ -2490,6 +2493,7 @@ Colección de todo sitio (útil) que he ido encontrando durante mí proceso de a
 - <https://codewiki.ai/>
 - <https://codewiki.google/>
 - <https://deepwiki.org/>
+- <https://repodoc.app>
 - <https://stitch.withgoogle.com/> (Requiere cuenta)
 - <https://www.aura.build> (Requiere cuenta, Pagada, 10 prompts por mes)
 - <https://www.figma.com/es-es/make/> (Requiere cuenta, Pagada)
@@ -2503,12 +2507,21 @@ Colección de todo sitio (útil) que he ido encontrando durante mí proceso de a
 - <https://catdoes.com/> (Requiere cuenta, Pagada, 2 Créditos gratis diarios)
 - <https://llamacoder.together.ai/>
 - <https://mgx.dev/> (Requiere cuenta, Pagada, 7.5 créditos diarios (hasta 25 / mes))
+- <https://github.com/simstudioai/sim>
+- <https://www.canirun.ai/> (Revisar online que LLM puede correr tu equipo)
+
+#### Skills
+
+Ejem [Are Repository-Level Context Files Helpful for Coding Agents?](https://arxiv.org/pdf/2602.11988)
+
 - <https://agents.md/>
-- <https://github.com/mds/floatprompt>
+- <https://github.com/mds/floatprompt> (herramienta para crear prompts dinámicos que pueden variar automáticamente en lugar de ser siempre exactamente iguales)
 - <https://www.ui-skills.com/>
 - <https://github.com/simstudioai/sim>
 - <https://www.aitmpl.com/agents>
 - <https://skillsmp.com/>
+- <https://skills.sh/>
+- <https://github.com/addyosmani/web-quality-skills/>
 
 ### AI Software
 
@@ -2534,6 +2547,9 @@ Colección de todo sitio (útil) que he ido encontrando durante mí proceso de a
 - <https://www.pencil.dev/> (Figma alternative)
 - <https://github.com/jamiepine/voicebox/releases> (audio)
 - <https://openclaw.ai/> ("AI")
+- <https://github.com/AlexsJones/llmfit> (Hundreds of models & providers. One command to find what runs on your hardware)
+- <https://github.com/FlowiseAI/Flowise>
+- <https://github.com/fishaudio/fish-speech/> (audio/tts)
 
 ## Búsqueda trabajo
 
