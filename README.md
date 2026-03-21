@@ -1477,6 +1477,7 @@ Colección de todo sitio (útil) que he ido encontrando durante mí proceso de a
 - <https://www.lummi.ai/> (AI CC0)
 - <https://microsoft.design/wallpapers/>
 - <https://texturelabs.org/>
+- <https://www.nga.gov/artworks/free-images-and-open-access> (CC0)
 
 ### Vídeos Gratuitos
 
@@ -2641,6 +2642,7 @@ Ejem [Are Repository-Level Context Files Helpful for Coding Agents?](https://arx
 - <https://global.welcometothejungle.com/>
 - <https://prosmarketplace.com/>
 - <https://www.available.dev/>
+- <https://offers.nodi.global/>
 
 ### Freelance
 
