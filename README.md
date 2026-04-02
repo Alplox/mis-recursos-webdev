@@ -885,6 +885,7 @@ Colección de todo sitio (útil) que he ido encontrando durante mí proceso de a
 - <https://www.adobe.com/es/products/aftereffects.html> (Pagada)
 - <https://olivevideoeditor.org/>
 - <https://www.techsmith.es/camtasia/> (Pagada)
+- <https://vit-editor.vercel.app/> (Git para videos)
 
 ### Librerías
 
@@ -957,6 +958,7 @@ Colección de todo sitio (útil) que he ido encontrando durante mí proceso de a
 - <https://felixg.io/works/inline>
 - <https://chartkick.com/mapkick>
 - <https://simpleparallax.com/>
+- <https://gridstackjs.com/>
 
 #### CSS Recursos
 
@@ -1935,6 +1937,7 @@ Colección de todo sitio (útil) que he ido encontrando durante mí proceso de a
 - <https://www.ibm.com/design/language/>
 - <https://design.theguardian.com/>
 - <https://www.makingsoftware.com/>
+- <https://brand.youtube/>
 
 ### Blogs
 
@@ -2089,6 +2092,7 @@ Colección de todo sitio (útil) que he ido encontrando durante mí proceso de a
 - <http://icoon.co/>
 - <https://www.navbar.gallery/>
 - <https://60fps.design/>
+- <https://calltoinspiration.com/>
 
 ## Cursos de pago
 
@@ -2510,6 +2514,8 @@ Colección de todo sitio (útil) que he ido encontrando durante mí proceso de a
 - <https://mgx.dev/> (Requiere cuenta, Pagada, 7.5 créditos diarios (hasta 25 / mes))
 - <https://github.com/simstudioai/sim>
 - <https://www.canirun.ai/> (Revisar online que LLM puede correr tu equipo)
+- <https://context7.com/>
+- <https://github.com/JCodesMore/ai-website-cloner-template>
 
 #### Skills
 
@@ -2523,6 +2529,7 @@ Ejem [Are Repository-Level Context Files Helpful for Coding Agents?](https://arx
 - <https://skillsmp.com/>
 - <https://skills.sh/>
 - <https://github.com/addyosmani/web-quality-skills/>
+- <https://awesome-copilot.github.com/>
 
 ### AI Software
 
@@ -2548,9 +2555,12 @@ Ejem [Are Repository-Level Context Files Helpful for Coding Agents?](https://arx
 - <https://www.pencil.dev/> (Figma alternative)
 - <https://github.com/jamiepine/voicebox/releases> (audio)
 - <https://openclaw.ai/> ("AI")
+- <https://autoglm.z.ai/autoclaw/>
 - <https://github.com/AlexsJones/llmfit> (Hundreds of models & providers. One command to find what runs on your hardware)
 - <https://github.com/FlowiseAI/Flowise>
 - <https://github.com/fishaudio/fish-speech/> (audio/tts)
+- <https://www.feynman.is/>
+- <https://www.expect.dev/>
 
 ## Búsqueda trabajo
 
@@ -2594,6 +2604,7 @@ Ejem [Are Repository-Level Context Files Helpful for Coding Agents?](https://arx
 - <https://chile.trabajos.com/>
 - <https://www.trabajoconsentido.com/>
 - <https://www.stack.cl/>
+- <https://www.admisionarmada.cl/concursos/>
 
 #### Universidades/Institutos
 
@@ -2694,6 +2705,7 @@ También conocidos como: pagan por tarea
 - <https://standardresume.co> (Pagada)
 - <https://buildmyresume.live/>
 - <https://www.generacv.cl/>
+- <https://kirlts.github.io/YaCV/> (YAML)
 
 ##### Ejemplos/plantillas
 
@@ -2757,3 +2769,4 @@ También conocidos como: pagan por tarea
 - <https://monkeytype.com/>
 - <https://generador.fantasmogenesis.com/> (Generador visuales para MIDI)
 - <https://derivative.ca/download> (Pagada, Generador visuales, Version gratis no comercial)
+- <https://fff.dmtrkovalenko.dev> (Demo de busqueda no regex)
