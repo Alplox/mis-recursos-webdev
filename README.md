@@ -1007,6 +1007,7 @@ Colección de todo sitio (útil) que he ido encontrando durante mí proceso de a
 - <https://preline.co/>
 - <https://open-props.style/>
 - <https://kokonutui.com/>
+- <https://theme-toggle.rdsx.dev/>
 
 ##### Estilos inspirados en otros preexistentes
 
@@ -2530,6 +2531,8 @@ Ejem [Are Repository-Level Context Files Helpful for Coding Agents?](https://arx
 - <https://skills.sh/>
 - <https://github.com/addyosmani/web-quality-skills/>
 - <https://awesome-copilot.github.com/>
+- <https://github.com/VoltAgent/awesome-design-md>
+- <https://www.autoskills.sh/>
 
 ### AI Software
 
