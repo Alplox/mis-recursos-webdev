@@ -487,7 +487,7 @@ Colección de todo sitio (útil) que he ido encontrando durante mí proceso de a
 - <https://ezgif.com/> (GIF editor y convertidor)
 - <https://www.textstudio.com/> (Texto)
 - <https://www.3dgifmaker.com/360Spin>
-- <https://moshpro.app/> (Efectos,Watermark, De Pago)
+- <https://moshpro.app/> (Efectos,Watermark, Pagada)
 - <https://www.tooooools.app/> (Efectos)
 - <https://pixelhunter.io/> (Resize para RRSS)
 - <https://efecto.app/> (Manipular imagenes con filtros estilo ASCII)
@@ -1188,6 +1188,7 @@ Colección de todo sitio (útil) que he ido encontrando durante mí proceso de a
 - <https://www.40defiebre.com/diccionario-de-inbound-marketing>
 - <https://adamlivas.notion.site/La-Gu-a-Definitiva-para-Dominar-ChatGPT-De-Principiante-a-Experto-f8d5f5e6420f421bb6d4b44568d99c35>
 - <https://training.genexus.com/es/aprendiendo/cursos>
+- <https://100cosas.dev/>
 
 ### Libros
 
@@ -1278,6 +1279,9 @@ Colección de todo sitio (útil) que he ido encontrando durante mí proceso de a
 - <https://loggingsucks.com/>
 - <https://anthropic.skilljar.com/>
 - <https://www.conventionalcommits.org>
+- <https://visualgo.net/en>
+- <https://beej.us/guide/>
+- <https://missing.csail.mit.edu/>
 
 ### Udemy
 
@@ -1385,6 +1389,7 @@ Colección de todo sitio (útil) que he ido encontrando durante mí proceso de a
 - <https://animatedicons.co/>
 - <https://lucide.dev/>
 - <https://www.lofiboards.com/> (AI)
+- <https://www.freeicons.org/>
 
 ### Ilustraciones Gratuitas
 
@@ -1854,6 +1859,7 @@ Colección de todo sitio (útil) que he ido encontrando durante mí proceso de a
 - <https://firecheat.dev/>
 - <https://yoksel.github.io/grid-cheatsheet/>
 - <https://yoksel.github.io/flex-cheatsheet/>
+- <https://gist.github.com/qoomon/5dfcdf8eec66a051ecd85625518cfd13#file-conventional-commits-cheatsheet-md>
 
 ## Foros-Blogs-Inspiración
 
@@ -1922,7 +1928,7 @@ Colección de todo sitio (útil) que he ido encontrando durante mí proceso de a
 - <https://geometryclub.org/>
 - <https://muz.li/es> (Extension)
 - <https://www.curationofcurations.com/>
-- <https://www.are.na/> (Requiere cuenta, De pago, 200 "bloques gratis")
+- <https://www.are.na/> (Requiere cuenta, Pagada, 200 "bloques gratis")
 - <https://refero.design/> (Requiere cuenta)
 
 #### Design/Brand Guidelines
@@ -2062,7 +2068,7 @@ Colección de todo sitio (útil) que he ido encontrando durante mí proceso de a
 - <https://www.hoverstat.es/>
 - <https://wow-web.co.uk/>
 - <https://deadsimplesites.com/>
-- <https://frameset.app/search> (Videos, Requiere cuenta, De pago)
+- <https://frameset.app/search> (Videos, Requiere cuenta, Pagada)
 - <https://flippa.com/> (Mercado de SaaS/Páginas web)
 - <https://same.energy/>
 - <https://www.commuting.to/>
@@ -2149,7 +2155,7 @@ Colección de todo sitio (útil) que he ido encontrando durante mí proceso de a
 - <https://curator.io/> (RRSS agregator)
 - <https://www.nocodescraper.com/>
 - <https://userway.org/es/>
-- <https://www.redomysite.com/> (Rehacer "cualquier sitio" en Astro, De pago ($3 por sitio))
+- <https://www.redomysite.com/> (Rehacer "cualquier sitio" en Astro, Pagada ($3 por sitio))
 - <https://freesvgicons.com/> (pagar pos svgs)
 
 ## AI
@@ -2303,6 +2309,7 @@ Colección de todo sitio (útil) que he ido encontrando durante mí proceso de a
 - <https://web.lmarena.ai/>
 - <https://app.khoj.dev/> (Requiere cuenta)
 - <https://www.tplr.ai/chat>
+- <https://openrouter.ai/chat> (Requiere cuenta, Pagada)
 
 ### AI Imágenes
 
@@ -2533,6 +2540,9 @@ Ejem [Are Repository-Level Context Files Helpful for Coding Agents?](https://arx
 - <https://awesome-copilot.github.com/>
 - <https://github.com/VoltAgent/awesome-design-md>
 - <https://www.autoskills.sh/>
+- <https://github.com/Leonxlnx/taste-skill>
+- <https://github.com/rohitg00/skillkit>
+- <https://github.com/JuliusBrussee/caveman>
 
 ### AI Software
 
@@ -2564,6 +2574,9 @@ Ejem [Are Repository-Level Context Files Helpful for Coding Agents?](https://arx
 - <https://github.com/fishaudio/fish-speech/> (audio/tts)
 - <https://www.feynman.is/>
 - <https://www.expect.dev/>
+- <https://github.com/elizaOS/eliza>
+- <https://github.com/NousResearch/hermes-agent>
+- <https://wisprflow.ai/> (Voice dictation, Pagada)
 
 ## Búsqueda trabajo
 
