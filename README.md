@@ -601,6 +601,7 @@ Colección de todo sitio (útil) que he ido encontrando durante mí proceso de a
 - <https://www.pacdora.com/>
 - <https://www.kittl.com/>
 - <https://milkshake.app/>
+- <https://avnac.design/>
 
 #### Figma plugin
 
@@ -723,6 +724,7 @@ Colección de todo sitio (útil) que he ido encontrando durante mí proceso de a
 - <https://autojumpcutter.com/>
 - <https://www.unscreen.com/upload> (remover fondo)
 - <https://www.geolayers.app/> (Mapas animados)
+- <https://z-tuner.vercel.app/> (video a ASCII)
 
 ### Audio
 
@@ -843,6 +845,7 @@ Colección de todo sitio (útil) que he ido encontrando durante mí proceso de a
 - <https://www.adobe.com/cl/products/photoshop.html> (Pagada)
 - <https://www.pixelmator.com/pro/> (Pagada)
 - <https://upscayl.org/>
+- <https://arcbrush.com/>
 
 #### Browsers
 
@@ -1390,6 +1393,7 @@ Colección de todo sitio (útil) que he ido encontrando durante mí proceso de a
 - <https://lucide.dev/>
 - <https://www.lofiboards.com/> (AI)
 - <https://www.freeicons.org/>
+- <https://dotmatrix.zzzzshawn.cloud/> (loaders)
 
 ### Ilustraciones Gratuitas
 
@@ -1795,6 +1799,8 @@ Colección de todo sitio (útil) que he ido encontrando durante mí proceso de a
 - <https://stack-to-grid.vercel.app/>
 - <https://bentoed.vercel.app/>
 - <https://cart-anim.vercel.app/>
+- <https://experiments.thisiswhitespace.com/dot-form>
+- <https://transitions.dev/>
 
 #### Typewriter effect
 
@@ -2100,6 +2106,7 @@ Colección de todo sitio (útil) que he ido encontrando durante mí proceso de a
 - <https://www.navbar.gallery/>
 - <https://60fps.design/>
 - <https://calltoinspiration.com/>
+- <https://variant.com/>
 
 ## Cursos de pago
 
@@ -2524,6 +2531,10 @@ Colección de todo sitio (útil) que he ido encontrando durante mí proceso de a
 - <https://www.canirun.ai/> (Revisar online que LLM puede correr tu equipo)
 - <https://context7.com/>
 - <https://github.com/JCodesMore/ai-website-cloner-template>
+- <https://github.com/maxbogo/awesome-ai-tools-for-ui>
+- <https://neuform.ai/> (Requiere cuenta, Pagada)
+- <https://github.com/heygen-com/hyperframes>
+- <https://github.com/hyperbrowserai/hyperbrowser-app-examples>
 
 #### Skills
 
@@ -2536,6 +2547,8 @@ Ejem [Are Repository-Level Context Files Helpful for Coding Agents?](https://arx
 - <https://www.aitmpl.com/agents>
 - <https://skillsmp.com/>
 - <https://skills.sh/>
+- <https://skillstore.io/>
+- <https://skills.rest/>
 - <https://github.com/addyosmani/web-quality-skills/>
 - <https://awesome-copilot.github.com/>
 - <https://github.com/VoltAgent/awesome-design-md>
@@ -2543,6 +2556,12 @@ Ejem [Are Repository-Level Context Files Helpful for Coding Agents?](https://arx
 - <https://github.com/Leonxlnx/taste-skill>
 - <https://github.com/rohitg00/skillkit>
 - <https://github.com/JuliusBrussee/caveman>
+- <https://github.com/nexu-io/open-design>
+- <https://github.com/obra/superpowers>
+- <https://getdesign.md/>
+- <https://github.com/google-labs-code/design.md>
+- <https://github.com/jakubantalik/transitions-dev>
+- <https://github.com/forrestchang/andrej-karpathy-skills>
 
 ### AI Software
 
