@@ -51,14 +51,6 @@ Colección de todo sitio (útil) que he ido encontrando durante mí proceso de a
 - <https://pythontutor.com/>
 - <https://ide.onelang.io/>
 - <https://tinyeditor.pages.dev/> (Requiere cuenta)
-- <https://dillinger.io> (Editor Markdown)
-- <https://stackedit.io/> (Editor Markdown)
-- <https://writemd.xyz/> (Editor Markdown)
-- <https://markdown.pioul.fr/> (Editor Markdown)
-- <https://markdown-editor.github.io/> (Editor Markdown)
-- <https://pandao.github.io/editor.md/en.html> (Editor Markdown)
-- <https://markdownlivepreview.com/> (Editor Markdown)
-- <https://markdownpastebin.com/> (Editor Markdown)
 - <https://personal.onlyoffice.com/> (Office Online)
 - <https://arcaneoffice.com/> (Office Online)
 - <https://simplenote.com/> (Notas)
@@ -79,6 +71,18 @@ Colección de todo sitio (útil) que he ido encontrando durante mí proceso de a
 - <https://transform.tools/>
 - <https://simplepdf.com/>
 - <https://cryptpad.fr> (Office)
+
+## Editores markdown online
+
+- <https://dillinger.io>
+- <https://stackedit.io/>
+- <https://writemd.xyz/>
+- <https://markdown.pioul.fr/>
+- <https://markdown-editor.github.io/>
+- <https://pandao.github.io/editor.md/en.html>
+- <https://markdownlivepreview.com/>
+- <https://markdownpastebin.com/>
+- <https://indexedmd.com/>
 
 ## Herramientas
 
@@ -787,7 +791,6 @@ Colección de todo sitio (útil) que he ido encontrando durante mí proceso de a
 - <https://polypane.app/> (Pagada, Navegador diseñado para desarrolladores)
 - <https://gitloft.com/> (Lista software Open Source)
 - <https://www.streamlit.io/> (Scripts into sharable web apps)
-- <https://typora.io/> (Editor Markdown)
 - <https://zealdocs.org/> (Documentación offline para desarrolladores)
 - <https://bootstrapstudio.io/> (Pagada, Bootstrap)
 - <https://getloaf.io/> (Animar SVG)
@@ -798,9 +801,27 @@ Colección de todo sitio (útil) que he ido encontrando durante mí proceso de a
 - <https://www.warp.dev/>
 - <https://iconset.io/>
 - <https://logseq.com/> (notas)
-- <https://obsidian.md/> (notas)
 - <https://www.sketch.com/> (Pagada)
 - <https://www.adobe.com/cl/products/illustrator.html> (Pagada)
+- <https://github.com/BigBodyCobain/Shadowbroker> (Open-source intelligence tracker)
+
+### Editor Markdown
+
+- <https://typora.io/>
+- <https://obsidian.md/>
+- <https://tolaria.md/>
+- <https://zennotes.org/>
+- <https://fude.md/>
+- <https://clearly.md/> (macOS)
+- <https://cogito.md/> (macOS)
+- <https://writer.computer/> (macOS)
+- <https://md-preview.app/> (macOS)
+- <https://github.com/GRVYDEV/marky> (macOS/Linux)
+- <https://www.ericli.io/scratch> (macOS)
+- <https://glyphformac.com> (macOS, Pagada)
+- <https://sobanotes.app/> (macOS)
+- <https://mdee.bkh.dev/>
+- <https://meadow-notes.com/> (macOS)
 
 #### Screen Recorder/Capturar Pantalla
 
@@ -962,6 +983,7 @@ Colección de todo sitio (útil) que he ido encontrando durante mí proceso de a
 - <https://chartkick.com/mapkick>
 - <https://simpleparallax.com/>
 - <https://gridstackjs.com/>
+- <https://rxdb.info/>
 
 #### CSS Recursos
 
@@ -1055,6 +1077,7 @@ Colección de todo sitio (útil) que he ido encontrando durante mí proceso de a
 
 - <https://ui.aceternity.com/>
 - <https://ui.shadcn.com/>
+- <https://ui.watermelon.sh/>
 - <https://react-simple-images-zoom-demo.vercel.app/>
 - <https://floating-ui.com/>
 - <https://formik.org/>
@@ -1192,6 +1215,7 @@ Colección de todo sitio (útil) que he ido encontrando durante mí proceso de a
 - <https://adamlivas.notion.site/La-Gu-a-Definitiva-para-Dominar-ChatGPT-De-Principiante-a-Experto-f8d5f5e6420f421bb6d4b44568d99c35>
 - <https://training.genexus.com/es/aprendiendo/cursos>
 - <https://100cosas.dev/>
+- <https://www.jscamp.dev/> (Requiere cuenta)
 
 ### Libros
 
@@ -1591,6 +1615,7 @@ Colección de todo sitio (útil) que he ido encontrando durante mí proceso de a
 - <https://www.launchaco.com/>
 - <https://www.jimdo.com/es/>
 - <https://vercel.com/>
+  - <https://theupsellgame.com/>
 - <https://tiiny.host/>
 - <https://mdbgo.com/>
 - <https://firebase.google.com/>
@@ -1832,6 +1857,7 @@ Colección de todo sitio (útil) que he ido encontrando durante mí proceso de a
 - <https://wind-waker-js.vercel.app/>
 - <https://phuoc.ng/collection/1-loc/>
 - <https://h12024-prod-dot-gstore-model-viewer-prod-1h24.uc.r.appspot.com/pixel-8a-3d/>
+- <https://www.nicbarker.com/virtual-scrolling>
 
 ## Cheatsheets
 
@@ -2107,6 +2133,9 @@ Colección de todo sitio (útil) que he ido encontrando durante mí proceso de a
 - <https://60fps.design/>
 - <https://calltoinspiration.com/>
 - <https://variant.com/>
+- <https://ossium.live/home>
+- <https://vaults.obsidian-community.com/>
+- <https://www.opensourceprojects.dev/>
 
 ## Cursos de pago
 
@@ -2496,6 +2525,7 @@ Colección de todo sitio (útil) que he ido encontrando durante mí proceso de a
 - <https://getblort.com/> (Pagada, Requiere cuenta, content creation tools "UGC")
 - <https://viggle.ai/> (Pagada, Requiere cuenta, 5 exportaciones por mes con Watermark)
 - <https://beta-agent.opus.pro/> (Requiere cuenta)
+- <https://editframe.com/> (Pagada, Requiere cuenta, gratis para no usos no comerciales)
 
 ### AI Vibe Coding
 
@@ -2542,7 +2572,6 @@ Ejem [Are Repository-Level Context Files Helpful for Coding Agents?](https://arx
 
 - <https://agents.md/>
 - <https://github.com/mds/floatprompt> (herramienta para crear prompts dinámicos que pueden variar automáticamente en lugar de ser siempre exactamente iguales)
-- <https://www.ui-skills.com/>
 - <https://github.com/simstudioai/sim>
 - <https://www.aitmpl.com/agents>
 - <https://skillsmp.com/>
@@ -2551,17 +2580,27 @@ Ejem [Are Repository-Level Context Files Helpful for Coding Agents?](https://arx
 - <https://skills.rest/>
 - <https://github.com/addyosmani/web-quality-skills/>
 - <https://awesome-copilot.github.com/>
-- <https://github.com/VoltAgent/awesome-design-md>
 - <https://www.autoskills.sh/>
-- <https://github.com/Leonxlnx/taste-skill>
 - <https://github.com/rohitg00/skillkit>
 - <https://github.com/JuliusBrussee/caveman>
-- <https://github.com/nexu-io/open-design>
 - <https://github.com/obra/superpowers>
+- <https://github.com/forrestchang/andrej-karpathy-skills>
+- <https://github.com/elder-plinius/CL4R1T4S/>
+- <https://github.com/jakubkrehel/oklch-skill>
+- <https://github.com/VoltAgent/awesome-agent-skills>
+- <https://github.com/UzenUPozitiv4ik/gpt-image-2-skill/>
+- <https://github.com/mattpocock/skills>
+
+##### Design.md
+
+- <https://www.ui-skills.com/>
+- <https://github.com/VoltAgent/awesome-design-md>
+- <https://github.com/Leonxlnx/taste-skill>
+- <https://github.com/nexu-io/open-design>
 - <https://getdesign.md/>
 - <https://github.com/google-labs-code/design.md>
 - <https://github.com/jakubantalik/transitions-dev>
-- <https://github.com/forrestchang/andrej-karpathy-skills>
+- <https://styles.refero.design/>
 
 ### AI Software
 
@@ -2589,6 +2628,7 @@ Ejem [Are Repository-Level Context Files Helpful for Coding Agents?](https://arx
 - <https://openclaw.ai/> ("AI")
 - <https://autoglm.z.ai/autoclaw/>
 - <https://github.com/AlexsJones/llmfit> (Hundreds of models & providers. One command to find what runs on your hardware)
+- <https://github.com/vava-nessa/free-coding-models>
 - <https://github.com/FlowiseAI/Flowise>
 - <https://github.com/fishaudio/fish-speech/> (audio/tts)
 - <https://www.feynman.is/>
@@ -2596,6 +2636,8 @@ Ejem [Are Repository-Level Context Files Helpful for Coding Agents?](https://arx
 - <https://github.com/elizaOS/eliza>
 - <https://github.com/NousResearch/hermes-agent>
 - <https://wisprflow.ai/> (Voice dictation, Pagada)
+- <https://github.com/abus-aikorea/voice-pro> (speech recognition, translation, and multilingual dubbing)
+- <https://www.lazyweb.com/>
 
 ## Búsqueda trabajo
 
