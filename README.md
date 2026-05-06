@@ -83,6 +83,9 @@ Colección de todo sitio (útil) que he ido encontrando durante mí proceso de a
 - <https://markdownlivepreview.com/>
 - <https://markdownpastebin.com/>
 - <https://indexedmd.com/>
+- <https://markdown.new/> (Sitio a markdown)
+- <https://r.jina.ai/> (Sitio a markdown)
+- <https://defuddle.md/> (Sitio a markdown)
 
 ## Herramientas
 
@@ -1418,6 +1421,8 @@ Colección de todo sitio (útil) que he ido encontrando durante mí proceso de a
 - <https://www.lofiboards.com/> (AI)
 - <https://www.freeicons.org/>
 - <https://dotmatrix.zzzzshawn.cloud/> (loaders)
+- <https://smallbits.design/>
+- <https://loguitos.app/>
 
 ### Ilustraciones Gratuitas
 
@@ -2136,6 +2141,7 @@ Colección de todo sitio (útil) que he ido encontrando durante mí proceso de a
 - <https://ossium.live/home>
 - <https://vaults.obsidian-community.com/>
 - <https://www.opensourceprojects.dev/>
+- <https://killedbygoogle.com/>
 
 ## Cursos de pago
 
@@ -2310,6 +2316,7 @@ Colección de todo sitio (útil) que he ido encontrando durante mí proceso de a
 - <https://www.perplexity.ai/>
 - <https://scira.ai/>
 - <https://claude.ai/> (Requiere cuenta)
+  - <https://clawd.rip/>
 - <https://deepai.org/chat>
 - <https://talkai.info/es/chat/>
 - <https://www.aichatting.net/es/>
@@ -2565,6 +2572,7 @@ Colección de todo sitio (útil) que he ido encontrando durante mí proceso de a
 - <https://neuform.ai/> (Requiere cuenta, Pagada)
 - <https://github.com/heygen-com/hyperframes>
 - <https://github.com/hyperbrowserai/hyperbrowser-app-examples>
+- <https://www.agentfriendlycode.com/>
 
 #### Skills
 
@@ -2590,6 +2598,7 @@ Ejem [Are Repository-Level Context Files Helpful for Coding Agents?](https://arx
 - <https://github.com/VoltAgent/awesome-agent-skills>
 - <https://github.com/UzenUPozitiv4ik/gpt-image-2-skill/>
 - <https://github.com/mattpocock/skills>
+- <https://github.com/anthropics/skills/tree/main>
 
 ##### Design.md
 
@@ -2601,6 +2610,8 @@ Ejem [Are Repository-Level Context Files Helpful for Coding Agents?](https://arx
 - <https://github.com/google-labs-code/design.md>
 - <https://github.com/jakubantalik/transitions-dev>
 - <https://styles.refero.design/>
+- <https://emilkowal.ski/ui/agents-with-taste>
+- <https://impeccable.style/>
 
 ### AI Software
 
@@ -2638,6 +2649,8 @@ Ejem [Are Repository-Level Context Files Helpful for Coding Agents?](https://arx
 - <https://wisprflow.ai/> (Voice dictation, Pagada)
 - <https://github.com/abus-aikorea/voice-pro> (speech recognition, translation, and multilingual dubbing)
 - <https://www.lazyweb.com/>
+- <https://open-agents.dev/>
+- <https://nan.builders/> (Pagada)
 
 ## Búsqueda trabajo
 
