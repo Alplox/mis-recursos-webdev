@@ -544,6 +544,7 @@ Colección de todo sitio (útil) que he ido encontrando durante mí proceso de a
 - <https://deviceshots.com/>
 - <https://previewed.app/> (Pagada)
 - <https://desktop.fm/> (Editor CD's [NO PUBLICADO])
+- <https://javii.tools> (RRSS)
 
 #### Remover Fondos
 
@@ -2450,6 +2451,7 @@ Colección de todo sitio (útil) que he ido encontrando durante mí proceso de a
 - <https://www.trybloom.ai/> (Pagada, Requiere cuenta)
 - <https://www.canvai.co/> (Requiere cuenta, Pagada)
 - <https://letz.ai/> (Pagada, Requiere cuenta, 150 créditos gratis)
+- <https://image2hub.netlify.app/> (Prompts con ejemplos)
 
 ### AI Audio
 
@@ -2612,6 +2614,9 @@ Ejem [Are Repository-Level Context Files Helpful for Coding Agents?](https://arx
 - <https://styles.refero.design/>
 - <https://emilkowal.ski/ui/agents-with-taste>
 - <https://impeccable.style/>
+- <https://designmd.me/>
+- <https://www.designmd.supply/>
+- <https://github.com/bergside/design-md-chrome> (Extension)
 
 ### AI Software
 
