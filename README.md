@@ -1626,6 +1626,7 @@ Colección de todo sitio (útil) que he ido encontrando durante mí proceso de a
 - <https://indestructibletype.com/Home.html>
 - <https://velvetyne.fr/>
 - <https://www.awwwards.com/awwwards/collections/free-fonts/>
+- <https://aviosans.lerbb.com/>
 
 ### Audios Gratuitos
 
