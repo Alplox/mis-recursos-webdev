@@ -71,6 +71,7 @@ Colección de todo sitio (útil) que he ido encontrando durante mí proceso de a
 - <https://transform.tools/>
 - <https://simplepdf.com/>
 - <https://cryptpad.fr> (Office)
+- <https://jsonhero.io/>
 
 ## Editores markdown online
 
@@ -192,6 +193,7 @@ Colección de todo sitio (útil) que he ido encontrando durante mí proceso de a
 - <https://www.zamzar.com/> (file conversion)
 - <https://fakeupdate.net/>
 - <https://www.ilovepdf.com/>
+- <https://goodbrief.io/>
 
 ### Herramientas de colores
 
@@ -362,6 +364,7 @@ Colección de todo sitio (útil) que he ido encontrando durante mí proceso de a
 - <https://getwaves.io/>
 - <https://scrollbar.app/>
 - <https://www.squircle.style/>
+- <https://utopia.fyi/>
 
 #### Gradientes
 
@@ -385,6 +388,7 @@ Colección de todo sitio (útil) que he ido encontrando durante mí proceso de a
 - <https://csspro.com/css-gradients>
 - <https://www.designgradients.com/>
 - <https://www.eggradients.com/>
+- <https://meodai.github.io/dittoTones/>
 
 #### Animación
 
@@ -432,6 +436,7 @@ Colección de todo sitio (útil) que he ido encontrando durante mí proceso de a
 - <https://yandex.com/images/> (Reverse Image Search)
 - <https://ray.so/> (Compartir código)
 - <https://giffium.com/> (Compartir código)
+- <https://snippeteditor.com/> (Compartir código)
 - <https://pfpmaker.com/> (Editor foto perfil)
 - <https://png-svg.com/>
 - <https://www.cleanpng.com/>
@@ -656,6 +661,7 @@ Colección de todo sitio (útil) que he ido encontrando durante mí proceso de a
 - <https://shipfa.st/tools/logo-fast>
 - <https://draw.oooo.so/>
 - <https://www.svgviewer.dev/>
+- <https://3dsvg.design/>
 
 ### Fuentes
 
@@ -733,6 +739,7 @@ Colección de todo sitio (útil) que he ido encontrando durante mí proceso de a
 - <https://www.unscreen.com/upload> (remover fondo)
 - <https://www.geolayers.app/> (Mapas animados)
 - <https://z-tuner.vercel.app/> (video a ASCII)
+- <https://app.openreel.video/>
 
 ### Audio
 
@@ -939,6 +946,9 @@ Colección de todo sitio (útil) que he ido encontrando durante mí proceso de a
 - <https://franken-ui.dev/>
 - <https://docusaurus.io/docs>
 - <https://medusajs.com/>
+- <https://github.com/tanglydocs/tangly>
+- <https://mdxjs.com/>
+- <https://zero-native.dev/>
 
 #### JS Recursos
 
@@ -988,6 +998,7 @@ Colección de todo sitio (útil) que he ido encontrando durante mí proceso de a
 - <https://simpleparallax.com/>
 - <https://gridstackjs.com/>
 - <https://rxdb.info/>
+- <https://culorijs.org/>
 
 #### CSS Recursos
 
@@ -1037,6 +1048,7 @@ Colección de todo sitio (útil) que he ido encontrando durante mí proceso de a
 - <https://open-props.style/>
 - <https://kokonutui.com/>
 - <https://theme-toggle.rdsx.dev/>
+- <https://github.com/sean-brydon/devl.dev>
 
 ##### Estilos inspirados en otros preexistentes
 
@@ -1076,6 +1088,7 @@ Colección de todo sitio (útil) que he ido encontrando durante mí proceso de a
 - <https://pigeon-maps.js.org/>
 - <https://github.com/pmndrs/uikit>
 - <https://react-spectrum.adobe.com/react-aria/index.html>
+- <https://github.com/frame-script/FrameScript> (Hacer videos)
 
 ##### Componentes
 
@@ -1093,6 +1106,7 @@ Colección de todo sitio (útil) que he ido encontrando durante mí proceso de a
 - <https://github.com/heroui-inc/heroui-native>
 - <https://makeitanimated.dev/>
 - <https://mapcn.vercel.app/>
+- <https://github.com/dashrobotco/robot-components>
 
 ## Guías
 
@@ -1133,6 +1147,7 @@ Colección de todo sitio (útil) que he ido encontrando durante mí proceso de a
 - <https://es.react.dev/learn>
 - <https://github.com/jlevy/the-art-of-command-line/blob/master/README-es.md>
 - <https://cursoreact.dev/>
+- <https://brrrviz.com/>
 
 ### Practicas/Ejercicios
 
@@ -1158,6 +1173,9 @@ Colección de todo sitio (útil) que he ido encontrando durante mí proceso de a
 - <https://pixact.ly/>
 - <https://neetcode.io/>
 - <https://kodekloud.com/studio/labs>
+- <https://xpmetric.com/>
+- <https://www.dailyui.co/>
+- <https://www.uxtools.co/challenges>
 
 ### Guías visuales (Roadmap) para ser un web developer
 
@@ -1186,6 +1204,8 @@ Colección de todo sitio (útil) que he ido encontrando durante mí proceso de a
 - <https://shouldiuseacarousel.com/>
 - <https://anthonyhobday.com/sideprojects/saferules/>
 - <https://supabase-design-system.vercel.app/design-system>
+- <https://kyrylo.org/clamp-vs-media-queries/>
+- <https://designproject.io/blog/design-md-file/>
 
 ## Guías y cursos escritos
 
@@ -1313,6 +1333,8 @@ Colección de todo sitio (útil) que he ido encontrando durante mí proceso de a
 - <https://visualgo.net/en>
 - <https://beej.us/guide/>
 - <https://missing.csail.mit.edu/>
+- <https://diataxis.fr/>
+- <https://walkinglabs.github.io/learn-harness-engineering/en/>
 
 ### Udemy
 
@@ -1472,6 +1494,7 @@ Colección de todo sitio (útil) que he ido encontrando durante mí proceso de a
 - <https://sensa.co/emoji>
 - <https://emoji.gg/>
 - <https://coolshap.es/>
+- <https://kenney.nl/assets> (Game assets)
 
 ### Imágenes Gratuitas
 
@@ -1520,6 +1543,7 @@ Colección de todo sitio (útil) que he ido encontrando durante mí proceso de a
 - <https://microsoft.design/wallpapers/>
 - <https://texturelabs.org/>
 - <https://www.nga.gov/artworks/free-images-and-open-access> (CC0)
+- <https://www.magnific.com/search?format=search&last_filter=query&last_value=&selection=1>
 
 ### Vídeos Gratuitos
 
@@ -1594,6 +1618,14 @@ Colección de todo sitio (útil) que he ido encontrando durante mí proceso de a
 - <https://www.fontshare.com/fonts/panchang>
 - <https://fontesk.com/thorsa-font/>
 - <https://fontesk.com/sage-grotesk-font/>
+- <https://open-foundry.com/>
+- <https://usemodify.com/>
+- <https://www.tunera.xyz/>
+- <https://www.theleagueofmoveabletype.com/>
+- <https://bestfreefonts.com/>
+- <https://indestructibletype.com/Home.html>
+- <https://velvetyne.fr/>
+- <https://www.awwwards.com/awwwards/collections/free-fonts/>
 
 ### Audios Gratuitos
 
@@ -1864,6 +1896,7 @@ Colección de todo sitio (útil) que he ido encontrando durante mí proceso de a
 - <https://phuoc.ng/collection/1-loc/>
 - <https://h12024-prod-dot-gstore-model-viewer-prod-1h24.uc.r.appspot.com/pixel-8a-3d/>
 - <https://www.nicbarker.com/virtual-scrolling>
+- <https://chiuhans111.github.io/spin/>
 
 ## Cheatsheets
 
@@ -2023,6 +2056,7 @@ Colección de todo sitio (útil) que he ido encontrando durante mí proceso de a
 - <https://hackerone.com/hacktivity/overview>
 - <https://substack.com/home> (literatura)
 - <https://danielsun.space/>
+- <https://visualjournal.it/>
 
 ### Inspiración exclusivamente
 
@@ -2133,7 +2167,7 @@ Colección de todo sitio (útil) que he ido encontrando durante mí proceso de a
 - <https://worawork.vercel.app/>
 - <https://finddesignagency.com/>
 - <https://h1gallery.com/>
-- <http://404s.design/>
+- <https://www.404s.design/>
 - <http://icoon.co/>
 - <https://www.navbar.gallery/>
 - <https://60fps.design/>
@@ -2143,6 +2177,14 @@ Colección de todo sitio (útil) que he ido encontrando durante mí proceso de a
 - <https://vaults.obsidian-community.com/>
 - <https://www.opensourceprojects.dev/>
 - <https://killedbygoogle.com/>
+- <https://supahero.io/>
+- <https://www.unsection.com/>
+- <https://designspells.com/>
+- <https://gridddy.framer.website/>
+- <https://saaspo.com/>
+- <https://www.dark.design/>
+- <https://www.ogimage.gallery/>
+- <https://savee.com/>
 
 ## Cursos de pago
 
@@ -2353,7 +2395,7 @@ Colección de todo sitio (útil) que he ido encontrando durante mí proceso de a
 - <https://web.lmarena.ai/>
 - <https://app.khoj.dev/> (Requiere cuenta)
 - <https://www.tplr.ai/chat>
-- <https://openrouter.ai/chat> (Requiere cuenta, Pagada)
+- <https://openrouter.ai/chat> (Pagada, Requiere cuenta)
 
 ### AI Imágenes
 
@@ -2449,9 +2491,10 @@ Colección de todo sitio (útil) que he ido encontrando durante mí proceso de a
 - <https://pebblely.com/> (Pagada, Requiere cuenta, 40 imágenes gratis al mes)
 - <https://app.lupaupscaler.com/> (Pagada, Requiere cuenta)
 - <https://www.trybloom.ai/> (Pagada, Requiere cuenta)
-- <https://www.canvai.co/> (Requiere cuenta, Pagada)
+- <https://www.canvai.co/> (Pagada, Requiere cuenta)
 - <https://letz.ai/> (Pagada, Requiere cuenta, 150 créditos gratis)
 - <https://image2hub.netlify.app/> (Prompts con ejemplos)
+- <https://fal.ai/models/fal-ai/ideogram/remove-background> (Requiere cuenta)
 
 ### AI Audio
 
@@ -2534,14 +2577,15 @@ Colección de todo sitio (útil) que he ido encontrando durante mí proceso de a
 - <https://getblort.com/> (Pagada, Requiere cuenta, content creation tools "UGC")
 - <https://viggle.ai/> (Pagada, Requiere cuenta, 5 exportaciones por mes con Watermark)
 - <https://beta-agent.opus.pro/> (Requiere cuenta)
-- <https://editframe.com/> (Pagada, Requiere cuenta, gratis para no usos no comerciales)
+- <https://editframe.com/> (Pagada, Requiere cuenta, gratis para usos no comerciales)
+- <https://app.beeble.ai/home> (Pagada, Requiere cuenta, 90 créditos gratis para usos no comerciales)
 
 ### AI Vibe Coding
 
 - <https://v0.dev/>
 - <https://vzy.co/> (Requiere cuenta)
 - <https://www.magicpatterns.com/> (Requiere cuenta)
-- <https://www.relume.io/> (Requiere cuenta, Pagada)
+- <https://www.relume.io/> (Pagada, Requiere cuenta)
 - <https://www.vue0.dev/> (Requiere cuenta)
 - <https://uizard.io/> (Requiere cuenta)
 - <https://bolt.new/>
@@ -2555,13 +2599,13 @@ Colección de todo sitio (útil) que he ido encontrando durante mí proceso de a
 - <https://repodoc.app>
 - <https://stitch.withgoogle.com/> (Requiere cuenta)
 - <https://www.aura.build> (Requiere cuenta, Pagada, 10 prompts por mes)
-- <https://www.figma.com/es-es/make/> (Requiere cuenta, Pagada)
+- <https://www.figma.com/es-es/make/> (Pagada, Requiere cuenta)
 - <https://www.builder.io/> (Requiere cuenta, Pagada, 75 creditos por mes (limite diario 25))
 - <https://www.macaly.com/> (Requiere cuenta, Pagada, Up to 1M credits daily)
 - <https://readdy.ai/> (Requiere cuenta, Pagada, 250 creditos por mes)
-- <https://reshape.build/> (Requiere cuenta, Pagada) Nota: se ve vibe coded, no usar con información real/personal.
-- <https://www.vibed.inc/> (Requiere cuenta, Pagada)
-- <https://browser-use.com/> (Requiere cuenta, Pagada)
+- <https://reshape.build/> (Pagada, Requiere cuenta) Nota: se ve vibe coded, no usar con información real/personal.
+- <https://www.vibed.inc/> (Pagada, Requiere cuenta)
+- <https://browser-use.com/> (Pagada, Requiere cuenta)
 - <https://caffeine.ai/>
 - <https://catdoes.com/> (Requiere cuenta, Pagada, 2 Créditos gratis diarios)
 - <https://llamacoder.together.ai/>
@@ -2571,10 +2615,17 @@ Colección de todo sitio (útil) que he ido encontrando durante mí proceso de a
 - <https://context7.com/>
 - <https://github.com/JCodesMore/ai-website-cloner-template>
 - <https://github.com/maxbogo/awesome-ai-tools-for-ui>
-- <https://neuform.ai/> (Requiere cuenta, Pagada)
+- <https://neuform.ai/> (Pagada, Requiere cuenta)
 - <https://github.com/heygen-com/hyperframes>
 - <https://github.com/hyperbrowserai/hyperbrowser-app-examples>
 - <https://www.agentfriendlycode.com/>
+- <https://www.typeui.sh/prompts>
+- <https://github.com/colbymchenry/codegraph>
+- <https://github.com/bgauryy/octocode-mcp>
+- <https://github.com/millionco/react-doctor>
+- <https://jiro.build/components> (Pagar por prompts que pueden ser extraidos mediante las imagenes de ejemplo gratuitamente...)
+- <https://github.com/andysingal/llm-course/>
+- <https://github.com/shanraisshan/claude-code-best-practice>
 
 #### Skills
 
@@ -2601,6 +2652,12 @@ Ejem [Are Repository-Level Context Files Helpful for Coding Agents?](https://arx
 - <https://github.com/UzenUPozitiv4ik/gpt-image-2-skill/>
 - <https://github.com/mattpocock/skills>
 - <https://github.com/anthropics/skills/tree/main>
+- <https://github.com/alirezarezvani/claude-skills>
+- <https://github.com/alexdcd/Mafia-Claude-Skills>
+- <https://jeffreys-skills.md/skills>
+- <https://clawhub.ai/>
+- <https://github.com/darkrishabh/agent-skills-eval>
+- <https://github.com/sentient-agi/EvoSkill>
 
 ##### Design.md
 
@@ -2617,6 +2674,14 @@ Ejem [Are Repository-Level Context Files Helpful for Coding Agents?](https://arx
 - <https://designmd.me/>
 - <https://www.designmd.supply/>
 - <https://github.com/bergside/design-md-chrome> (Extension)
+- <https://meodai.github.io/design-book/>
+- <https://www.context.dev/free-tools/design-md-generator>
+- <https://github.com/Khalidabdi1/design-ai>
+- <https://designmd.ai/>
+- <https://design.dev/ai/design-md-generator/>
+- <https://explainx.ai/tools/design-md-generator>
+- <https://github.com/abhayjnayakk/awesome-design-md>
+- <https://jakub.kr/writing/details-that-make-interfaces-feel-better>
 
 ### AI Software
 
@@ -2642,6 +2707,7 @@ Ejem [Are Repository-Level Context Files Helpful for Coding Agents?](https://arx
 - <https://www.pencil.dev/> (Figma alternative)
 - <https://github.com/jamiepine/voicebox/releases> (audio)
 - <https://openclaw.ai/> ("AI")
+- <https://hermes-agent.nousresearch.com/> ("AI")
 - <https://autoglm.z.ai/autoclaw/>
 - <https://github.com/AlexsJones/llmfit> (Hundreds of models & providers. One command to find what runs on your hardware)
 - <https://github.com/vava-nessa/free-coding-models>
@@ -2784,6 +2850,8 @@ También conocidos como: pagan por tarea
 - <https://layoffs.fyi/>
 - <https://capacita.sii.cl/>
 - <https://www.registrodeempresasysociedades.cl/Curso.aspx>
+- <https://github.com/Angest1/cazapegas-app>
+- <https://invoicegenerator.io/>
 
 #### CV
 
