@@ -689,6 +689,7 @@ Colección de todo sitio (útil) que he ido encontrando durante mí proceso de a
 - <https://enfont.javierarce.com/>
 - <https://uncut.wtf/>
 - <https://www.freefaces.gallery/>
+- <https://fontastic.space/>
 
 ### Compartir archivos
 
@@ -1446,6 +1447,7 @@ Colección de todo sitio (útil) que he ido encontrando durante mí proceso de a
 - <https://dotmatrix.zzzzshawn.cloud/> (loaders)
 - <https://smallbits.design/>
 - <https://loguitos.app/>
+- <https://thesvg.org/>
 
 ### Ilustraciones Gratuitas
 
@@ -1865,6 +1867,8 @@ Colección de todo sitio (útil) que he ido encontrando durante mí proceso de a
 - <https://cart-anim.vercel.app/>
 - <https://experiments.thisiswhitespace.com/dot-form>
 - <https://transitions.dev/>
+- <https://clouds.kineticstudio.com/>
+- <https://tv-animation-flame.vercel.app/>
 
 #### Typewriter effect
 
@@ -2002,6 +2006,7 @@ Colección de todo sitio (útil) que he ido encontrando durante mí proceso de a
 - <https://www.curationofcurations.com/>
 - <https://www.are.na/> (Requiere cuenta, Pagada, 200 "bloques gratis")
 - <https://refero.design/> (Requiere cuenta)
+- <https://brandfetch.com/>
 
 #### Design/Brand Guidelines
 
@@ -2186,6 +2191,8 @@ Colección de todo sitio (útil) que he ido encontrando durante mí proceso de a
 - <https://www.dark.design/>
 - <https://www.ogimage.gallery/>
 - <https://savee.com/>
+- <https://macfolio.com/>
+- <https://detail.design/>
 
 ## Cursos de pago
 
