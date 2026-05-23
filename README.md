@@ -194,6 +194,7 @@ Colección de todo sitio (útil) que he ido encontrando durante mí proceso de a
 - <https://fakeupdate.net/>
 - <https://www.ilovepdf.com/>
 - <https://goodbrief.io/>
+- <https://diffshub.com/>
 
 ### Herramientas de colores
 
@@ -1149,6 +1150,7 @@ Colección de todo sitio (útil) que he ido encontrando durante mí proceso de a
 - <https://github.com/jlevy/the-art-of-command-line/blob/master/README-es.md>
 - <https://cursoreact.dev/>
 - <https://brrrviz.com/>
+- <https://www.skills.google/>
 
 ### Practicas/Ejercicios
 
@@ -2635,6 +2637,7 @@ Colección de todo sitio (útil) que he ido encontrando durante mí proceso de a
 - <https://jiro.build/components> (Pagar por prompts que pueden ser extraidos mediante las imagenes de ejemplo gratuitamente...)
 - <https://github.com/andysingal/llm-course/>
 - <https://github.com/shanraisshan/claude-code-best-practice>
+- <https://jules.google/> (Pagada, Requiere cuenta)
 
 #### Skills
 
@@ -2824,6 +2827,9 @@ Ejem [Are Repository-Level Context Files Helpful for Coding Agents?](https://arx
 - <https://prosmarketplace.com/>
 - <https://www.available.dev/>
 - <https://offers.nodi.global/>
+- <https://remote.co/>
+- <https://justremote.co/>
+- <https://jobspresso.co/>
 
 ### Freelance
 
