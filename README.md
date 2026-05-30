@@ -372,6 +372,8 @@ Mirror <https://raindrop.io/Alplox/mis-recursos-webdev-64067715>
 
 #### Revisar contraste
 
+[↑](#tabla-de-contenido)
+
 - <https://color.review/>
 - <https://color.cloudflare.design/> (Revisar contrastes y Herramientas de colores y Fuentes)
 - <https://webaim.org/resources/contrastchecker/>
@@ -465,6 +467,8 @@ Mirror <https://raindrop.io/Alplox/mis-recursos-webdev-64067715>
 
 #### Gradientes
 
+[↑](#tabla-de-contenido)
+
 - <https://larsenwork.com/easing-gradients/>
 - <https://polychroma.app/>
 - <https://grainy-gradients.vercel.app/>
@@ -489,6 +493,8 @@ Mirror <https://raindrop.io/Alplox/mis-recursos-webdev-64067715>
 - <https://patterncraft.fun>
 
 #### Animación
+
+[↑](#tabla-de-contenido)
 
 - <https://animate.style/>
 - <https://animista.net/>
@@ -569,6 +575,8 @@ Mirror <https://raindrop.io/Alplox/mis-recursos-webdev-64067715>
 
 #### Editar imágenes online
 
+[↑](#tabla-de-contenido)
+
 - <https://www.photopea.com/>
 - <https://ui.toast.com/tui-image-editor>
 - <https://pixlr.com/es/editor/>
@@ -608,6 +616,8 @@ Mirror <https://raindrop.io/Alplox/mis-recursos-webdev-64067715>
 
 #### Editor PixelArt
 
+[↑](#tabla-de-contenido)
+
 - <https://pixelcraft.web.app/>
 - <https://www.piskelapp.com/>
 - <https://orama-interactive.itch.io/pixelorama>
@@ -617,12 +627,16 @@ Mirror <https://raindrop.io/Alplox/mis-recursos-webdev-64067715>
 
 #### Generador de Fondos
 
+[↑](#tabla-de-contenido)
+
 - <https://trianglify.io/> (Pagada)
 - <https://raaatio.com/> (Pagada)
 - <https://meshgradient.com/>
 - <https://coolbackgrounds.io/>
 
 #### Upscale
+
+[↑](#tabla-de-contenido)
 
 - <http://waifu2x.udp.jp/>
 - <https://waifu2x.pro/>
@@ -641,6 +655,8 @@ Mirror <https://raindrop.io/Alplox/mis-recursos-webdev-64067715>
 
 #### Mockups
 
+[↑](#tabla-de-contenido)
+
 - <https://smartmockups.com/>
 - <https://shots.so/>
 - <https://www.mockup.zone/>
@@ -654,6 +670,8 @@ Mirror <https://raindrop.io/Alplox/mis-recursos-webdev-64067715>
 - <https://javii.tools> (RRSS)
 
 #### Remover Fondos
+
+[↑](#tabla-de-contenido)
 
 - <https://backgroundremover.app/> (Remover fondo a imágenes y vídeos)
 - <https://www.remove.bg/>
@@ -721,6 +739,8 @@ Mirror <https://raindrop.io/Alplox/mis-recursos-webdev-64067715>
 - <https://avnac.design/>
 
 #### Figma plugin
+
+[↑](#tabla-de-contenido)
 
 - <https://musho.ai/>
 - <https://www.figcomponents.com/>
@@ -827,6 +847,8 @@ Mirror <https://raindrop.io/Alplox/mis-recursos-webdev-64067715>
 - <https://onedoes.github.io/snapdrop/>
 
 #### P2P
+
+[↑](#tabla-de-contenido)
 
 - <https://file.pizza/>
 - <https://instant.io/>
@@ -955,6 +977,8 @@ Mirror <https://raindrop.io/Alplox/mis-recursos-webdev-64067715>
 
 #### Screen Recorder/Capturar Pantalla
 
+[↑](#tabla-de-contenido)
+
 - <https://www.screen.studio/>
 - <https://getkap.co/>
 - <https://cap.so/>
@@ -963,6 +987,8 @@ Mirror <https://raindrop.io/Alplox/mis-recursos-webdev-64067715>
 - <https://meldstudio.co/>
 
 #### IDE's
+
+[↑](#tabla-de-contenido)
 
 - <https://www.sublimetext.com/>
 - <https://atom.io/>
@@ -979,6 +1005,8 @@ Mirror <https://raindrop.io/Alplox/mis-recursos-webdev-64067715>
 
 ##### Extensiones
 
+[↑](#tabla-de-contenido)
+
 - <https://console-ninja.com/> (Console log output helper)
 - <https://www.flyde.dev/> (Visual programming)
 - <https://ide.swmansion.com/> (React Native)
@@ -986,6 +1014,8 @@ Mirror <https://raindrop.io/Alplox/mis-recursos-webdev-64067715>
 - <https://marketplace.visualstudio.com/items?itemName=tonybaloney.vscode-pets>
 
 #### Editores imágenes
+
+[↑](#tabla-de-contenido)
 
 - <https://krita.org/>
 - <https://www.gimp.org/>
@@ -999,6 +1029,8 @@ Mirror <https://raindrop.io/Alplox/mis-recursos-webdev-64067715>
 - <https://arcbrush.com/>
 
 #### Browsers
+
+[↑](#tabla-de-contenido)
 
 - <https://github.com/nerdyslacker/desktop-web-browsers>
 - <https://www.mozilla.org/es-CL/firefox/new/>
@@ -1023,6 +1055,8 @@ Mirror <https://raindrop.io/Alplox/mis-recursos-webdev-64067715>
 - <https://www.wikiboard.org/> (Es sitio web)
 
 #### Editores video
+
+[↑](#tabla-de-contenido)
 
 - <https://smartmediacutter.com/>
 - <https://www.capcut.com/>
@@ -1076,6 +1110,8 @@ Mirror <https://raindrop.io/Alplox/mis-recursos-webdev-64067715>
 
 #### JS Recursos
 
+[↑](#tabla-de-contenido)
+
 - <https://modernizr.com/> (Detecta funcionalidades disponibles en navegadores usuarios)
 - <https://emotion.sh/docs/introduction> (Escribir estilos CSS con JavaScript)
 - <https://animejs.com/> (Animaciones con JavaScript)
@@ -1125,6 +1161,8 @@ Mirror <https://raindrop.io/Alplox/mis-recursos-webdev-64067715>
 - <https://culorijs.org/>
 
 #### CSS Recursos
+
+[↑](#tabla-de-contenido)
 
 - <https://bulma.io/> (Framework basado en Flexbox)
 - <https://purecss.io/> (Módulo pequeño y responsive de CSS)
@@ -1176,6 +1214,8 @@ Mirror <https://raindrop.io/Alplox/mis-recursos-webdev-64067715>
 
 ##### Estilos inspirados en otros preexistentes
 
+[↑](#tabla-de-contenido)
+
 - <https://jdan.github.io/98.css/> (Estilo Windows 98)
 - <https://botoxparty.github.io/XP.css/> (Estilo Windows XP)
 - <https://khang-nd.github.io/7.css/> (Estilo Windows 7)
@@ -1187,6 +1227,8 @@ Mirror <https://raindrop.io/Alplox/mis-recursos-webdev-64067715>
 - <https://github.com/winjs/winstrap> (Windows UI, Metro)
 
 ##### Animación Recursos
+
+[↑](#tabla-de-contenido)
 
 - <https://github.com/sergey-pimenov/awesome-web-animation>
 - <https://loading.io/css/> (animaciones loading)
@@ -1205,6 +1247,8 @@ Mirror <https://raindrop.io/Alplox/mis-recursos-webdev-64067715>
 
 #### REACT Recursos
 
+[↑](#tabla-de-contenido)
+
 - <https://www.animatereactnative.com/>
 - <https://ant.design/>
 - <https://preactjs.com/>
@@ -1215,6 +1259,8 @@ Mirror <https://raindrop.io/Alplox/mis-recursos-webdev-64067715>
 - <https://github.com/frame-script/FrameScript> (Hacer videos)
 
 ##### Componentes
+
+[↑](#tabla-de-contenido)
 
 - <https://ui.aceternity.com/>
 - <https://ui.shadcn.com/>
@@ -2034,6 +2080,8 @@ Mirror <https://raindrop.io/Alplox/mis-recursos-webdev-64067715>
 
 #### Typewriter effect
 
+[↑](#tabla-de-contenido)
+
 - <https://codepen.io/hi-im-si/pen/DHoup>
 - <https://codepen.io/stathisg/pen/Bkvhg/>
 - <https://codepen.io/daviddcarr/pen/XVyQMM/>
@@ -2177,6 +2225,8 @@ Mirror <https://raindrop.io/Alplox/mis-recursos-webdev-64067715>
 - <https://brandfetch.com/>
 
 #### Design/Brand Guidelines
+
+[↑](#tabla-de-contenido)
 
 - <https://microsoft.design/>
 - <https://www.therawmaterials.com/>
@@ -2828,6 +2878,8 @@ Mirror <https://raindrop.io/Alplox/mis-recursos-webdev-64067715>
 
 #### Skills
 
+[↑](#tabla-de-contenido)
+
 Ejem [Are Repository-Level Context Files Helpful for Coding Agents?](https://arxiv.org/pdf/2602.11988)
 
 - <https://agents.md/>
@@ -2862,6 +2914,8 @@ Ejem [Are Repository-Level Context Files Helpful for Coding Agents?](https://arx
 - <https://github.com/open-gsd/gsd-core> (Optimización)
 
 ##### Design.md
+
+[↑](#tabla-de-contenido)
 
 - <https://www.ui-skills.com/>
 - <https://github.com/VoltAgent/awesome-design-md>
@@ -2933,6 +2987,8 @@ Ejem [Are Repository-Level Context Files Helpful for Coding Agents?](https://arx
 
 #### AI Local
 
+[↑](#tabla-de-contenido)
+
 - <https://github.com/rafska/awesome-local-llm/>
 - <https://lmstudio.ai/>
 - <https://ollama.com/>
@@ -2985,6 +3041,8 @@ Ejem [Are Repository-Level Context Files Helpful for Coding Agents?](https://arx
 - <https://www.admisionarmada.cl/concursos/>
 
 #### Universidades/Institutos
+
+[↑](#tabla-de-contenido)
 
 - <https://rrii.ubiobio.cl/empleos-ubb/>
 - <https://www.creaempleo.cl/>
@@ -3083,7 +3141,11 @@ También conocidos como: pagan por tarea
 
 #### CV
 
+[↑](#tabla-de-contenido)
+
 ##### Editores
+
+[↑](#tabla-de-contenido)
 
 - <https://resume.fullstackarchitect.dev/>
 - <https://rxresu.me/>
@@ -3100,6 +3162,8 @@ También conocidos como: pagan por tarea
 
 ##### Ejemplos/plantillas
 
+[↑](#tabla-de-contenido)
+
 - <https://sence.gob.cl/sites/default/files/elabor1.pdf>
 - <https://careerservices.fas.harvard.edu/resources/bullet-point-resume-template/>
 - <https://create.microsoft.com/es-es/templates/curr%C3%ADculos>
@@ -3111,6 +3175,8 @@ También conocidos como: pagan por tarea
 
 ##### Salario
 
+[↑](#tabla-de-contenido)
+
 - <https://www.boleteo.cl/>
 - <https://boletas.nolineal.cl/>
 - <https://tusalario.org>
@@ -3118,6 +3184,8 @@ También conocidos como: pagan por tarea
 - <https://knowyourworth.app/>
 
 ##### "Certificaciones"
+
+[↑](#tabla-de-contenido)
 
 - <https://www.classcentral.com/report/free-certificates/>
 - <https://eligetucurso.sence.cl/>
@@ -3127,6 +3195,8 @@ También conocidos como: pagan por tarea
 - <https://www.aws.training/>
 
 ##### No permiten búsqueda
+
+[↑](#tabla-de-contenido)
 
 - <https://devlist.co/> Marketing via email (Requiere cuenta)
 
