@@ -5,28 +5,116 @@ Colección de todo sitio (útil) que he ido encontrando durante mí proceso de a
 ¿Por qué? Porque tengo muchos marcadores.
 
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/cc-0.svg)](https://forthebadge.com)
 
 ## ✨ Enlace(s)
 
 ### <https://alplox.github.io/mis-recursos-webdev/>
 
-### <https://raindrop.io/Alplox/mis-recursos-webdev-64067715>
+Mirror <https://raindrop.io/Alplox/mis-recursos-webdev-64067715>
 
 ## Tabla de contenido
 
 - [Editores de código online](#editores-de-código-online)
+- [Editores markdown online](#editores-markdown-online)
 - [Herramientas](#herramientas)
+  - [Herramientas de colores](#herramientas-de-colores)
+    - [Revisar contraste](#revisar-contraste)
+  - [HTML](#html)
+  - [CSS](#css)
+    - [Gradientes](#gradientes)
+    - [Animación](#animación)
+  - [JS](#js)
+  - [Imágenes](#imágenes)
+    - [Editar imágenes online](#editar-imágenes-online)
+    - [Editor PixelArt](#editor-pixelart)
+    - [Generador de Fondos](#generador-de-fondos)
+    - [Upscale](#upscale)
+    - [Mockups](#mockups)
+    - [Remover Fondos](#remover-fondos)
+  - [Diseño](#diseño)
+    - [Figma plugin](#figma-plugin)
+  - [SVG](#svg)
+  - [Fuentes](#fuentes)
+  - [Compartir archivos](#compartir-archivos)
+    - [P2P](#p2p)
+  - [Video](#video)
+  - [Audio](#audio)
 - [Recursos](#recursos)
-- [Gratuito](#gratuito)
+  - [Software](#software)
+    - [Editor Markdown](#editor-markdown)
+    - [Screen Recorder/Capturar Pantalla](#screen-recordercapturar-pantalla)
+    - [IDE's](#ides)
+      - [Extensiones](#extensiones)
+    - [Editores imágenes](#editores-imágenes)
+    - [Browsers](#browsers)
+    - [Editores video](#editores-video)
+  - [Librerías](#librerías)
+    - [JS Recursos](#js-recursos)
+    - [CSS Recursos](#css-recursos)
+      - [Estilos inspirados en otros preexistentes](#estilos-inspirados-en-otros-preexistentes)
+      - [Animación Recursos](#animación-recursos)
+    - [REACT Recursos](#react-recursos)
+      - [Componentes](#componentes)
 - [Guías](#guías)
+  - [Practicas/Ejercicios](#practicasejercicios)
+  - [Guías visuales (Roadmap) para ser un web developer](#guías-visuales-roadmap-para-ser-un-web-developer)
+  - [Diseño Guías](#diseño-guías)
 - [Guías y cursos escritos](#guías-y-cursos-escritos)
+  - [Libros](#libros)
+  - [Inglés](#inglés)
+  - [Udemy](#udemy)
+- [Gratuito](#gratuito)
+  - [Iconos Gratuitos](#iconos-gratuitos)
+  - [Ilustraciones Gratuitas](#ilustraciones-gratuitas)
+  - [Imágenes Gratuitas](#imágenes-gratuitas)
+  - [Vídeos Gratuitos](#vídeos-gratuitos)
+  - [Templates Gratuitas](#templates-gratuitas)
+  - [Fuentes Gratuitas](#fuentes-gratuitas)
+  - [Audios Gratuitos](#audios-gratuitos)
+  - [Hosting gratuito](#hosting-gratuito)
+  - [Incluyen de pago](#incluyen-de-pago)
+- [API's](#apis)
 - [Snippets](#snippets)
+  - [Colección snippets específicos](#colección-snippets-específicos)
+  - [HTML Snippets](#html-snippets)
+  - [CSS Snippets](#css-snippets)
+    - [Typewriter effect](#typewriter-effect)
+  - [JS Snippets](#js-snippets)
 - [Cheatsheets](#cheatsheets)
 - [Foros-Blogs-Inspiración](#foros-blogs-inspiración)
+  - [Foros Desarrollo](#foros-desarrollo)
+  - [Foros Diseño](#foros-diseño)
+    - [Design/Brand Guidelines](#designbrand-guidelines)
+  - [Blogs](#blogs)
+  - [Inspiración exclusivamente](#inspiración-exclusivamente)
 - [Cursos de pago (buuu)](#cursos-de-pago)
 - [Servicios de pago](#servicios-de-pago)
 - [AI](#ai)
+  - [AI Colecciones/Toolkit](#ai-coleccionestoolkit)
+  - [AI Chatbot](#ai-chatbot)
+  - [AI Imágenes](#ai-imágenes)
+  - [AI Audio](#ai-audio)
+  - [AI Música](#ai-música)
+  - [AI Video](#ai-video)
+  - [AI Vibe Coding](#ai-vibe-coding)
+    - [Skills](#skills)
+      - [Design.md](#designmd)
+  - [AI Software](#ai-software)
+    - [AI Local](#ai-local)
 - [Búsqueda trabajo](#búsqueda-trabajo)
+  - [Chile Focus](#chile-focus)
+    - [Universidades/Institutos](#universidadesinstitutos)
+  - [Remoto focus](#remoto-focus)
+  - [Freelance](#freelance)
+  - [US focus](#us-focus)
+  - [Herramientas Trabajo](#herramientas-trabajo)
+    - [CV](#cv)
+      - [Editores](#editores)
+      - [Ejemplos/plantillas](#ejemplosplantillas)
+      - [Salario](#salario)
+      - ["Certificaciones"](#certificaciones)
+      - [No permiten búsqueda](#no-permiten-búsqueda)
 - [Otros](#otros)
 
 ## Editores de código online
@@ -74,6 +162,8 @@ Colección de todo sitio (útil) que he ido encontrando durante mí proceso de a
 - <https://jsonhero.io/>
 
 ## Editores markdown online
+
+[↑](#tabla-de-contenido)
 
 - <https://dillinger.io>
 - <https://stackedit.io/>
@@ -198,6 +288,8 @@ Colección de todo sitio (útil) que he ido encontrando durante mí proceso de a
 
 ### Herramientas de colores
 
+[↑](#tabla-de-contenido)
+
 - <https://www.nordtheme.com/> (Paleta de colores única)
 - <https://www.0to255.com> (Conocer degradado de un color)
 - <https://www.colorsandfonts.com/> (Herramientas de colores y Fuentes)
@@ -298,6 +390,8 @@ Colección de todo sitio (útil) que he ido encontrando durante mí proceso de a
 
 ### HTML
 
+[↑](#tabla-de-contenido)
+
 - <https://htmlboilerplates.com/> (Plantilla interactiva HTML)
 - <https://validator.w3.org/#validate_by_input> (Validar estructura HTML)
 - <https://hero-generator.netlify.app/> (Generar Hero/Landin page)
@@ -307,6 +401,8 @@ Colección de todo sitio (útil) que he ido encontrando durante mí proceso de a
 - <https://www.rapidtables.com/web/html/html-codes.html>
 
 ### CSS
+
+[↑](#tabla-de-contenido)
 
 - <https://www.cssportal.com/>
 - <https://css-generators.com/>
@@ -390,6 +486,7 @@ Colección de todo sitio (útil) que he ido encontrando durante mí proceso de a
 - <https://www.designgradients.com/>
 - <https://www.eggradients.com/>
 - <https://meodai.github.io/dittoTones/>
+- <https://patterncraft.fun>
 
 #### Animación
 
@@ -399,6 +496,8 @@ Colección de todo sitio (útil) que he ido encontrando durante mí proceso de a
 - <https://easings.net/>
 
 ### JS
+
+[↑](#tabla-de-contenido)
 
 - <http://www.minifyjavascript.com/> (Comprimir código JS)
 - <https://jscompress.com/> (Comprimir código JS)
@@ -414,6 +513,8 @@ Colección de todo sitio (útil) que he ido encontrando durante mí proceso de a
 - <https://thisyogesh.github.io/jsonmaker/>
 
 ### Imágenes
+
+[↑](#tabla-de-contenido)
 
 - <https://excalidraw.com/> (Dibujar/Pizarra)
 - <https://viliusle.github.io/miniPaint/> (Dibujar/Pizarra)
@@ -575,6 +676,8 @@ Colección de todo sitio (útil) que he ido encontrando durante mí proceso de a
 
 ### Diseño
 
+[↑](#tabla-de-contenido)
+
 - <https://aspect.app/>
 - <https://builderx.io/> (React Native & React)
 - <https://www.figma.com/>
@@ -627,6 +730,8 @@ Colección de todo sitio (útil) que he ido encontrando durante mí proceso de a
 
 ### SVG
 
+[↑](#tabla-de-contenido)
+
 - <https://svg-stripe-generator.web.app/> (Generador de líneas)
 - <https://www.svgbackgrounds.com/> (Generador de fondos)
 - <https://www.heropatterns.com/> (Generador de fondos)
@@ -666,6 +771,8 @@ Colección de todo sitio (útil) que he ido encontrando durante mí proceso de a
 
 ### Fuentes
 
+[↑](#tabla-de-contenido)
+
 - <https://fontjoy.com/> (Generador para emparejar Fuentes)
 - <https://justmytype.co/> (Colección de emparejamiento de Fuentes)
 - <https://typeculator.alexpaul.me>
@@ -693,6 +800,8 @@ Colección de todo sitio (útil) que he ido encontrando durante mí proceso de a
 - <https://fontastic.space/>
 
 ### Compartir archivos
+
+[↑](#tabla-de-contenido)
 
 - <https://nafanz.github.io/> (Colección sitios)
 - <https://mirrorace.com/>
@@ -726,6 +835,8 @@ Colección de todo sitio (útil) que he ido encontrando durante mí proceso de a
 
 ### Video
 
+[↑](#tabla-de-contenido)
+
 - <https://videosilenceremover.web.app/>
 - <https://online-video-cutter.com/es/>
 - <https://mebm.xyz/>
@@ -744,6 +855,8 @@ Colección de todo sitio (útil) que he ido encontrando durante mí proceso de a
 - <https://app.openreel.video/>
 
 ### Audio
+
+[↑](#tabla-de-contenido)
 
 - <https://editor.audio/>
 - <https://aurysystem.github.io/goldbox/>
@@ -799,6 +912,8 @@ Colección de todo sitio (útil) que he ido encontrando durante mí proceso de a
 
 ### Software
 
+[↑](#tabla-de-contenido)
+
 - <https://responsively.app> (Navegador diseñado para desarrolladores)
 - <https://sizzy.co/> (Navegador diseñado para desarrolladores)
 - <https://polypane.app/> (Pagada, Navegador diseñado para desarrolladores)
@@ -819,6 +934,8 @@ Colección de todo sitio (útil) que he ido encontrando durante mí proceso de a
 - <https://github.com/BigBodyCobain/Shadowbroker> (Open-source intelligence tracker)
 
 ### Editor Markdown
+
+[↑](#tabla-de-contenido)
 
 - <https://typora.io/>
 - <https://obsidian.md/>
@@ -926,6 +1043,8 @@ Colección de todo sitio (útil) que he ido encontrando durante mí proceso de a
 
 ### Librerías
 
+[↑](#tabla-de-contenido)
+
 - <https://scaleflex.github.io/filerobot-image-editor/>
 - <https://mantine.dev/>
 - <https://tamagui.dev/>
@@ -951,6 +1070,9 @@ Colección de todo sitio (útil) que he ido encontrando durante mí proceso de a
 - <https://github.com/tanglydocs/tangly>
 - <https://mdxjs.com/>
 - <https://zero-native.dev/>
+- <https://akira.sachi.dev/>
+- <https://www.sensory-ui.com/>
+- <https://klick-here.vercel.app/>
 
 #### JS Recursos
 
@@ -1154,6 +1276,8 @@ Colección de todo sitio (útil) que he ido encontrando durante mí proceso de a
 
 ### Practicas/Ejercicios
 
+[↑](#tabla-de-contenido)
+
 - <https://exercism.io/>
 - <https://bigfrontend.dev/>
 - <https://cantunsee.space/> (Diseño UI)
@@ -1182,12 +1306,16 @@ Colección de todo sitio (útil) que he ido encontrando durante mí proceso de a
 
 ### Guías visuales (Roadmap) para ser un web developer
 
+[↑](#tabla-de-contenido)
+
 - <https://github.com/kamranahmedse/developer-roadmap>
 - <https://learn-anything.xyz/web-development>
 - <https://medium.com/better-programming/become-a-web-developer-in-180-days-without-cs-degree-e869395972e1>
 - <https://roadmap.sh/>
 
 ### Diseño Guías
+
+[↑](#tabla-de-contenido)
 
 - <https://refactoringui.com/> (Tips diseño UI)
 - <https://dhd.gitbook.io/dhd-glosario-ux/> (Glosario Diseño UX)
@@ -1246,10 +1374,14 @@ Colección de todo sitio (útil) que he ido encontrando durante mí proceso de a
 
 ### Libros
 
+[↑](#tabla-de-contenido)
+
 - <https://www.joshwcomeau.com/effective-portfolio/> (Gratuito, requiere un [correo](https://temp-mail.org) - [Link directo](https://storage.googleapis.com/joshwcomeau/building-an-effective-dev-portfolio.pdf))
 - <https://jgthms.com/css-in-44-minutes-ebook> (Pagada, [Link Directo](https://cl1lib.org/book/5232937/eb4770))
 
 ### Inglés
+
+[↑](#tabla-de-contenido)
 
 - <https://tutsplus.com/>
 - <https://www.freecodecamp.org/> (HTML, CSS y JS)
@@ -1341,6 +1473,8 @@ Colección de todo sitio (útil) que he ido encontrando durante mí proceso de a
 
 ### Udemy
 
+[↑](#tabla-de-contenido)
+
 - <https://freetutsdownload.com/>
 - <https://idownloadcoupon.com/>
 - <https://www.cursosdev.com/>
@@ -1398,6 +1532,8 @@ Colección de todo sitio (útil) que he ido encontrando durante mí proceso de a
 
 ### Iconos Gratuitos
 
+[↑](#tabla-de-contenido)
+
 - <https://svgbox.net/>
 - <https://www.svgrepo.com>
 - <https://svgporn.com/>
@@ -1450,8 +1586,11 @@ Colección de todo sitio (útil) que he ido encontrando durante mí proceso de a
 - <https://smallbits.design/>
 - <https://loguitos.app/>
 - <https://thesvg.org/>
+- <https://www.itshover.com/>
 
 ### Ilustraciones Gratuitas
+
+[↑](#tabla-de-contenido)
 
 - <https://undraw.co/illustrations>
 - <https://lukaszadam.com/illustrations>
@@ -1499,8 +1638,11 @@ Colección de todo sitio (útil) que he ido encontrando durante mí proceso de a
 - <https://emoji.gg/>
 - <https://coolshap.es/>
 - <https://kenney.nl/assets> (Game assets)
+- <https://spectrums.framer.website>
 
 ### Imágenes Gratuitas
+
+[↑](#tabla-de-contenido)
 
 - <https://pxhere.com/en/>
 - <https://pixabay.com/>
@@ -1551,6 +1693,8 @@ Colección de todo sitio (útil) que he ido encontrando durante mí proceso de a
 
 ### Vídeos Gratuitos
 
+[↑](#tabla-de-contenido)
+
 - <https://www.cutestockfootage.com/>
 - <https://coverr.co/>
 - <https://mazwai.com/>
@@ -1568,6 +1712,8 @@ Colección de todo sitio (útil) que he ido encontrando durante mí proceso de a
 
 ### Templates Gratuitas
 
+[↑](#tabla-de-contenido)
+
 - <https://cssauthor.com/> (Templates variadas)
 - <https://mobirise.com/bootstrap-4-theme/navbar-template.html> (Bootstrap)
 - <https://html5up.net/> (Templates HTML5)
@@ -1584,6 +1730,8 @@ Colección de todo sitio (útil) que he ido encontrando durante mí proceso de a
 - <https://andersnoren.se/teman/> (WordPress themes)
 
 ### Fuentes Gratuitas
+
+[↑](#tabla-de-contenido)
 
 - <https://fonts.google.com/>
 - <https://github.com/larsenwork/Gidole>
@@ -1634,6 +1782,8 @@ Colección de todo sitio (útil) que he ido encontrando durante mí proceso de a
 
 ### Audios Gratuitos
 
+[↑](#tabla-de-contenido)
+
 - <https://freesound.org/>
 - <https://www.extrememusic.com/>
 - <https://creatorchords.com/>
@@ -1649,6 +1799,8 @@ Colección de todo sitio (útil) que he ido encontrando durante mí proceso de a
 - <https://www.animaudios.com/> (Lineas de diálogos)
 
 ### Hosting gratuito
+
+[↑](#tabla-de-contenido)
 
 - <https://neocities.org/>
 - <https://pages.github.com/>
@@ -1681,6 +1833,8 @@ Colección de todo sitio (útil) que he ido encontrando durante mí proceso de a
 - <https://carrd.co/>
 
 ### Incluyen de pago
+
+[↑](#tabla-de-contenido)
 
 - <https://www.productdesignresources.com/>
 - <https://lordicon.com/>
@@ -1760,6 +1914,8 @@ Colección de todo sitio (útil) que he ido encontrando durante mí proceso de a
 
 ### Colección snippets específicos
 
+[↑](#tabla-de-contenido)
+
 - <https://www.sliderrevolution.com/resources/css-checkbox/> (Colección de checkboxes)
 - <https://www.sliderrevolution.com/resources/css-gallery/> (Colección galerías)
 - <https://www.sliderrevolution.com/resources/css-tooltip/> (Colección tooltips)
@@ -1777,11 +1933,15 @@ Colección de todo sitio (útil) que he ido encontrando durante mí proceso de a
 
 ### HTML Snippets
 
+[↑](#tabla-de-contenido)
+
 - <https://css-tricks.com/snippets/html/glyphs/> (Caracteres especiales HTML)
 - <https://codepen.io/gita07/pen/QWKXBxw> (menubar)
 - <https://codepen.io/sadegh_rsg/pen/jOyobKN> (Página Sign Up)
 
 ### CSS Snippets
+
+[↑](#tabla-de-contenido)
 
 - <https://codepen.io/chriscoyier/pen/JpLzjd> (Testear diferentes tipos de CSS Reset)
 - <https://codepen.io/enxaneta/full/adLPwv> (Flex playground)
@@ -1891,6 +2051,8 @@ Colección de todo sitio (útil) que he ido encontrando durante mí proceso de a
 
 ### JS Snippets
 
+[↑](#tabla-de-contenido)
+
 - <https://www.codeply.com/p/rYdxaRzAYw> (sketchJs animation)
 - <https://codepen.io/jasonleewilson/pen/gPrxwX> (Reloj con milisegundos)
 - <https://codepen.io/tmrDevelops/pen/vOPZBv> (Gradiente de fondo en movimiento)
@@ -1945,6 +2107,8 @@ Colección de todo sitio (útil) que he ido encontrando durante mí proceso de a
 
 ### Foros Desarrollo
 
+[↑](#tabla-de-contenido)
+
 - <https://dev.to/>
 - <https://developerbacon.ca/>
 - <https://frontendfront.com/>
@@ -1971,6 +2135,8 @@ Colección de todo sitio (útil) que he ido encontrando durante mí proceso de a
 - <https://www.appstoretracker.com/>
 
 ### Foros Diseño
+
+[↑](#tabla-de-contenido)
 
 - <https://dribbble.com/>
 - <https://www.behance.net/>
@@ -2027,6 +2193,8 @@ Colección de todo sitio (útil) que he ido encontrando durante mí proceso de a
 
 ### Blogs
 
+[↑](#tabla-de-contenido)
+
 - <https://hugodaniel.com/posts/> (HTML)
 - <https://www.bufa.es/>
 - <https://frontend-log.com/>
@@ -2068,6 +2236,8 @@ Colección de todo sitio (útil) que he ido encontrando durante mí proceso de a
 - <https://performance.dev/>
 
 ### Inspiración exclusivamente
+
+[↑](#tabla-de-contenido)
 
 - <https://10kbclub.com/>
 - <https://1mb.club/>
@@ -2196,6 +2366,8 @@ Colección de todo sitio (útil) que he ido encontrando durante mí proceso de a
 - <https://savee.com/>
 - <https://macfolio.com/>
 - <https://detail.design/>
+- <https://release.bar/>
+- <https://www.webdesignmuseum.org/>
 
 ## Cursos de pago
 
@@ -2278,6 +2450,8 @@ Colección de todo sitio (útil) que he ido encontrando durante mí proceso de a
 
 ### AI Colecciones/Toolkit
 
+[↑](#tabla-de-contenido)
+
 - <https://old.reddit.com/r/FREEMEDIAHECKYEAH/wiki/ai>
 - <https://www.futuretools.io/>
 - <https://topai.tools/>
@@ -2359,11 +2533,13 @@ Colección de todo sitio (útil) que he ido encontrando durante mí proceso de a
 
 ### AI Chatbot
 
+[↑](#tabla-de-contenido)
+
 - <https://duck.ai/>
 - <https://chatgpt.com/>
 - <https://copilot.microsoft.com>
 - <https://chat.deepseek.com/> (Requiere cuenta)
-- <https://chat.qwen.ai/> (Requiere cuenta)
+- <https://chat.qwen.ai/>
 - <https://gemini.google.com/>
 - <https://chat.mistral.ai/chat>
 - <https://www.phind.com/>
@@ -2409,6 +2585,8 @@ Colección de todo sitio (útil) que he ido encontrando durante mí proceso de a
 - <https://openrouter.ai/chat> (Pagada, Requiere cuenta)
 
 ### AI Imágenes
+
+[↑](#tabla-de-contenido)
 
 - <https://fmhy.pages.dev/ai#image-generation>
 - <https://openart.ai/> (Requiere cuenta)
@@ -2509,6 +2687,8 @@ Colección de todo sitio (útil) que he ido encontrando durante mí proceso de a
 
 ### AI Audio
 
+[↑](#tabla-de-contenido)
+
 - <https://ramblefix.com/> (Pagada, Requiere cuenta)
 - <https://murf.ai/> (Pagada, Requiere cuenta, 10 min gratis al mes)
 - <https://www.uberduck.ai/> (Pagada, Requiere cuenta, 300 créditos al mes)
@@ -2537,6 +2717,8 @@ Colección de todo sitio (útil) que he ido encontrando durante mí proceso de a
 
 ### AI Música
 
+[↑](#tabla-de-contenido)
+
 - <https://suno.com/> (Requiere cuenta)
 - <https://www.udio.com/>
 - <https://huggingface.co/spaces/facebook/MusicGen>
@@ -2548,6 +2730,8 @@ Colección de todo sitio (útil) que he ido encontrando durante mí proceso de a
 - <https://sonauto.ai/>
 
 ### AI Video
+
+[↑](#tabla-de-contenido)
 
 - <https://huggingface.co/spaces/Lightricks/LTX-Video-Playground>
 - <https://huggingface.co/spaces/multimodalart/stable-video-diffusion>
@@ -2592,6 +2776,8 @@ Colección de todo sitio (útil) que he ido encontrando durante mí proceso de a
 - <https://app.beeble.ai/home> (Pagada, Requiere cuenta, 90 créditos gratis para usos no comerciales)
 
 ### AI Vibe Coding
+
+[↑](#tabla-de-contenido)
 
 - <https://v0.dev/>
 - <https://vzy.co/> (Requiere cuenta)
@@ -2638,6 +2824,7 @@ Colección de todo sitio (útil) que he ido encontrando durante mí proceso de a
 - <https://github.com/andysingal/llm-course/>
 - <https://github.com/shanraisshan/claude-code-best-practice>
 - <https://jules.google/> (Pagada, Requiere cuenta)
+- <https://github.com/thedotmack/claude-mem>
 
 #### Skills
 
@@ -2670,6 +2857,9 @@ Ejem [Are Repository-Level Context Files Helpful for Coding Agents?](https://arx
 - <https://clawhub.ai/>
 - <https://github.com/darkrishabh/agent-skills-eval>
 - <https://github.com/sentient-agi/EvoSkill>
+- <https://github.com/affaan-m/ECC> (Optimización)
+- <https://github.com/safishamsi/graphify>
+- <https://github.com/open-gsd/gsd-core> (Optimización)
 
 ##### Design.md
 
@@ -2694,8 +2884,11 @@ Ejem [Are Repository-Level Context Files Helpful for Coding Agents?](https://arx
 - <https://explainx.ai/tools/design-md-generator>
 - <https://github.com/abhayjnayakk/awesome-design-md>
 - <https://jakub.kr/writing/details-that-make-interfaces-feel-better>
+- <https://github.com/nextlevelbuilder/ui-ux-pro-max-skill>
 
 ### AI Software
+
+[↑](#tabla-de-contenido)
 
 - <https://www.nomic.ai/gpt4all>
 - <https://github.com/ai-shifu/ChatALL>
@@ -2708,7 +2901,9 @@ Ejem [Are Repository-Level Context Files Helpful for Coding Agents?](https://arx
 - <https://github.com/daswer123/xtts-finetune-webui> (Text to Speech)
 - <https://lykos.ai/> (Imágenes)
 - <https://zju3dv.github.io/freetimegs/>
-- <https://opencode.ai/>
+- <https://opencode.ai/> (CLI Agentic coding)
+- <https://github.com/Gitlawb/openclaude> (CLI Agentic coding)
+- <https://github.com/CodebuffAI/codebuff> (CLI Agentic coding)
 - <https://www.orchids.app/> (IDE)
 - <https://ampcode.com/> (IDE Agentic coding)
 - <https://factory.ai/> (CLI Agentic coding)
@@ -2718,8 +2913,8 @@ Ejem [Are Repository-Level Context Files Helpful for Coding Agents?](https://arx
 - <https://www.term-v0.app/> (CLI Agentic coding)
 - <https://www.pencil.dev/> (Figma alternative)
 - <https://github.com/jamiepine/voicebox/releases> (audio)
-- <https://openclaw.ai/> ("AI")
-- <https://hermes-agent.nousresearch.com/> ("AI")
+- <https://openclaw.ai/> ("personal AI assistant")
+- <https://hermes-agent.nousresearch.com/> ("personal AI assistant")
 - <https://autoglm.z.ai/autoclaw/>
 - <https://github.com/AlexsJones/llmfit> (Hundreds of models & providers. One command to find what runs on your hardware)
 - <https://github.com/vava-nessa/free-coding-models>
@@ -2734,6 +2929,14 @@ Ejem [Are Repository-Level Context Files Helpful for Coding Agents?](https://arx
 - <https://www.lazyweb.com/>
 - <https://open-agents.dev/>
 - <https://nan.builders/> (Pagada)
+- <https://forge.plyrium.com/> (Pagada)
+
+#### AI Local
+
+- <https://github.com/rafska/awesome-local-llm/>
+- <https://lmstudio.ai/>
+- <https://ollama.com/>
+- <https://atomic.chat/>
 
 ## Búsqueda trabajo
 
@@ -2759,6 +2962,8 @@ Ejem [Are Repository-Level Context Files Helpful for Coding Agents?](https://arx
 - <https://www.sercanto.cl/>
 
 ### Chile Focus
+
+[↑](#tabla-de-contenido)
 
 - <https://www.bne.cl/>
 - <https://lookerstudio.google.com/u/0/reporting/1Tt-TIit7n1AaPPtdXLHOzgPSNFCLGQRf/page/DRf3B?s=hVvWWJQlD5w>
@@ -2793,6 +2998,8 @@ Ejem [Are Repository-Level Context Files Helpful for Coding Agents?](https://arx
 - <http://empleos.utalca.cl/>
 
 ### Remoto focus
+
+[↑](#tabla-de-contenido)
 
 - <https://www.getonbrd.world/>
 - <https://www.weremoto.com/>
@@ -2833,6 +3040,8 @@ Ejem [Are Repository-Level Context Files Helpful for Coding Agents?](https://arx
 
 ### Freelance
 
+[↑](#tabla-de-contenido)
+
 También conocidos como: pagan por tarea
 
 - <https://www.remotasks.com/>
@@ -2847,6 +3056,8 @@ También conocidos como: pagan por tarea
 
 ### US focus
 
+[↑](#tabla-de-contenido)
+
 - <https://www.neevo.ai/>
 - <https://www.prolific.com/>
 - <https://www.clickworker.com/clickworker/>
@@ -2854,6 +3065,8 @@ También conocidos como: pagan por tarea
 - <https://www.ycombinator.com/jobs>
 
 ### Herramientas Trabajo
+
+[↑](#tabla-de-contenido)
 
 - <https://nomadlist.com/>
 - <https://github.com/devschile/remoto-desde-chile>
