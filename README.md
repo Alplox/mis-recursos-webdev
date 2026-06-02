@@ -146,7 +146,7 @@ Mirror <https://raindrop.io/Alplox/mis-recursos-webdev-64067715>
 - <https://rentry.co/> (Notas)
 - <http://txti.es/> (Notas)
 - <https://pad.disroot.org/> (Notas)
-- <https://kvak.io/> (Notas)
+- <https://kraa.io> (Notas)
 - <https://www.onlinenotepad.io> (Notas)
 - <https://writesolo.com/> (Escritura literaria)
 - <https://www.calmlywriter.com/online/> (Notas)
@@ -464,6 +464,7 @@ Mirror <https://raindrop.io/Alplox/mis-recursos-webdev-64067715>
 - <https://scrollbar.app/>
 - <https://www.squircle.style/>
 - <https://utopia.fyi/>
+- <http://howtocenterincss.com/>
 
 #### Gradientes
 
@@ -788,6 +789,9 @@ Mirror <https://raindrop.io/Alplox/mis-recursos-webdev-64067715>
 - <https://draw.oooo.so/>
 - <https://www.svgviewer.dev/>
 - <https://3dsvg.design/>
+- <https://yqnn.github.io/svg-path-editor/>
+- <https://pavellaptev.github.io/warp-svg/>
+- <https://svg-path-visualizer.netlify.app/>
 
 ### Fuentes
 
@@ -1383,6 +1387,7 @@ Mirror <https://raindrop.io/Alplox/mis-recursos-webdev-64067715>
 - <https://supabase-design-system.vercel.app/design-system>
 - <https://kyrylo.org/clamp-vs-media-queries/>
 - <https://designproject.io/blog/design-md-file/>
+- <https://wiki.csswg.org/ideas/>
 
 ## Guías y cursos escritos
 
@@ -1633,6 +1638,11 @@ Mirror <https://raindrop.io/Alplox/mis-recursos-webdev-64067715>
 - <https://loguitos.app/>
 - <https://thesvg.org/>
 - <https://www.itshover.com/>
+- <https://iconic.app/>
+- <https://heroicons.com/>
+- <https://phosphoricons.com/>
+- <https://glyphs.fyi/dir>
+- <https://fonts.google.com/icons>
 
 ### Ilustraciones Gratuitas
 
