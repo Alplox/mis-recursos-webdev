@@ -492,6 +492,7 @@ Mirror <https://raindrop.io/Alplox/mis-recursos-webdev-64067715>
 - <https://www.eggradients.com/>
 - <https://meodai.github.io/dittoTones/>
 - <https://patterncraft.fun>
+- <https://components.ai/gradient/>
 
 #### Animación
 
@@ -1388,6 +1389,7 @@ Mirror <https://raindrop.io/Alplox/mis-recursos-webdev-64067715>
 - <https://kyrylo.org/clamp-vs-media-queries/>
 - <https://designproject.io/blog/design-md-file/>
 - <https://wiki.csswg.org/ideas/>
+- <https://principles-wiki.net/start>
 
 ## Guías y cursos escritos
 
@@ -1944,6 +1946,7 @@ Mirror <https://raindrop.io/Alplox/mis-recursos-webdev-64067715>
 - <https://www.slazzer.com/api>
 - <https://developers.google.com/closure/compiler>
 - <https://www.partners.skyscanner.net/product/travel-api>
+- <https://carnet.ai/> (Pagada)
 
 ## Snippets
 
