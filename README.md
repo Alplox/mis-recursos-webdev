@@ -1947,6 +1947,12 @@ Mirror <https://raindrop.io/Alplox/mis-recursos-webdev-64067715>
 - <https://developers.google.com/closure/compiler>
 - <https://www.partners.skyscanner.net/product/travel-api>
 - <https://carnet.ai/> (Pagada)
+- <https://redmeteo.cl/api.html>
+- <https://docs.boostr.cl> (varias)
+- <https://earthquake.usgs.gov/>
+- <https://api.gael.cloud/> (varias)
+- <https://mindicador.cl/>
+- <https://open-meteo.com/>
 
 ## Snippets
 
@@ -2997,6 +3003,7 @@ Ejem [Are Repository-Level Context Files Helpful for Coding Agents?](https://arx
 - <https://open-agents.dev/>
 - <https://nan.builders/> (Pagada)
 - <https://forge.plyrium.com/> (Pagada)
+- <https://github.com/Open-LLM-VTuber/Open-LLM-VTuber>
 
 #### AI Local
 
@@ -3151,6 +3158,7 @@ También conocidos como: pagan por tarea
 - <https://www.registrodeempresasysociedades.cl/Curso.aspx>
 - <https://github.com/Angest1/cazapegas-app>
 - <https://invoicegenerator.io/>
+- <https://github.com/santifer/career-ops> (revolución industrial y sus consecuencias) (AI)
 
 #### CV
 
