@@ -13,12 +13,18 @@ import '../styles/global.css'
   <link rel="icon" type="image/svg+xml" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'><rect rx='6' width='32' height='32' fill='%23CD9E4B'/><text x='16' y='22' font-size='18' text-anchor='middle' fill='white' font-family='system-ui'>W</text></svg>" />
   <link rel="preconnect" href="https://fonts.googleapis.com" />
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link rel="preconnect" href="https://www.google.com" crossorigin />
+  <link rel="dns-prefetch" href="https://t0.gstatic.com" />
+  <link rel="dns-prefetch" href="https://t1.gstatic.com" />
+  <link rel="dns-prefetch" href="https://t2.gstatic.com" />
+  <link rel="dns-prefetch" href="https://t3.gstatic.com" />
+  <link rel="preload" href="/data/recursos.json" as="fetch" crossorigin="anonymous" />
   <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Onest:wght@400..700&display=swap" media="print" onload="this.media='all'" />
   <noscript><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Onest:wght@400..700&display=swap" /></noscript>
 </head>
 <body>
   <slot />
-  <div id="toast" class="toast"><span class="toast-icon"><svg width="16" height="16"><use href="#icon-check"/></svg></span><span id="toast-msg"></span></div>
+  <div id="toast" class="toast"><span class="toast-icon"><svg width="16" height="16" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><use href="#icon-check"/></svg></span><span id="toast-msg"></span></div>
   <div id="sidebar-overlay" class="sidebar-overlay"></div>
 
   <svg aria-hidden="true" style="position:absolute;width:0;height:0;overflow:hidden">

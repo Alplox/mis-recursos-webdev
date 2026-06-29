@@ -166,10 +166,11 @@ npm run preview      # Previsualizar build local
 
 ## 📦 Deployment
 
-- **Plataforma**: GitHub Pages
-- **URL**: `https://alplox.github.io/mis-recursos-webdev/`
-- **Base config**: `astro.config.mjs` → `base: '/mis-recursos-webdev'`
-- El contenido de `/dist` se sirve desde la branch `gh-pages` o la carpeta `/docs`
+- **Plataforma**: Cloudflare Pages
+- **URL**: `https://mis-recursos-webdev.pages.dev/`
+- **Build output**: `dist/`
+- **Build command**: `npm run build`
+- **Base config**: `astro.config.mjs` → `base: '/'`
 
 ## 🔧 Flujo de edición de datos
 
