@@ -23,7 +23,7 @@ function toggleSidebar(open: boolean) {
     overlay?.classList.toggle('open', open)
     document.body.style.overflow = open ? 'hidden' : ''
   } else {
-    document.querySelector('.main-content')?.classList.toggle('shifted', open)
+    sidebar?.classList.toggle('closed', !open)
   }
 }
 
@@ -443,12 +443,8 @@ window.addEventListener('hashchange', handleHash)
 
 // --- Init ---
 async function init() {
-  if (window.innerWidth > 768) {
-    sidebar?.classList.add('open')
-    document.querySelector('.main-content')?.classList.add('shifted')
-  }
   initSidebarSections()
-  initActiveSection()
+  requestAnimationFrame(() => initActiveSection())
   await loadData()
   if (fullData) {
     renderBrowseCards(fullData)
