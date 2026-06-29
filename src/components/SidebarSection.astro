@@ -1,0 +1,33 @@
+---
+import type { Section } from '../types'
+import { countLinks } from '../lib/countLinks'
+
+export interface Props {
+  section: Section
+  count: number
+  level?: number
+}
+
+const { section, count, level = 0 } = Astro.props
+
+const visibleChildren = section.children.filter(c => countLinks(c) > 0)
+const hasChildren = visibleChildren.length > 0
+const isSub = level !== 0
+---
+
+<div class="sidebar-section" data-section-id={section.id} data-level={level}>
+  <button class:list={['sidebar-section-toggle', isSub && 'sidebar-section-toggle-sub']} data-section-id={section.id}>
+    {hasChildren && <span class="arrow">&#9654;</span>}
+    {!hasChildren && <span class="arrow arrow-placeholder"></span>}
+    <span class="label">{section.name}</span>
+    <span class="count">{count}</span>
+  </button>
+
+  {hasChildren && (
+    <div class="sidebar-children" data-level={level + 1}>
+      {visibleChildren.map(child => (
+        <Astro.self section={child} count={countLinks(child)} level={level + 1} />
+      ))}
+    </div>
+  )}
+</div>

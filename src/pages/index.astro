@@ -1,0 +1,98 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro'
+import Sidebar from '../components/Sidebar.astro'
+import SearchBar from '../components/SearchBar.astro'
+import LinkGrid from '../components/LinkGrid.astro'
+
+import type { Section } from '../types'
+import { countLinks } from '../lib/countLinks'
+import recursos from '../data/recursos.json'
+
+const sections = recursos as Section[]
+---
+
+<BaseLayout>
+  <div class="app-layout">
+    <Sidebar sections={sections} />
+
+    <div class="main-content">
+      <SearchBar />
+
+      <main class="main-body">
+        <div id="search-results" style="display:none">
+          <div class="search-results-header" id="search-header"></div>
+          <div id="search-results-content"></div>
+        </div>
+
+        <div id="browse-content">
+          {sections.filter(s => s.links.length > 0 || s.children.length > 0).map(section => {
+            const sectionTotal = countLinks(section)
+            if (sectionTotal === 0) return null
+
+            return (
+              <section class="categories-section" data-section={section.id}>
+                <div class="category-header" id={section.id}>
+                  <h2>{section.name}</h2>
+                  <span class="count-badge">{sectionTotal}</span>
+                </div>
+
+                {section.links.length > 0 && (
+                  <LinkGrid title={section.name + ' (general)'} links={section.links} sectionId={section.id + '-links'} level={2} />
+                )}
+
+                {section.children.filter(c => c.links.length > 0 || c.children.length > 0).map(child => (
+                  <>
+                    <LinkGrid title={child.name} links={child.links} sectionId={child.id} level={3} />
+
+                    {child.children.filter(gc => gc.links.length > 0 || gc.children.length > 0).map(gc => (
+                      <>
+                        <LinkGrid title={gc.name} links={gc.links} sectionId={gc.id} level={4} />
+
+                        {gc.children.filter(ggc => ggc.links.length > 0).map(ggc => (
+                          <LinkGrid title={ggc.name} links={ggc.links} sectionId={ggc.id} level={5} />
+                        ))}
+                      </>
+                    ))}
+                  </>
+                ))}
+              </section>
+            )
+          })}
+        </div>
+
+        <div id="empty-state" class="empty-state" style="display:none">
+          <div class="empty-icon">
+            <svg width="40" height="40" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><circle cx="11" cy="11" r="8"/><line x1="21" y1="21" x2="16.65" y2="16.65"/></svg>
+          </div>
+          <p>No se encontraron resultados para <strong id="empty-query"></strong></p>
+        </div>
+
+      </main>
+    </div>
+  </div>
+
+  <script>
+    ;(function() {
+      const STORAGE_KEY = 'recursos-theme'
+      function getStored() { try { return localStorage.getItem(STORAGE_KEY) } catch { return null } }
+      function getPreferred() {
+        const s = getStored()
+        if (s === 'light' || s === 'dark') return s
+        return window.matchMedia('(prefers-color-scheme: light)').matches ? 'light' : 'dark'
+      }
+      function setTheme(t: string) {
+        document.documentElement.setAttribute('data-theme', t)
+        try { localStorage.setItem(STORAGE_KEY, t) } catch {}
+      }
+      setTheme(getPreferred())
+      window.__toggleTheme = () => {
+        const cur = document.documentElement.getAttribute('data-theme') || 'dark'
+        const next = cur === 'dark' ? 'light' : 'dark'
+        setTheme(next)
+        return next
+      }
+    })()
+  </script>
+
+  <script src="../scripts/client.ts"></script>
+</BaseLayout>
