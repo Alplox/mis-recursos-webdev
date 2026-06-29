@@ -15,9 +15,9 @@ Mirror <https://raindrop.io/Alplox/mis-recursos-webdev-64067715>
 
 ## Tabla de contenido
 
-- [Editores de código online](#editores-de-código-online)
-- [Editores markdown online](#editores-markdown-online)
 - [Herramientas](#herramientas)
+  - [Editores de código online](#editores-de-código-online)
+  - [Editores markdown online](#editores-markdown-online)
   - [Herramientas de colores](#herramientas-de-colores)
     - [Revisar contraste](#revisar-contraste)
   - [HTML](#html)
@@ -88,7 +88,7 @@ Mirror <https://raindrop.io/Alplox/mis-recursos-webdev-64067715>
     - [Design/Brand Guidelines](#designbrand-guidelines)
   - [Blogs](#blogs)
   - [Inspiración exclusivamente](#inspiración-exclusivamente)
-- [Cursos de pago (buuu)](#cursos-de-pago)
+- [Cursos de pago](#cursos-de-pago)
 - [Servicios de pago](#servicios-de-pago)
 - [AI](#ai)
   - [AI Colecciones/Toolkit](#ai-coleccionestoolkit)
@@ -104,10 +104,12 @@ Mirror <https://raindrop.io/Alplox/mis-recursos-webdev-64067715>
     - [AI Local](#ai-local)
 - [Búsqueda trabajo](#búsqueda-trabajo)
   - [Chile Focus](#chile-focus)
-    - [Universidades/Institutos](#universidadesinstitutos)
-  - [Remoto focus](#remoto-focus)
+    - [Páginas de empleo Gobierno](#páginas-de-empleo-gobierno)
+    - [Páginas de empleo Universidades/Institutos](#páginas-de-empleo-universidadesinstitutos)
+    - [Páginas de empleo Corporativas](#páginas-de-empleo-corporativas)
+  - [Remoto](#remoto)
   - [Freelance](#freelance)
-  - [US focus](#us-focus)
+  - [Internacional focus](#internacional-focus)
   - [Herramientas Trabajo](#herramientas-trabajo)
     - [CV](#cv)
       - [Editores](#editores)
@@ -117,66 +119,7 @@ Mirror <https://raindrop.io/Alplox/mis-recursos-webdev-64067715>
       - [No permiten búsqueda](#no-permiten-búsqueda)
 - [Otros](#otros)
 
-## Editores de código online
-
-[↑](#tabla-de-contenido)
-
-- <https://vscode.dev/>
-- <https://www.vimonlineeditor.com/>
-- <https://idx.dev/>
-- <https://jsfiddle.net/>
-- <https://codesandbox.io/>
-- <https://codepen.io/>
-- <https://glitch.com/>
-- <https://anyfiddle.com/>
-- <https://codeshare.io/>
-- <https://repl.it/>
-- <https://www.codeply.com/>
-- <https://codeebox.vercel.app/>
-- <https://ideone.com/>
-- <https://codi.link/>
-- <https://stackblitz.com/>
-- <https://pythontutor.com/>
-- <https://ide.onelang.io/>
-- <https://tinyeditor.pages.dev/> (Requiere cuenta)
-- <https://personal.onlyoffice.com/> (Office Online)
-- <https://arcaneoffice.com/> (Office Online)
-- <https://simplenote.com/> (Notas)
-- <https://hemingwayapp.com/> (Notas)
-- <https://rentry.co/> (Notas)
-- <http://txti.es/> (Notas)
-- <https://pad.disroot.org/> (Notas)
-- <https://kraa.io> (Notas)
-- <https://www.onlinenotepad.io> (Notas)
-- <https://writesolo.com/> (Escritura literaria)
-- <https://www.calmlywriter.com/online/> (Notas)
-- <https://regex101.com/>
-- <https://regexr.com/>
-- <https://extendsclass.com/regex-tester.html>
-- <https://regexper.com/>
-- <https://rextester.com/>
-- <https://httpie.io/app>
-- <https://transform.tools/>
-- <https://simplepdf.com/>
-- <https://cryptpad.fr> (Office)
-- <https://jsonhero.io/>
-
-## Editores markdown online
-
-[↑](#tabla-de-contenido)
-
-- <https://dillinger.io>
-- <https://stackedit.io/>
-- <https://writemd.xyz/>
-- <https://markdown.pioul.fr/>
-- <https://markdown-editor.github.io/>
-- <https://pandao.github.io/editor.md/en.html>
-- <https://markdownlivepreview.com/>
-- <https://markdownpastebin.com/>
-- <https://indexedmd.com/>
-- <https://markdown.new/> (Sitio a markdown)
-- <https://r.jina.ai/> (Sitio a markdown)
-- <https://defuddle.md/> (Sitio a markdown)
+<!-- resources-start -->
 
 ## Herramientas
 
@@ -193,6 +136,7 @@ Mirror <https://raindrop.io/Alplox/mis-recursos-webdev-64067715>
 - <https://lingojam.com/WeirdTextGenerator> (Generador de texto y símbolos)
 - <https://www.twitchquotes.com/copypastas/ascii-art> (ASCII Art Copypasta)
 - <https://www.ascii-art-generator.org/>
+- <https://ascii.krackeddevs.com/>
 - <https://www.jemoticons.com/en/> (Generador kaomoji)
 - <https://wikiemoji.org/es> (Emojis)
 - <https://www.1001fonts.com/> (Fuentes)
@@ -285,6 +229,67 @@ Mirror <https://raindrop.io/Alplox/mis-recursos-webdev-64067715>
 - <https://www.ilovepdf.com/>
 - <https://goodbrief.io/>
 - <https://diffshub.com/>
+
+### Editores de código online
+
+[↑](#tabla-de-contenido)
+
+- <https://vscode.dev/>
+- <https://www.vimonlineeditor.com/>
+- <https://idx.dev/>
+- <https://jsfiddle.net/>
+- <https://codesandbox.io/>
+- <https://codepen.io/>
+- <https://glitch.com/>
+- <https://anyfiddle.com/>
+- <https://codeshare.io/>
+- <https://repl.it/>
+- <https://www.codeply.com/>
+- <https://codeebox.vercel.app/>
+- <https://ideone.com/>
+- <https://codi.link/>
+- <https://stackblitz.com/>
+- <https://pythontutor.com/>
+- <https://ide.onelang.io/>
+- <https://tinyeditor.pages.dev/> (Requiere cuenta)
+- <https://personal.onlyoffice.com/> (Office Online)
+- <https://arcaneoffice.com/> (Office Online)
+- <https://simplenote.com/> (Notas)
+- <https://hemingwayapp.com/> (Notas)
+- <https://rentry.co/> (Notas)
+- <http://txti.es/> (Notas)
+- <https://pad.disroot.org/> (Notas)
+- <https://kraa.io> (Notas)
+- <https://www.onlinenotepad.io> (Notas)
+- <https://writesolo.com/> (Escritura literaria)
+- <https://www.calmlywriter.com/online/> (Notas)
+- <https://regex101.com/>
+- <https://regexr.com/>
+- <https://extendsclass.com/regex-tester.html>
+- <https://regexper.com/>
+- <https://rextester.com/>
+- <https://httpie.io/app>
+- <https://transform.tools/>
+- <https://simplepdf.com/>
+- <https://cryptpad.fr> (Office)
+- <https://jsonhero.io/>
+
+### Editores markdown online
+
+[↑](#tabla-de-contenido)
+
+- <https://dillinger.io>
+- <https://stackedit.io/>
+- <https://writemd.xyz/>
+- <https://markdown.pioul.fr/>
+- <https://markdown-editor.github.io/>
+- <https://pandao.github.io/editor.md/en.html>
+- <https://markdownlivepreview.com/>
+- <https://markdownpastebin.com/>
+- <https://indexedmd.com/>
+- <https://markdown.new/> (Sitio a markdown)
+- <https://r.jina.ai/> (Sitio a markdown)
+- <https://defuddle.md/> (Sitio a markdown)
 
 ### Herramientas de colores
 
@@ -519,6 +524,7 @@ Mirror <https://raindrop.io/Alplox/mis-recursos-webdev-64067715>
 - <https://codeshack.io/json-sorter/>
 - <https://jsoncrack.com/>
 - <https://thisyogesh.github.io/jsonmaker/>
+- <https://jsonviewer.tools/editor> (Freemium)
 
 ### Imágenes
 
@@ -615,6 +621,7 @@ Mirror <https://raindrop.io/Alplox/mis-recursos-webdev-64067715>
 - <https://www.tooooools.app/> (Efectos)
 - <https://pixelhunter.io/> (Resize para RRSS)
 - <https://efecto.app/> (Manipular imagenes con filtros estilo ASCII)
+- <https://artkit.cc/> (Freemium)
 
 #### Editor PixelArt
 
@@ -793,6 +800,7 @@ Mirror <https://raindrop.io/Alplox/mis-recursos-webdev-64067715>
 - <https://yqnn.github.io/svg-path-editor/>
 - <https://pavellaptev.github.io/warp-svg/>
 - <https://svg-path-visualizer.netlify.app/>
+- <https://amix-design.com/asoboad/tools/d-formula/>
 
 ### Fuentes
 
@@ -887,7 +895,6 @@ Mirror <https://raindrop.io/Alplox/mis-recursos-webdev-64067715>
 
 - <https://editor.audio/>
 - <https://aurysystem.github.io/goldbox/>
-- <https://voicemaker.in/>
 - <https://voicegenerator.io/>
 - <https://www.beepbox.co>
 - <https://www.yukitools.com/audio-silence-remover>
@@ -921,7 +928,7 @@ Mirror <https://raindrop.io/Alplox/mis-recursos-webdev-64067715>
 - <https://github.com/rosepac/biblioteca-espanol-gratis>
 - <https://www.codegrepper.com/code-examples/> (Ejemplos de código de diversos lenguajes)
 - <https://www.java5cript.com/> (Recursos gratuitos JavaScript)
-- <https://rosettacode.org/wiki/Rosetta_Code> (Crestomatía de programación, enseña cómo realizar algo en el mayor número de lengujaes posibles)
+- <https://rosettacode.org/wiki/Rosetta_Code> (Crestomatía de programación, enseña cómo realizar algo en el mayor número de lenguajes posibles)
 - <https://svelte.dev/> (Alternativa a React o Vue)
 - <https://forthebadge.com/> (Insignias por poner algo)
 - <https://github.com/Echobob/awesome-all/tree/94a8e0fa6d1cdcaaaf12e04b6c507e578440c1b5> (Listas de todo)
@@ -1112,6 +1119,8 @@ Mirror <https://raindrop.io/Alplox/mis-recursos-webdev-64067715>
 - <https://akira.sachi.dev/>
 - <https://www.sensory-ui.com/>
 - <https://klick-here.vercel.app/>
+- <https://uptimerobot.com/>
+- <https://turborepo.dev/>
 
 #### JS Recursos
 
@@ -1216,6 +1225,7 @@ Mirror <https://raindrop.io/Alplox/mis-recursos-webdev-64067715>
 - <https://kokonutui.com/>
 - <https://theme-toggle.rdsx.dev/>
 - <https://github.com/sean-brydon/devl.dev>
+- <https://yumekit.com/>
 
 ##### Estilos inspirados en otros preexistentes
 
@@ -1230,6 +1240,7 @@ Mirror <https://raindrop.io/Alplox/mis-recursos-webdev-64067715>
 - <https://terminalcss.xyz/> (Estilo terminal)
 - <https://metroui.org.ua/> (Windows UI, Metro)
 - <https://github.com/winjs/winstrap> (Windows UI, Metro)
+- <https://liquid-glass-oss.vercel.app/>
 
 ##### Animación Recursos
 
@@ -1282,6 +1293,7 @@ Mirror <https://raindrop.io/Alplox/mis-recursos-webdev-64067715>
 - <https://makeitanimated.dev/>
 - <https://mapcn.vercel.app/>
 - <https://github.com/dashrobotco/robot-components>
+- <https://www.termcn.dev/>
 
 ## Guías
 
@@ -1445,7 +1457,7 @@ Mirror <https://raindrop.io/Alplox/mis-recursos-webdev-64067715>
 - <https://upskillcourses.com/courses/essential-web-developer-course> (HTML, CSS y JS)
 - <https://www.internetingishard.com/> (HTML, CSS y JS)
 - <https://codebabes.com/> (HTML, CSS y JS)
-- <https://wesbos.com/courses> (Requiere cuenta) (HTML, CSS y JS)
+- <https://wesbos.com/courses> (Requiere cuenta, HTML, CSS y JS)
 - <https://hackr.io/> (HTML, CSS y JS)
 - <https://www.educba.com/software-development/software-development-tutorials/> (HTML, CSS y JS)
 - <https://frontendmasters.com/> (HTML, CSS y JS)
@@ -1499,7 +1511,7 @@ Mirror <https://raindrop.io/Alplox/mis-recursos-webdev-64067715>
 - <https://frontendchecklist.io/> (Web Design)
 - <https://practicaltypography.com/typography-in-ten-minutes.html> (Tipografía)
 - <http://www.typogui.de/> (Tipografía)
-- <https://betterwebtype.com/> (Tipografía) (Requiere cuenta)
+- <https://betterwebtype.com/> (Requiere cuenta, Tipografía)
 - <https://www.futurelearn.com/courses/introduction-to-cyber-security> (Requiere cuenta)
 - <https://www.a11yproject.com/checklist/> (Accesibilidad)
 - <https://codepen.io/Metahari/pen/VJrBrQ> (Guía breve contraste colores)
@@ -1889,6 +1901,7 @@ Mirror <https://raindrop.io/Alplox/mis-recursos-webdev-64067715>
 - <https://codeberg.page/>
 - <https://mmm.page/>
 - <https://carrd.co/>
+- <https://www.purrfectgit.com/>
 
 ### Incluyen de pago
 
@@ -1915,7 +1928,6 @@ Mirror <https://raindrop.io/Alplox/mis-recursos-webdev-64067715>
 - <https://amritpaldesign.com/toy-faces> (Avatares)
 - <https://leonidasesteban.com/proyectos/todos> (Proyectos)
 - <https://creativemarket.com/>
-- <https://ui8.net/>
 - <https://www.designhill.com/>
 - <https://www.graphicpear.com/>
 - <https://mrmockup.com/>
@@ -2129,10 +2141,11 @@ Mirror <https://raindrop.io/Alplox/mis-recursos-webdev-64067715>
 - <https://bbohlender.github.io/uikit-smartphone-example/>
 - <https://enari-engine-git-unrecord-iercanns-projects.vercel.app/>
 - <https://wind-waker-js.vercel.app/>
-- <https://phuoc.ng/collection/1-loc/>
+- <https://github.com/phuocng/1loc/tree/master/contents>
 - <https://h12024-prod-dot-gstore-model-viewer-prod-1h24.uc.r.appspot.com/pixel-8a-3d/>
 - <https://www.nicbarker.com/virtual-scrolling>
 - <https://chiuhans111.github.io/spin/>
+- <https://palekirill.github.io/genius-loci-home/>
 
 ## Cheatsheets
 
@@ -2200,6 +2213,8 @@ Mirror <https://raindrop.io/Alplox/mis-recursos-webdev-64067715>
 - <https://stackshare.io/>
 - <https://microlaunch.net/>
 - <https://www.appstoretracker.com/>
+- <https://bugbountyscam.com/> (Registro de estafas de Bug Bounty)
+- <https://www.scrolllaunch.com/>
 
 ### Foros Diseño
 
@@ -2229,7 +2244,6 @@ Mirror <https://raindrop.io/Alplox/mis-recursos-webdev-64067715>
 - <https://collectui.com/>
 - <https://godly.website/>
 - <https://pfolios.net>
-- <https://muz.li/es>
 - <https://abduzeedo.com/>
 - <https://uxmovement.com/>
 - <https://uxdesign.cc/>
@@ -2253,7 +2267,6 @@ Mirror <https://raindrop.io/Alplox/mis-recursos-webdev-64067715>
 - <https://brand.dropbox.com/>
 - <https://design.cash.app/>
 - <https://wise.design/>
-- <https://www.therawmaterials.com/>
 - <https://playbook.ebay.com/>
 - <https://www.ibm.com/design/language/>
 - <https://design.theguardian.com/>
@@ -2349,7 +2362,6 @@ Mirror <https://raindrop.io/Alplox/mis-recursos-webdev-64067715>
 - <https://appshots.design/apps/>
 - <https://designsystems.surf/>
 - <https://mobbin.com/>
-- <https://muz.li/es/>
 - <https://logopond.com/>
 - <https://www.logolounge.com/>
 - <https://www.cosmos.so/> (Requiere cuenta)
@@ -2370,7 +2382,6 @@ Mirror <https://raindrop.io/Alplox/mis-recursos-webdev-64067715>
 - <https://sesohq.com/pages/moodboards>
 - <https://oss.gallery/>
 - <https://pagethatconverts.com/>
-- <https://refero.design/>
 - <https://watch.runwayml.com/generation>
 - <https://textvis.lnu.se/>
 - <https://glass.photo/> (Requiere cuenta)
@@ -2516,6 +2527,7 @@ Mirror <https://raindrop.io/Alplox/mis-recursos-webdev-64067715>
 - <https://www.fanvue.com/> (OnlyFans, Requiere cuenta)
 - <https://scripai.com/> (Texto/Guiones)
 - <https://www.dupdub.com/> (Content creation tools)
+- <https://cv.nan.builders/> (Analizador de curriculum "local", envia datos a proveedores de AI igualmente para generar el análisis)
 
 ### AI Colecciones/Toolkit
 
@@ -2599,6 +2611,7 @@ Mirror <https://raindrop.io/Alplox/mis-recursos-webdev-64067715>
 - <https://www.reliablesoft.net/chatgpt-prompts/> (Prompts con ejemplos visuales)
 - <https://aifordevelopers.org/>
 - <https://aipure.ai/>
+- <https://huggingface.co/collections/webml-community/transformersjs-v4-demos>
 
 ### AI Chatbot
 
@@ -2652,6 +2665,8 @@ Mirror <https://raindrop.io/Alplox/mis-recursos-webdev-64067715>
 - <https://app.khoj.dev/> (Requiere cuenta)
 - <https://www.tplr.ai/chat>
 - <https://openrouter.ai/chat> (Pagada, Requiere cuenta)
+- <https://huggingface.co/spaces/webml-community/gemma-4-webgpu-kernels>
+- <https://nodi.global/candidates/agent> (AI Career Agent)
 
 ### AI Imágenes
 
@@ -2753,6 +2768,8 @@ Mirror <https://raindrop.io/Alplox/mis-recursos-webdev-64067715>
 - <https://letz.ai/> (Pagada, Requiere cuenta, 150 créditos gratis)
 - <https://image2hub.netlify.app/> (Prompts con ejemplos)
 - <https://fal.ai/models/fal-ai/ideogram/remove-background> (Requiere cuenta)
+- <https://www.grazia.ai/> (Requiere cuenta)
+- <https://iclightai.com/ic-light-v2> (Requiere cuenta)
 
 ### AI Audio
 
@@ -2869,7 +2886,7 @@ Mirror <https://raindrop.io/Alplox/mis-recursos-webdev-64067715>
 - <https://www.builder.io/> (Requiere cuenta, Pagada, 75 creditos por mes (limite diario 25))
 - <https://www.macaly.com/> (Requiere cuenta, Pagada, Up to 1M credits daily)
 - <https://readdy.ai/> (Requiere cuenta, Pagada, 250 creditos por mes)
-- <https://reshape.build/> (Pagada, Requiere cuenta) Nota: se ve vibe coded, no usar con información real/personal.
+- <https://reshape.build/> (Pagada, Requiere cuenta, Nota: se ve vibe coded, no usar con información real/personal)
 - <https://www.vibed.inc/> (Pagada, Requiere cuenta)
 - <https://browser-use.com/> (Pagada, Requiere cuenta)
 - <https://caffeine.ai/>
@@ -2894,6 +2911,11 @@ Mirror <https://raindrop.io/Alplox/mis-recursos-webdev-64067715>
 - <https://github.com/shanraisshan/claude-code-best-practice>
 - <https://jules.google/> (Pagada, Requiere cuenta)
 - <https://github.com/thedotmack/claude-mem>
+- <https://commandcode.ai/> (Pagada, Requiere cuenta)
+- <https://artificialanalysis.ai/agents/coding-agents> (AI Coding Benchmarks)
+- <https://vercel.com/eve>
+- <https://github.com/AbuZar-Ansarii/VoidClaw-Agent>
+- <https://github.com/upstash/context7>
 
 #### Skills
 
@@ -2903,7 +2925,6 @@ Ejem [Are Repository-Level Context Files Helpful for Coding Agents?](https://arx
 
 - <https://agents.md/>
 - <https://github.com/mds/floatprompt> (herramienta para crear prompts dinámicos que pueden variar automáticamente en lugar de ser siempre exactamente iguales)
-- <https://github.com/simstudioai/sim>
 - <https://www.aitmpl.com/agents>
 - <https://skillsmp.com/>
 - <https://skills.sh/>
@@ -2931,6 +2952,8 @@ Ejem [Are Repository-Level Context Files Helpful for Coding Agents?](https://arx
 - <https://github.com/affaan-m/ECC> (Optimización)
 - <https://github.com/safishamsi/graphify>
 - <https://github.com/open-gsd/gsd-core> (Optimización)
+- <https://github.com/DietrichGebert/ponytail> (Optimización)
+- <https://compact-skill.dev/>
 
 ##### Design.md
 
@@ -3004,6 +3027,7 @@ Ejem [Are Repository-Level Context Files Helpful for Coding Agents?](https://arx
 - <https://nan.builders/> (Pagada)
 - <https://forge.plyrium.com/> (Pagada)
 - <https://github.com/Open-LLM-VTuber/Open-LLM-VTuber>
+- <https://kickbacks.ai/> (Generar dinero mediante ver publicidad en CLI durante mensajes de carga de Claude Code, 50% de las supuestas ganancias)
 
 #### AI Local
 
@@ -3013,6 +3037,9 @@ Ejem [Are Repository-Level Context Files Helpful for Coding Agents?](https://arx
 - <https://lmstudio.ai/>
 - <https://ollama.com/>
 - <https://atomic.chat/>
+- <https://www.jan.ai/>
+- <https://github.com/pewdiepie-archdaemon/odysseus>
+- <https://github.com/osaurus-ai/osaurus>
 
 ## Búsqueda trabajo
 
@@ -3042,10 +3069,6 @@ Ejem [Are Repository-Level Context Files Helpful for Coding Agents?](https://arx
 [↑](#tabla-de-contenido)
 
 - <https://www.bne.cl/>
-- <https://lookerstudio.google.com/u/0/reporting/1Tt-TIit7n1AaPPtdXLHOzgPSNFCLGQRf/page/DRf3B?s=hVvWWJQlD5w>
-- <https://empleospublicos.cl/>
-- <https://www.empleospublicos.cl/pub/convocatorias/convocatorias.aspx>
-- <https://www.serviciocivil.cl/postulantes/>
 - <https://firstjob.me/>
 - <https://www.chiletrabajos.cl/>
 - <https://www.trabajando.cl/>
@@ -3060,7 +3083,18 @@ Ejem [Are Repository-Level Context Files Helpful for Coding Agents?](https://arx
 - <https://www.stack.cl/>
 - <https://www.admisionarmada.cl/concursos/>
 
-#### Universidades/Institutos
+#### Páginas de empleo Gobierno
+
+[↑](#tabla-de-contenido)
+
+- <https://www.registrocivil.cl/principal/quienes-somos/trabaja-con-nosotros>
+- <https://lookerstudio.google.com/u/0/reporting/1Tt-TIit7n1AaPPtdXLHOzgPSNFCLGQRf/page/DRf3B?s=hVvWWJQlD5w>
+- <https://empleospublicos.cl/>
+- <https://www.empleospublicos.cl/pub/convocatorias/convocatorias.aspx>
+- <https://www.serviciocivil.cl/postulantes/>
+- <https://www.subtel.gob.cl/trabaja-en-subtel/concursos-abiertos/>
+
+#### Páginas de empleo Universidades/Institutos
 
 [↑](#tabla-de-contenido)
 
@@ -3075,7 +3109,14 @@ Ejem [Are Repository-Level Context Files Helpful for Coding Agents?](https://arx
 - <https://utalca.trabajando.cl/>
 - <http://empleos.utalca.cl/>
 
-### Remoto focus
+#### Páginas de empleo Corporativas
+
+[↑](#tabla-de-contenido)
+
+- <https://www.fintoc.com/careers#vacantes>
+- <https://www.cmfchile.cl/portal/principal/623/w4-propertyvalue-48678.html>
+
+### Remoto
 
 [↑](#tabla-de-contenido)
 
@@ -3115,6 +3156,7 @@ Ejem [Are Repository-Level Context Files Helpful for Coding Agents?](https://arx
 - <https://remote.co/>
 - <https://justremote.co/>
 - <https://jobspresso.co/>
+- <https://opendoorscareers.com/jobs>
 
 ### Freelance
 
@@ -3132,7 +3174,7 @@ También conocidos como: pagan por tarea
 - <https://www.vyro.com/>
 - <https://whop.com>
 
-### US focus
+### Internacional focus
 
 [↑](#tabla-de-contenido)
 
@@ -3141,6 +3183,9 @@ También conocidos como: pagan por tarea
 - <https://www.clickworker.com/clickworker/>
 - <https://www.swagbucks.com/>
 - <https://www.ycombinator.com/jobs>
+- <https://www.empleodeporte.com/ofertas-empleo/>
+- <https://www.youtube.com/jobs/>
+- <https://apply.careers.microsoft.com/careers>
 
 ### Herramientas Trabajo
 
@@ -3158,7 +3203,9 @@ También conocidos como: pagan por tarea
 - <https://www.registrodeempresasysociedades.cl/Curso.aspx>
 - <https://github.com/Angest1/cazapegas-app>
 - <https://invoicegenerator.io/>
-- <https://github.com/santifer/career-ops> (revolución industrial y sus consecuencias) (AI)
+- <https://github.com/santifer/career-ops> (revolución industrial y sus consecuencias - AI)
+- <https://www.mepostule.cl/> (Datos "reales" de procesos de selección en empresas tech de Chile)
+- <https://elinterno.com/> (Reseñas comunitarias para ver "cómo es trabajar ahí de verdad")
 
 #### CV
 
@@ -3252,3 +3299,5 @@ También conocidos como: pagan por tarea
 - <https://generador.fantasmogenesis.com/> (Generador visuales para MIDI)
 - <https://derivative.ca/download> (Pagada, Generador visuales, Version gratis no comercial)
 - <https://fff.dmtrkovalenko.dev> (Demo de busqueda no regex)
+
+<!-- resources-end -->

@@ -1,0 +1,32 @@
+---
+import ContributeButton from './ContributeButton.astro'
+import BookmarkExport from './BookmarkExport.astro'
+import ThemeToggle from './ThemeToggle.astro'
+---
+
+<header class="main-header">
+  <button class="hamburger" onclick="__toggleSidebar()" aria-label="Abrir menú">
+    <svg width="18" height="18" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><use href="#icon-hamburger"/></svg>
+  </button>
+
+  <div class="search-wrapper">
+    <span class="icon">
+      <svg width="14" height="14" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><use href="#icon-search"/></svg>
+    </span>
+    <input
+      type="text"
+      class="search-input"
+      id="search-input"
+      placeholder="Buscar recursos... (presiona / para enfocar)"
+      aria-label="Buscar recursos"
+    />
+    <button class="search-clear" id="search-clear" aria-label="Limpiar búsqueda">&times;</button>
+  </div>
+
+  <div class="header-actions">
+    <ContributeButton />
+    <BookmarkExport />
+    <ThemeToggle />
+  </div>
+</header>
+

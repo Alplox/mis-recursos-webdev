@@ -1,0 +1,21 @@
+---
+export interface Props {
+  title: string
+  links: Array<{ name: string; url: string; description?: string }>
+  sectionId?: string
+  level?: number
+}
+
+const { title, links, sectionId, level = 3 } = Astro.props
+const Tag = level === 3 ? 'h3' : level === 4 ? 'h4' : 'h5'
+const headerClass = level === 3 ? 'subcategory-header' : level === 4 ? 'sub-subcategory-header' : 'lvl5-header'
+const gridId = sectionId || ''
+---
+
+{sectionId ? <div id={sectionId} class="section-anchor"></div> : null}
+
+<div class={headerClass}>
+  <Tag>{title} <span class="count">{links.length}</span></Tag>
+</div>
+
+<div class="link-grid" data-section-id={gridId}></div>
