@@ -188,7 +188,7 @@ function buildSectionLookup(sections: any[], parentPath = '') {
 
 async function loadData() {
   try {
-    const res = await fetch('/mis-recursos-webdev/data/recursos.json')
+    const res = await fetch('/data/recursos.json')
     if (!res.ok) throw new Error(`HTTP ${res.status}`)
     fullData = await res.json()
     flat = flattenData(fullData)
