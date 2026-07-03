@@ -7,14 +7,14 @@
 
 ## 📋 Stack
 
-| Área | Tecnología | Versión |
-|---|---|---|
-| Framework | Astro | ^5.7 |
-| Lenguaje | TypeScript / JavaScript (ESM) |
-| CSS | Vanilla CSS con variables (modo oscuro/claro) |
-| Build | `npm run build` → `/dist` |
-| Package manager | npm |
-| Node.js requerido | ^22 |
+| Área              | Tecnología                                    | Versión |
+| ----------------- | --------------------------------------------- | ------- |
+| Framework         | Astro                                         | ^5.7    |
+| Lenguaje          | TypeScript / JavaScript (ESM)                 |
+| CSS               | Vanilla CSS con variables (modo oscuro/claro) |
+| Build             | `npm run build` → `/dist`                     |
+| Package manager   | npm                                           |
+| Node.js requerido | ^22                                           |
 
 ## 🏗️ Estructura del proyecto
 
@@ -69,6 +69,7 @@ El JSON en `src/data/recursos.json` se genera automáticamente desde el README e
 ### Estructura del README
 
 El README usa el formato:
+
 ```markdown
 ## Nombre de sección
 
@@ -85,7 +86,7 @@ Los headings `##` / `###` / `####` / `#####` definen la jerarquía de secciones.
 El proyecto usa un enfoque **híbrido**:
 
 1. **Server-side (Astro)**: Renderiza el esqueleto: sidebar, headers de sección, contenedores vacíos de grids con `data-section-id`. HTML final: **~70 KB**.
-2. **Client-side (JS)**: 
+2. **Client-side (JS)**:
    - `loadData()` fetchea `recursos.json` desde `/data/recursos.json`
    - `renderBrowseCards()` recorre el árbol de secciones y rellena los `<div class="link-grid" data-section-id="...">` vacíos
    - Los primeros 3 grids se renderizan sincrónicamente
@@ -97,6 +98,7 @@ Este enfoque reduce el HTML inicial de **5.5 MB → 70 KB** (98.7% menos).
 ## 🎨 Convenciones de código
 
 ### CSS
+
 - Variables globales en `:root` para tema oscuro (`[data-theme="dark"]`) y claro (`[data-theme="light"]`)
 - `var(--bg)`, `var(--text)`, `var(--accent)`, etc. para colores
 - `var(--radius)`, `var(--transition)`, `var(--shadow)` para espaciado consistente
@@ -107,6 +109,7 @@ Este enfoque reduce el HTML inicial de **5.5 MB → 70 KB** (98.7% menos).
 - **`contain-intrinsic-size`** en secciones virtualizadas para layout estable
 
 ### Diseño
+
 - **Fuente**: Onest (Google Fonts), cargada en BaseLayout.astro
 - **Accent color**: Warm amber/gold (`#CD9E4B` oscuro, `#A87D2E` claro)
 - **Textura**: Noise/grain sutil (`body::after` con SVG `feTurbulence`, opacidad 0.015)
@@ -120,6 +123,7 @@ Este enfoque reduce el HTML inicial de **5.5 MB → 70 KB** (98.7% menos).
 - **Toast**: SVG checkmark inline
 
 ### SVG Sprite Sheet
+
 - Todos los iconos reutilizables están en un `<svg>` oculto en `BaseLayout.astro` con `<defs><symbol>`
 - Prefijo `icon-` para iconos de acción
 - Uso: `<svg fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><use href="#icon-copy"/></svg>`
@@ -127,6 +131,7 @@ Este enfoque reduce el HTML inicial de **5.5 MB → 70 KB** (98.7% menos).
 - Iconos disponibles: icon-copy, icon-preview, icon-open, icon-edit, icon-hamburger, icon-search, icon-moon, icon-sun, icon-check
 
 ### Rendimiento
+
 - `content-visibility: auto` en secciones (render deferred)
 - SVG sprite sheet reduce HTML
 - `transition` nunca usa `all` (propiedades específicas)
@@ -137,11 +142,13 @@ Este enfoque reduce el HTML inicial de **5.5 MB → 70 KB** (98.7% menos).
 - `renderBrowseCards()` renderiza progresivamente con `requestAnimationFrame` (1 grid por frame)
 
 ### Componentes Astro
+
 - Componentes sin estado (solo renderizado estático)
 - La interactividad se añade con `<script>` tags dentro del componente
 - Props tipadas con interfaces de TypeScript en el frontmatter
 
 ### JavaScript client-side
+
 - Funciones globales expuestas en `window.__*` (ej: `__search`, `__toggleSidebar`, `__copyLink`, `__showToast`)
 - Módulos ES importados desde `src/lib/` y `src/scripts/`
 - Datos cargados vía `fetch('/data/recursos.json')` asíncrono
@@ -191,6 +198,7 @@ No editar archivos JSON manualmente. El README es la única fuente de verdad.
 3. Si el cambio es de stack, actualiza "Stack" y "Comandos"
 
 **Instrucciones para la próxima IA que trabaje aquí:**
+
 - La fuente de verdad es `README.md` — no editar `src/data/recursos.json` manualmente
 - El diseño usa variables CSS; cualquier nuevo color debe definirse en `:root` y `[data-theme="light"]`
 - Los componentes Astro no deben tener estado; la interactividad va en `<script>` dentro del mismo archivo

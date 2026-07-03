@@ -966,6 +966,7 @@ Mirror <https://raindrop.io/Alplox/mis-recursos-webdev-64067715>
 - <https://www.sketch.com/> (Pagada)
 - <https://www.adobe.com/cl/products/illustrator.html> (Pagada)
 - <https://github.com/BigBodyCobain/Shadowbroker> (Open-source intelligence tracker)
+- <https://github.com/halfof8/patterngen-oss> (procedural pattern generator)
 
 ### Editor Markdown
 
@@ -1941,7 +1942,14 @@ Mirror <https://raindrop.io/Alplox/mis-recursos-webdev-64067715>
 
 [↑](#tabla-de-contenido)
 
+- <https://github.com/Alplox/awesome-chilean-apis>
 - <https://github.com/public-apis/public-apis>
+- <https://www.freepublicapis.com/>
+- <https://apis.guru/>
+- <https://apilist.fun/>
+- <https://publicapis.dev/>
+- <https://apislist.com/>
+- <https://marketplace.apilayer.com/>
 - <https://webapis-playground.vercel.app/>
 - <https://api.nasa.gov/>
 - <https://www.frankfurter.app/>
@@ -1959,12 +1967,8 @@ Mirror <https://raindrop.io/Alplox/mis-recursos-webdev-64067715>
 - <https://developers.google.com/closure/compiler>
 - <https://www.partners.skyscanner.net/product/travel-api>
 - <https://carnet.ai/> (Pagada)
-- <https://redmeteo.cl/api.html>
-- <https://docs.boostr.cl> (varias)
 - <https://earthquake.usgs.gov/>
-- <https://api.gael.cloud/> (varias)
-- <https://mindicador.cl/>
-- <https://open-meteo.com/>
+
 
 ## Snippets
 
@@ -2215,6 +2219,7 @@ Mirror <https://raindrop.io/Alplox/mis-recursos-webdev-64067715>
 - <https://www.appstoretracker.com/>
 - <https://bugbountyscam.com/> (Registro de estafas de Bug Bounty)
 - <https://www.scrolllaunch.com/>
+- <https://developer.x.com/exhibit>
 
 ### Foros Diseño
 
@@ -2916,6 +2921,7 @@ Mirror <https://raindrop.io/Alplox/mis-recursos-webdev-64067715>
 - <https://vercel.com/eve>
 - <https://github.com/AbuZar-Ansarii/VoidClaw-Agent>
 - <https://github.com/upstash/context7>
+- <https://github.com/cheahjs/free-llm-api-resources>
 
 #### Skills
 
@@ -3040,6 +3046,7 @@ Ejem [Are Repository-Level Context Files Helpful for Coding Agents?](https://arx
 - <https://www.jan.ai/>
 - <https://github.com/pewdiepie-archdaemon/odysseus>
 - <https://github.com/osaurus-ai/osaurus>
+- <https://github.com/SimonSchubert/Kai>
 
 ## Búsqueda trabajo
 
