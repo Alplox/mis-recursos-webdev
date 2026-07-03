@@ -72,6 +72,8 @@ function initSidebarSections() {
         try { sessionStorage.setItem(key, 'open') } catch {}
       }
 
+      if ((e.target as HTMLElement).closest('.arrow')) return
+
       const id = (toggle as HTMLElement).dataset.sectionId
       if (id) window.__goToSection(id)
 

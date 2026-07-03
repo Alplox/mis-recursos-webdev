@@ -3291,6 +3291,11 @@
             "name": "https://github.com/BigBodyCobain/Shadowbroker",
             "url": "https://github.com/BigBodyCobain/Shadowbroker",
             "description": "Open-source intelligence tracker"
+          },
+          {
+            "name": "https://github.com/halfof8/patterngen-oss",
+            "url": "https://github.com/halfof8/patterngen-oss",
+            "description": "procedural pattern generator"
           }
         ],
         "children": []
@@ -7084,8 +7089,36 @@
     "level": 2,
     "links": [
       {
+        "name": "https://github.com/Alplox/awesome-chilean-apis",
+        "url": "https://github.com/Alplox/awesome-chilean-apis"
+      },
+      {
         "name": "https://github.com/public-apis/public-apis",
         "url": "https://github.com/public-apis/public-apis"
+      },
+      {
+        "name": "https://www.freepublicapis.com/",
+        "url": "https://www.freepublicapis.com/"
+      },
+      {
+        "name": "https://apis.guru/",
+        "url": "https://apis.guru/"
+      },
+      {
+        "name": "https://apilist.fun/",
+        "url": "https://apilist.fun/"
+      },
+      {
+        "name": "https://publicapis.dev/",
+        "url": "https://publicapis.dev/"
+      },
+      {
+        "name": "https://apislist.com/",
+        "url": "https://apislist.com/"
+      },
+      {
+        "name": "https://marketplace.apilayer.com/",
+        "url": "https://marketplace.apilayer.com/"
       },
       {
         "name": "https://webapis-playground.vercel.app/",
@@ -7159,30 +7192,8 @@
         "description": "Pagada"
       },
       {
-        "name": "https://redmeteo.cl/api.html",
-        "url": "https://redmeteo.cl/api.html"
-      },
-      {
-        "name": "https://docs.boostr.cl",
-        "url": "https://docs.boostr.cl",
-        "description": "varias"
-      },
-      {
         "name": "https://earthquake.usgs.gov/",
         "url": "https://earthquake.usgs.gov/"
-      },
-      {
-        "name": "https://api.gael.cloud/",
-        "url": "https://api.gael.cloud/",
-        "description": "varias"
-      },
-      {
-        "name": "https://mindicador.cl/",
-        "url": "https://mindicador.cl/"
-      },
-      {
-        "name": "https://open-meteo.com/",
-        "url": "https://open-meteo.com/"
       }
     ],
     "children": []
@@ -8186,6 +8197,10 @@
           {
             "name": "https://www.scrolllaunch.com/",
             "url": "https://www.scrolllaunch.com/"
+          },
+          {
+            "name": "https://developer.x.com/exhibit",
+            "url": "https://developer.x.com/exhibit"
           }
         ],
         "children": []
@@ -11028,6 +11043,10 @@
           {
             "name": "https://github.com/upstash/context7",
             "url": "https://github.com/upstash/context7"
+          },
+          {
+            "name": "https://github.com/cheahjs/free-llm-api-resources",
+            "url": "https://github.com/cheahjs/free-llm-api-resources"
           }
         ],
         "children": [
@@ -11502,6 +11521,10 @@
               {
                 "name": "https://github.com/osaurus-ai/osaurus",
                 "url": "https://github.com/osaurus-ai/osaurus"
+              },
+              {
+                "name": "https://github.com/SimonSchubert/Kai",
+                "url": "https://github.com/SimonSchubert/Kai"
               }
             ],
             "children": []
