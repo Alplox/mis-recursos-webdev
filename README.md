@@ -987,6 +987,7 @@ Mirror <https://raindrop.io/Alplox/mis-recursos-webdev-64067715>
 - <https://sobanotes.app/> (macOS)
 - <https://mdee.bkh.dev/>
 - <https://meadow-notes.com/> (macOS)
+- <https://neverwrite.app/>
 
 #### Screen Recorder/Capturar Pantalla
 
@@ -1658,6 +1659,7 @@ Mirror <https://raindrop.io/Alplox/mis-recursos-webdev-64067715>
 - <https://phosphoricons.com/>
 - <https://glyphs.fyi/dir>
 - <https://fonts.google.com/icons>
+- <https://reicon.dev/icons>
 
 ### Ilustraciones Gratuitas
 
@@ -2453,6 +2455,8 @@ Mirror <https://raindrop.io/Alplox/mis-recursos-webdev-64067715>
 - <https://detail.design/>
 - <https://release.bar/>
 - <https://www.webdesignmuseum.org/>
+- <https://posts.design/>
+- <https://recent.design/>
 
 ## Cursos de pago
 
@@ -3006,6 +3010,7 @@ Ejem [Are Repository-Level Context Files Helpful for Coding Agents?](https://arx
 - <https://opencode.ai/> (CLI Agentic coding)
 - <https://github.com/Gitlawb/openclaude> (CLI Agentic coding)
 - <https://github.com/CodebuffAI/codebuff> (CLI Agentic coding)
+- <https://zero.gitlawb.com/> (CLI Agentic coding)
 - <https://www.orchids.app/> (IDE)
 - <https://ampcode.com/> (IDE Agentic coding)
 - <https://factory.ai/> (CLI Agentic coding)
@@ -3034,6 +3039,7 @@ Ejem [Are Repository-Level Context Files Helpful for Coding Agents?](https://arx
 - <https://forge.plyrium.com/> (Pagada)
 - <https://github.com/Open-LLM-VTuber/Open-LLM-VTuber>
 - <https://kickbacks.ai/> (Generar dinero mediante ver publicidad en CLI durante mensajes de carga de Claude Code, 50% de las supuestas ganancias)
+- <https://github.com/Dryxio/auto-re-agent>
 
 #### AI Local
 

@@ -3373,6 +3373,10 @@
             "name": "https://meadow-notes.com/",
             "url": "https://meadow-notes.com/",
             "description": "macOS"
+          },
+          {
+            "name": "https://neverwrite.app/",
+            "url": "https://neverwrite.app/"
           }
         ],
         "children": [
@@ -6009,6 +6013,10 @@
           {
             "name": "https://fonts.google.com/icons",
             "url": "https://fonts.google.com/icons"
+          },
+          {
+            "name": "https://reicon.dev/icons",
+            "url": "https://reicon.dev/icons"
           }
         ],
         "children": []
@@ -9107,6 +9115,14 @@
           {
             "name": "https://www.webdesignmuseum.org/",
             "url": "https://www.webdesignmuseum.org/"
+          },
+          {
+            "name": "https://posts.design/",
+            "url": "https://posts.design/"
+          },
+          {
+            "name": "https://recent.design/",
+            "url": "https://recent.design/"
           }
         ],
         "children": []
@@ -11358,6 +11374,11 @@
             "description": "CLI Agentic coding"
           },
           {
+            "name": "https://zero.gitlawb.com/",
+            "url": "https://zero.gitlawb.com/",
+            "description": "CLI Agentic coding"
+          },
+          {
             "name": "https://www.orchids.app/",
             "url": "https://www.orchids.app/",
             "description": "IDE"
@@ -11486,6 +11507,10 @@
             "name": "https://kickbacks.ai/",
             "url": "https://kickbacks.ai/",
             "description": "Generar dinero mediante ver publicidad en CLI durante mensajes de carga de Claude Code, 50% de las supuestas ganancias"
+          },
+          {
+            "name": "https://github.com/Dryxio/auto-re-agent",
+            "url": "https://github.com/Dryxio/auto-re-agent"
           }
         ],
         "children": [
