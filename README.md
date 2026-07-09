@@ -166,6 +166,7 @@ Mirror <https://raindrop.io/Alplox/mis-recursos-webdev-64067715>
 - <https://tinywow.com/> (Toolkit)
 - <https://www.kodytools.com/> (Toolkit)
 - <https://it-tools.tech/> (Toolkit)
+- <https://feralui.dev/> (Toolkit/snippets)
 - <https://mrfreetools.com/tools/>
 - <https://www.fetoolkit.io/>
 - <https://baseline.is/tools/>
@@ -470,6 +471,7 @@ Mirror <https://raindrop.io/Alplox/mis-recursos-webdev-64067715>
 - <https://www.squircle.style/>
 - <https://utopia.fyi/>
 - <http://howtocenterincss.com/>
+- <https://text-effects.colorion.co/>
 
 #### Gradientes
 
@@ -1123,6 +1125,8 @@ Mirror <https://raindrop.io/Alplox/mis-recursos-webdev-64067715>
 - <https://klick-here.vercel.app/>
 - <https://uptimerobot.com/>
 - <https://turborepo.dev/>
+- <https://www.tirreno.com/> (Open-source security framework)
+- <https://opentui.com/> (UI library for building terminal user interfaces)
 
 #### JS Recursos
 
@@ -1952,6 +1956,7 @@ Mirror <https://raindrop.io/Alplox/mis-recursos-webdev-64067715>
 - <https://publicapis.dev/>
 - <https://apislist.com/>
 - <https://marketplace.apilayer.com/>
+- <https://apifinder.io/>
 - <https://webapis-playground.vercel.app/>
 - <https://api.nasa.gov/>
 - <https://www.frankfurter.app/>
@@ -2926,6 +2931,8 @@ Mirror <https://raindrop.io/Alplox/mis-recursos-webdev-64067715>
 - <https://github.com/AbuZar-Ansarii/VoidClaw-Agent>
 - <https://github.com/upstash/context7>
 - <https://github.com/cheahjs/free-llm-api-resources>
+- <https://directory.ora.ai/> (Directorio de sitios/recursos LLM ready)
+- <https://github.com/Fission-AI/OpenSpec> (Spec-driven development (SDD) for AI coding assistants)
 
 #### Skills
 
@@ -2964,6 +2971,7 @@ Ejem [Are Repository-Level Context Files Helpful for Coding Agents?](https://arx
 - <https://github.com/open-gsd/gsd-core> (Optimización)
 - <https://github.com/DietrichGebert/ponytail> (Optimización)
 - <https://compact-skill.dev/>
+- <https://github.com/emilkowalski/skills> (Requiere cuenta)
 
 ##### Design.md
 
@@ -2991,6 +2999,7 @@ Ejem [Are Repository-Level Context Files Helpful for Coding Agents?](https://arx
 - <https://github.com/abhayjnayakk/awesome-design-md>
 - <https://jakub.kr/writing/details-that-make-interfaces-feel-better>
 - <https://github.com/nextlevelbuilder/ui-ux-pro-max-skill>
+- <https://www.typeui.sh/design-skills>
 
 ### AI Software
 
@@ -3040,6 +3049,9 @@ Ejem [Are Repository-Level Context Files Helpful for Coding Agents?](https://arx
 - <https://github.com/Open-LLM-VTuber/Open-LLM-VTuber>
 - <https://kickbacks.ai/> (Generar dinero mediante ver publicidad en CLI durante mensajes de carga de Claude Code, 50% de las supuestas ganancias)
 - <https://github.com/Dryxio/auto-re-agent>
+- <https://www.glaze.app/> (MacOS, Requiere cuenta, Freemium, 120 créditos gratis)
+- <https://www.ship.studio/> (IDE Agentic Coding)
+- <https://www.typeui.sh/> (IDE Agentic Coding)
 
 #### AI Local
 
