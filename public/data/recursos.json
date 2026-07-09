@@ -7385,6 +7385,11 @@
           {
             "name": "https://bg.ibelick.com/",
             "url": "https://bg.ibelick.com/"
+          },
+          {
+            "name": "https://www.meshh.dev/",
+            "url": "https://www.meshh.dev/",
+            "description": "curated WebGL, Three.js, shader, and interactive canvas components with copyable code and AI-ready integration prompts"
           }
         ],
         "children": []
@@ -9146,6 +9151,14 @@
           {
             "name": "https://recent.design/",
             "url": "https://recent.design/"
+          },
+          {
+            "name": "https://www.landingfolio.com/",
+            "url": "https://www.landingfolio.com/"
+          },
+          {
+            "name": "https://commerce.design/",
+            "url": "https://commerce.design/"
           }
         ],
         "children": []

@@ -2018,6 +2018,7 @@ Mirror <https://raindrop.io/Alplox/mis-recursos-webdev-64067715>
 - <https://hypercolor.dev/>
 - <https://github.com/atherosai/ui>
 - <https://bg.ibelick.com/>
+- <https://www.meshh.dev/> (curated WebGL, Three.js, shader, and interactive canvas components with copyable code and AI-ready integration prompts)
 
 ### HTML Snippets
 
@@ -2462,6 +2463,8 @@ Mirror <https://raindrop.io/Alplox/mis-recursos-webdev-64067715>
 - <https://www.webdesignmuseum.org/>
 - <https://posts.design/>
 - <https://recent.design/>
+- <https://www.landingfolio.com/>
+- <https://commerce.design/>
 
 ## Cursos de pago
 
