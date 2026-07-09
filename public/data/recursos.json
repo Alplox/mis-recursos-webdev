@@ -208,6 +208,11 @@
         "description": "Toolkit"
       },
       {
+        "name": "https://feralui.dev/",
+        "url": "https://feralui.dev/",
+        "description": "Toolkit/snippets"
+      },
+      {
         "name": "https://mrfreetools.com/tools/",
         "url": "https://mrfreetools.com/tools/"
       },
@@ -1417,6 +1422,10 @@
           {
             "name": "http://howtocenterincss.com/",
             "url": "http://howtocenterincss.com/"
+          },
+          {
+            "name": "https://text-effects.colorion.co/",
+            "url": "https://text-effects.colorion.co/"
           }
         ],
         "children": [
@@ -3849,6 +3858,16 @@
           {
             "name": "https://turborepo.dev/",
             "url": "https://turborepo.dev/"
+          },
+          {
+            "name": "https://www.tirreno.com/",
+            "url": "https://www.tirreno.com/",
+            "description": "Open-source security framework"
+          },
+          {
+            "name": "https://opentui.com/",
+            "url": "https://opentui.com/",
+            "description": "UI library for building terminal user interfaces"
           }
         ],
         "children": [
@@ -7127,6 +7146,10 @@
       {
         "name": "https://marketplace.apilayer.com/",
         "url": "https://marketplace.apilayer.com/"
+      },
+      {
+        "name": "https://apifinder.io/",
+        "url": "https://apifinder.io/"
       },
       {
         "name": "https://webapis-playground.vercel.app/",
@@ -11063,6 +11086,16 @@
           {
             "name": "https://github.com/cheahjs/free-llm-api-resources",
             "url": "https://github.com/cheahjs/free-llm-api-resources"
+          },
+          {
+            "name": "https://directory.ora.ai/",
+            "url": "https://directory.ora.ai/",
+            "description": "Directorio de sitios/recursos LLM ready"
+          },
+          {
+            "name": "https://github.com/Fission-AI/OpenSpec",
+            "url": "https://github.com/Fission-AI/OpenSpec",
+            "description": "Spec-driven development (SDD) for AI coding assistants"
           }
         ],
         "children": [
@@ -11198,6 +11231,11 @@
               {
                 "name": "https://compact-skill.dev/",
                 "url": "https://compact-skill.dev/"
+              },
+              {
+                "name": "https://github.com/emilkowalski/skills",
+                "url": "https://github.com/emilkowalski/skills",
+                "description": "Requiere cuenta"
               }
             ],
             "children": [
@@ -11294,6 +11332,10 @@
                   {
                     "name": "https://github.com/nextlevelbuilder/ui-ux-pro-max-skill",
                     "url": "https://github.com/nextlevelbuilder/ui-ux-pro-max-skill"
+                  },
+                  {
+                    "name": "https://www.typeui.sh/design-skills",
+                    "url": "https://www.typeui.sh/design-skills"
                   }
                 ],
                 "children": []
@@ -11511,6 +11553,21 @@
           {
             "name": "https://github.com/Dryxio/auto-re-agent",
             "url": "https://github.com/Dryxio/auto-re-agent"
+          },
+          {
+            "name": "https://www.glaze.app/",
+            "url": "https://www.glaze.app/",
+            "description": "MacOS, Requiere cuenta, Freemium, 120 créditos gratis"
+          },
+          {
+            "name": "https://www.ship.studio/",
+            "url": "https://www.ship.studio/",
+            "description": "IDE Agentic Coding"
+          },
+          {
+            "name": "https://www.typeui.sh/",
+            "url": "https://www.typeui.sh/",
+            "description": "IDE Agentic Coding"
           }
         ],
         "children": [
