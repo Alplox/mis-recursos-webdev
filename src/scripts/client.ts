@@ -23,6 +23,9 @@ function toggleSidebar(open: boolean) {
     document.body.style.overflow = open ? 'hidden' : ''
   } else {
     sidebar?.classList.toggle('closed', !open)
+    const main = document.querySelector('.main-content') as HTMLElement
+    sidebar!.style.transform = open ? '' : 'translateX(-100%)'
+    main!.style.marginLeft = open ? '' : '0'
   }
 }
 
