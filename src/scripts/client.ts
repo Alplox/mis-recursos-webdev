@@ -456,8 +456,21 @@ function handleHash() {
 
 window.addEventListener('hashchange', handleHash)
 
+// ponytail: reset residual sidebar state que cache de Cloudflare pueda pegar
+function syncSidebar() {
+  sidebar?.classList.remove('closed', 'open')
+  sidebar!.style.transform = ''
+  const main = document.querySelector('.main-content') as HTMLElement
+  if (main) main.style.marginLeft = ''
+  if (window.innerWidth <= 768) {
+    overlay?.classList.remove('open')
+    document.body.style.overflow = ''
+  }
+}
+
 // --- Init ---
 async function init() {
+  syncSidebar()
   initSidebarSections()
   requestAnimationFrame(() => initActiveSection())
   await loadData()
