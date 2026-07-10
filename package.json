@@ -14,6 +14,8 @@
     "preview": "astro preview"
   },
   "dependencies": {
-    "astro": "^7.0.0"
+    "@playform/compress": "^0.2.3",
+    "astro": "^7.0.0",
+    "astro-critters": "^2.2.1"
   }
 }

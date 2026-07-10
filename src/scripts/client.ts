@@ -1,4 +1,3 @@
-import { flattenData, searchLinks } from '../lib/search'
 import { createCard, renderBrowseCards, escapeHtml } from './render-cards'
 
 declare global {
@@ -30,7 +29,10 @@ function toggleSidebar(open: boolean) {
 overlay?.addEventListener('click', () => toggleSidebar(false))
 
 window.__toggleSidebar = () => {
-  const isOpen = sidebar?.classList.contains('open')
+  const isMobile = window.innerWidth <= 768
+  const isOpen = isMobile
+    ? sidebar?.classList.contains('open')
+    : !sidebar?.classList.contains('closed')
   toggleSidebar(!isOpen)
 }
 
@@ -177,8 +179,9 @@ window.__copyLink = async (url: string) => {
 
 // --- Data loading ---
 let fullData: any = null
-let flat: any[] = []
+let flat: any[] | null = null
 let sectionLookup: Record<string, string> = {}
+let searchLinksFn: ((data: any[], query: string) => { results: any[]; grouped: any[]; total: number }) | null = null
 
 function buildSectionLookup(sections: any[], parentPath = '') {
   for (const s of sections) {
@@ -193,7 +196,6 @@ async function loadData() {
     const res = await fetch('/data/recursos.json')
     if (!res.ok) throw new Error(`HTTP ${res.status}`)
     fullData = await res.json()
-    flat = flattenData(fullData)
     sectionLookup = {}
     buildSectionLookup(fullData)
     ;(window as any).__recursosData = fullData
@@ -207,7 +209,7 @@ async function loadData() {
 }
 
 // --- Search ---
-window.__search = (query: string) => {
+window.__search = async (query: string) => {
   if (!fullData) return
   const browse = document.getElementById('browse-content')!
   const searchResults = document.getElementById('search-results')!
@@ -223,7 +225,13 @@ window.__search = (query: string) => {
     return
   }
 
-  const { results, grouped, total } = searchLinks(flat, query)
+  if (!flat) {
+    const mod = await import('../lib/search')
+    flat = mod.flattenData(fullData)
+    searchLinksFn = mod.searchLinks
+  }
+
+  const { results, grouped, total } = searchLinksFn!(flat, query)
 
   browse.style.display = 'none'
   emptyState.style.display = 'none'
@@ -301,20 +309,22 @@ clearBtn?.addEventListener('click', () => {
   window.__search('')
 })
 
-window.__goToSection = (id: string) => {
+window.__goToSection = async (id: string) => {
   if (!id) return
   clearTimeout(debounceTimer)
   if (searchInput) searchInput.value = ''
   clearBtn?.classList.remove('visible')
-  const browse = document.getElementById('browse-content')!
-  const searchResults = document.getElementById('search-results')!
-  const emptyState = document.getElementById('empty-state')!
-  browse.style.display = ''
-  searchResults.style.display = 'none'
-  emptyState.style.display = 'none'
+  await __search('')
   const el = document.getElementById(id)
   if (el) {
-    el.scrollIntoView({ behavior: 'smooth', block: 'start' })
+    const sections = document.querySelectorAll<HTMLElement>('.categories-section')
+    sections.forEach(s => {
+      s.style.contentVisibility = 'visible'
+      void s.offsetTop
+    })
+    const top = el.getBoundingClientRect().top + window.scrollY - 80
+    window.scrollTo({ top, behavior: 'smooth' })
+    setTimeout(() => sections.forEach(s => s.style.contentVisibility = ''), 500)
   }
   document.querySelectorAll('.sidebar-section-toggle.active').forEach(t => t.classList.remove('active'))
   document.querySelector(`.sidebar-section-toggle[data-section-id="${id}"]`)?.classList.add('active')

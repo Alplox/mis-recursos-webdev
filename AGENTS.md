@@ -9,9 +9,11 @@
 
 | Área              | Tecnología                                    | Versión |
 | ----------------- | --------------------------------------------- | ------- |
-| Framework         | Astro                                         | ^5.7    |
+| Framework         | Astro                                         | ^7.0    |
 | Lenguaje          | TypeScript / JavaScript (ESM)                 |
 | CSS               | Vanilla CSS con variables (modo oscuro/claro) |
+| Critical CSS      | astro-critters (inline automático)            |
+| Minificación      | @playform/compress (CSS/HTML/JS/JSON)         |
 | Build             | `npm run build` → `/dist`                     |
 | Package manager   | npm                                           |
 | Node.js requerido | ^22                                           |
@@ -137,9 +139,12 @@ Este enfoque reduce el HTML inicial de **5.5 MB → 70 KB** (98.7% menos).
 - `transition` nunca usa `all` (propiedades específicas)
 - `keydown` handlers fusionados en un solo listener
 - Google Fonts: `media="print" onload="this.media='all'"` para carga no bloqueante
+- `astro-critters` inlinea CSS crítico (71% del CSS inyectado en HTML)
+- `@playform/compress` minifica CSS/HTML/JS/JSON en build
 - `compressHTML: true` en build config (nativo de Astro)
 - `animation: card-in` solo en tarjetas creadas por search (clase `.animate-in`), no en tarjetas estáticas
 - `renderBrowseCards()` renderiza progresivamente con `requestAnimationFrame` (1 grid por frame)
+- search.js se carga con dynamic import solo cuando el usuario busca por primera vez
 
 ### Componentes Astro
 
@@ -153,6 +158,8 @@ Este enfoque reduce el HTML inicial de **5.5 MB → 70 KB** (98.7% menos).
 - Módulos ES importados desde `src/lib/` y `src/scripts/`
 - Datos cargados vía `fetch('/data/recursos.json')` asíncrono
 - Tarjetas renderizadas desde JS con `renderBrowseCards()` progresivo
+- **`search.js`** se carga con dynamic import (`import()`) solo cuando el usuario escribe en el buscador por primera vez. No está en el bundle crítico.
+- `flattenData()` se ejecuta lazy en el primer search, no al cargar la página
 - Search usa `flattenData()` + `searchLinks()` sobre JSON en memoria (no toca el DOM de browse)
 
 ## 🔄 Flujo de contribución (usuarios)
