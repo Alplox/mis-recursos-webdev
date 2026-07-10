@@ -37,28 +37,39 @@ export function createCard(link: { name: string; url: string; description?: stri
 }
 
 export function renderBrowseCards(sections: any[]) {
-  function render(item) {
-    const sel = `[data-section-id="${item.id}${item._root ? '-links' : ''}"]`
+  const queue: Array<{ id: string; links: any[]; root: boolean }> = []
+
+  function collect(item: any, rootLevel = true) {
+    if (item.links.length > 0) {
+      queue.push({ id: item.id, links: item.links, root: rootLevel })
+    }
+    for (const child of item.children) {
+      collect(child, false)
+    }
+  }
+  for (const section of sections) collect(section, true)
+
+  function renderItem(item: { id: string; links: any[]; root: boolean }) {
+    const sel = `[data-section-id="${item.id}${item.root ? '-links' : ''}"]`
     const grid = document.querySelector<HTMLElement>(`.link-grid${sel}`)
     if (!grid) return
-    const fragment = document.createDocumentFragment()
+    const frag = document.createDocumentFragment()
     for (const link of item.links) {
-      fragment.appendChild(createCard(link))
+      frag.appendChild(createCard(link))
     }
-    grid.appendChild(fragment)
+    grid.appendChild(frag)
   }
 
-  function walk(items, rootLevel = true) {
-    for (const item of items) {
-      if (item.links.length > 0) {
-        item._root = rootLevel
-        render(item)
-      }
-      if (item.children.length > 0) {
-        walk(item.children, false)
-      }
-    }
-  }
+  // First 3 grids sync (LCP)
+  const n = Math.min(3, queue.length)
+  for (let i = 0; i < n; i++) renderItem(queue[i])
 
-  walk(sections)
+  // Rest progressive, 1 grid per frame
+  let i = n
+  function next() {
+    if (i >= queue.length) return
+    renderItem(queue[i++])
+    requestAnimationFrame(next)
+  }
+  if (i < queue.length) requestAnimationFrame(next)
 }

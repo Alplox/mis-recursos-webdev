@@ -30,7 +30,7 @@ const sections = recursos as Section[]
             if (sectionTotal === 0) return null
 
             return (
-              <section class="categories-section" data-section={section.id}>
+              <section class="categories-section" data-section={section.id} style={`contain-intrinsic-size: auto ${sectionTotal * 25 + 80}px`}>
                 <div class="category-header" id={section.id}>
                   <h2>{section.name}</h2>
                   <span class="count-badge">{sectionTotal}</span>

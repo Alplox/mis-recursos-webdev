@@ -2120,6 +2120,7 @@ Mirror <https://raindrop.io/Alplox/mis-recursos-webdev-64067715>
 - <https://transitions.dev/>
 - <https://clouds.kineticstudio.com/>
 - <https://tv-animation-flame.vercel.app/>
+- <https://textmotion.dev/>
 
 #### Typewriter effect
 
