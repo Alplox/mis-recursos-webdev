@@ -14,11 +14,13 @@ declare global {
 
 const overlay = document.getElementById('sidebar-overlay')!
 const sidebar = document.getElementById('sidebar')!
+let sidebarOpen = false
 
 function toggleSidebar(open: boolean) {
-  sidebar?.classList.toggle('open', open)
+  sidebarOpen = open
   const isMobile = window.innerWidth <= 768
   if (isMobile) {
+    sidebar!.style.transform = open ? 'translateX(0)' : 'translateX(-100%)'
     overlay?.classList.toggle('open', open)
     document.body.style.overflow = open ? 'hidden' : ''
   } else {
@@ -31,13 +33,7 @@ function toggleSidebar(open: boolean) {
 
 overlay?.addEventListener('click', () => toggleSidebar(false))
 
-window.__toggleSidebar = () => {
-  const isMobile = window.innerWidth <= 768
-  const isOpen = isMobile
-    ? sidebar?.classList.contains('open')
-    : !sidebar?.classList.contains('closed')
-  toggleSidebar(!isOpen)
-}
+window.__toggleSidebar = () => toggleSidebar(!sidebarOpen)
 
 window.__showToast = (msg: string, type = 'success') => {
   const toast = document.getElementById('toast')
@@ -83,9 +79,7 @@ function initSidebarSections() {
       if (id) window.__goToSection(id)
 
       if (window.innerWidth <= 768) {
-        sidebar?.classList.remove('open')
-        overlay?.classList.remove('open')
-        document.body.style.overflow = ''
+        toggleSidebar(false)
       }
     })
   })
@@ -462,6 +456,7 @@ function syncSidebar() {
   sidebar!.style.transform = ''
   const main = document.querySelector('.main-content') as HTMLElement
   if (main) main.style.marginLeft = ''
+  sidebarOpen = window.innerWidth > 768
   if (window.innerWidth <= 768) {
     overlay?.classList.remove('open')
     document.body.style.overflow = ''
