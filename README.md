@@ -646,6 +646,7 @@ Mirror <https://raindrop.io/Alplox/mis-recursos-webdev-64067715>
 - <https://coolbackgrounds.io/>
 - <https://herokit.app/>
 - <https://fluid.krackeddevs.com/>
+- <https://backgrounds.supply/gradient-lab>
 
 #### Upscale
 
@@ -806,6 +807,7 @@ Mirror <https://raindrop.io/Alplox/mis-recursos-webdev-64067715>
 - <https://pavellaptev.github.io/warp-svg/>
 - <https://svg-path-visualizer.netlify.app/>
 - <https://amix-design.com/asoboad/tools/d-formula/>
+- <https://svgomg.net/> (Optimizar)
 
 ### Fuentes
 
@@ -1239,6 +1241,7 @@ Mirror <https://raindrop.io/Alplox/mis-recursos-webdev-64067715>
 - <https://theme-toggle.rdsx.dev/>
 - <https://github.com/sean-brydon/devl.dev>
 - <https://yumekit.com/>
+- <https://www.oreoui.com/> (Waiting list, LLM Ready)
 
 ##### Estilos inspirados en otros preexistentes
 
@@ -1313,6 +1316,7 @@ Mirror <https://raindrop.io/Alplox/mis-recursos-webdev-64067715>
 - <https://ditther.com/> (Freemium, Dither, ASCII & Halftone Effects for Images & Videos)
 - <https://www.pryzm.design/> (Backgrounds)
 - <https://github.com/jespervos/blossom-carousel>
+- <https://www.tripwire.sh/dither-kit> (5 chart types)
 
 ## Guías
 
@@ -2134,6 +2138,7 @@ Mirror <https://raindrop.io/Alplox/mis-recursos-webdev-64067715>
 - <https://tv-animation-flame.vercel.app/>
 - <https://textmotion.dev/>
 - <https://www.originkit.dev/>
+- <https://www.arlan.me/vault> (LLM Ready)
 
 #### Typewriter effect
 
@@ -2172,6 +2177,7 @@ Mirror <https://raindrop.io/Alplox/mis-recursos-webdev-64067715>
 - <https://www.nicbarker.com/virtual-scrolling>
 - <https://chiuhans111.github.io/spin/>
 - <https://palekirill.github.io/genius-loci-home/>
+- <https://www.anainsomnia.com/forge-dynamics>
 
 ## Cheatsheets
 
@@ -2542,6 +2548,7 @@ Mirror <https://raindrop.io/Alplox/mis-recursos-webdev-64067715>
 - <https://www.redomysite.com/> (Rehacer "cualquier sitio" en Astro, Pagada ($3 por sitio))
 - <https://freesvgicons.com/> (pagar pos svgs)
 - <https://www.coderabbit.ai/> (Freemium, Requiere Cuenta, Agente que revisa/reseña Pull Requests)
+- <https://www.context.dev/> (API extracción de datos web y web scraping diseñada para agentes de IA)
 
 ## AI
 
@@ -2886,7 +2893,7 @@ Mirror <https://raindrop.io/Alplox/mis-recursos-webdev-64067715>
 - <https://invideo.io/> (Pagada, Requiere cuenta, 4 exportaciones por mes con Watermark)
 - <https://fliki.ai/> (Pagada, Requiere cuenta, 5 minutos gratis por mes)
 - <https://www.heygen.com/> (Pagada, Requiere Cuenta, AI Avatars, 3 Videos gratis por mes)
-- <https://deepmind.google/technologies/veo/veo-2/> (Requiere cuenta, Waiting list)
+- <https://deepmind.google/models/veo/> (Requiere cuenta)
 - <https://firefly.adobe.com/> (Pagada, Requiere cuenta)
 - <https://www.hedra.com/> (Pagada, Requiere cuenta, 300 créditos por mes, No commercial use)
 - <https://ltx.studio/> (Pagada, Requiere cuenta, 800 segundos únicos, No commercial use)
@@ -3031,6 +3038,7 @@ Ejem [Are Repository-Level Context Files Helpful for Coding Agents?](https://arx
 - <https://github.com/nextlevelbuilder/ui-ux-pro-max-skill>
 - <https://www.typeui.sh/design-skills>
 - <https://ai-interaction.com/>
+- <https://motionsites.ai/> (Freemium, Prompts de templates con ejemplos visuales)
 
 ### AI Software
 
