@@ -213,6 +213,11 @@
         "description": "Toolkit/snippets"
       },
       {
+        "name": "https://fcksignups.com/",
+        "url": "https://fcksignups.com/",
+        "description": "Toolkit, Index de apps/sitios que no requieren cuenta para usarse"
+      },
+      {
         "name": "https://mrfreetools.com/tools/",
         "url": "https://mrfreetools.com/tools/"
       },
@@ -2077,6 +2082,14 @@
               {
                 "name": "https://coolbackgrounds.io/",
                 "url": "https://coolbackgrounds.io/"
+              },
+              {
+                "name": "https://herokit.app/",
+                "url": "https://herokit.app/"
+              },
+              {
+                "name": "https://fluid.krackeddevs.com/",
+                "url": "https://fluid.krackeddevs.com/"
               }
             ],
             "children": []
@@ -2462,6 +2475,11 @@
           {
             "name": "https://avnac.design/",
             "url": "https://avnac.design/"
+          },
+          {
+            "name": "https://www.gatheros.co/",
+            "url": "https://www.gatheros.co/",
+            "description": "MacOS, Organizador de referencias"
           }
         ],
         "children": [
@@ -2792,6 +2810,11 @@
           {
             "name": "https://fontastic.space/",
             "url": "https://fontastic.space/"
+          },
+          {
+            "name": "https://www.letterbox.sh/",
+            "url": "https://www.letterbox.sh/",
+            "description": "Letras hechas de letras"
           }
         ],
         "children": []
@@ -3307,88 +3330,88 @@
             "description": "procedural pattern generator"
           }
         ],
-        "children": []
-      },
-      {
-        "id": "editor-markdown",
-        "name": "Editor Markdown",
-        "level": 3,
-        "links": [
-          {
-            "name": "https://typora.io/",
-            "url": "https://typora.io/"
-          },
-          {
-            "name": "https://obsidian.md/",
-            "url": "https://obsidian.md/"
-          },
-          {
-            "name": "https://tolaria.md/",
-            "url": "https://tolaria.md/"
-          },
-          {
-            "name": "https://zennotes.org/",
-            "url": "https://zennotes.org/"
-          },
-          {
-            "name": "https://fude.md/",
-            "url": "https://fude.md/"
-          },
-          {
-            "name": "https://clearly.md/",
-            "url": "https://clearly.md/",
-            "description": "macOS"
-          },
-          {
-            "name": "https://cogito.md/",
-            "url": "https://cogito.md/",
-            "description": "macOS"
-          },
-          {
-            "name": "https://writer.computer/",
-            "url": "https://writer.computer/",
-            "description": "macOS"
-          },
-          {
-            "name": "https://md-preview.app/",
-            "url": "https://md-preview.app/",
-            "description": "macOS"
-          },
-          {
-            "name": "https://github.com/GRVYDEV/marky",
-            "url": "https://github.com/GRVYDEV/marky",
-            "description": "macOS/Linux"
-          },
-          {
-            "name": "https://www.ericli.io/scratch",
-            "url": "https://www.ericli.io/scratch",
-            "description": "macOS"
-          },
-          {
-            "name": "https://glyphformac.com",
-            "url": "https://glyphformac.com",
-            "description": "macOS, Pagada"
-          },
-          {
-            "name": "https://sobanotes.app/",
-            "url": "https://sobanotes.app/",
-            "description": "macOS"
-          },
-          {
-            "name": "https://mdee.bkh.dev/",
-            "url": "https://mdee.bkh.dev/"
-          },
-          {
-            "name": "https://meadow-notes.com/",
-            "url": "https://meadow-notes.com/",
-            "description": "macOS"
-          },
-          {
-            "name": "https://neverwrite.app/",
-            "url": "https://neverwrite.app/"
-          }
-        ],
         "children": [
+          {
+            "id": "editor-markdown",
+            "name": "Editor Markdown",
+            "level": 4,
+            "links": [
+              {
+                "name": "https://typora.io/",
+                "url": "https://typora.io/"
+              },
+              {
+                "name": "https://obsidian.md/",
+                "url": "https://obsidian.md/"
+              },
+              {
+                "name": "https://tolaria.md/",
+                "url": "https://tolaria.md/"
+              },
+              {
+                "name": "https://zennotes.org/",
+                "url": "https://zennotes.org/"
+              },
+              {
+                "name": "https://fude.md/",
+                "url": "https://fude.md/"
+              },
+              {
+                "name": "https://clearly.md/",
+                "url": "https://clearly.md/",
+                "description": "macOS"
+              },
+              {
+                "name": "https://cogito.md/",
+                "url": "https://cogito.md/",
+                "description": "macOS"
+              },
+              {
+                "name": "https://writer.computer/",
+                "url": "https://writer.computer/",
+                "description": "macOS"
+              },
+              {
+                "name": "https://md-preview.app/",
+                "url": "https://md-preview.app/",
+                "description": "macOS"
+              },
+              {
+                "name": "https://github.com/GRVYDEV/marky",
+                "url": "https://github.com/GRVYDEV/marky",
+                "description": "macOS/Linux"
+              },
+              {
+                "name": "https://www.ericli.io/scratch",
+                "url": "https://www.ericli.io/scratch",
+                "description": "macOS"
+              },
+              {
+                "name": "https://glyphformac.com",
+                "url": "https://glyphformac.com",
+                "description": "macOS, Pagada"
+              },
+              {
+                "name": "https://sobanotes.app/",
+                "url": "https://sobanotes.app/",
+                "description": "macOS"
+              },
+              {
+                "name": "https://mdee.bkh.dev/",
+                "url": "https://mdee.bkh.dev/"
+              },
+              {
+                "name": "https://meadow-notes.com/",
+                "url": "https://meadow-notes.com/",
+                "description": "macOS"
+              },
+              {
+                "name": "https://neverwrite.app/",
+                "url": "https://neverwrite.app/"
+              }
+            ],
+            "children": []
+          },
           {
             "id": "screen-recorder-capturar-pantalla",
             "name": "Screen Recorder/Capturar Pantalla",
@@ -3874,6 +3897,16 @@
             "name": "https://opentui.com/",
             "url": "https://opentui.com/",
             "description": "UI library for building terminal user interfaces"
+          },
+          {
+            "name": "https://audit-kit.dev/",
+            "url": "https://audit-kit.dev/",
+            "description": "Fast local website audits for freelancers and agencies. Run HTML, security, Lighthouse, and report-generation workflows from one small CLI"
+          },
+          {
+            "name": "https://unlighthouse.dev/",
+            "url": "https://unlighthouse.dev/",
+            "description": "free, open-source CLI that runs Google Lighthouse on every page of your site in parallel"
           }
         ],
         "children": [
@@ -4427,6 +4460,10 @@
                   {
                     "name": "https://gsap.com/",
                     "url": "https://gsap.com/"
+                  },
+                  {
+                    "name": "https://kinetics.colorion.co/",
+                    "url": "https://kinetics.colorion.co/"
                   }
                 ],
                 "children": []
@@ -4470,6 +4507,10 @@
                 "name": "https://github.com/frame-script/FrameScript",
                 "url": "https://github.com/frame-script/FrameScript",
                 "description": "Hacer videos"
+              },
+              {
+                "name": "https://github.com/cloudflare/kumo",
+                "url": "https://github.com/cloudflare/kumo"
               }
             ],
             "children": [
@@ -4541,6 +4582,25 @@
                   {
                     "name": "https://www.termcn.dev/",
                     "url": "https://www.termcn.dev/"
+                  },
+                  {
+                    "name": "https://shaders.paper.design/",
+                    "url": "https://shaders.paper.design/",
+                    "description": "ultra fast zero-dependency shaders"
+                  },
+                  {
+                    "name": "https://ditther.com/",
+                    "url": "https://ditther.com/",
+                    "description": "Freemium, Dither, ASCII & Halftone Effects for Images & Videos"
+                  },
+                  {
+                    "name": "https://www.pryzm.design/",
+                    "url": "https://www.pryzm.design/",
+                    "description": "Backgrounds"
+                  },
+                  {
+                    "name": "https://github.com/jespervos/blossom-carousel",
+                    "url": "https://github.com/jespervos/blossom-carousel"
                   }
                 ],
                 "children": []
@@ -7860,6 +7920,10 @@
           {
             "name": "https://textmotion.dev/",
             "url": "https://textmotion.dev/"
+          },
+          {
+            "name": "https://www.originkit.dev/",
+            "url": "https://www.originkit.dev/"
           }
         ],
         "children": [
@@ -9173,6 +9237,20 @@
           {
             "name": "https://bestwebsitetemplate.com/templates",
             "url": "https://bestwebsitetemplate.com/templates"
+          },
+          {
+            "name": "https://nothing-to-watch.port80.ch/",
+            "url": "https://nothing-to-watch.port80.ch/"
+          },
+          {
+            "name": "https://before.click/",
+            "url": "https://before.click/",
+            "description": "curated App Store screenshots"
+          },
+          {
+            "name": "https://icon.museum/",
+            "url": "https://icon.museum/",
+            "description": "curated collection of app icons"
           }
         ],
         "children": []
@@ -9213,6 +9291,10 @@
       {
         "name": "https://www.boot.dev/",
         "url": "https://www.boot.dev/"
+      },
+      {
+        "name": "https://learning.atheros.ai/",
+        "url": "https://learning.atheros.ai/"
       }
     ],
     "children": []
@@ -9392,6 +9474,11 @@
         "name": "https://freesvgicons.com/",
         "url": "https://freesvgicons.com/",
         "description": "pagar pos svgs"
+      },
+      {
+        "name": "https://www.coderabbit.ai/",
+        "url": "https://www.coderabbit.ai/",
+        "description": "Freemium, Requiere Cuenta, Agente que revisa/reseña Pull Requests"
       }
     ],
     "children": []
@@ -10027,6 +10114,11 @@
             "name": "https://nodi.global/candidates/agent",
             "url": "https://nodi.global/candidates/agent",
             "description": "AI Career Agent"
+          },
+          {
+            "name": "https://youraislopbores.me/",
+            "url": "https://youraislopbores.me/",
+            "description": "AI sin AI"
           }
         ],
         "children": []
@@ -10492,6 +10584,11 @@
             "name": "https://iclightai.com/ic-light-v2",
             "url": "https://iclightai.com/ic-light-v2",
             "description": "Requiere cuenta"
+          },
+          {
+            "name": "https://huggingface.co/baidu/Unlimited-OCR",
+            "url": "https://huggingface.co/baidu/Unlimited-OCR",
+            "description": "()"
           }
         ],
         "children": []
@@ -10618,6 +10715,11 @@
           {
             "name": "https://huggingface.co/nvidia/personaplex-7b-v1",
             "url": "https://huggingface.co/nvidia/personaplex-7b-v1"
+          },
+          {
+            "name": "https://github.com/jamiepine/voicebox",
+            "url": "https://github.com/jamiepine/voicebox",
+            "description": "Clone any voice. Generate speech. Dictate into any app. Talk to agents in voices you own. Running locally on your machine"
           }
         ],
         "children": []
@@ -11123,6 +11225,21 @@
             "name": "https://github.com/Fission-AI/OpenSpec",
             "url": "https://github.com/Fission-AI/OpenSpec",
             "description": "Spec-driven development (SDD) for AI coding assistants"
+          },
+          {
+            "name": "https://github.com/NLACE-COM/mcp-supermercados-cl",
+            "url": "https://github.com/NLACE-COM/mcp-supermercados-cl",
+            "description": "Servidor MCP para buscar productos, comparar precios y armar lista de compra en supermercados chilenos"
+          },
+          {
+            "name": "https://github.com/langchain-ai/openwiki",
+            "url": "https://github.com/langchain-ai/openwiki",
+            "description": "CLI that writes and maintains agent documentation for your codebase"
+          },
+          {
+            "name": "https://github.com/pivanov/ctx-wire",
+            "url": "https://github.com/pivanov/ctx-wire",
+            "description": "runs your commands, compresses the output with declarative filters, scrubs secrets, and hands your agent a short result"
           }
         ],
         "children": [
@@ -11263,6 +11380,11 @@
                 "name": "https://github.com/emilkowalski/skills",
                 "url": "https://github.com/emilkowalski/skills",
                 "description": "Requiere cuenta"
+              },
+              {
+                "name": "https://www.gittoskill.com/",
+                "url": "https://www.gittoskill.com/",
+                "description": "Perfil de GitHub a Skill"
               }
             ],
             "children": [
@@ -11736,8 +11858,8 @@
     ],
     "children": [
       {
-        "id": "chile-focus",
-        "name": "Chile Focus",
+        "id": "chile-busqueda-trabajo",
+        "name": "Chile Búsqueda trabajo",
         "level": 3,
         "links": [
           {
@@ -12102,8 +12224,8 @@
         "children": []
       },
       {
-        "id": "internacional-focus",
-        "name": "Internacional focus",
+        "id": "internacional",
+        "name": "Internacional",
         "level": 3,
         "links": [
           {
@@ -12137,6 +12259,11 @@
           {
             "name": "https://apply.careers.microsoft.com/careers",
             "url": "https://apply.careers.microsoft.com/careers"
+          },
+          {
+            "name": "https://devlist.co/",
+            "url": "https://devlist.co/",
+            "description": "Requiere cuenta, Marketing via email, No permite busqueda manual"
           }
         ],
         "children": []
@@ -12318,81 +12445,68 @@
                   }
                 ],
                 "children": []
-              },
-              {
-                "id": "salario",
-                "name": "Salario",
-                "level": 5,
-                "links": [
-                  {
-                    "name": "https://www.boleteo.cl/",
-                    "url": "https://www.boleteo.cl/"
-                  },
-                  {
-                    "name": "https://boletas.nolineal.cl/",
-                    "url": "https://boletas.nolineal.cl/"
-                  },
-                  {
-                    "name": "https://tusalario.org",
-                    "url": "https://tusalario.org"
-                  },
-                  {
-                    "name": "https://www.bbva.es/personas/productos/cuentas/calculadora-sueldo-neto.html",
-                    "url": "https://www.bbva.es/personas/productos/cuentas/calculadora-sueldo-neto.html"
-                  },
-                  {
-                    "name": "https://knowyourworth.app/",
-                    "url": "https://knowyourworth.app/"
-                  }
-                ],
-                "children": []
-              },
-              {
-                "id": "certificaciones",
-                "name": "\"Certificaciones\"",
-                "level": 5,
-                "links": [
-                  {
-                    "name": "https://www.classcentral.com/report/free-certificates/",
-                    "url": "https://www.classcentral.com/report/free-certificates/"
-                  },
-                  {
-                    "name": "https://eligetucurso.sence.cl/",
-                    "url": "https://eligetucurso.sence.cl/"
-                  },
-                  {
-                    "name": "https://learn.microsoft.com/es-es/training/browse/",
-                    "url": "https://learn.microsoft.com/es-es/training/browse/"
-                  },
-                  {
-                    "name": "https://codered.eccouncil.org/",
-                    "url": "https://codered.eccouncil.org/"
-                  },
-                  {
-                    "name": "https://www.codecademy.com/",
-                    "url": "https://www.codecademy.com/"
-                  },
-                  {
-                    "name": "https://www.aws.training/",
-                    "url": "https://www.aws.training/"
-                  }
-                ],
-                "children": []
-              },
-              {
-                "id": "no-permiten-busqueda",
-                "name": "No permiten búsqueda",
-                "level": 5,
-                "links": [
-                  {
-                    "name": "https://devlist.co/",
-                    "url": "https://devlist.co/",
-                    "description": "Marketing via email (Requiere cuenta)"
-                  }
-                ],
-                "children": []
               }
             ]
+          },
+          {
+            "id": "salario",
+            "name": "Salario",
+            "level": 4,
+            "links": [
+              {
+                "name": "https://www.boleteo.cl/",
+                "url": "https://www.boleteo.cl/"
+              },
+              {
+                "name": "https://boletas.nolineal.cl/",
+                "url": "https://boletas.nolineal.cl/"
+              },
+              {
+                "name": "https://tusalario.org",
+                "url": "https://tusalario.org"
+              },
+              {
+                "name": "https://www.bbva.es/personas/productos/cuentas/calculadora-sueldo-neto.html",
+                "url": "https://www.bbva.es/personas/productos/cuentas/calculadora-sueldo-neto.html"
+              },
+              {
+                "name": "https://knowyourworth.app/",
+                "url": "https://knowyourworth.app/"
+              }
+            ],
+            "children": []
+          },
+          {
+            "id": "certificaciones",
+            "name": "\"Certificaciones\"",
+            "level": 4,
+            "links": [
+              {
+                "name": "https://www.classcentral.com/report/free-certificates/",
+                "url": "https://www.classcentral.com/report/free-certificates/"
+              },
+              {
+                "name": "https://eligetucurso.sence.cl/",
+                "url": "https://eligetucurso.sence.cl/"
+              },
+              {
+                "name": "https://learn.microsoft.com/es-es/training/browse/",
+                "url": "https://learn.microsoft.com/es-es/training/browse/"
+              },
+              {
+                "name": "https://codered.eccouncil.org/",
+                "url": "https://codered.eccouncil.org/"
+              },
+              {
+                "name": "https://www.codecademy.com/",
+                "url": "https://www.codecademy.com/"
+              },
+              {
+                "name": "https://www.aws.training/",
+                "url": "https://www.aws.training/"
+              }
+            ],
+            "children": []
           }
         ]
       }
