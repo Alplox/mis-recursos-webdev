@@ -2090,6 +2090,10 @@
               {
                 "name": "https://fluid.krackeddevs.com/",
                 "url": "https://fluid.krackeddevs.com/"
+              },
+              {
+                "name": "https://backgrounds.supply/gradient-lab",
+                "url": "https://backgrounds.supply/gradient-lab"
               }
             ],
             "children": []
@@ -2698,6 +2702,11 @@
           {
             "name": "https://amix-design.com/asoboad/tools/d-formula/",
             "url": "https://amix-design.com/asoboad/tools/d-formula/"
+          },
+          {
+            "name": "https://svgomg.net/",
+            "url": "https://svgomg.net/",
+            "description": "Optimizar"
           }
         ],
         "children": []
@@ -4339,6 +4348,11 @@
               {
                 "name": "https://yumekit.com/",
                 "url": "https://yumekit.com/"
+              },
+              {
+                "name": "https://www.oreoui.com/",
+                "url": "https://www.oreoui.com/",
+                "description": "Waiting list, LLM Ready"
               }
             ],
             "children": [
@@ -4601,6 +4615,11 @@
                   {
                     "name": "https://github.com/jespervos/blossom-carousel",
                     "url": "https://github.com/jespervos/blossom-carousel"
+                  },
+                  {
+                    "name": "https://www.tripwire.sh/dither-kit",
+                    "url": "https://www.tripwire.sh/dither-kit",
+                    "description": "5 chart types"
                   }
                 ],
                 "children": []
@@ -7924,6 +7943,11 @@
           {
             "name": "https://www.originkit.dev/",
             "url": "https://www.originkit.dev/"
+          },
+          {
+            "name": "https://www.arlan.me/vault",
+            "url": "https://www.arlan.me/vault",
+            "description": "LLM Ready"
           }
         ],
         "children": [
@@ -8059,6 +8083,10 @@
           {
             "name": "https://palekirill.github.io/genius-loci-home/",
             "url": "https://palekirill.github.io/genius-loci-home/"
+          },
+          {
+            "name": "https://www.anainsomnia.com/forge-dynamics",
+            "url": "https://www.anainsomnia.com/forge-dynamics"
           }
         ],
         "children": []
@@ -9479,6 +9507,11 @@
         "name": "https://www.coderabbit.ai/",
         "url": "https://www.coderabbit.ai/",
         "description": "Freemium, Requiere Cuenta, Agente que revisa/reseña Pull Requests"
+      },
+      {
+        "name": "https://www.context.dev/",
+        "url": "https://www.context.dev/",
+        "description": "API extracción de datos web y web scraping diseñada para agentes de IA"
       }
     ],
     "children": []
@@ -10907,9 +10940,9 @@
             "description": "Pagada, Requiere Cuenta, AI Avatars, 3 Videos gratis por mes"
           },
           {
-            "name": "https://deepmind.google/technologies/veo/veo-2/",
-            "url": "https://deepmind.google/technologies/veo/veo-2/",
-            "description": "Requiere cuenta, Waiting list"
+            "name": "https://deepmind.google/models/veo/",
+            "url": "https://deepmind.google/models/veo/",
+            "description": "Requiere cuenta"
           },
           {
             "name": "https://firefly.adobe.com/",
@@ -11489,6 +11522,11 @@
                   {
                     "name": "https://ai-interaction.com/",
                     "url": "https://ai-interaction.com/"
+                  },
+                  {
+                    "name": "https://motionsites.ai/",
+                    "url": "https://motionsites.ai/",
+                    "description": "Freemium, Prompts de templates con ejemplos visuales"
                   }
                 ],
                 "children": []
