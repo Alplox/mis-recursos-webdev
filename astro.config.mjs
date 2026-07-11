@@ -14,7 +14,7 @@ export default defineConfig({
   integrations: [
     critters(),
     compress({
-      CSS: true,
+      CSS: false, // @playform/compress strips @media (max-width) queries — critters + native compressHTML handle the rest
       HTML: true,
       JavaScript: true,
       Image: false,

@@ -3,6 +3,7 @@ import { createCard, renderBrowseCards, escapeHtml } from './render-cards'
 declare global {
   interface Window {
     __toggleSidebar: () => void
+    __toggleSearch: () => void
     __showToast: (msg: string, type?: string) => void
     __goToSection: (id: string) => void
     __toggleTheme: () => string
@@ -15,6 +16,7 @@ declare global {
 const overlay = document.getElementById('sidebar-overlay')!
 const sidebar = document.getElementById('sidebar')!
 let sidebarOpen = false
+let searchOpen = false
 
 function toggleSidebar(open: boolean) {
   sidebarOpen = open
@@ -34,6 +36,32 @@ function toggleSidebar(open: boolean) {
 overlay?.addEventListener('click', () => toggleSidebar(false))
 
 window.__toggleSidebar = () => toggleSidebar(!sidebarOpen)
+
+const searchWrapper = document.querySelector('.search-wrapper') as HTMLElement
+const searchToggle = document.querySelector('.search-toggle') as HTMLElement
+
+function toggleSearch(open: boolean) {
+  searchOpen = open
+  searchWrapper?.classList.toggle('open', open)
+  const input = document.getElementById('search-input') as HTMLInputElement | null
+  if (open) {
+    input?.focus()
+  } else {
+    input?.blur()
+  }
+}
+
+window.__toggleSearch = () => toggleSearch(!searchOpen)
+
+document.addEventListener('click', (e) => {
+  if (searchOpen && !searchWrapper?.contains(e.target as Node) && !(e.target as Element).closest('.search-toggle')) {
+    toggleSearch(false)
+  }
+})
+
+document.addEventListener('keydown', (e) => {
+  if (e.key === 'Escape' && searchOpen) toggleSearch(false)
+})
 
 window.__showToast = (msg: string, type = 'success') => {
   const toast = document.getElementById('toast')
@@ -311,7 +339,7 @@ window.__goToSection = async (id: string) => {
   clearTimeout(debounceTimer)
   if (searchInput) searchInput.value = ''
   clearBtn?.classList.remove('visible')
-  await __search('')
+  await window.__search('')
   const el = document.getElementById(id)
   if (el) {
     const sections = document.querySelectorAll<HTMLElement>('.categories-section')
@@ -445,7 +473,7 @@ function initActiveSection() {
 
 function handleHash() {
   const id = location.hash.slice(1)
-  if (id) __goToSection(id)
+  if (id) window.__goToSection(id)
 }
 
 window.addEventListener('hashchange', handleHash)
@@ -455,13 +483,18 @@ function syncSidebar() {
   sidebar?.classList.remove('closed', 'open')
   sidebar!.style.transform = ''
   const main = document.querySelector('.main-content') as HTMLElement
-  if (main) main.style.marginLeft = ''
+  if (main) main.style.marginLeft = window.innerWidth <= 768 ? '0' : ''
   sidebarOpen = window.innerWidth > 768
   if (window.innerWidth <= 768) {
     overlay?.classList.remove('open')
     document.body.style.overflow = ''
   }
 }
+
+window.addEventListener('resize', () => {
+  syncSidebar()
+  if (searchOpen) toggleSearch(false)
+})
 
 // --- Init ---
 async function init() {

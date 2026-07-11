@@ -17,7 +17,7 @@ export function flattenData(sections) {
 
 export function searchLinks(flatData, query) {
   if (!query || query.trim().length === 0) {
-    return { results: [], grouped: null, total: flatData.length }
+    return { results: [], grouped: [], total: flatData.length }
   }
 
   const q = query.toLowerCase().trim()
