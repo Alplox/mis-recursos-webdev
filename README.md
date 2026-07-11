@@ -1121,7 +1121,8 @@ Mirror <https://raindrop.io/Alplox/mis-recursos-webdev-64067715>
 - <https://mdxjs.com/>
 - <https://zero-native.dev/>
 - <https://akira.sachi.dev/>
-- <https://www.sensory-ui.com/>
+- <https://www.sensory-ui.com/> (Web Audio)
+- <https://cuelume-site.pages.dev/> (Web Audio)
 - <https://klick-here.vercel.app/>
 - <https://uptimerobot.com/>
 - <https://turborepo.dev/>
@@ -1976,7 +1977,6 @@ Mirror <https://raindrop.io/Alplox/mis-recursos-webdev-64067715>
 - <https://carnet.ai/> (Pagada)
 - <https://earthquake.usgs.gov/>
 
-
 ## Snippets
 
 [↑](#tabla-de-contenido)
@@ -2466,6 +2466,7 @@ Mirror <https://raindrop.io/Alplox/mis-recursos-webdev-64067715>
 - <https://recent.design/>
 - <https://www.landingfolio.com/>
 - <https://commerce.design/>
+- <https://bestwebsitetemplate.com/templates>
 
 ## Cursos de pago
 
@@ -3004,6 +3005,7 @@ Ejem [Are Repository-Level Context Files Helpful for Coding Agents?](https://arx
 - <https://jakub.kr/writing/details-that-make-interfaces-feel-better>
 - <https://github.com/nextlevelbuilder/ui-ux-pro-max-skill>
 - <https://www.typeui.sh/design-skills>
+- <https://ai-interaction.com/>
 
 ### AI Software
 
@@ -3056,6 +3058,7 @@ Ejem [Are Repository-Level Context Files Helpful for Coding Agents?](https://arx
 - <https://www.glaze.app/> (MacOS, Requiere cuenta, Freemium, 120 créditos gratis)
 - <https://www.ship.studio/> (IDE Agentic Coding)
 - <https://www.typeui.sh/> (IDE Agentic Coding)
+- <https://github.com/manaflow-ai/cmux> (MacOS, IDE Agentic Coding)
 
 #### AI Local
 
@@ -3092,6 +3095,7 @@ Ejem [Are Repository-Level Context Files Helpful for Coding Agents?](https://arx
 - <https://www.talent.com/jobs>
 - <https://www.google.com/about/careers/applications/>
 - <https://www.sercanto.cl/>
+- <https://www.encuadrado.com/> (Pagada)
 
 ### Chile Focus
 
@@ -3111,6 +3115,7 @@ Ejem [Are Repository-Level Context Files Helpful for Coding Agents?](https://arx
 - <https://www.trabajoconsentido.com/>
 - <https://www.stack.cl/>
 - <https://www.admisionarmada.cl/concursos/>
+- <https://www.kitempleo.cl/>
 
 #### Páginas de empleo Gobierno
 

@@ -3845,7 +3845,13 @@
           },
           {
             "name": "https://www.sensory-ui.com/",
-            "url": "https://www.sensory-ui.com/"
+            "url": "https://www.sensory-ui.com/",
+            "description": "Web Audio"
+          },
+          {
+            "name": "https://cuelume-site.pages.dev/",
+            "url": "https://cuelume-site.pages.dev/",
+            "description": "Web Audio"
           },
           {
             "name": "https://klick-here.vercel.app/",
@@ -9163,6 +9169,10 @@
           {
             "name": "https://commerce.design/",
             "url": "https://commerce.design/"
+          },
+          {
+            "name": "https://bestwebsitetemplate.com/templates",
+            "url": "https://bestwebsitetemplate.com/templates"
           }
         ],
         "children": []
@@ -11353,6 +11363,10 @@
                   {
                     "name": "https://www.typeui.sh/design-skills",
                     "url": "https://www.typeui.sh/design-skills"
+                  },
+                  {
+                    "name": "https://ai-interaction.com/",
+                    "url": "https://ai-interaction.com/"
                   }
                 ],
                 "children": []
@@ -11585,6 +11599,11 @@
             "name": "https://www.typeui.sh/",
             "url": "https://www.typeui.sh/",
             "description": "IDE Agentic Coding"
+          },
+          {
+            "name": "https://github.com/manaflow-ai/cmux",
+            "url": "https://github.com/manaflow-ai/cmux",
+            "description": "MacOS, IDE Agentic Coding"
           }
         ],
         "children": [
@@ -11708,6 +11727,11 @@
       {
         "name": "https://www.sercanto.cl/",
         "url": "https://www.sercanto.cl/"
+      },
+      {
+        "name": "https://www.encuadrado.com/",
+        "url": "https://www.encuadrado.com/",
+        "description": "Pagada"
       }
     ],
     "children": [
@@ -11771,6 +11795,10 @@
           {
             "name": "https://www.admisionarmada.cl/concursos/",
             "url": "https://www.admisionarmada.cl/concursos/"
+          },
+          {
+            "name": "https://www.kitempleo.cl/",
+            "url": "https://www.kitempleo.cl/"
           }
         ],
         "children": [

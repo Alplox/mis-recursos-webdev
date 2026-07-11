@@ -1,5 +1,6 @@
 ---
 import '../styles/global.css'
+const siteUrl = 'https://mis-recursos-webdev.pages.dev'
 ---
 
 <!DOCTYPE html>
@@ -7,9 +8,16 @@ import '../styles/global.css'
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
   <title>Mis Recursos WEB DEV</title>
   <meta name="description" content="Colección de herramientas, recursos, guías e inspiración para desarrollo web." />
+  <link rel="canonical" href={siteUrl} />
+  <meta property="og:title" content="Mis Recursos WEB DEV" />
+  <meta property="og:description" content="Colección de herramientas, recursos, guías e inspiración para desarrollo web." />
+  <meta property="og:type" content="website" />
+  <meta property="og:url" content={siteUrl} />
+  <meta name="twitter:card" content="summary" />
+  <meta name="twitter:title" content="Mis Recursos WEB DEV" />
+  <meta name="twitter:description" content="Colección de herramientas, recursos, guías e inspiración para desarrollo web." />
   <link rel="icon" type="image/svg+xml" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'><rect rx='6' width='32' height='32' fill='%23CD9E4B'/><text x='16' y='22' font-size='18' text-anchor='middle' fill='white' font-family='system-ui'>W</text></svg>" />
   <link rel="preconnect" href="https://fonts.googleapis.com" />
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
@@ -23,6 +31,7 @@ import '../styles/global.css'
   <noscript><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Onest:wght@400..700&display=swap" /></noscript>
 </head>
 <body>
+  <a href="#main-content" class="skip-link">Ir al contenido</a>
   <slot />
   <div id="toast" class="toast"><span class="toast-icon"><svg width="16" height="16" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><use href="#icon-check"/></svg></span><span id="toast-msg"></span></div>
   <div id="sidebar-overlay" class="sidebar-overlay"></div>
@@ -37,6 +46,9 @@ import '../styles/global.css'
       <symbol id="icon-moon" viewBox="0 0 24 24"><path d="M21 12.79A9 9 0 1111.21 3 7 7 0 0021 12.79z"/></symbol>
       <symbol id="icon-sun" viewBox="0 0 24 24"><circle cx="12" cy="12" r="5"/><line x1="12" y1="1" x2="12" y2="3"/><line x1="12" y1="21" x2="12" y2="23"/><line x1="4.22" y1="4.22" x2="5.64" y2="5.64"/><line x1="18.36" y1="18.36" x2="19.78" y2="19.78"/><line x1="1" y1="12" x2="3" y2="12"/><line x1="21" y1="12" x2="23" y2="12"/><line x1="4.22" y1="19.78" x2="5.64" y2="18.36"/><line x1="18.36" y1="5.64" x2="19.78" y2="4.22"/></symbol>
       <symbol id="icon-check" viewBox="0 0 24 24"><polyline points="20 6 9 17 4 12"/></symbol>
+      <symbol id="icon-bookmark" viewBox="0 0 24 24"><path d="M19 21l-7-5-7 5V5a2 2 0 012-2h10a2 2 0 012 2z"/></symbol>
+      <symbol id="icon-plus" viewBox="0 0 24 24"><line x1="12" y1="5" x2="12" y2="19"/><line x1="5" y1="12" x2="19" y2="12"/></symbol>
+      <symbol id="icon-close" viewBox="0 0 24 24"><line x1="18" y1="6" x2="6" y2="18"/><line x1="6" y1="6" x2="18" y2="18"/></symbol>
     </defs>
   </svg>
 </body>

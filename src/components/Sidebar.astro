@@ -14,7 +14,9 @@ const { sections } = Astro.props
   <div class="sidebar-header">
     <div class="logo">W</div>
     <h1>Recursos WEB DEV</h1>
-    <button class="icon-btn" onclick="__toggleSidebar()" aria-label="Cerrar sidebar">&times;</button>
+    <button class="icon-btn" onclick="__toggleSidebar()" aria-label="Cerrar sidebar">
+      <svg width="14" height="14" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><use href="#icon-close"/></svg>
+    </button>
   </div>
 
   <div class="sidebar-search">
