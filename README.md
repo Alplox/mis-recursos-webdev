@@ -918,6 +918,7 @@ Mirror <https://raindrop.io/Alplox/mis-recursos-webdev-64067715>
 - <https://ttsfree.com/>
 - <https://multimedia.easeus.com/vocal-remover/>
 - <https://countik.com/es/tiktok-voice-generator>
+- <https://silence.vantezzen.io/>
 
 ## Recursos
 
@@ -1277,6 +1278,7 @@ Mirror <https://raindrop.io/Alplox/mis-recursos-webdev-64067715>
 - <https://tailwindcss-animations.vercel.app/>
 - <https://gsap.com/>
 - <https://kinetics.colorion.co/>
+- <https://github.com/simeydotme/hover-tilt>
 
 #### REACT Recursos
 
@@ -2139,6 +2141,8 @@ Mirror <https://raindrop.io/Alplox/mis-recursos-webdev-64067715>
 - <https://textmotion.dev/>
 - <https://www.originkit.dev/>
 - <https://www.arlan.me/vault> (LLM Ready)
+- <https://poke-holo.simey.me/> (Pokemon Cards)
+- <https://playground.divyanshh.tech/notification>
 
 #### Typewriter effect
 
@@ -2950,7 +2954,7 @@ Mirror <https://raindrop.io/Alplox/mis-recursos-webdev-64067715>
 - <https://github.com/hyperbrowserai/hyperbrowser-app-examples>
 - <https://www.agentfriendlycode.com/>
 - <https://www.typeui.sh/prompts>
-- <https://github.com/colbymchenry/codegraph>
+- <https://github.com/colbymchenry/codegraph> (Pre-indexed code knowledge graph, auto syncs on code changes)
 - <https://github.com/bgauryy/octocode-mcp>
 - <https://github.com/millionco/react-doctor>
 - <https://jiro.build/components> (Pagar por prompts que pueden ser extraidos mediante las imagenes de ejemplo gratuitamente...)
