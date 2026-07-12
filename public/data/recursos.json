@@ -3105,6 +3105,10 @@
           {
             "name": "https://countik.com/es/tiktok-voice-generator",
             "url": "https://countik.com/es/tiktok-voice-generator"
+          },
+          {
+            "name": "https://silence.vantezzen.io/",
+            "url": "https://silence.vantezzen.io/"
           }
         ],
         "children": []
@@ -4478,6 +4482,10 @@
                   {
                     "name": "https://kinetics.colorion.co/",
                     "url": "https://kinetics.colorion.co/"
+                  },
+                  {
+                    "name": "https://github.com/simeydotme/hover-tilt",
+                    "url": "https://github.com/simeydotme/hover-tilt"
                   }
                 ],
                 "children": []
@@ -7948,6 +7956,15 @@
             "name": "https://www.arlan.me/vault",
             "url": "https://www.arlan.me/vault",
             "description": "LLM Ready"
+          },
+          {
+            "name": "https://poke-holo.simey.me/",
+            "url": "https://poke-holo.simey.me/",
+            "description": "Pokemon Cards"
+          },
+          {
+            "name": "https://playground.divyanshh.tech/notification",
+            "url": "https://playground.divyanshh.tech/notification"
           }
         ],
         "children": [
@@ -11191,7 +11208,8 @@
           },
           {
             "name": "https://github.com/colbymchenry/codegraph",
-            "url": "https://github.com/colbymchenry/codegraph"
+            "url": "https://github.com/colbymchenry/codegraph",
+            "description": "Pre-indexed code knowledge graph, auto syncs on code changes"
           },
           {
             "name": "https://github.com/bgauryy/octocode-mcp",
