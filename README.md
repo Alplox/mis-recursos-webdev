@@ -11,7 +11,10 @@ Colección de todo sitio (útil) que he ido encontrando durante mí proceso de a
 
 ### <https://mis-recursos-webdev.pages.dev/>
 
-Mirror <https://raindrop.io/Alplox/mis-recursos-webdev-64067715>
+Mirrors:
+
+- <https://raindrop.io/Alplox/mis-recursos-webdev-64067715>
+- <https://rentry.co/mis-recursos-webdev>
 
 ## Tabla de contenido
 
