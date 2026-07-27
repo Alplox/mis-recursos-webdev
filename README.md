@@ -167,6 +167,7 @@ Mirror <https://raindrop.io/Alplox/mis-recursos-webdev-64067715>
 - <https://it-tools.tech/> (Toolkit)
 - <https://feralui.dev/> (Toolkit/snippets)
 - <https://fcksignups.com/> (Toolkit, Index de apps/sitios que no requieren cuenta para usarse)
+- <https://tools.rmv.fyi/> (Toolkit)
 - <https://mrfreetools.com/tools/>
 - <https://www.fetoolkit.io/>
 - <https://baseline.is/tools/>
@@ -230,6 +231,12 @@ Mirror <https://raindrop.io/Alplox/mis-recursos-webdev-64067715>
 - <https://www.ilovepdf.com/>
 - <https://goodbrief.io/>
 - <https://diffshub.com/>
+- <https://github.com/YamilAyma/enlaces-para-desarrolladores>
+- <https://emojis.wiki/>
+- <https://emojidb.org/>
+- <https://cyborg.tenso.rs/> (Experimental text editor with a neural text synthesizer)
+- <https://www.thisworddoesnotexist.com/>
+- <https://namethatui.com/>
 
 ### Editores de código online
 
@@ -291,6 +298,7 @@ Mirror <https://raindrop.io/Alplox/mis-recursos-webdev-64067715>
 - <https://markdown.new/> (Sitio a markdown)
 - <https://r.jina.ai/> (Sitio a markdown)
 - <https://defuddle.md/> (Sitio a markdown)
+- <https://mdnotion.com/> (Sitio a markdown)
 
 ### Herramientas de colores
 
@@ -375,6 +383,7 @@ Mirror <https://raindrop.io/Alplox/mis-recursos-webdev-64067715>
 - <https://meodai.github.io/poline/>
 - <https://github.com/meodai/color-names>
 - <https://farbvelo.elastiq.ch>
+- <https://kigen.design/color>
 
 #### Revisar contraste
 
@@ -624,6 +633,9 @@ Mirror <https://raindrop.io/Alplox/mis-recursos-webdev-64067715>
 - <https://pixelhunter.io/> (Resize para RRSS)
 - <https://efecto.app/> (Manipular imagenes con filtros estilo ASCII)
 - <https://artkit.cc/> (Freemium)
+- <https://t-iv.com/>
+- <https://tech-collage-cyan.vercel.app/>
+- <https://valessa.riotters.com/> (3D product visualizer)
 
 #### Editor PixelArt
 
@@ -647,6 +659,7 @@ Mirror <https://raindrop.io/Alplox/mis-recursos-webdev-64067715>
 - <https://herokit.app/>
 - <https://fluid.krackeddevs.com/>
 - <https://backgrounds.supply/gradient-lab>
+- <https://cutting-mat-generator.vercel.app/>
 
 #### Upscale
 
@@ -762,6 +775,7 @@ Mirror <https://raindrop.io/Alplox/mis-recursos-webdev-64067715>
 - <https://www.figma.com/community/plugin/1159123024924461424/html-to-design-by-divriots-import-websites-to-figma-designs-web-html-css>
 - <https://www.figma.com/community/plugin/1264600219316901594/vector-to-3d>
 - <https://www.shadergradient.co>
+- <https://www.figma.com/es-es/comunidad/plugin/1612814320994608244/design-md-generator>
 
 ### SVG
 
@@ -808,6 +822,7 @@ Mirror <https://raindrop.io/Alplox/mis-recursos-webdev-64067715>
 - <https://svg-path-visualizer.netlify.app/>
 - <https://amix-design.com/asoboad/tools/d-formula/>
 - <https://svgomg.net/> (Optimizar)
+- <https://svgstudio.org/>
 
 ### Fuentes
 
@@ -839,6 +854,7 @@ Mirror <https://raindrop.io/Alplox/mis-recursos-webdev-64067715>
 - <https://www.freefaces.gallery/>
 - <https://fontastic.space/>
 - <https://www.letterbox.sh/> (Letras hechas de letras)
+- <https://www.arcoty.pe/app>
 
 ### Compartir archivos
 
@@ -866,6 +882,7 @@ Mirror <https://raindrop.io/Alplox/mis-recursos-webdev-64067715>
 - <https://ctxt.io/> (Texto)
 - <https://chirp.hex.dance/> (Texto)
 - <https://onedoes.github.io/snapdrop/>
+- <https://send.now/>
 
 #### P2P
 
@@ -976,6 +993,7 @@ Mirror <https://raindrop.io/Alplox/mis-recursos-webdev-64067715>
 - <https://www.adobe.com/cl/products/illustrator.html> (Pagada)
 - <https://github.com/BigBodyCobain/Shadowbroker> (Open-source intelligence tracker)
 - <https://github.com/halfof8/patterngen-oss> (procedural pattern generator)
+- <https://offline.tldraw.com/>
 
 #### Editor Markdown
 
@@ -1025,6 +1043,8 @@ Mirror <https://raindrop.io/Alplox/mis-recursos-webdev-64067715>
 - <https://cursor.com/> (Pagada, Gratis con peticiones limitadas)
 - <https://windsurf.com/>
 - <https://antigravity.google/>
+- <https://athas.dev/>
+- <https://kiro.dev/>
 
 ##### Extensiones
 
@@ -1137,6 +1157,10 @@ Mirror <https://raindrop.io/Alplox/mis-recursos-webdev-64067715>
 - <https://opentui.com/> (UI library for building terminal user interfaces)
 - <https://audit-kit.dev/> (Fast local website audits for freelancers and agencies. Run HTML, security, Lighthouse, and report-generation workflows from one small CLI)
 - <https://unlighthouse.dev/> (free, open-source CLI that runs Google Lighthouse on every page of your site in parallel)
+- <https://no-js.dev/docs> (HTML-first reactive framework)
+- <https://aicanvas.me/> (AI Native Components and Blocks, Design Systems and Templates)
+- <https://canvasui.dev/> (open source library of html-in-canvas & WebGL components)
+- <https://pnpm.io/> (lightning-fast installation speeds and safer way to manage dependencies)
 
 #### JS Recursos
 
@@ -1189,6 +1213,7 @@ Mirror <https://raindrop.io/Alplox/mis-recursos-webdev-64067715>
 - <https://gridstackjs.com/>
 - <https://rxdb.info/>
 - <https://culorijs.org/>
+- <https://jsonresume.org/>
 
 #### CSS Recursos
 
@@ -1258,6 +1283,7 @@ Mirror <https://raindrop.io/Alplox/mis-recursos-webdev-64067715>
 - <https://metroui.org.ua/> (Windows UI, Metro)
 - <https://github.com/winjs/winstrap> (Windows UI, Metro)
 - <https://liquid-glass-oss.vercel.app/>
+- <https://www.vantaui.com/> (Pagada, Requiere cuenta)
 
 ##### Animación Recursos
 
@@ -1279,6 +1305,8 @@ Mirror <https://raindrop.io/Alplox/mis-recursos-webdev-64067715>
 - <https://gsap.com/>
 - <https://kinetics.colorion.co/>
 - <https://github.com/simeydotme/hover-tilt>
+- <https://www.motionwind.xyz/>
+- <https://amicro.vercel.app/>
 
 #### REACT Recursos
 
@@ -1319,6 +1347,8 @@ Mirror <https://raindrop.io/Alplox/mis-recursos-webdev-64067715>
 - <https://www.pryzm.design/> (Backgrounds)
 - <https://github.com/jespervos/blossom-carousel>
 - <https://www.tripwire.sh/dither-kit> (5 chart types)
+- <https://github.com/opc8838-hub/cover-flow-showcase>
+- <https://sticker.oooo.so/>
 
 ## Guías
 
@@ -1427,6 +1457,7 @@ Mirror <https://raindrop.io/Alplox/mis-recursos-webdev-64067715>
 - <https://designproject.io/blog/design-md-file/>
 - <https://wiki.csswg.org/ideas/>
 - <https://principles-wiki.net/start>
+- <https://modalzmodalzmodalz.com> (sitio con ejemplos de alternativas a usar modal)
 
 ## Guías y cursos escritos
 
@@ -1618,7 +1649,8 @@ Mirror <https://raindrop.io/Alplox/mis-recursos-webdev-64067715>
 - <https://www.happyediting.co/access-samplepack>
 - <https://mixkit.co/>
 - <https://www.behance.net/search/projects/FREE>
-- <https://publicapis.io/>
+- <https://itsfree.dev/>
+- <https://docs.google.com/spreadsheets/d/1qfukmoA6EmNNUDTgr77TZ3AirdCbTQcPOtyEWJtrovE/> (Free Design Resources)
 
 ### Iconos Gratuitos
 
@@ -1761,7 +1793,6 @@ Mirror <https://raindrop.io/Alplox/mis-recursos-webdev-64067715>
 - <https://foodiesfeed.com/> (Comida)
 - <https://products.ls.graphics/mesh-gradients/> (Gradientes)
 - <https://artvee.com/> (Arte)
-- <https://clouddevs.com/3dbay/> (3D)
 - <https://picsum.photos/>
 - <https://www.stockvault.net/>
 - <https://kaboompics.com/>
@@ -1928,6 +1959,7 @@ Mirror <https://raindrop.io/Alplox/mis-recursos-webdev-64067715>
 - <https://mmm.page/>
 - <https://carrd.co/>
 - <https://www.purrfectgit.com/>
+- <https://codeberg.org/>
 
 ### Incluyen de pago
 
@@ -1973,6 +2005,8 @@ Mirror <https://raindrop.io/Alplox/mis-recursos-webdev-64067715>
 - <https://apis.guru/>
 - <https://apilist.fun/>
 - <https://publicapis.dev/>
+- <https://publicapis.io/>
+- <https://free-apis.github.io/#/>
 - <https://apislist.com/>
 - <https://marketplace.apilayer.com/>
 - <https://apifinder.io/>
@@ -2143,6 +2177,11 @@ Mirror <https://raindrop.io/Alplox/mis-recursos-webdev-64067715>
 - <https://www.arlan.me/vault> (LLM Ready)
 - <https://poke-holo.simey.me/> (Pokemon Cards)
 - <https://playground.divyanshh.tech/notification>
+- <https://codepen.io/jh3y/pen/LYJMPBL> (Sparkle Button)
+- <https://spideyspline.webflow.io/> (Animation on scroll)
+- <https://football-stadium-ruddy.vercel.app/>
+- <https://books-sigma-ashen.vercel.app/>
+- <https://codepen.io/editor/lentils801/pen/019f9b4b-10d7-7f77-817f-f4eb83fdb289> (claude-opus-5-ghibli)
 
 #### Typewriter effect
 
@@ -2293,6 +2332,7 @@ Mirror <https://raindrop.io/Alplox/mis-recursos-webdev-64067715>
 - <https://www.are.na/> (Requiere cuenta, Pagada, 200 "bloques gratis")
 - <https://refero.design/> (Requiere cuenta)
 - <https://brandfetch.com/>
+- <https://www.framer.com/community/feed/>
 
 #### Design/Brand Guidelines
 
@@ -2353,6 +2393,8 @@ Mirror <https://raindrop.io/Alplox/mis-recursos-webdev-64067715>
 - <https://danielsun.space/>
 - <https://visualjournal.it/>
 - <https://performance.dev/>
+- <https://wren.wtf/>
+- <https://www.chele.bi/>
 
 ### Inspiración exclusivamente
 
@@ -2493,6 +2535,10 @@ Mirror <https://raindrop.io/Alplox/mis-recursos-webdev-64067715>
 - <https://nothing-to-watch.port80.ch/>
 - <https://before.click/> (curated App Store screenshots)
 - <https://icon.museum/> (curated collection of app icons)
+- <https://tailwindcss.com/showcase>
+- <https://shopfunnels.net/themes>
+- <https://storefolio.co/>
+- <https://inspiration.vasa.works/>
 
 ## Cursos de pago
 
@@ -2506,6 +2552,8 @@ Mirror <https://raindrop.io/Alplox/mis-recursos-webdev-64067715>
 - <https://www.edx.org>
 - <https://www.boot.dev/>
 - <https://learning.atheros.ai/>
+- <https://www.interfacecraft.dev/>
+- <https://invisibledetails.com/>
 
 ## Servicios de pago
 
@@ -2660,6 +2708,7 @@ Mirror <https://raindrop.io/Alplox/mis-recursos-webdev-64067715>
 - <https://aifordevelopers.org/>
 - <https://aipure.ai/>
 - <https://huggingface.co/collections/webml-community/transformersjs-v4-demos>
+- <https://github.com/f/prompts.chat>
 
 ### AI Chatbot
 
@@ -2973,6 +3022,8 @@ Mirror <https://raindrop.io/Alplox/mis-recursos-webdev-64067715>
 - <https://github.com/NLACE-COM/mcp-supermercados-cl> (Servidor MCP para buscar productos, comparar precios y armar lista de compra en supermercados chilenos)
 - <https://github.com/langchain-ai/openwiki> (CLI that writes and maintains agent documentation for your codebase)
 - <https://github.com/pivanov/ctx-wire> (runs your commands, compresses the output with declarative filters, scrubs secrets, and hands your agent a short result)
+- <https://www.reactbench.com/> (evaluation for coding agents on realistic React work)
+- <https://isbetter.ai/> (Give every model the same prompt and compare the answer, code, preview, speed, and cost)
 
 #### Skills
 
@@ -2981,12 +3032,14 @@ Mirror <https://raindrop.io/Alplox/mis-recursos-webdev-64067715>
 Ejem [Are Repository-Level Context Files Helpful for Coding Agents?](https://arxiv.org/pdf/2602.11988)
 
 - <https://agents.md/>
+- <https://agentskills.io/home>
 - <https://github.com/mds/floatprompt> (herramienta para crear prompts dinámicos que pueden variar automáticamente en lugar de ser siempre exactamente iguales)
 - <https://www.aitmpl.com/agents>
 - <https://skillsmp.com/>
 - <https://skills.sh/>
 - <https://skillstore.io/>
 - <https://skills.rest/>
+- <https://skillsmd.dev/>
 - <https://github.com/addyosmani/web-quality-skills/>
 - <https://awesome-copilot.github.com/>
 - <https://www.autoskills.sh/>
@@ -3010,11 +3063,18 @@ Ejem [Are Repository-Level Context Files Helpful for Coding Agents?](https://arx
 - <https://github.com/safishamsi/graphify>
 - <https://github.com/open-gsd/gsd-core> (Optimización)
 - <https://github.com/DietrichGebert/ponytail> (Optimización)
+- <https://github.com/woosal1337/blog/tree/main/videos/ep01-the-cure-for-ai-slop> (Optimización)
 - <https://compact-skill.dev/>
 - <https://github.com/emilkowalski/skills> (Requiere cuenta)
 - <https://www.gittoskill.com/> (Perfil de GitHub a Skill)
+- <https://www.typeui.sh/audit>
+- <https://github.com/jakubkrehel/skills> (collection of skills that help with parts of building a interface)
+- <https://skills.md/> (Freemium, IA que permite descubrir, ejecutar y gestionar skills de forma remota)
+- <https://github.com/phuryn/pm-skills>
+- <https://github.com/danilo-znamerovszkij/draw-your-font>
+- <https://github.com/oso95/scroll-world>
 
-##### Design.md
+#### Design.md
 
 [↑](#tabla-de-contenido)
 
@@ -3043,6 +3103,11 @@ Ejem [Are Repository-Level Context Files Helpful for Coding Agents?](https://arx
 - <https://www.typeui.sh/design-skills>
 - <https://ai-interaction.com/>
 - <https://motionsites.ai/> (Freemium, Prompts de templates con ejemplos visuales)
+- <https://style-genome.com/>
+- <https://pols.dev/slop>
+- <https://www.typeui.sh/#pricing> (Pagada, Requiere cuenta)
+- <https://github.com/petergyang/no-ai-slop>
+- <https://github.com/MengTo/Skills>
 
 ### AI Software
 
@@ -3066,6 +3131,7 @@ Ejem [Are Repository-Level Context Files Helpful for Coding Agents?](https://arx
 - <https://www.orchids.app/> (IDE)
 - <https://ampcode.com/> (IDE Agentic coding)
 - <https://factory.ai/> (CLI Agentic coding)
+- <https://herdr.dev/> (CLI Agentic coding)
 - <https://roocode.com/> (IDE Extension)
 - <https://marketplace.visualstudio.com/items?itemName=robertpiosik.gemini-coder> (IDE Extension)
 - <https://supermaven.com/> (IDE)
@@ -3096,6 +3162,7 @@ Ejem [Are Repository-Level Context Files Helpful for Coding Agents?](https://arx
 - <https://www.ship.studio/> (IDE Agentic Coding)
 - <https://www.typeui.sh/> (IDE Agentic Coding)
 - <https://github.com/manaflow-ai/cmux> (MacOS, IDE Agentic Coding)
+- <https://github.com/diegosouzapw/OmniRoute> (Free AI Gateway)
 
 #### AI Local
 
@@ -3109,6 +3176,7 @@ Ejem [Are Repository-Level Context Files Helpful for Coding Agents?](https://arx
 - <https://github.com/pewdiepie-archdaemon/odysseus>
 - <https://github.com/osaurus-ai/osaurus>
 - <https://github.com/SimonSchubert/Kai>
+- <https://axolotl.ai/> (framework de código abierto para entrenar, ajustar (fine-tuning) y postentrenar modelos de lenguaje (LLMs) de forma eficiente)
 
 ## Búsqueda trabajo
 
@@ -3275,9 +3343,11 @@ También conocidos como: pagan por tarea
 - <https://www.registrodeempresasysociedades.cl/Curso.aspx>
 - <https://github.com/Angest1/cazapegas-app>
 - <https://invoicegenerator.io/>
-- <https://github.com/santifer/career-ops> (revolución industrial y sus consecuencias - AI)
+- <https://github.com/santifer/career-ops> (AI)
 - <https://www.mepostule.cl/> (Datos "reales" de procesos de selección en empresas tech de Chile)
 - <https://elinterno.com/> (Reseñas comunitarias para ver "cómo es trabajar ahí de verdad")
+- <https://github.com/MadsLorentzen/ai-job-search> (AI)
+- <https://www.reaver.ink/> (AI, Freemium)
 
 #### CV
 
