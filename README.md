@@ -228,6 +228,7 @@ Mirror <https://raindrop.io/Alplox/mis-recursos-webdev-64067715>
 - <https://www.zamzar.com/> (file conversion)
 - <https://fakeupdate.net/>
 - <https://www.ilovepdf.com/>
+- <https://gottrix.app/> (500+ herramientas de PDF, imagen, audio y video, gratis, funciona en el navegador sin subir archivos, disponible sin conexión)
 - <https://goodbrief.io/>
 - <https://diffshub.com/>
 
