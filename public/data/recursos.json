@@ -218,6 +218,11 @@
         "description": "Toolkit, Index de apps/sitios que no requieren cuenta para usarse"
       },
       {
+        "name": "https://tools.rmv.fyi/",
+        "url": "https://tools.rmv.fyi/",
+        "description": "Toolkit"
+      },
+      {
         "name": "https://mrfreetools.com/tools/",
         "url": "https://mrfreetools.com/tools/"
       },
@@ -485,6 +490,31 @@
       {
         "name": "https://diffshub.com/",
         "url": "https://diffshub.com/"
+      },
+      {
+        "name": "https://github.com/YamilAyma/enlaces-para-desarrolladores",
+        "url": "https://github.com/YamilAyma/enlaces-para-desarrolladores"
+      },
+      {
+        "name": "https://emojis.wiki/",
+        "url": "https://emojis.wiki/"
+      },
+      {
+        "name": "https://emojidb.org/",
+        "url": "https://emojidb.org/"
+      },
+      {
+        "name": "https://cyborg.tenso.rs/",
+        "url": "https://cyborg.tenso.rs/",
+        "description": "Experimental text editor with a neural text synthesizer"
+      },
+      {
+        "name": "https://www.thisworddoesnotexist.com/",
+        "url": "https://www.thisworddoesnotexist.com/"
+      },
+      {
+        "name": "https://namethatui.com/",
+        "url": "https://namethatui.com/"
       }
     ],
     "children": [
@@ -719,6 +749,11 @@
           {
             "name": "https://defuddle.md/",
             "url": "https://defuddle.md/",
+            "description": "Sitio a markdown"
+          },
+          {
+            "name": "https://mdnotion.com/",
+            "url": "https://mdnotion.com/",
             "description": "Sitio a markdown"
           }
         ],
@@ -1049,6 +1084,10 @@
           {
             "name": "https://farbvelo.elastiq.ch",
             "url": "https://farbvelo.elastiq.ch"
+          },
+          {
+            "name": "https://kigen.design/color",
+            "url": "https://kigen.design/color"
           }
         ],
         "children": [
@@ -2024,6 +2063,19 @@
                 "name": "https://artkit.cc/",
                 "url": "https://artkit.cc/",
                 "description": "Freemium"
+              },
+              {
+                "name": "https://t-iv.com/",
+                "url": "https://t-iv.com/"
+              },
+              {
+                "name": "https://tech-collage-cyan.vercel.app/",
+                "url": "https://tech-collage-cyan.vercel.app/"
+              },
+              {
+                "name": "https://valessa.riotters.com/",
+                "url": "https://valessa.riotters.com/",
+                "description": "3D product visualizer"
               }
             ],
             "children": []
@@ -2094,6 +2146,10 @@
               {
                 "name": "https://backgrounds.supply/gradient-lab",
                 "url": "https://backgrounds.supply/gradient-lab"
+              },
+              {
+                "name": "https://cutting-mat-generator.vercel.app/",
+                "url": "https://cutting-mat-generator.vercel.app/"
               }
             ],
             "children": []
@@ -2511,6 +2567,10 @@
               {
                 "name": "https://www.shadergradient.co",
                 "url": "https://www.shadergradient.co"
+              },
+              {
+                "name": "https://www.figma.com/es-es/comunidad/plugin/1612814320994608244/design-md-generator",
+                "url": "https://www.figma.com/es-es/comunidad/plugin/1612814320994608244/design-md-generator"
               }
             ],
             "children": []
@@ -2707,6 +2767,10 @@
             "name": "https://svgomg.net/",
             "url": "https://svgomg.net/",
             "description": "Optimizar"
+          },
+          {
+            "name": "https://svgstudio.org/",
+            "url": "https://svgstudio.org/"
           }
         ],
         "children": []
@@ -2824,6 +2888,10 @@
             "name": "https://www.letterbox.sh/",
             "url": "https://www.letterbox.sh/",
             "description": "Letras hechas de letras"
+          },
+          {
+            "name": "https://www.arcoty.pe/app",
+            "url": "https://www.arcoty.pe/app"
           }
         ],
         "children": []
@@ -2927,6 +2995,10 @@
           {
             "name": "https://onedoes.github.io/snapdrop/",
             "url": "https://onedoes.github.io/snapdrop/"
+          },
+          {
+            "name": "https://send.now/",
+            "url": "https://send.now/"
           }
         ],
         "children": [
@@ -3341,6 +3413,10 @@
             "name": "https://github.com/halfof8/patterngen-oss",
             "url": "https://github.com/halfof8/patterngen-oss",
             "description": "procedural pattern generator"
+          },
+          {
+            "name": "https://offline.tldraw.com/",
+            "url": "https://offline.tldraw.com/"
           }
         ],
         "children": [
@@ -3510,6 +3586,14 @@
               {
                 "name": "https://antigravity.google/",
                 "url": "https://antigravity.google/"
+              },
+              {
+                "name": "https://athas.dev/",
+                "url": "https://athas.dev/"
+              },
+              {
+                "name": "https://kiro.dev/",
+                "url": "https://kiro.dev/"
               }
             ],
             "children": [
@@ -3920,6 +4004,26 @@
             "name": "https://unlighthouse.dev/",
             "url": "https://unlighthouse.dev/",
             "description": "free, open-source CLI that runs Google Lighthouse on every page of your site in parallel"
+          },
+          {
+            "name": "https://no-js.dev/docs",
+            "url": "https://no-js.dev/docs",
+            "description": "HTML-first reactive framework"
+          },
+          {
+            "name": "https://aicanvas.me/",
+            "url": "https://aicanvas.me/",
+            "description": "AI Native Components and Blocks, Design Systems and Templates"
+          },
+          {
+            "name": "https://canvasui.dev/",
+            "url": "https://canvasui.dev/",
+            "description": "open source library of html-in-canvas & WebGL components"
+          },
+          {
+            "name": "https://pnpm.io/",
+            "url": "https://pnpm.io/",
+            "description": "lightning-fast installation speeds and safer way to manage dependencies"
           }
         ],
         "children": [
@@ -4136,6 +4240,10 @@
               {
                 "name": "https://culorijs.org/",
                 "url": "https://culorijs.org/"
+              },
+              {
+                "name": "https://jsonresume.org/",
+                "url": "https://jsonresume.org/"
               }
             ],
             "children": []
@@ -4413,6 +4521,11 @@
                   {
                     "name": "https://liquid-glass-oss.vercel.app/",
                     "url": "https://liquid-glass-oss.vercel.app/"
+                  },
+                  {
+                    "name": "https://www.vantaui.com/",
+                    "url": "https://www.vantaui.com/",
+                    "description": "Pagada, Requiere cuenta"
                   }
                 ],
                 "children": []
@@ -4486,6 +4599,14 @@
                   {
                     "name": "https://github.com/simeydotme/hover-tilt",
                     "url": "https://github.com/simeydotme/hover-tilt"
+                  },
+                  {
+                    "name": "https://www.motionwind.xyz/",
+                    "url": "https://www.motionwind.xyz/"
+                  },
+                  {
+                    "name": "https://amicro.vercel.app/",
+                    "url": "https://amicro.vercel.app/"
                   }
                 ],
                 "children": []
@@ -4628,6 +4749,14 @@
                     "name": "https://www.tripwire.sh/dither-kit",
                     "url": "https://www.tripwire.sh/dither-kit",
                     "description": "5 chart types"
+                  },
+                  {
+                    "name": "https://github.com/opc8838-hub/cover-flow-showcase",
+                    "url": "https://github.com/opc8838-hub/cover-flow-showcase"
+                  },
+                  {
+                    "name": "https://sticker.oooo.so/",
+                    "url": "https://sticker.oooo.so/"
                   }
                 ],
                 "children": []
@@ -5063,6 +5192,11 @@
           {
             "name": "https://principles-wiki.net/start",
             "url": "https://principles-wiki.net/start"
+          },
+          {
+            "name": "https://modalzmodalzmodalz.com",
+            "url": "https://modalzmodalzmodalz.com",
+            "description": "sitio con ejemplos de alternativas a usar modal"
           }
         ],
         "children": []
@@ -5881,8 +6015,13 @@
         "url": "https://www.behance.net/search/projects/FREE"
       },
       {
-        "name": "https://publicapis.io/",
-        "url": "https://publicapis.io/"
+        "name": "https://itsfree.dev/",
+        "url": "https://itsfree.dev/"
+      },
+      {
+        "name": "https://docs.google.com/spreadsheets/d/1qfukmoA6EmNNUDTgr77TZ3AirdCbTQcPOtyEWJtrovE/",
+        "url": "https://docs.google.com/spreadsheets/d/1qfukmoA6EmNNUDTgr77TZ3AirdCbTQcPOtyEWJtrovE/",
+        "description": "Free Design Resources"
       }
     ],
     "children": [
@@ -6430,11 +6569,6 @@
             "name": "https://artvee.com/",
             "url": "https://artvee.com/",
             "description": "Arte"
-          },
-          {
-            "name": "https://clouddevs.com/3dbay/",
-            "url": "https://clouddevs.com/3dbay/",
-            "description": "3D"
           },
           {
             "name": "https://picsum.photos/",
@@ -7059,6 +7193,10 @@
           {
             "name": "https://www.purrfectgit.com/",
             "url": "https://www.purrfectgit.com/"
+          },
+          {
+            "name": "https://codeberg.org/",
+            "url": "https://codeberg.org/"
           }
         ],
         "children": []
@@ -7231,6 +7369,14 @@
       {
         "name": "https://publicapis.dev/",
         "url": "https://publicapis.dev/"
+      },
+      {
+        "name": "https://publicapis.io/",
+        "url": "https://publicapis.io/"
+      },
+      {
+        "name": "https://free-apis.github.io/#/",
+        "url": "https://free-apis.github.io/#/"
       },
       {
         "name": "https://apislist.com/",
@@ -7965,6 +8111,29 @@
           {
             "name": "https://playground.divyanshh.tech/notification",
             "url": "https://playground.divyanshh.tech/notification"
+          },
+          {
+            "name": "https://codepen.io/jh3y/pen/LYJMPBL",
+            "url": "https://codepen.io/jh3y/pen/LYJMPBL",
+            "description": "Sparkle Button"
+          },
+          {
+            "name": "https://spideyspline.webflow.io/",
+            "url": "https://spideyspline.webflow.io/",
+            "description": "Animation on scroll"
+          },
+          {
+            "name": "https://football-stadium-ruddy.vercel.app/",
+            "url": "https://football-stadium-ruddy.vercel.app/"
+          },
+          {
+            "name": "https://books-sigma-ashen.vercel.app/",
+            "url": "https://books-sigma-ashen.vercel.app/"
+          },
+          {
+            "name": "https://codepen.io/editor/lentils801/pen/019f9b4b-10d7-7f77-817f-f4eb83fdb289",
+            "url": "https://codepen.io/editor/lentils801/pen/019f9b4b-10d7-7f77-817f-f4eb83fdb289",
+            "description": "claude-opus-5-ghibli"
           }
         ],
         "children": [
@@ -8511,6 +8680,10 @@
           {
             "name": "https://brandfetch.com/",
             "url": "https://brandfetch.com/"
+          },
+          {
+            "name": "https://www.framer.com/community/feed/",
+            "url": "https://www.framer.com/community/feed/"
           }
         ],
         "children": [
@@ -8733,6 +8906,14 @@
           {
             "name": "https://performance.dev/",
             "url": "https://performance.dev/"
+          },
+          {
+            "name": "https://wren.wtf/",
+            "url": "https://wren.wtf/"
+          },
+          {
+            "name": "https://www.chele.bi/",
+            "url": "https://www.chele.bi/"
           }
         ],
         "children": []
@@ -9296,6 +9477,22 @@
             "name": "https://icon.museum/",
             "url": "https://icon.museum/",
             "description": "curated collection of app icons"
+          },
+          {
+            "name": "https://tailwindcss.com/showcase",
+            "url": "https://tailwindcss.com/showcase"
+          },
+          {
+            "name": "https://shopfunnels.net/themes",
+            "url": "https://shopfunnels.net/themes"
+          },
+          {
+            "name": "https://storefolio.co/",
+            "url": "https://storefolio.co/"
+          },
+          {
+            "name": "https://inspiration.vasa.works/",
+            "url": "https://inspiration.vasa.works/"
           }
         ],
         "children": []
@@ -9340,6 +9537,14 @@
       {
         "name": "https://learning.atheros.ai/",
         "url": "https://learning.atheros.ai/"
+      },
+      {
+        "name": "https://www.interfacecraft.dev/",
+        "url": "https://www.interfacecraft.dev/"
+      },
+      {
+        "name": "https://invisibledetails.com/",
+        "url": "https://invisibledetails.com/"
       }
     ],
     "children": []
@@ -9944,6 +10149,10 @@
           {
             "name": "https://huggingface.co/collections/webml-community/transformersjs-v4-demos",
             "url": "https://huggingface.co/collections/webml-community/transformersjs-v4-demos"
+          },
+          {
+            "name": "https://github.com/f/prompts.chat",
+            "url": "https://github.com/f/prompts.chat"
           }
         ],
         "children": []
@@ -11291,6 +11500,16 @@
             "name": "https://github.com/pivanov/ctx-wire",
             "url": "https://github.com/pivanov/ctx-wire",
             "description": "runs your commands, compresses the output with declarative filters, scrubs secrets, and hands your agent a short result"
+          },
+          {
+            "name": "https://www.reactbench.com/",
+            "url": "https://www.reactbench.com/",
+            "description": "evaluation for coding agents on realistic React work"
+          },
+          {
+            "name": "https://isbetter.ai/",
+            "url": "https://isbetter.ai/",
+            "description": "Give every model the same prompt and compare the answer, code, preview, speed, and cost"
           }
         ],
         "children": [
@@ -11302,6 +11521,10 @@
               {
                 "name": "https://agents.md/",
                 "url": "https://agents.md/"
+              },
+              {
+                "name": "https://agentskills.io/home",
+                "url": "https://agentskills.io/home"
               },
               {
                 "name": "https://github.com/mds/floatprompt",
@@ -11327,6 +11550,10 @@
               {
                 "name": "https://skills.rest/",
                 "url": "https://skills.rest/"
+              },
+              {
+                "name": "https://skillsmd.dev/",
+                "url": "https://skillsmd.dev/"
               },
               {
                 "name": "https://github.com/addyosmani/web-quality-skills/",
@@ -11424,6 +11651,11 @@
                 "description": "Optimización"
               },
               {
+                "name": "https://github.com/woosal1337/blog/tree/main/videos/ep01-the-cure-for-ai-slop",
+                "url": "https://github.com/woosal1337/blog/tree/main/videos/ep01-the-cure-for-ai-slop",
+                "description": "Optimización"
+              },
+              {
                 "name": "https://compact-skill.dev/",
                 "url": "https://compact-skill.dev/"
               },
@@ -11436,120 +11668,166 @@
                 "name": "https://www.gittoskill.com/",
                 "url": "https://www.gittoskill.com/",
                 "description": "Perfil de GitHub a Skill"
+              },
+              {
+                "name": "https://www.typeui.sh/audit",
+                "url": "https://www.typeui.sh/audit"
+              },
+              {
+                "name": "https://github.com/jakubkrehel/skills",
+                "url": "https://github.com/jakubkrehel/skills",
+                "description": "collection of skills that help with parts of building a interface"
+              },
+              {
+                "name": "https://skills.md/",
+                "url": "https://skills.md/",
+                "description": "Freemium, IA que permite descubrir, ejecutar y gestionar skills de forma remota"
+              },
+              {
+                "name": "https://github.com/phuryn/pm-skills",
+                "url": "https://github.com/phuryn/pm-skills"
+              },
+              {
+                "name": "https://github.com/danilo-znamerovszkij/draw-your-font",
+                "url": "https://github.com/danilo-znamerovszkij/draw-your-font"
+              },
+              {
+                "name": "https://github.com/oso95/scroll-world",
+                "url": "https://github.com/oso95/scroll-world"
               }
             ],
-            "children": [
+            "children": []
+          },
+          {
+            "id": "design-md",
+            "name": "Design.md",
+            "level": 4,
+            "links": [
               {
-                "id": "design-md",
-                "name": "Design.md",
-                "level": 5,
-                "links": [
-                  {
-                    "name": "https://www.ui-skills.com/",
-                    "url": "https://www.ui-skills.com/"
-                  },
-                  {
-                    "name": "https://github.com/VoltAgent/awesome-design-md",
-                    "url": "https://github.com/VoltAgent/awesome-design-md"
-                  },
-                  {
-                    "name": "https://github.com/Leonxlnx/taste-skill",
-                    "url": "https://github.com/Leonxlnx/taste-skill"
-                  },
-                  {
-                    "name": "https://github.com/nexu-io/open-design",
-                    "url": "https://github.com/nexu-io/open-design"
-                  },
-                  {
-                    "name": "https://getdesign.md/",
-                    "url": "https://getdesign.md/"
-                  },
-                  {
-                    "name": "https://github.com/google-labs-code/design.md",
-                    "url": "https://github.com/google-labs-code/design.md"
-                  },
-                  {
-                    "name": "https://github.com/jakubantalik/transitions-dev",
-                    "url": "https://github.com/jakubantalik/transitions-dev"
-                  },
-                  {
-                    "name": "https://styles.refero.design/",
-                    "url": "https://styles.refero.design/"
-                  },
-                  {
-                    "name": "https://emilkowal.ski/ui/agents-with-taste",
-                    "url": "https://emilkowal.ski/ui/agents-with-taste"
-                  },
-                  {
-                    "name": "https://impeccable.style/",
-                    "url": "https://impeccable.style/"
-                  },
-                  {
-                    "name": "https://designmd.me/",
-                    "url": "https://designmd.me/"
-                  },
-                  {
-                    "name": "https://www.designmd.supply/",
-                    "url": "https://www.designmd.supply/"
-                  },
-                  {
-                    "name": "https://github.com/bergside/design-md-chrome",
-                    "url": "https://github.com/bergside/design-md-chrome",
-                    "description": "Extension"
-                  },
-                  {
-                    "name": "https://meodai.github.io/design-book/",
-                    "url": "https://meodai.github.io/design-book/"
-                  },
-                  {
-                    "name": "https://www.context.dev/free-tools/design-md-generator",
-                    "url": "https://www.context.dev/free-tools/design-md-generator"
-                  },
-                  {
-                    "name": "https://github.com/Khalidabdi1/design-ai",
-                    "url": "https://github.com/Khalidabdi1/design-ai"
-                  },
-                  {
-                    "name": "https://designmd.ai/",
-                    "url": "https://designmd.ai/"
-                  },
-                  {
-                    "name": "https://design.dev/ai/design-md-generator/",
-                    "url": "https://design.dev/ai/design-md-generator/"
-                  },
-                  {
-                    "name": "https://explainx.ai/tools/design-md-generator",
-                    "url": "https://explainx.ai/tools/design-md-generator"
-                  },
-                  {
-                    "name": "https://github.com/abhayjnayakk/awesome-design-md",
-                    "url": "https://github.com/abhayjnayakk/awesome-design-md"
-                  },
-                  {
-                    "name": "https://jakub.kr/writing/details-that-make-interfaces-feel-better",
-                    "url": "https://jakub.kr/writing/details-that-make-interfaces-feel-better"
-                  },
-                  {
-                    "name": "https://github.com/nextlevelbuilder/ui-ux-pro-max-skill",
-                    "url": "https://github.com/nextlevelbuilder/ui-ux-pro-max-skill"
-                  },
-                  {
-                    "name": "https://www.typeui.sh/design-skills",
-                    "url": "https://www.typeui.sh/design-skills"
-                  },
-                  {
-                    "name": "https://ai-interaction.com/",
-                    "url": "https://ai-interaction.com/"
-                  },
-                  {
-                    "name": "https://motionsites.ai/",
-                    "url": "https://motionsites.ai/",
-                    "description": "Freemium, Prompts de templates con ejemplos visuales"
-                  }
-                ],
-                "children": []
+                "name": "https://www.ui-skills.com/",
+                "url": "https://www.ui-skills.com/"
+              },
+              {
+                "name": "https://github.com/VoltAgent/awesome-design-md",
+                "url": "https://github.com/VoltAgent/awesome-design-md"
+              },
+              {
+                "name": "https://github.com/Leonxlnx/taste-skill",
+                "url": "https://github.com/Leonxlnx/taste-skill"
+              },
+              {
+                "name": "https://github.com/nexu-io/open-design",
+                "url": "https://github.com/nexu-io/open-design"
+              },
+              {
+                "name": "https://getdesign.md/",
+                "url": "https://getdesign.md/"
+              },
+              {
+                "name": "https://github.com/google-labs-code/design.md",
+                "url": "https://github.com/google-labs-code/design.md"
+              },
+              {
+                "name": "https://github.com/jakubantalik/transitions-dev",
+                "url": "https://github.com/jakubantalik/transitions-dev"
+              },
+              {
+                "name": "https://styles.refero.design/",
+                "url": "https://styles.refero.design/"
+              },
+              {
+                "name": "https://emilkowal.ski/ui/agents-with-taste",
+                "url": "https://emilkowal.ski/ui/agents-with-taste"
+              },
+              {
+                "name": "https://impeccable.style/",
+                "url": "https://impeccable.style/"
+              },
+              {
+                "name": "https://designmd.me/",
+                "url": "https://designmd.me/"
+              },
+              {
+                "name": "https://www.designmd.supply/",
+                "url": "https://www.designmd.supply/"
+              },
+              {
+                "name": "https://github.com/bergside/design-md-chrome",
+                "url": "https://github.com/bergside/design-md-chrome",
+                "description": "Extension"
+              },
+              {
+                "name": "https://meodai.github.io/design-book/",
+                "url": "https://meodai.github.io/design-book/"
+              },
+              {
+                "name": "https://www.context.dev/free-tools/design-md-generator",
+                "url": "https://www.context.dev/free-tools/design-md-generator"
+              },
+              {
+                "name": "https://github.com/Khalidabdi1/design-ai",
+                "url": "https://github.com/Khalidabdi1/design-ai"
+              },
+              {
+                "name": "https://designmd.ai/",
+                "url": "https://designmd.ai/"
+              },
+              {
+                "name": "https://design.dev/ai/design-md-generator/",
+                "url": "https://design.dev/ai/design-md-generator/"
+              },
+              {
+                "name": "https://explainx.ai/tools/design-md-generator",
+                "url": "https://explainx.ai/tools/design-md-generator"
+              },
+              {
+                "name": "https://github.com/abhayjnayakk/awesome-design-md",
+                "url": "https://github.com/abhayjnayakk/awesome-design-md"
+              },
+              {
+                "name": "https://jakub.kr/writing/details-that-make-interfaces-feel-better",
+                "url": "https://jakub.kr/writing/details-that-make-interfaces-feel-better"
+              },
+              {
+                "name": "https://github.com/nextlevelbuilder/ui-ux-pro-max-skill",
+                "url": "https://github.com/nextlevelbuilder/ui-ux-pro-max-skill"
+              },
+              {
+                "name": "https://www.typeui.sh/design-skills",
+                "url": "https://www.typeui.sh/design-skills"
+              },
+              {
+                "name": "https://ai-interaction.com/",
+                "url": "https://ai-interaction.com/"
+              },
+              {
+                "name": "https://motionsites.ai/",
+                "url": "https://motionsites.ai/",
+                "description": "Freemium, Prompts de templates con ejemplos visuales"
+              },
+              {
+                "name": "https://style-genome.com/",
+                "url": "https://style-genome.com/"
+              },
+              {
+                "name": "https://pols.dev/slop",
+                "url": "https://pols.dev/slop"
+              },
+              {
+                "name": "https://www.typeui.sh/#pricing",
+                "url": "https://www.typeui.sh/#pricing",
+                "description": "Pagada, Requiere cuenta"
+              },
+              {
+                "name": "https://github.com/petergyang/no-ai-slop",
+                "url": "https://github.com/petergyang/no-ai-slop"
+              },
+              {
+                "name": "https://github.com/MengTo/Skills",
+                "url": "https://github.com/MengTo/Skills"
               }
-            ]
+            ],
+            "children": []
           }
         ]
       },
@@ -11642,6 +11920,11 @@
           {
             "name": "https://factory.ai/",
             "url": "https://factory.ai/",
+            "description": "CLI Agentic coding"
+          },
+          {
+            "name": "https://herdr.dev/",
+            "url": "https://herdr.dev/",
             "description": "CLI Agentic coding"
           },
           {
@@ -11782,6 +12065,11 @@
             "name": "https://github.com/manaflow-ai/cmux",
             "url": "https://github.com/manaflow-ai/cmux",
             "description": "MacOS, IDE Agentic Coding"
+          },
+          {
+            "name": "https://github.com/diegosouzapw/OmniRoute",
+            "url": "https://github.com/diegosouzapw/OmniRoute",
+            "description": "Free AI Gateway"
           }
         ],
         "children": [
@@ -11821,6 +12109,11 @@
               {
                 "name": "https://github.com/SimonSchubert/Kai",
                 "url": "https://github.com/SimonSchubert/Kai"
+              },
+              {
+                "name": "https://axolotl.ai/",
+                "url": "https://axolotl.ai/",
+                "description": "framework de código abierto para entrenar, ajustar (fine-tuning) y postentrenar modelos de lenguaje (LLMs) de forma eficiente"
               }
             ],
             "children": []
@@ -12380,7 +12673,7 @@
           {
             "name": "https://github.com/santifer/career-ops",
             "url": "https://github.com/santifer/career-ops",
-            "description": "revolución industrial y sus consecuencias - AI"
+            "description": "AI"
           },
           {
             "name": "https://www.mepostule.cl/",
@@ -12391,6 +12684,16 @@
             "name": "https://elinterno.com/",
             "url": "https://elinterno.com/",
             "description": "Reseñas comunitarias para ver \"cómo es trabajar ahí de verdad\""
+          },
+          {
+            "name": "https://github.com/MadsLorentzen/ai-job-search",
+            "url": "https://github.com/MadsLorentzen/ai-job-search",
+            "description": "AI"
+          },
+          {
+            "name": "https://www.reaver.ink/",
+            "url": "https://www.reaver.ink/",
+            "description": "AI, Freemium"
           }
         ],
         "children": [
