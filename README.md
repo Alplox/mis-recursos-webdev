@@ -102,7 +102,7 @@ Mirrors:
   - [AI Video](#ai-video)
   - [AI Vibe Coding](#ai-vibe-coding)
     - [Skills](#skills)
-      - [Design.md](#designmd)
+    - [Design.md](#designmd)
   - [AI Software](#ai-software)
     - [AI Local](#ai-local)
 - [Búsqueda trabajo](#búsqueda-trabajo)
@@ -826,6 +826,7 @@ Mirrors:
 - <https://amix-design.com/asoboad/tools/d-formula/>
 - <https://svgomg.net/> (Optimizar)
 - <https://svgstudio.org/>
+- <https://www.iconanimator.app/>
 
 ### Fuentes
 
@@ -1217,6 +1218,7 @@ Mirrors:
 - <https://rxdb.info/>
 - <https://culorijs.org/>
 - <https://jsonresume.org/>
+- <https://scriptc.dev/>
 
 #### CSS Recursos
 
@@ -1310,6 +1312,7 @@ Mirrors:
 - <https://github.com/simeydotme/hover-tilt>
 - <https://www.motionwind.xyz/>
 - <https://amicro.vercel.app/>
+- <https://lab.rselmi.com/>
 
 #### REACT Recursos
 
@@ -1324,6 +1327,7 @@ Mirrors:
 - <https://react-spectrum.adobe.com/react-aria/index.html>
 - <https://github.com/frame-script/FrameScript> (Hacer videos)
 - <https://github.com/cloudflare/kumo>
+- <https://beautiful-ui-five.vercel.app/>
 
 ##### Componentes
 
@@ -1770,6 +1774,9 @@ Mirrors:
 - <https://coolshap.es/>
 - <https://kenney.nl/assets> (Game assets)
 - <https://spectrums.framer.website>
+- <https://www.transhumans.xyz/>
+- <https://brixmoji.com/>
+- <https://github.com/googlefonts/noto-emoji>
 
 ### Imágenes Gratuitas
 
@@ -1963,6 +1970,7 @@ Mirrors:
 - <https://carrd.co/>
 - <https://www.purrfectgit.com/>
 - <https://codeberg.org/>
+- <https://github.com/corebunch/instatic>
 
 ### Incluyen de pago
 
@@ -2054,6 +2062,7 @@ Mirrors:
 - <https://component.gallery/>
 - <https://snipzy.dev/index.html>
 - <https://youmightnotneed.com/>
+- <https://huggingface-anatomy-of-frontier-lab-model-intrusion.static.hf.space/index.html>
 
 ### Colección snippets específicos
 
@@ -2336,6 +2345,7 @@ Mirrors:
 - <https://refero.design/> (Requiere cuenta)
 - <https://brandfetch.com/>
 - <https://www.framer.com/community/feed/>
+- <https://stateofaidesign.com/>
 
 #### Design/Brand Guidelines
 
@@ -2352,6 +2362,7 @@ Mirrors:
 - <https://design.theguardian.com/>
 - <https://www.makingsoftware.com/>
 - <https://brand.youtube/>
+- <https://www.brandguidelines.net/>
 
 ### Blogs
 
@@ -2542,6 +2553,14 @@ Mirrors:
 - <https://shopfunnels.net/themes>
 - <https://storefolio.co/>
 - <https://inspiration.vasa.works/>
+- <https://varchive.ai/apps>
+- <https://noiced.com/>
+- <https://ogpedia.xyz/>
+- <https://deck.gallery/>
+- <https://www.onedb.net/> (Freemium)
+- <https://webpo.space/>
+- <https://www.unpack.so/>
+- <https://delights.design/>
 
 ## Cursos de pago
 
@@ -2582,6 +2601,8 @@ Mirrors:
 - <https://akkadu.ai/>
 - <https://loading.io/>
 - <https://ingradients.net/> (pagar por pngs)
+- <https://herosection.supply/> (Pagar por pngs)
+- <https://screensdesign.com/> (pagar por ver pantallazos de apps gratis)
 - <https://www.mymap.ai/>
 - <https://marvelapp.com/>
 - <https://milanote.com/>
@@ -3026,7 +3047,8 @@ Mirrors:
 - <https://github.com/langchain-ai/openwiki> (CLI that writes and maintains agent documentation for your codebase)
 - <https://github.com/pivanov/ctx-wire> (runs your commands, compresses the output with declarative filters, scrubs secrets, and hands your agent a short result)
 - <https://www.reactbench.com/> (evaluation for coding agents on realistic React work)
-- <https://isbetter.ai/> (Give every model the same prompt and compare the answer, code, preview, speed, and cost)
+- <https://isbetter.ai/> (Give every model the same prompt and compare the answer, code, preview, speed, and cost)ç
+- <https://www.shapeof.ai/> (Exploring how User Experience will evolve with the growth of Artificial Intelligence)
 
 #### Skills
 
@@ -3076,6 +3098,8 @@ Ejem [Are Repository-Level Context Files Helpful for Coding Agents?](https://arx
 - <https://github.com/phuryn/pm-skills>
 - <https://github.com/danilo-znamerovszkij/draw-your-font>
 - <https://github.com/oso95/scroll-world>
+- <https://github.com/mvanhorn/last30days-skill> (AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary)
+- <https://github.com/ayghri/i-have-adhd> (Optimización)
 
 #### Design.md
 
@@ -3111,6 +3135,7 @@ Ejem [Are Repository-Level Context Files Helpful for Coding Agents?](https://arx
 - <https://www.typeui.sh/#pricing> (Pagada, Requiere cuenta)
 - <https://github.com/petergyang/no-ai-slop>
 - <https://github.com/MengTo/Skills>
+- <https://github.com/Nutlope/hallmark>
 
 ### AI Software
 
