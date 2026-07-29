@@ -2771,6 +2771,10 @@
           {
             "name": "https://svgstudio.org/",
             "url": "https://svgstudio.org/"
+          },
+          {
+            "name": "https://www.iconanimator.app/",
+            "url": "https://www.iconanimator.app/"
           }
         ],
         "children": []
@@ -4244,6 +4248,10 @@
               {
                 "name": "https://jsonresume.org/",
                 "url": "https://jsonresume.org/"
+              },
+              {
+                "name": "https://scriptc.dev/",
+                "url": "https://scriptc.dev/"
               }
             ],
             "children": []
@@ -4607,6 +4615,10 @@
                   {
                     "name": "https://amicro.vercel.app/",
                     "url": "https://amicro.vercel.app/"
+                  },
+                  {
+                    "name": "https://lab.rselmi.com/",
+                    "url": "https://lab.rselmi.com/"
                   }
                 ],
                 "children": []
@@ -4654,6 +4666,10 @@
               {
                 "name": "https://github.com/cloudflare/kumo",
                 "url": "https://github.com/cloudflare/kumo"
+              },
+              {
+                "name": "https://beautiful-ui-five.vercel.app/",
+                "url": "https://beautiful-ui-five.vercel.app/"
               }
             ],
             "children": [
@@ -6473,6 +6489,18 @@
           {
             "name": "https://spectrums.framer.website",
             "url": "https://spectrums.framer.website"
+          },
+          {
+            "name": "https://www.transhumans.xyz/",
+            "url": "https://www.transhumans.xyz/"
+          },
+          {
+            "name": "https://brixmoji.com/",
+            "url": "https://brixmoji.com/"
+          },
+          {
+            "name": "https://github.com/googlefonts/noto-emoji",
+            "url": "https://github.com/googlefonts/noto-emoji"
           }
         ],
         "children": []
@@ -7197,6 +7225,10 @@
           {
             "name": "https://codeberg.org/",
             "url": "https://codeberg.org/"
+          },
+          {
+            "name": "https://github.com/corebunch/instatic",
+            "url": "https://github.com/corebunch/instatic"
           }
         ],
         "children": []
@@ -7552,6 +7584,10 @@
       {
         "name": "https://youmightnotneed.com/",
         "url": "https://youmightnotneed.com/"
+      },
+      {
+        "name": "https://huggingface-anatomy-of-frontier-lab-model-intrusion.static.hf.space/index.html",
+        "url": "https://huggingface-anatomy-of-frontier-lab-model-intrusion.static.hf.space/index.html"
       }
     ],
     "children": [
@@ -8684,6 +8720,10 @@
           {
             "name": "https://www.framer.com/community/feed/",
             "url": "https://www.framer.com/community/feed/"
+          },
+          {
+            "name": "https://stateofaidesign.com/",
+            "url": "https://stateofaidesign.com/"
           }
         ],
         "children": [
@@ -8735,6 +8775,10 @@
               {
                 "name": "https://brand.youtube/",
                 "url": "https://brand.youtube/"
+              },
+              {
+                "name": "https://www.brandguidelines.net/",
+                "url": "https://www.brandguidelines.net/"
               }
             ],
             "children": []
@@ -9493,6 +9537,39 @@
           {
             "name": "https://inspiration.vasa.works/",
             "url": "https://inspiration.vasa.works/"
+          },
+          {
+            "name": "https://varchive.ai/apps",
+            "url": "https://varchive.ai/apps"
+          },
+          {
+            "name": "https://noiced.com/",
+            "url": "https://noiced.com/"
+          },
+          {
+            "name": "https://ogpedia.xyz/",
+            "url": "https://ogpedia.xyz/"
+          },
+          {
+            "name": "https://deck.gallery/",
+            "url": "https://deck.gallery/"
+          },
+          {
+            "name": "https://www.onedb.net/",
+            "url": "https://www.onedb.net/",
+            "description": "Freemium"
+          },
+          {
+            "name": "https://webpo.space/",
+            "url": "https://webpo.space/"
+          },
+          {
+            "name": "https://www.unpack.so/",
+            "url": "https://www.unpack.so/"
+          },
+          {
+            "name": "https://delights.design/",
+            "url": "https://delights.design/"
           }
         ],
         "children": []
@@ -9634,6 +9711,16 @@
         "name": "https://ingradients.net/",
         "url": "https://ingradients.net/",
         "description": "pagar por pngs"
+      },
+      {
+        "name": "https://herosection.supply/",
+        "url": "https://herosection.supply/",
+        "description": "Pagar por pngs"
+      },
+      {
+        "name": "https://screensdesign.com/",
+        "url": "https://screensdesign.com/",
+        "description": "pagar por ver pantallazos de apps gratis"
       },
       {
         "name": "https://www.mymap.ai/",
@@ -11509,7 +11596,12 @@
           {
             "name": "https://isbetter.ai/",
             "url": "https://isbetter.ai/",
-            "description": "Give every model the same prompt and compare the answer, code, preview, speed, and cost"
+            "description": "(Give every model the same prompt and compare the answer, code, preview, speed, and cost)ç"
+          },
+          {
+            "name": "https://www.shapeof.ai/",
+            "url": "https://www.shapeof.ai/",
+            "description": "Exploring how User Experience will evolve with the growth of Artificial Intelligence"
           }
         ],
         "children": [
@@ -11694,6 +11786,16 @@
               {
                 "name": "https://github.com/oso95/scroll-world",
                 "url": "https://github.com/oso95/scroll-world"
+              },
+              {
+                "name": "https://github.com/mvanhorn/last30days-skill",
+                "url": "https://github.com/mvanhorn/last30days-skill",
+                "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary"
+              },
+              {
+                "name": "https://github.com/ayghri/i-have-adhd",
+                "url": "https://github.com/ayghri/i-have-adhd",
+                "description": "Optimización"
               }
             ],
             "children": []
@@ -11825,6 +11927,10 @@
               {
                 "name": "https://github.com/MengTo/Skills",
                 "url": "https://github.com/MengTo/Skills"
+              },
+              {
+                "name": "https://github.com/Nutlope/hallmark",
+                "url": "https://github.com/Nutlope/hallmark"
               }
             ],
             "children": []
