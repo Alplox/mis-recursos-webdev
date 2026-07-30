@@ -1356,6 +1356,8 @@ Mirrors:
 - <https://www.tripwire.sh/dither-kit> (5 chart types)
 - <https://github.com/opc8838-hub/cover-flow-showcase>
 - <https://sticker.oooo.so/>
+- <https://github.com/ddoemonn/interior>
+- <https://github.com/mintdotgg/mint-playground/tree/main>
 
 ## Guías
 
