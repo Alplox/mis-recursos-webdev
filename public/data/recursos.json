@@ -223,6 +223,15 @@
         "description": "Toolkit"
       },
       {
+        "name": "https://devpages.io/",
+        "url": "https://devpages.io/",
+        "description": "Toolkit"
+      },
+      {
+        "name": "https://designengineer.tools/",
+        "url": "https://designengineer.tools/"
+      },
+      {
         "name": "https://mrfreetools.com/tools/",
         "url": "https://mrfreetools.com/tools/"
       },
@@ -264,6 +273,11 @@
         "name": "https://metatags.io/",
         "url": "https://metatags.io/",
         "description": "Generador Open Graph Meta Tags"
+      },
+      {
+        "name": "https://www.opengraph.to/",
+        "url": "https://www.opengraph.to/",
+        "description": "Generar pen Graph Meta Tags"
       },
       {
         "name": "https://createapp.dev/",
@@ -515,6 +529,15 @@
       {
         "name": "https://namethatui.com/",
         "url": "https://namethatui.com/"
+      },
+      {
+        "name": "https://chckr.co/",
+        "url": "https://chckr.co/",
+        "description": "Check site across website testing tools"
+      },
+      {
+        "name": "https://get.dev/",
+        "url": "https://get.dev/"
       }
     ],
     "children": [
@@ -1198,6 +1221,10 @@
           {
             "name": "https://www.rapidtables.com/web/html/html-codes.html",
             "url": "https://www.rapidtables.com/web/html/html-codes.html"
+          },
+          {
+            "name": "https://www.striphtml.com/",
+            "url": "https://www.striphtml.com/"
           }
         ],
         "children": []
@@ -1279,6 +1306,11 @@
             "name": "https://the-echoplex.net/flexyboxes/",
             "url": "https://the-echoplex.net/flexyboxes/",
             "description": "Herramienta flex-container"
+          },
+          {
+            "name": "https://flexboxlabs.netlify.app/",
+            "url": "https://flexboxlabs.netlify.app/",
+            "description": "Herramienta Flexbox"
           },
           {
             "name": "https://css-playground.com/",
@@ -1470,6 +1502,14 @@
           {
             "name": "https://text-effects.colorion.co/",
             "url": "https://text-effects.colorion.co/"
+          },
+          {
+            "name": "https://aethercss.lovable.app/",
+            "url": "https://aethercss.lovable.app/"
+          },
+          {
+            "name": "https://www.designminis.com/",
+            "url": "https://www.designminis.com/"
           }
         ],
         "children": [
@@ -1898,6 +1938,28 @@
           {
             "name": "https://theyseeyourphotos.com/",
             "url": "https://theyseeyourphotos.com/"
+          },
+          {
+            "name": "https://angleref.com/",
+            "url": "https://angleref.com/",
+            "description": "Skull 3D that search matching position/angle in database of images"
+          },
+          {
+            "name": "https://x6ud.github.io/#/",
+            "url": "https://x6ud.github.io/#/",
+            "description": "Skull 3D that search matching position/angle in database of animal images"
+          },
+          {
+            "name": "https://www.animal-photo-references.com/",
+            "url": "https://www.animal-photo-references.com/"
+          },
+          {
+            "name": "https://www.vishopper.com/cut-out-people",
+            "url": "https://www.vishopper.com/cut-out-people"
+          },
+          {
+            "name": "https://www.inaturalist.org/observations",
+            "url": "https://www.inaturalist.org/observations"
           }
         ],
         "children": [
@@ -2076,6 +2138,11 @@
                 "name": "https://valessa.riotters.com/",
                 "url": "https://valessa.riotters.com/",
                 "description": "3D product visualizer"
+              },
+              {
+                "name": "https://ink-inky.vercel.app/",
+                "url": "https://ink-inky.vercel.app/",
+                "description": "Dibujar como si fuese con tinta"
               }
             ],
             "children": []
@@ -2272,6 +2339,28 @@
                 "name": "https://javii.tools",
                 "url": "https://javii.tools",
                 "description": "RRSS"
+              },
+              {
+                "name": "https://usemarginalia.ai.studio/",
+                "url": "https://usemarginalia.ai.studio/",
+                "description": "Quote Designer"
+              },
+              {
+                "name": "https://www.holosticker.dev/",
+                "url": "https://www.holosticker.dev/",
+                "description": "Stickers"
+              },
+              {
+                "name": "https://www.ultramock.io/",
+                "url": "https://www.ultramock.io/"
+              },
+              {
+                "name": "https://tokokino.com/app",
+                "url": "https://tokokino.com/app"
+              },
+              {
+                "name": "https://ui.camera/",
+                "url": "https://ui.camera/"
               }
             ],
             "children": []
@@ -3421,6 +3510,11 @@
           {
             "name": "https://offline.tldraw.com/",
             "url": "https://offline.tldraw.com/"
+          },
+          {
+            "name": "https://ui8.ai/forge/",
+            "url": "https://ui8.ai/forge/",
+            "description": "free macOS app that turns any local web project into a visual canvas"
           }
         ],
         "children": [
@@ -4028,6 +4122,29 @@
             "name": "https://pnpm.io/",
             "url": "https://pnpm.io/",
             "description": "lightning-fast installation speeds and safer way to manage dependencies"
+          },
+          {
+            "name": "https://github.com/Owloops/updo",
+            "url": "https://github.com/Owloops/updo",
+            "description": "Uptime monitoring CLI tool with alerting and advanced settings"
+          },
+          {
+            "name": "https://github.com/firecrawl/pdf-inspector",
+            "url": "https://github.com/firecrawl/pdf-inspector",
+            "description": "Fast Rust library for PDF inspection, classification, and text extraction"
+          },
+          {
+            "name": "https://atabook.org/",
+            "url": "https://atabook.org/",
+            "description": "free guestbook"
+          },
+          {
+            "name": "https://diffs.com/",
+            "url": "https://diffs.com/"
+          },
+          {
+            "name": "https://github.com/HugoRCD/evlog",
+            "url": "https://github.com/HugoRCD/evlog"
           }
         ],
         "children": [
@@ -4473,6 +4590,22 @@
                 "name": "https://www.oreoui.com/",
                 "url": "https://www.oreoui.com/",
                 "description": "Waiting list, LLM Ready"
+              },
+              {
+                "name": "https://bearnie.dev/",
+                "url": "https://bearnie.dev/"
+              },
+              {
+                "name": "https://beam.jakubantalik.com/",
+                "url": "https://beam.jakubantalik.com/"
+              },
+              {
+                "name": "https://orbs.jakubantalik.com/",
+                "url": "https://orbs.jakubantalik.com/"
+              },
+              {
+                "name": "https://github.com/jal-co/holosticker",
+                "url": "https://github.com/jal-co/holosticker"
               }
             ],
             "children": [
@@ -4534,6 +4667,10 @@
                     "name": "https://www.vantaui.com/",
                     "url": "https://www.vantaui.com/",
                     "description": "Pagada, Requiere cuenta"
+                  },
+                  {
+                    "name": "https://widget.st/",
+                    "url": "https://widget.st/"
                   }
                 ],
                 "children": []
@@ -4619,6 +4756,14 @@
                   {
                     "name": "https://lab.rselmi.com/",
                     "url": "https://lab.rselmi.com/"
+                  },
+                  {
+                    "name": "https://www.morphicons.com/",
+                    "url": "https://www.morphicons.com/"
+                  },
+                  {
+                    "name": "https://github.com/fayazara/portfolio-site-template",
+                    "url": "https://github.com/fayazara/portfolio-site-template"
                   }
                 ],
                 "children": []
@@ -4781,6 +4926,14 @@
                   {
                     "name": "https://github.com/mintdotgg/mint-playground/tree/main",
                     "url": "https://github.com/mintdotgg/mint-playground/tree/main"
+                  },
+                  {
+                    "name": "https://github.com/TanStack/charts",
+                    "url": "https://github.com/TanStack/charts"
+                  },
+                  {
+                    "name": "https://metalforge.xyz/",
+                    "url": "https://metalforge.xyz/"
                   }
                 ],
                 "children": []
@@ -5368,6 +5521,10 @@
         "name": "https://www.jscamp.dev/",
         "url": "https://www.jscamp.dev/",
         "description": "Requiere cuenta"
+      },
+      {
+        "name": "https://ai.manz.dev/",
+        "url": "https://ai.manz.dev/"
       }
     ],
     "children": [
@@ -5694,6 +5851,11 @@
             "description": "Web Design"
           },
           {
+            "name": "https://www.userinterface.wiki/",
+            "url": "https://www.userinterface.wiki/",
+            "description": "Web Design"
+          },
+          {
             "name": "https://practicaltypography.com/typography-in-ten-minutes.html",
             "url": "https://practicaltypography.com/typography-in-ten-minutes.html",
             "description": "Tipografía"
@@ -5805,6 +5967,18 @@
           {
             "name": "https://walkinglabs.github.io/learn-harness-engineering/en/",
             "url": "https://walkinglabs.github.io/learn-harness-engineering/en/"
+          },
+          {
+            "name": "https://arps18.github.io/posts/claude-code-mastery/",
+            "url": "https://arps18.github.io/posts/claude-code-mastery/"
+          },
+          {
+            "name": "https://simonwillison.net/guides/agentic-engineering-patterns/",
+            "url": "https://simonwillison.net/guides/agentic-engineering-patterns/"
+          },
+          {
+            "name": "https://yummy-design-sprint.notion.site/32762791470980f79c59f4580d377f3f?v=32762791470980f495ac000c95dece67",
+            "url": "https://yummy-design-sprint.notion.site/32762791470980f79c59f4580d377f3f?v=32762791470980f495ac000c95dece67"
           }
         ],
         "children": []
@@ -7237,6 +7411,10 @@
           {
             "name": "https://github.com/corebunch/instatic",
             "url": "https://github.com/corebunch/instatic"
+          },
+          {
+            "name": "https://straw.page/",
+            "url": "https://straw.page/"
           }
         ],
         "children": []
@@ -7504,6 +7682,10 @@
       {
         "name": "https://earthquake.usgs.gov/",
         "url": "https://earthquake.usgs.gov/"
+      },
+      {
+        "name": "https://datosabiertos.mineduc.cl/",
+        "url": "https://datosabiertos.mineduc.cl/"
       }
     ],
     "children": []
@@ -8178,6 +8360,14 @@
             "name": "https://codepen.io/editor/lentils801/pen/019f9b4b-10d7-7f77-817f-f4eb83fdb289",
             "url": "https://codepen.io/editor/lentils801/pen/019f9b4b-10d7-7f77-817f-f4eb83fdb289",
             "description": "claude-opus-5-ghibli"
+          },
+          {
+            "name": "https://robot-game-3d-sq5l.vercel.app/",
+            "url": "https://robot-game-3d-sq5l.vercel.app/"
+          },
+          {
+            "name": "https://webgpu-glass-material.vercel.app/",
+            "url": "https://webgpu-glass-material.vercel.app/"
           }
         ],
         "children": [
@@ -8966,6 +9156,15 @@
           {
             "name": "https://www.chele.bi/",
             "url": "https://www.chele.bi/"
+          },
+          {
+            "name": "https://drewdevault.com/",
+            "url": "https://drewdevault.com/"
+          },
+          {
+            "name": "https://sashabalandina.com/",
+            "url": "https://sashabalandina.com/",
+            "description": "Portafolio con snippets"
           }
         ],
         "children": []
@@ -9578,6 +9777,26 @@
           {
             "name": "https://delights.design/",
             "url": "https://delights.design/"
+          },
+          {
+            "name": "https://www.inspora.design/",
+            "url": "https://www.inspora.design/"
+          },
+          {
+            "name": "https://www.saasframe.io/",
+            "url": "https://www.saasframe.io/"
+          },
+          {
+            "name": "https://purelanding.page/",
+            "url": "https://purelanding.page/"
+          },
+          {
+            "name": "https://appllama.io/explore",
+            "url": "https://appllama.io/explore"
+          },
+          {
+            "name": "https://trustmrr.com/",
+            "url": "https://trustmrr.com/"
           }
         ],
         "children": []
@@ -9919,7 +10138,17 @@
       {
         "name": "https://cv.nan.builders/",
         "url": "https://cv.nan.builders/",
-        "description": "Analizador de curriculum \"local\", envia datos a proveedores de AI igualmente para generar el análisis"
+        "description": "Datamining, Analizador de curriculum \"local\", envia datos a proveedores de AI igualmente para generar el análisis"
+      },
+      {
+        "name": "https://huggingface.co/spaces/HuggingFaceCode/in-the-stack",
+        "url": "https://huggingface.co/spaces/HuggingFaceCode/in-the-stack",
+        "description": "15.9 TB dataset of source code across 713 programming languages from 173M repositories, crawled from GitHub in 2025"
+      },
+      {
+        "name": "https://polymathsociety.us/",
+        "url": "https://polymathsociety.us/",
+        "description": "Datamining, Genera reporte en base a chats LLM's de que \"tecnologias usas\" y que \"habilidades demuestras\""
       }
     ],
     "children": [
@@ -10475,7 +10704,21 @@
             "description": "AI sin AI"
           }
         ],
-        "children": []
+        "children": [
+          {
+            "id": "skills-chatbots",
+            "name": "Skills Chatbots",
+            "level": 4,
+            "links": [
+              {
+                "name": "https://github.com/blader/humanizer",
+                "url": "https://github.com/blader/humanizer",
+                "description": "skill that removes signs of AI-generated writing from text"
+              }
+            ],
+            "children": []
+          }
+        ]
       },
       {
         "id": "ai-imagenes",
@@ -10941,8 +11184,12 @@
           },
           {
             "name": "https://huggingface.co/baidu/Unlimited-OCR",
-            "url": "https://huggingface.co/baidu/Unlimited-OCR",
-            "description": "()"
+            "url": "https://huggingface.co/baidu/Unlimited-OCR"
+          },
+          {
+            "name": "https://www.logo-creator.io/",
+            "url": "https://www.logo-creator.io/",
+            "description": "Requiere cuenta, 2 créditos gratis"
           }
         ],
         "children": []
@@ -11610,6 +11857,36 @@
             "name": "https://www.shapeof.ai/",
             "url": "https://www.shapeof.ai/",
             "description": "Exploring how User Experience will evolve with the growth of Artificial Intelligence"
+          },
+          {
+            "name": "https://www.effectivehtml.com/",
+            "url": "https://www.effectivehtml.com/",
+            "description": "A reference site showcasing the visual and interactive HTML artifacts you can create with agents"
+          },
+          {
+            "name": "https://github.com/boldsoftware/meat",
+            "url": "https://github.com/boldsoftware/meat",
+            "description": "Abridge a code diff into a reading diff"
+          },
+          {
+            "name": "https://chutes.ai/",
+            "url": "https://chutes.ai/",
+            "description": "Pagada, Requiere cuenta, Ofrece modelos gratis"
+          },
+          {
+            "name": "https://openrouter.ai",
+            "url": "https://openrouter.ai",
+            "description": "Pagada, Requiere cuenta, Ofrece modelos gratis"
+          },
+          {
+            "name": "https://www.orcarouter.ai",
+            "url": "https://www.orcarouter.ai",
+            "description": "Pagada, Requiere cuenta, Ofrece modelos gratis"
+          },
+          {
+            "name": "https://www.tokenrouter.com/",
+            "url": "https://www.tokenrouter.com/",
+            "description": "Pagada, Requiere cuenta, Ofrece modelos gratis"
           }
         ],
         "children": [
@@ -11654,6 +11931,14 @@
               {
                 "name": "https://skillsmd.dev/",
                 "url": "https://skillsmd.dev/"
+              },
+              {
+                "name": "https://hermes-agent.nousresearch.com/docs/skills",
+                "url": "https://hermes-agent.nousresearch.com/docs/skills"
+              },
+              {
+                "name": "https://majiayu000.github.io/claude-skill-registry-core/",
+                "url": "https://majiayu000.github.io/claude-skill-registry-core/"
               },
               {
                 "name": "https://github.com/addyosmani/web-quality-skills/",
@@ -11804,6 +12089,23 @@
                 "name": "https://github.com/ayghri/i-have-adhd",
                 "url": "https://github.com/ayghri/i-have-adhd",
                 "description": "Optimización"
+              },
+              {
+                "name": "https://www.skilltune.dev/",
+                "url": "https://www.skilltune.dev/"
+              },
+              {
+                "name": "https://github.com/nanonets/graft",
+                "url": "https://github.com/nanonets/graft",
+                "description": "Optimización"
+              },
+              {
+                "name": "https://github.com/codejunkie99/graph-engineering",
+                "url": "https://github.com/codejunkie99/graph-engineering"
+              },
+              {
+                "name": "https://github.com/moorcheh-ai/memanto",
+                "url": "https://github.com/moorcheh-ai/memanto"
               }
             ],
             "children": []
@@ -11939,6 +12241,22 @@
               {
                 "name": "https://github.com/Nutlope/hallmark",
                 "url": "https://github.com/Nutlope/hallmark"
+              },
+              {
+                "name": "https://github.com/Trystan-SA/claude-design-system-prompt/blob/main/README.md",
+                "url": "https://github.com/Trystan-SA/claude-design-system-prompt/blob/main/README.md"
+              },
+              {
+                "name": "https://commandcode.ai/docs/design",
+                "url": "https://commandcode.ai/docs/design"
+              },
+              {
+                "name": "https://loora.design/",
+                "url": "https://loora.design/"
+              },
+              {
+                "name": "https://github.com/elayadesign/ai-design-skills",
+                "url": "https://github.com/elayadesign/ai-design-skills"
               }
             ],
             "children": []
@@ -12184,6 +12502,36 @@
             "name": "https://github.com/diegosouzapw/OmniRoute",
             "url": "https://github.com/diegosouzapw/OmniRoute",
             "description": "Free AI Gateway"
+          },
+          {
+            "name": "https://github.com/steipete/CodexBar",
+            "url": "https://github.com/steipete/CodexBar",
+            "description": "MacOS, Show usage stats for OpenAI Codex and Claude Code, without having to login"
+          },
+          {
+            "name": "https://github.com/nesszer/Win-CodexBar",
+            "url": "https://github.com/nesszer/Win-CodexBar",
+            "description": "Show usage stats for OpenAI Codex and Claude Code, without having to login"
+          },
+          {
+            "name": "https://www.pen.dev/",
+            "url": "https://www.pen.dev/",
+            "description": "bi-directional MCP vector canvas"
+          },
+          {
+            "name": "https://github.com/AlexandrosGounis/rubber-duckie",
+            "url": "https://github.com/AlexandrosGounis/rubber-duckie",
+            "description": "uses your mouse and keyboard to complete tasks for you"
+          },
+          {
+            "name": "https://github.com/earendil-works/pi",
+            "url": "https://github.com/earendil-works/pi",
+            "description": "AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI"
+          },
+          {
+            "name": "https://github.com/mydisha/keirouter",
+            "url": "https://github.com/mydisha/keirouter",
+            "description": "self-hostable AI gateway"
           }
         ],
         "children": [
@@ -12228,6 +12576,10 @@
                 "name": "https://axolotl.ai/",
                 "url": "https://axolotl.ai/",
                 "description": "framework de código abierto para entrenar, ajustar (fine-tuning) y postentrenar modelos de lenguaje (LLMs) de forma eficiente"
+              },
+              {
+                "name": "https://github.com/magnitudedev/magnitude",
+                "url": "https://github.com/magnitudedev/magnitude"
               }
             ],
             "children": []
@@ -12415,6 +12767,10 @@
               {
                 "name": "https://www.subtel.gob.cl/trabaja-en-subtel/concursos-abiertos/",
                 "url": "https://www.subtel.gob.cl/trabaja-en-subtel/concursos-abiertos/"
+              },
+              {
+                "name": "https://www.contraloria.cl/web/cgr/trabajar-con-nosotros",
+                "url": "https://www.contraloria.cl/web/cgr/trabajar-con-nosotros"
               }
             ],
             "children": []
