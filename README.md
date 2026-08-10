@@ -561,6 +561,7 @@ Mirrors:
 - <https://jspaint.app/> (Dibujar/Pizarra)
 - <https://www.autodraw.com/> (Dibujar/Pizarra)
 - <https://app.affine.pro> (Dibujar/Pizarra)
+- <https://craftbase.org/> (Dibujar/Pizarra)
 - <https://studio.polotno.dev/> (Editor de diseños rápido)
 - <https://carbon.now.sh> (Compartir código como imagen)
 - <https://gettyimages-downloader.beatsnoop.com/> (Descargar imágenes stock sin marca de agua)
@@ -609,6 +610,7 @@ Mirrors:
 - <https://www.animal-photo-references.com/>
 - <https://www.vishopper.com/cut-out-people>
 - <https://www.inaturalist.org/observations>
+- <https://ezascii.com/image-to-ascii>
 
 #### Editar imágenes online
 
@@ -719,6 +721,7 @@ Mirrors:
 - <https://www.ultramock.io/>
 - <https://tokokino.com/app>
 - <https://ui.camera/>
+- <https://postspark.app/>
 
 #### Remover Fondos
 
@@ -1347,6 +1350,7 @@ Mirrors:
 - <https://lab.rselmi.com/>
 - <https://www.morphicons.com/>
 - <https://github.com/fayazara/portfolio-site-template>
+- <https://generativeloaders.com/>
 
 #### REACT Recursos
 
@@ -1765,6 +1769,7 @@ Mirrors:
 - <https://glyphs.fyi/dir>
 - <https://fonts.google.com/icons>
 - <https://reicon.dev/icons>
+- <https://logos.lndev.me/>
 
 ### Ilustraciones Gratuitas
 
