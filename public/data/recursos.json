@@ -1745,6 +1745,11 @@
             "description": "Dibujar/Pizarra"
           },
           {
+            "name": "https://craftbase.org/",
+            "url": "https://craftbase.org/",
+            "description": "Dibujar/Pizarra"
+          },
+          {
             "name": "https://studio.polotno.dev/",
             "url": "https://studio.polotno.dev/",
             "description": "Editor de diseños rápido"
@@ -1960,6 +1965,10 @@
           {
             "name": "https://www.inaturalist.org/observations",
             "url": "https://www.inaturalist.org/observations"
+          },
+          {
+            "name": "https://ezascii.com/image-to-ascii",
+            "url": "https://ezascii.com/image-to-ascii"
           }
         ],
         "children": [
@@ -2361,6 +2370,10 @@
               {
                 "name": "https://ui.camera/",
                 "url": "https://ui.camera/"
+              },
+              {
+                "name": "https://postspark.app/",
+                "url": "https://postspark.app/"
               }
             ],
             "children": []
@@ -4764,6 +4777,10 @@
                   {
                     "name": "https://github.com/fayazara/portfolio-site-template",
                     "url": "https://github.com/fayazara/portfolio-site-template"
+                  },
+                  {
+                    "name": "https://generativeloaders.com/",
+                    "url": "https://generativeloaders.com/"
                   }
                 ],
                 "children": []
@@ -6466,6 +6483,10 @@
           {
             "name": "https://reicon.dev/icons",
             "url": "https://reicon.dev/icons"
+          },
+          {
+            "name": "https://logos.lndev.me/",
+            "url": "https://logos.lndev.me/"
           }
         ],
         "children": []
