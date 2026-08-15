@@ -3549,6 +3549,10 @@
             "name": "https://ui8.ai/forge/",
             "url": "https://ui8.ai/forge/",
             "description": "free macOS app that turns any local web project into a visual canvas"
+          },
+          {
+            "name": "https://openmotion.design/",
+            "url": "https://openmotion.design/"
           }
         ],
         "children": [
@@ -4711,6 +4715,10 @@
                   {
                     "name": "https://widget.st/",
                     "url": "https://widget.st/"
+                  },
+                  {
+                    "name": "https://drawably-site.pages.dev/",
+                    "url": "https://drawably-site.pages.dev/"
                   }
                 ],
                 "children": []
@@ -9917,6 +9925,10 @@
           {
             "name": "https://www.theinternetdesigns.com/",
             "url": "https://www.theinternetdesigns.com/"
+          },
+          {
+            "name": "https://film-grab.com/",
+            "url": "https://film-grab.com/"
           }
         ],
         "children": []
@@ -10597,6 +10609,11 @@
           {
             "name": "https://github.com/f/prompts.chat",
             "url": "https://github.com/f/prompts.chat"
+          },
+          {
+            "name": "https://sceneai.art/",
+            "url": "https://sceneai.art/",
+            "description": "Prompts con ejemplos visuales"
           }
         ],
         "children": []

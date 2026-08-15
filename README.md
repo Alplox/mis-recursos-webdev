@@ -1029,6 +1029,7 @@ Mirrors:
 - <https://github.com/halfof8/patterngen-oss> (procedural pattern generator)
 - <https://offline.tldraw.com/>
 - <https://ui8.ai/forge/> (free macOS app that turns any local web project into a visual canvas)
+- <https://openmotion.design/>
 
 #### Editor Markdown
 
@@ -1332,6 +1333,7 @@ Mirrors:
 - <https://liquid-glass-oss.vercel.app/>
 - <https://www.vantaui.com/> (Pagada, Requiere cuenta)
 - <https://widget.st/>
+- <https://drawably-site.pages.dev/>
 
 ##### Animación Recursos
 
@@ -2648,6 +2650,7 @@ Mirrors:
 - <https://appllama.io/explore>
 - <https://trustmrr.com/>
 - <https://www.theinternetdesigns.com/>
+- <https://film-grab.com/>
 
 ## Cursos de pago
 
@@ -2822,6 +2825,7 @@ Mirrors:
 - <https://aipure.ai/>
 - <https://huggingface.co/collections/webml-community/transformersjs-v4-demos>
 - <https://github.com/f/prompts.chat>
+- <https://sceneai.art/> (Prompts con ejemplos visuales)
 
 ### AI Chatbot
 
