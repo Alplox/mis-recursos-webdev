@@ -538,6 +538,11 @@
       {
         "name": "https://get.dev/",
         "url": "https://get.dev/"
+      },
+      {
+        "name": "https://superpaste.app/",
+        "url": "https://superpaste.app/",
+        "description": "Paste anything. Download it"
       }
     ],
     "children": [
@@ -1610,6 +1615,14 @@
               {
                 "name": "https://components.ai/gradient/",
                 "url": "https://components.ai/gradient/"
+              },
+              {
+                "name": "https://auragradients.vercel.app/",
+                "url": "https://auragradients.vercel.app/"
+              },
+              {
+                "name": "https://gradientsaas.blogspot.com/",
+                "url": "https://gradientsaas.blogspot.com/"
               }
             ],
             "children": []
@@ -2152,6 +2165,10 @@
                 "name": "https://ink-inky.vercel.app/",
                 "url": "https://ink-inky.vercel.app/",
                 "description": "Dibujar como si fuese con tinta"
+              },
+              {
+                "name": "https://softle.app/",
+                "url": "https://softle.app/"
               }
             ],
             "children": []
@@ -2998,6 +3015,10 @@
           {
             "name": "https://www.arcoty.pe/app",
             "url": "https://www.arcoty.pe/app"
+          },
+          {
+            "name": "https://font-selector-phi.vercel.app/",
+            "url": "https://font-selector-phi.vercel.app/"
           }
         ],
         "children": []
@@ -4075,16 +4096,6 @@
             "url": "https://akira.sachi.dev/"
           },
           {
-            "name": "https://www.sensory-ui.com/",
-            "url": "https://www.sensory-ui.com/",
-            "description": "Web Audio"
-          },
-          {
-            "name": "https://cuelume-site.pages.dev/",
-            "url": "https://cuelume-site.pages.dev/",
-            "description": "Web Audio"
-          },
-          {
             "name": "https://klick-here.vercel.app/",
             "url": "https://klick-here.vercel.app/"
           },
@@ -4158,6 +4169,10 @@
           {
             "name": "https://github.com/HugoRCD/evlog",
             "url": "https://github.com/HugoRCD/evlog"
+          },
+          {
+            "name": "https://github.com/OpenLabs-so/openanalytics",
+            "url": "https://github.com/OpenLabs-so/openanalytics"
           }
         ],
         "children": [
@@ -4382,6 +4397,10 @@
               {
                 "name": "https://scriptc.dev/",
                 "url": "https://scriptc.dev/"
+              },
+              {
+                "name": "https://github.com/Effect-TS/effect",
+                "url": "https://github.com/Effect-TS/effect"
               }
             ],
             "children": []
@@ -4619,6 +4638,14 @@
               {
                 "name": "https://github.com/jal-co/holosticker",
                 "url": "https://github.com/jal-co/holosticker"
+              },
+              {
+                "name": "https://toolcraft.sh/",
+                "url": "https://toolcraft.sh/"
+              },
+              {
+                "name": "https://github.com/siliconjungle/inkwell-webgpu-flowers",
+                "url": "https://github.com/siliconjungle/inkwell-webgpu-flowers"
               }
             ],
             "children": [
@@ -4951,6 +4978,14 @@
                   {
                     "name": "https://metalforge.xyz/",
                     "url": "https://metalforge.xyz/"
+                  },
+                  {
+                    "name": "https://github.com/Code-with-Beto/swipe-menu-example",
+                    "url": "https://github.com/Code-with-Beto/swipe-menu-example"
+                  },
+                  {
+                    "name": "https://sahilcodex.vercel.app/components",
+                    "url": "https://sahilcodex.vercel.app/components"
                   }
                 ],
                 "children": []
@@ -4958,6 +4993,26 @@
             ]
           }
         ]
+      },
+      {
+        "id": "web-audio-api",
+        "name": "Web Audio API",
+        "level": 3,
+        "links": [
+          {
+            "name": "https://www.sensory-ui.com/",
+            "url": "https://www.sensory-ui.com/"
+          },
+          {
+            "name": "https://cuelume-site.pages.dev/",
+            "url": "https://cuelume-site.pages.dev/"
+          },
+          {
+            "name": "https://uisfx.com/",
+            "url": "https://uisfx.com/"
+          }
+        ],
+        "children": []
       }
     ]
   },
@@ -5133,6 +5188,11 @@
       {
         "name": "https://www.skills.google/",
         "url": "https://www.skills.google/"
+      },
+      {
+        "name": "https://www.youtube.com/playlist?list=PLXOJEg4xbr50",
+        "url": "https://www.youtube.com/playlist?list=PLXOJEg4xbr50",
+        "description": "CS50x en Español"
       }
     ],
     "children": [
@@ -5996,6 +6056,11 @@
           {
             "name": "https://yummy-design-sprint.notion.site/32762791470980f79c59f4580d377f3f?v=32762791470980f495ac000c95dece67",
             "url": "https://yummy-design-sprint.notion.site/32762791470980f79c59f4580d377f3f?v=32762791470980f495ac000c95dece67"
+          },
+          {
+            "name": "https://labex.io/",
+            "url": "https://labex.io/",
+            "description": "Linux, DevOps & Cybersecurity"
           }
         ],
         "children": []
@@ -6487,6 +6552,10 @@
           {
             "name": "https://logos.lndev.me/",
             "url": "https://logos.lndev.me/"
+          },
+          {
+            "name": "https://koboyo.com/icons",
+            "url": "https://koboyo.com/icons"
           }
         ],
         "children": []
@@ -7899,6 +7968,10 @@
             "name": "https://codepen.io/sadegh_rsg/pen/jOyobKN",
             "url": "https://codepen.io/sadegh_rsg/pen/jOyobKN",
             "description": "Página Sign Up"
+          },
+          {
+            "name": "https://miaai-lab.github.io/DS4F-100-HTML-Files/",
+            "url": "https://miaai-lab.github.io/DS4F-100-HTML-Files/"
           }
         ],
         "children": []
@@ -8780,6 +8853,15 @@
           {
             "name": "https://developer.x.com/exhibit",
             "url": "https://developer.x.com/exhibit"
+          },
+          {
+            "name": "https://nerdy.dev/",
+            "url": "https://nerdy.dev/"
+          },
+          {
+            "name": "https://www.biip.club/",
+            "url": "https://www.biip.club/",
+            "description": "Requiere cuenta, Copia de Skool"
           }
         ],
         "children": []
@@ -8943,6 +9025,11 @@
           {
             "name": "https://stateofaidesign.com/",
             "url": "https://stateofaidesign.com/"
+          },
+          {
+            "name": "https://save.design/",
+            "url": "https://save.design/",
+            "description": "Requiere cuenta"
           }
         ],
         "children": [
@@ -9186,6 +9273,14 @@
             "name": "https://sashabalandina.com/",
             "url": "https://sashabalandina.com/",
             "description": "Portafolio con snippets"
+          },
+          {
+            "name": "https://unsung.aresluna.org/",
+            "url": "https://unsung.aresluna.org/"
+          },
+          {
+            "name": "https://ignorethecode.net/blog/",
+            "url": "https://ignorethecode.net/blog/"
           }
         ],
         "children": []
@@ -9818,6 +9913,10 @@
           {
             "name": "https://trustmrr.com/",
             "url": "https://trustmrr.com/"
+          },
+          {
+            "name": "https://www.theinternetdesigns.com/",
+            "url": "https://www.theinternetdesigns.com/"
           }
         ],
         "children": []
@@ -11342,6 +11441,11 @@
             "name": "https://github.com/jamiepine/voicebox",
             "url": "https://github.com/jamiepine/voicebox",
             "description": "Clone any voice. Generate speech. Dictate into any app. Talk to agents in voices you own. Running locally on your machine"
+          },
+          {
+            "name": "https://huggingface.co/spaces/Loie/spotsound-temporal-grounding",
+            "url": "https://huggingface.co/spaces/Loie/spotsound-temporal-grounding",
+            "description": "Find when a described sound happens inside a long recording"
           }
         ],
         "children": []
@@ -11908,6 +12012,21 @@
             "name": "https://www.tokenrouter.com/",
             "url": "https://www.tokenrouter.com/",
             "description": "Pagada, Requiere cuenta, Ofrece modelos gratis"
+          },
+          {
+            "name": "https://lmspeed.net/",
+            "url": "https://lmspeed.net/",
+            "description": "Pagada, Requiere cuenta, Ofrece modelos gratis"
+          },
+          {
+            "name": "https://www.steelai.lol/",
+            "url": "https://www.steelai.lol/",
+            "description": "Pagada, Requiere cuenta"
+          },
+          {
+            "name": "https://www.tinyfish.ai/",
+            "url": "https://www.tinyfish.ai/",
+            "description": "Pagada, Requiere cuenta, 500 créditos gratis"
           }
         ],
         "children": [
@@ -12127,6 +12246,10 @@
               {
                 "name": "https://github.com/moorcheh-ai/memanto",
                 "url": "https://github.com/moorcheh-ai/memanto"
+              },
+              {
+                "name": "https://github.com/dmmulroy/anti-slop",
+                "url": "https://github.com/dmmulroy/anti-slop"
               }
             ],
             "children": []
@@ -12401,6 +12524,11 @@
             "description": "CLI Agentic coding"
           },
           {
+            "name": "https://xirp.spotify.com/",
+            "url": "https://xirp.spotify.com/",
+            "description": "CLI Agentic coding"
+          },
+          {
             "name": "https://www.pencil.dev/",
             "url": "https://www.pencil.dev/",
             "description": "Figma alternative"
@@ -12553,6 +12681,24 @@
             "name": "https://github.com/mydisha/keirouter",
             "url": "https://github.com/mydisha/keirouter",
             "description": "self-hostable AI gateway"
+          },
+          {
+            "name": "https://github.com/xinxinshuhao-create/grok-register",
+            "url": "https://github.com/xinxinshuhao-create/grok-register",
+            "description": "Automated account registration toolkit for x.ai (Grok) with SSO extraction, OAuth Device Flow, and auto-replenish daemon"
+          },
+          {
+            "name": "https://github.com/galfrevn/apollo",
+            "url": "https://github.com/galfrevn/apollo",
+            "description": "Open-source brain for physical agentic devices, powered by Cloudflare Workers"
+          },
+          {
+            "name": "https://github.com/echohive42/AI-reads-books-page-by-page",
+            "url": "https://github.com/echohive42/AI-reads-books-page-by-page"
+          },
+          {
+            "name": "https://www.snippetbar.com/",
+            "url": "https://www.snippetbar.com/"
           }
         ],
         "children": [
@@ -12601,6 +12747,15 @@
               {
                 "name": "https://github.com/magnitudedev/magnitude",
                 "url": "https://github.com/magnitudedev/magnitude"
+              },
+              {
+                "name": "https://cactuscompute.com/needle",
+                "url": "https://cactuscompute.com/needle",
+                "description": "An open 14MB model for tool calling, device use, and structured extraction"
+              },
+              {
+                "name": "https://github.com/BennyKok/omg.dev",
+                "url": "https://github.com/BennyKok/omg.dev"
               }
             ],
             "children": []
@@ -13484,6 +13639,11 @@
         "name": "https://fff.dmtrkovalenko.dev",
         "url": "https://fff.dmtrkovalenko.dev",
         "description": "Demo de busqueda no regex"
+      },
+      {
+        "name": "https://runey.app/",
+        "url": "https://runey.app/",
+        "description": "Create invoices, quotes and proposals for your clients"
       }
     ],
     "children": []

@@ -59,6 +59,7 @@ Mirrors:
       - [Animación Recursos](#animación-recursos)
     - [REACT Recursos](#react-recursos)
       - [Componentes](#componentes)
+    - [Web Audio API](#web-audio-api)
 - [Guías](#guías)
   - [Practicas/Ejercicios](#practicasejercicios)
   - [Guías visuales (Roadmap) para ser un web developer](#guías-visuales-roadmap-para-ser-un-web-developer)
@@ -246,6 +247,7 @@ Mirrors:
 - <https://namethatui.com/>
 - <https://chckr.co/> (Check site across website testing tools)
 - <https://get.dev/>
+- <https://superpaste.app/> (Paste anything. Download it)
 
 ### Editores de código online
 
@@ -522,6 +524,8 @@ Mirrors:
 - <https://meodai.github.io/dittoTones/>
 - <https://patterncraft.fun>
 - <https://components.ai/gradient/>
+- <https://auragradients.vercel.app/>
+- <https://gradientsaas.blogspot.com/>
 
 #### Animación
 
@@ -657,6 +661,7 @@ Mirrors:
 - <https://tech-collage-cyan.vercel.app/>
 - <https://valessa.riotters.com/> (3D product visualizer)
 - <https://ink-inky.vercel.app/> (Dibujar como si fuese con tinta)
+- <https://softle.app/>
 
 #### Editor PixelArt
 
@@ -883,6 +888,7 @@ Mirrors:
 - <https://fontastic.space/>
 - <https://www.letterbox.sh/> (Letras hechas de letras)
 - <https://www.arcoty.pe/app>
+- <https://font-selector-phi.vercel.app/>
 
 ### Compartir archivos
 
@@ -1177,8 +1183,6 @@ Mirrors:
 - <https://mdxjs.com/>
 - <https://zero-native.dev/>
 - <https://akira.sachi.dev/>
-- <https://www.sensory-ui.com/> (Web Audio)
-- <https://cuelume-site.pages.dev/> (Web Audio)
 - <https://klick-here.vercel.app/>
 - <https://uptimerobot.com/>
 - <https://turborepo.dev/>
@@ -1195,6 +1199,7 @@ Mirrors:
 - <https://atabook.org/> (free guestbook)
 - <https://diffs.com/>
 - <https://github.com/HugoRCD/evlog>
+- <https://github.com/OpenLabs-so/openanalytics>
 
 #### JS Recursos
 
@@ -1249,6 +1254,7 @@ Mirrors:
 - <https://culorijs.org/>
 - <https://jsonresume.org/>
 - <https://scriptc.dev/>
+- <https://github.com/Effect-TS/effect>
 
 #### CSS Recursos
 
@@ -1307,6 +1313,8 @@ Mirrors:
 - <https://beam.jakubantalik.com/>
 - <https://orbs.jakubantalik.com/>
 - <https://github.com/jal-co/holosticker>
+- <https://toolcraft.sh/>
+- <https://github.com/siliconjungle/inkwell-webgpu-flowers>
 
 ##### Estilos inspirados en otros preexistentes
 
@@ -1398,6 +1406,16 @@ Mirrors:
 - <https://github.com/mintdotgg/mint-playground/tree/main>
 - <https://github.com/TanStack/charts>
 - <https://metalforge.xyz/>
+- <https://github.com/Code-with-Beto/swipe-menu-example>
+- <https://sahilcodex.vercel.app/components>
+
+### Web Audio API
+
+[↑](#tabla-de-contenido)
+
+- <https://www.sensory-ui.com/>
+- <https://cuelume-site.pages.dev/>
+- <https://uisfx.com/>
 
 ## Guías
 
@@ -1440,6 +1458,7 @@ Mirrors:
 - <https://cursoreact.dev/>
 - <https://brrrviz.com/>
 - <https://www.skills.google/>
+- <https://www.youtube.com/playlist?list=PLXOJEg4xbr50> (CS50x en Español)
 
 ### Practicas/Ejercicios
 
@@ -1645,6 +1664,7 @@ Mirrors:
 - <https://arps18.github.io/posts/claude-code-mastery/>
 - <https://simonwillison.net/guides/agentic-engineering-patterns/>
 - <https://yummy-design-sprint.notion.site/32762791470980f79c59f4580d377f3f?v=32762791470980f495ac000c95dece67>
+- <https://labex.io/> (Linux, DevOps & Cybersecurity)
 
 ### Udemy
 
@@ -1770,6 +1790,7 @@ Mirrors:
 - <https://fonts.google.com/icons>
 - <https://reicon.dev/icons>
 - <https://logos.lndev.me/>
+- <https://koboyo.com/icons>
 
 ### Ilustraciones Gratuitas
 
@@ -2141,6 +2162,7 @@ Mirrors:
 - <https://css-tricks.com/snippets/html/glyphs/> (Caracteres especiales HTML)
 - <https://codepen.io/gita07/pen/QWKXBxw> (menubar)
 - <https://codepen.io/sadegh_rsg/pen/jOyobKN> (Página Sign Up)
+- <https://miaai-lab.github.io/DS4F-100-HTML-Files/>
 
 ### CSS Snippets
 
@@ -2355,6 +2377,8 @@ Mirrors:
 - <https://bugbountyscam.com/> (Registro de estafas de Bug Bounty)
 - <https://www.scrolllaunch.com/>
 - <https://developer.x.com/exhibit>
+- <https://nerdy.dev/>
+- <https://www.biip.club/> (Requiere cuenta, Copia de Skool)
 
 ### Foros Diseño
 
@@ -2398,6 +2422,7 @@ Mirrors:
 - <https://brandfetch.com/>
 - <https://www.framer.com/community/feed/>
 - <https://stateofaidesign.com/>
+- <https://save.design/> (Requiere cuenta)
 
 #### Design/Brand Guidelines
 
@@ -2463,6 +2488,8 @@ Mirrors:
 - <https://www.chele.bi/>
 - <https://drewdevault.com/>
 - <https://sashabalandina.com/> (Portafolio con snippets)
+- <https://unsung.aresluna.org/>
+- <https://ignorethecode.net/blog/>
 
 ### Inspiración exclusivamente
 
@@ -2620,6 +2647,7 @@ Mirrors:
 - <https://purelanding.page/>
 - <https://appllama.io/explore>
 - <https://trustmrr.com/>
+- <https://www.theinternetdesigns.com/>
 
 ## Cursos de pago
 
@@ -2990,6 +3018,7 @@ Mirrors:
 - <https://huggingface.co/spaces/Qwen/Qwen3-TTS>
 - <https://huggingface.co/nvidia/personaplex-7b-v1>
 - <https://github.com/jamiepine/voicebox> (Clone any voice. Generate speech. Dictate into any app. Talk to agents in voices you own. Running locally on your machine)
+- <https://huggingface.co/spaces/Loie/spotsound-temporal-grounding> (Find when a described sound happens inside a long recording)
 
 ### AI Música
 
@@ -3121,6 +3150,9 @@ Mirrors:
 - <https://openrouter.ai> (Pagada, Requiere cuenta, Ofrece modelos gratis)
 - <https://www.orcarouter.ai> (Pagada, Requiere cuenta, Ofrece modelos gratis)
 - <https://www.tokenrouter.com/> (Pagada, Requiere cuenta, Ofrece modelos gratis)
+- <https://lmspeed.net/> (Pagada, Requiere cuenta, Ofrece modelos gratis)
+- <https://www.steelai.lol/> (Pagada, Requiere cuenta)
+- <https://www.tinyfish.ai/> (Pagada, Requiere cuenta, 500 créditos gratis)
 
 #### Skills
 
@@ -3178,6 +3210,7 @@ Ejem [Are Repository-Level Context Files Helpful for Coding Agents?](https://arx
 - <https://github.com/nanonets/graft> (Optimización)
 - <https://github.com/codejunkie99/graph-engineering>
 - <https://github.com/moorcheh-ai/memanto>
+- <https://github.com/dmmulroy/anti-slop>
 
 #### Design.md
 
@@ -3246,6 +3279,7 @@ Ejem [Are Repository-Level Context Files Helpful for Coding Agents?](https://arx
 - <https://marketplace.visualstudio.com/items?itemName=robertpiosik.gemini-coder> (IDE Extension)
 - <https://supermaven.com/> (IDE)
 - <https://www.term-v0.app/> (CLI Agentic coding)
+- <https://xirp.spotify.com/> (CLI Agentic coding)
 - <https://www.pencil.dev/> (Figma alternative)
 - <https://github.com/jamiepine/voicebox/releases> (audio)
 - <https://openclaw.ai/> ("personal AI assistant")
@@ -3279,6 +3313,10 @@ Ejem [Are Repository-Level Context Files Helpful for Coding Agents?](https://arx
 - <https://github.com/AlexandrosGounis/rubber-duckie> (uses your mouse and keyboard to complete tasks for you)
 - <https://github.com/earendil-works/pi> (AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI)
 - <https://github.com/mydisha/keirouter> (self-hostable AI gateway)
+- <https://github.com/xinxinshuhao-create/grok-register> (Automated account registration toolkit for x.ai (Grok) with SSO extraction, OAuth Device Flow, and auto-replenish daemon)
+- <https://github.com/galfrevn/apollo> (Open-source brain for physical agentic devices, powered by Cloudflare Workers)
+- <https://github.com/echohive42/AI-reads-books-page-by-page>
+- <https://www.snippetbar.com/>
 
 #### AI Local
 
@@ -3294,6 +3332,8 @@ Ejem [Are Repository-Level Context Files Helpful for Coding Agents?](https://arx
 - <https://github.com/SimonSchubert/Kai>
 - <https://axolotl.ai/> (framework de código abierto para entrenar, ajustar (fine-tuning) y postentrenar modelos de lenguaje (LLMs) de forma eficiente)
 - <https://github.com/magnitudedev/magnitude>
+- <https://cactuscompute.com/needle> (An open 14MB model for tool calling, device use, and structured extraction)
+- <https://github.com/BennyKok/omg.dev>
 
 ## Búsqueda trabajo
 
@@ -3553,5 +3593,6 @@ También conocidos como: pagan por tarea
 - <https://generador.fantasmogenesis.com/> (Generador visuales para MIDI)
 - <https://derivative.ca/download> (Pagada, Generador visuales, Version gratis no comercial)
 - <https://fff.dmtrkovalenko.dev> (Demo de busqueda no regex)
+- <https://runey.app/> (Create invoices, quotes and proposals for your clients)
 
 <!-- resources-end -->
