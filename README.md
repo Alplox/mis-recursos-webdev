@@ -3056,6 +3056,7 @@ Mirrors:
 - <https://videomaker.me/> (5 seg gratis con Watermark)
 - <https://haiper.ai/> (Pagada, Requiere cuenta, 100 créditos gratis al mes con Watermark)
 - <https://pictory.ai/> (Pagada, Requiere cuenta)
+- <https://videos.social/?utm_source=alplox-mis-recursos-webdev&utm_medium=directory&utm_campaign=listing-wave-d> (Gratis: 1 render incluido. 1 crédito = 1 render)
 - <https://vivago.ai/> (Pagada, Requiere cuenta, 3 intentos gratis por dia de 5seg con Watermark (se puede evitar))
 - <https://ai.invideo.io/> (Pagada, Requiere cuenta, 10 minutos gratis con Watermark)
 - <https://workspace.google.com/products/vids/> (Pagada, Requiere cuenta)
