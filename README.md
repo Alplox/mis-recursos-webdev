@@ -1133,6 +1133,7 @@ Mirrors:
 - <https://helium.computer/>
 - <https://ladybird.org/>
 - <https://www.wikiboard.org/> (Es sitio web)
+- <https://aside.com/> ("AI")
 
 #### Web crawling
 
@@ -1422,6 +1423,7 @@ Mirrors:
 - <https://metalforge.xyz/>
 - <https://github.com/Code-with-Beto/swipe-menu-example>
 - <https://sahilcodex.vercel.app/components>
+- <https://www.aicss.dev/>
 
 ### Web Audio API
 
@@ -1805,6 +1807,7 @@ Mirrors:
 - <https://reicon.dev/icons>
 - <https://logos.lndev.me/>
 - <https://koboyo.com/icons>
+- <https://www.buttery.so/icons>
 
 ### Ilustraciones Gratuitas
 
@@ -2504,6 +2507,7 @@ Mirrors:
 - <https://sashabalandina.com/> (Portafolio con snippets)
 - <https://unsung.aresluna.org/>
 - <https://ignorethecode.net/blog/>
+- <https://www.rachelhow.com/blog>
 
 ### Inspiración exclusivamente
 
@@ -3171,6 +3175,7 @@ Mirrors:
 - <https://www.steelai.lol/> (Pagada, Requiere cuenta)
 - <https://www.tinyfish.ai/> (Pagada, Requiere cuenta, 500 créditos gratis)
 - <https://github.com/elder-plinius/OBLITERATUS> (open-source toolkit for understanding and removing refusal behaviors from large language models)
+- <https://vibeprompts.dev/>
 
 #### Skills
 
@@ -3336,6 +3341,7 @@ Ejem [Are Repository-Level Context Files Helpful for Coding Agents?](https://arx
 - <https://github.com/galfrevn/apollo> (Open-source brain for physical agentic devices, powered by Cloudflare Workers)
 - <https://github.com/echohive42/AI-reads-books-page-by-page>
 - <https://www.snippetbar.com/>
+- <https://www.deepseek.com/harness/>
 
 #### AI Local
 

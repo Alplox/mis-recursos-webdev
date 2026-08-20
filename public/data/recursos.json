@@ -3905,6 +3905,11 @@
                 "name": "https://www.wikiboard.org/",
                 "url": "https://www.wikiboard.org/",
                 "description": "Es sitio web"
+              },
+              {
+                "name": "https://aside.com/",
+                "url": "https://aside.com/",
+                "description": "\"AI\""
               }
             ],
             "children": []
@@ -5042,6 +5047,10 @@
                   {
                     "name": "https://sahilcodex.vercel.app/components",
                     "url": "https://sahilcodex.vercel.app/components"
+                  },
+                  {
+                    "name": "https://www.aicss.dev/",
+                    "url": "https://www.aicss.dev/"
                   }
                 ],
                 "children": []
@@ -6612,6 +6621,10 @@
           {
             "name": "https://koboyo.com/icons",
             "url": "https://koboyo.com/icons"
+          },
+          {
+            "name": "https://www.buttery.so/icons",
+            "url": "https://www.buttery.so/icons"
           }
         ],
         "children": []
@@ -9337,6 +9350,10 @@
           {
             "name": "https://ignorethecode.net/blog/",
             "url": "https://ignorethecode.net/blog/"
+          },
+          {
+            "name": "https://www.rachelhow.com/blog",
+            "url": "https://www.rachelhow.com/blog"
           }
         ],
         "children": []
@@ -12101,6 +12118,10 @@
             "name": "https://github.com/elder-plinius/OBLITERATUS",
             "url": "https://github.com/elder-plinius/OBLITERATUS",
             "description": "open-source toolkit for understanding and removing refusal behaviors from large language models"
+          },
+          {
+            "name": "https://vibeprompts.dev/",
+            "url": "https://vibeprompts.dev/"
           }
         ],
         "children": [
@@ -12777,6 +12798,10 @@
           {
             "name": "https://www.snippetbar.com/",
             "url": "https://www.snippetbar.com/"
+          },
+          {
+            "name": "https://www.deepseek.com/harness/",
+            "url": "https://www.deepseek.com/harness/"
           }
         ],
         "children": [
