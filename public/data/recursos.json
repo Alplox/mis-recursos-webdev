@@ -3910,6 +3910,54 @@
             "children": []
           },
           {
+            "id": "web-crawling",
+            "name": "Web crawling",
+            "level": 4,
+            "links": [
+              {
+                "name": "https://github.com/unclecode/crawl4ai",
+                "url": "https://github.com/unclecode/crawl4ai",
+                "description": "Open-source LLM Friendly Web Crawler & Scraper"
+              },
+              {
+                "name": "https://github.com/browser-use/browser-use",
+                "url": "https://github.com/browser-use/browser-use",
+                "description": "Make websites accessible for AI agents"
+              },
+              {
+                "name": "https://github.com/apify/crawlee",
+                "url": "https://github.com/apify/crawlee",
+                "description": "web scraping and browser automation library for Node.js to build reliable crawlers"
+              },
+              {
+                "name": "https://github.com/scrapy/scrapy",
+                "url": "https://github.com/scrapy/scrapy",
+                "description": "fast high-level web crawling & scraping framework for Python"
+              },
+              {
+                "name": "https://github.com/microsoft/markitdown",
+                "url": "https://github.com/microsoft/markitdown",
+                "description": "Python tool for converting files and office documents to Markdown"
+              },
+              {
+                "name": "https://github.com/D4Vinci/Scrapling",
+                "url": "https://github.com/D4Vinci/Scrapling",
+                "description": "an adaptive Web Scraping framework that handles everything from a single request to a full-scale crawl"
+              },
+              {
+                "name": "https://github.com/alirezamika/autoscraper",
+                "url": "https://github.com/alirezamika/autoscraper",
+                "description": "A Smart, Automatic, Fast and Lightweight Web Scraper for Python"
+              },
+              {
+                "name": "https://github.com/lwthiker/curl-impersonate",
+                "url": "https://github.com/lwthiker/curl-impersonate",
+                "description": "curl-impersonate: A special build of curl that can impersonate Chrome & Firefox"
+              }
+            ],
+            "children": []
+          },
+          {
             "id": "editores-video",
             "name": "Editores video",
             "level": 4,
@@ -9929,6 +9977,10 @@
           {
             "name": "https://film-grab.com/",
             "url": "https://film-grab.com/"
+          },
+          {
+            "name": "https://frontpages.dev/",
+            "url": "https://frontpages.dev/"
           }
         ],
         "children": []
@@ -12044,6 +12096,11 @@
             "name": "https://www.tinyfish.ai/",
             "url": "https://www.tinyfish.ai/",
             "description": "Pagada, Requiere cuenta, 500 créditos gratis"
+          },
+          {
+            "name": "https://github.com/elder-plinius/OBLITERATUS",
+            "url": "https://github.com/elder-plinius/OBLITERATUS",
+            "description": "open-source toolkit for understanding and removing refusal behaviors from large language models"
           }
         ],
         "children": [
@@ -12259,6 +12316,10 @@
               {
                 "name": "https://github.com/codejunkie99/graph-engineering",
                 "url": "https://github.com/codejunkie99/graph-engineering"
+              },
+              {
+                "name": "https://github.com/Graphify-Labs/graphify",
+                "url": "https://github.com/Graphify-Labs/graphify"
               },
               {
                 "name": "https://github.com/moorcheh-ai/memanto",
@@ -12773,6 +12834,10 @@
               {
                 "name": "https://github.com/BennyKok/omg.dev",
                 "url": "https://github.com/BennyKok/omg.dev"
+              },
+              {
+                "name": "https://goblincorps.com/gobbonet",
+                "url": "https://goblincorps.com/gobbonet"
               }
             ],
             "children": []
