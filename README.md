@@ -51,6 +51,7 @@ Mirrors:
       - [Extensiones](#extensiones)
     - [Editores imágenes](#editores-imágenes)
     - [Browsers](#browsers)
+    - [Web crawling](#web-crawling)
     - [Editores video](#editores-video)
   - [Librerías](#librerías)
     - [JS Recursos](#js-recursos)
@@ -1132,6 +1133,17 @@ Mirrors:
 - <https://helium.computer/>
 - <https://ladybird.org/>
 - <https://www.wikiboard.org/> (Es sitio web)
+
+#### Web crawling
+
+- <https://github.com/unclecode/crawl4ai> (Open-source LLM Friendly Web Crawler & Scraper)
+- <https://github.com/browser-use/browser-use> (Make websites accessible for AI agents)
+- <https://github.com/apify/crawlee> (web scraping and browser automation library for Node.js to build reliable crawlers)
+- <https://github.com/scrapy/scrapy> (fast high-level web crawling & scraping framework for Python)
+- <https://github.com/microsoft/markitdown> (Python tool for converting files and office documents to Markdown)
+- <https://github.com/D4Vinci/Scrapling> (an adaptive Web Scraping framework that handles everything from a single request to a full-scale crawl)
+- <https://github.com/alirezamika/autoscraper> (A Smart, Automatic, Fast and Lightweight Web Scraper for Python)
+- <https://github.com/lwthiker/curl-impersonate> (curl-impersonate: A special build of curl that can impersonate Chrome & Firefox)
 
 #### Editores video
 
@@ -2651,6 +2663,7 @@ Mirrors:
 - <https://trustmrr.com/>
 - <https://www.theinternetdesigns.com/>
 - <https://film-grab.com/>
+- <https://frontpages.dev/>
 
 ## Cursos de pago
 
@@ -3157,6 +3170,7 @@ Mirrors:
 - <https://lmspeed.net/> (Pagada, Requiere cuenta, Ofrece modelos gratis)
 - <https://www.steelai.lol/> (Pagada, Requiere cuenta)
 - <https://www.tinyfish.ai/> (Pagada, Requiere cuenta, 500 créditos gratis)
+- <https://github.com/elder-plinius/OBLITERATUS> (open-source toolkit for understanding and removing refusal behaviors from large language models)
 
 #### Skills
 
@@ -3213,6 +3227,7 @@ Ejem [Are Repository-Level Context Files Helpful for Coding Agents?](https://arx
 - <https://www.skilltune.dev/>
 - <https://github.com/nanonets/graft> (Optimización)
 - <https://github.com/codejunkie99/graph-engineering>
+- <https://github.com/Graphify-Labs/graphify>
 - <https://github.com/moorcheh-ai/memanto>
 - <https://github.com/dmmulroy/anti-slop>
 
@@ -3338,6 +3353,7 @@ Ejem [Are Repository-Level Context Files Helpful for Coding Agents?](https://arx
 - <https://github.com/magnitudedev/magnitude>
 - <https://cactuscompute.com/needle> (An open 14MB model for tool calling, device use, and structured extraction)
 - <https://github.com/BennyKok/omg.dev>
+- <https://goblincorps.com/gobbonet>
 
 ## Búsqueda trabajo
 
