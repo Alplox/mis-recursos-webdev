@@ -543,6 +543,10 @@
         "name": "https://superpaste.app/",
         "url": "https://superpaste.app/",
         "description": "Paste anything. Download it"
+      },
+      {
+        "name": "https://tree.icqr.com/",
+        "url": "https://tree.icqr.com/"
       }
     ],
     "children": [
@@ -2169,6 +2173,10 @@
               {
                 "name": "https://softle.app/",
                 "url": "https://softle.app/"
+              },
+              {
+                "name": "https://texture.fayaz.workers.dev/",
+                "url": "https://texture.fayaz.workers.dev/"
               }
             ],
             "children": []
@@ -6126,6 +6134,15 @@
             "name": "https://labex.io/",
             "url": "https://labex.io/",
             "description": "Linux, DevOps & Cybersecurity"
+          },
+          {
+            "name": "https://use-the-index-luke.com/",
+            "url": "https://use-the-index-luke.com/",
+            "description": "SQL"
+          },
+          {
+            "name": "https://inspectelement.org/apis.html",
+            "url": "https://inspectelement.org/apis.html"
           }
         ],
         "children": []
@@ -6367,6 +6384,10 @@
         "name": "https://docs.google.com/spreadsheets/d/1qfukmoA6EmNNUDTgr77TZ3AirdCbTQcPOtyEWJtrovE/",
         "url": "https://docs.google.com/spreadsheets/d/1qfukmoA6EmNNUDTgr77TZ3AirdCbTQcPOtyEWJtrovE/",
         "description": "Free Design Resources"
+      },
+      {
+        "name": "https://openalternative.co/",
+        "url": "https://openalternative.co/"
       }
     ],
     "children": [
@@ -8673,6 +8694,26 @@
           }
         ],
         "children": []
+      },
+      {
+        "id": "three-js-snippets",
+        "name": "Three.js Snippets",
+        "level": 3,
+        "links": [
+          {
+            "name": "https://github.com/MengTo/threeui",
+            "url": "https://github.com/MengTo/threeui"
+          },
+          {
+            "name": "https://github.com/cortiz2894/stylized-components",
+            "url": "https://github.com/cortiz2894/stylized-components"
+          },
+          {
+            "name": "https://github.com/SamG-Coder/threepp",
+            "url": "https://github.com/SamG-Coder/threepp"
+          }
+        ],
+        "children": []
       }
     ]
   },
@@ -9354,6 +9395,10 @@
           {
             "name": "https://www.rachelhow.com/blog",
             "url": "https://www.rachelhow.com/blog"
+          },
+          {
+            "name": "https://blog.kunchenguid.com/",
+            "url": "https://blog.kunchenguid.com/"
           }
         ],
         "children": []
@@ -11787,6 +11832,11 @@
             "name": "https://app.beeble.ai/home",
             "url": "https://app.beeble.ai/home",
             "description": "Pagada, Requiere cuenta, 90 créditos gratis para usos no comerciales"
+          },
+          {
+            "name": "https://hycreator.tencent.com/",
+            "url": "https://hycreator.tencent.com/",
+            "description": "Agent Harness for Long Video Generation"
           }
         ],
         "children": []
@@ -12122,6 +12172,16 @@
           {
             "name": "https://vibeprompts.dev/",
             "url": "https://vibeprompts.dev/"
+          },
+          {
+            "name": "https://dactyl.dev/",
+            "url": "https://dactyl.dev/",
+            "description": "Pagada, Requiere cuenta, 100 créditos gratis"
+          },
+          {
+            "name": "https://replit.com/",
+            "url": "https://replit.com/",
+            "description": "Pagada, Requiere cuenta, créditos gratis diarios"
           }
         ],
         "children": [
@@ -12349,6 +12409,11 @@
               {
                 "name": "https://github.com/dmmulroy/anti-slop",
                 "url": "https://github.com/dmmulroy/anti-slop"
+              },
+              {
+                "name": "https://github.com/MohamedAbdallah-14/unslop",
+                "url": "https://github.com/MohamedAbdallah-14/unslop",
+                "description": "Make AI output sound human. Strips AI-isms (sycophancy, stock vocab, hedging stacks, em-dash pileups)"
               }
             ],
             "children": []
@@ -12500,6 +12565,10 @@
               {
                 "name": "https://github.com/elayadesign/ai-design-skills",
                 "url": "https://github.com/elayadesign/ai-design-skills"
+              },
+              {
+                "name": "https://github.com/ericzakariasson/scandinavian-design",
+                "url": "https://github.com/ericzakariasson/scandinavian-design"
               }
             ],
             "children": []
@@ -12802,6 +12871,35 @@
           {
             "name": "https://www.deepseek.com/harness/",
             "url": "https://www.deepseek.com/harness/"
+          },
+          {
+            "name": "https://github.com/FlashML-org/FreeToken",
+            "url": "https://github.com/FlashML-org/FreeToken",
+            "description": "edge-native Mixture-of-Experts (MoE) serving engine designed for running frontier-scale open-weight models on personal and consumer hardware"
+          },
+          {
+            "name": "https://github.com/block/buzz",
+            "url": "https://github.com/block/buzz",
+            "description": "self-hostable workspace where humans and AI agents share the same rooms"
+          },
+          {
+            "name": "https://omp.sh/",
+            "url": "https://omp.sh/",
+            "description": "CLI Agentic coding"
+          },
+          {
+            "name": "https://github.com/Nekodificador/ComfyUI-NKD-Basic-Tools",
+            "url": "https://github.com/Nekodificador/ComfyUI-NKD-Basic-Tools"
+          },
+          {
+            "name": "https://github.com/software-mansion/argent",
+            "url": "https://github.com/software-mansion/argent",
+            "description": "An agentic toolkit to control, debug, and profile iOS and Android apps"
+          },
+          {
+            "name": "https://github.com/sammwyy/clay",
+            "url": "https://github.com/sammwyy/clay",
+            "description": "Compact coding-agent harness"
           }
         ],
         "children": [
@@ -12952,6 +13050,10 @@
         "name": "https://www.encuadrado.com/",
         "url": "https://www.encuadrado.com/",
         "description": "Pagada"
+      },
+      {
+        "name": "https://jobsora.com/",
+        "url": "https://jobsora.com/"
       }
     ],
     "children": [
@@ -12960,6 +13062,11 @@
         "name": "Chile Búsqueda trabajo",
         "level": 3,
         "links": [
+          {
+            "name": "https://www.dt.gob.cl",
+            "url": "https://www.dt.gob.cl",
+            "description": "Tramites"
+          },
           {
             "name": "https://www.bne.cl/",
             "url": "https://www.bne.cl/"
@@ -13019,6 +13126,10 @@
           {
             "name": "https://www.kitempleo.cl/",
             "url": "https://www.kitempleo.cl/"
+          },
+          {
+            "name": "https://www.randstad.cl/",
+            "url": "https://www.randstad.cl/"
           }
         ],
         "children": [
@@ -13118,6 +13229,10 @@
               {
                 "name": "https://www.cmfchile.cl/portal/principal/623/w4-propertyvalue-48678.html",
                 "url": "https://www.cmfchile.cl/portal/principal/623/w4-propertyvalue-48678.html"
+              },
+              {
+                "name": "https://amchamchile.cl/trabaja-con-nosotros/",
+                "url": "https://amchamchile.cl/trabaja-con-nosotros/"
               }
             ],
             "children": []
