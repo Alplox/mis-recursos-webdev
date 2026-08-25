@@ -86,6 +86,7 @@ Mirrors:
   - [CSS Snippets](#css-snippets)
     - [Typewriter effect](#typewriter-effect)
   - [JS Snippets](#js-snippets)
+  - [Three.js Snippets](#threejs-snippets)
 - [Cheatsheets](#cheatsheets)
 - [Foros-Blogs-Inspiración](#foros-blogs-inspiración)
   - [Foros Desarrollo](#foros-desarrollo)
@@ -249,6 +250,7 @@ Mirrors:
 - <https://chckr.co/> (Check site across website testing tools)
 - <https://get.dev/>
 - <https://superpaste.app/> (Paste anything. Download it)
+- <https://tree.icqr.com/>
 
 ### Editores de código online
 
@@ -663,6 +665,7 @@ Mirrors:
 - <https://valessa.riotters.com/> (3D product visualizer)
 - <https://ink-inky.vercel.app/> (Dibujar como si fuese con tinta)
 - <https://softle.app/>
+- <https://texture.fayaz.workers.dev/>
 
 #### Editor PixelArt
 
@@ -1524,7 +1527,7 @@ Mirrors:
 - <https://mosaic.uoc.edu/2015/09/15/proceso-de-desarrollo-de-un-proyecto-digital/> (Guía de las etapas por la que pasa el diseño de una web o una aplicación informática)
 - <https://medium.com/@meetchopz/10-bad-typography-habits-that-scream-amateur-8bac07f9c041> (10 malos hábitos tipográficos)
 - <https://www.smashingmagazine.com/2016/04/web-developer-guide-color/> (Guía de selección de color)
-- <https://medium.com/refactoring-ui/7-practical-tips-for-cheating-at-design-40c736799886>  (Tips diseño UI)
+- <https://medium.com/refactoring-ui/7-practical-tips-for-cheating-at-design-40c736799886> (Tips diseño UI)
 - <https://1linelayouts.glitch.me/> (10 layouts CSS)
 - <https://www.oakharborwebdesigns.com/blog/articles/how-to-design-a-website.html#blog-post> (Artículo con consejos respecto a diseñar un sitio web)
 - <https://www.matuzo.at/blog/html-boilerplate/> (Artículo que explica estructura básica documento HTML)
@@ -1681,6 +1684,8 @@ Mirrors:
 - <https://simonwillison.net/guides/agentic-engineering-patterns/>
 - <https://yummy-design-sprint.notion.site/32762791470980f79c59f4580d377f3f?v=32762791470980f495ac000c95dece67>
 - <https://labex.io/> (Linux, DevOps & Cybersecurity)
+- <https://use-the-index-luke.com/> (SQL)
+- <https://inspectelement.org/apis.html>
 
 ### Udemy
 
@@ -1741,6 +1746,7 @@ Mirrors:
 - <https://www.behance.net/search/projects/FREE>
 - <https://itsfree.dev/>
 - <https://docs.google.com/spreadsheets/d/1qfukmoA6EmNNUDTgr77TZ3AirdCbTQcPOtyEWJtrovE/> (Free Design Resources)
+- <https://openalternative.co/>
 
 ### Iconos Gratuitos
 
@@ -1941,7 +1947,7 @@ Mirrors:
 - <https://mobirise.com/bootstrap-4-theme/navbar-template.html> (Bootstrap)
 - <https://html5up.net/> (Templates HTML5)
 - <https://cruip.com/free-templates/> (Templates HTML5)
-- <https://mobirise.com/html-templates/>  (Templates HTML5)
+- <https://mobirise.com/html-templates/> (Templates HTML5)
 - <https://nightfury-alfa.com/pages/codingsnow/codingsnow.php> (Templates variadas)
 - <https://www.free-css.com/free-css-templates> (Templates CSS)
 - <https://www.zerotheme.com/> (Templates variadas)
@@ -2325,6 +2331,14 @@ Mirrors:
 - <https://palekirill.github.io/genius-loci-home/>
 - <https://www.anainsomnia.com/forge-dynamics>
 
+### Three.js Snippets
+
+[↑](#tabla-de-contenido)
+
+- <https://github.com/MengTo/threeui>
+- <https://github.com/cortiz2894/stylized-components>
+- <https://github.com/SamG-Coder/threepp>
+
 ## Cheatsheets
 
 [↑](#tabla-de-contenido)
@@ -2508,6 +2522,7 @@ Mirrors:
 - <https://unsung.aresluna.org/>
 - <https://ignorethecode.net/blog/>
 - <https://www.rachelhow.com/blog>
+- <https://blog.kunchenguid.com/>
 
 ### Inspiración exclusivamente
 
@@ -2939,7 +2954,7 @@ Mirrors:
 - <https://www.appypie.com/design/meme/maker>
 - <https://kaiber.ai/> (Requiere cuenta - videos cortos e imágenes)
 - <https://klingai.com/> (Requiere cuenta - videos cortos e imágenes)
-- <https://leonardo.ai/>  (Requiere cuenta - videos cortos e imágenes)
+- <https://leonardo.ai/> (Requiere cuenta - videos cortos e imágenes)
 - <https://ideogram.ai/> (Requiere cuenta)
 - <https://replicate.com/stability-ai/stable-diffusion-3.5-large-turbo> (Pagada, Requiere cuenta)
 - <https://replicate.com/stability-ai/stable-diffusion-3.5-large> (Pagada, Requiere cuenta)
@@ -3100,6 +3115,7 @@ Mirrors:
 - <https://beta-agent.opus.pro/> (Requiere cuenta)
 - <https://editframe.com/> (Pagada, Requiere cuenta, gratis para usos no comerciales)
 - <https://app.beeble.ai/home> (Pagada, Requiere cuenta, 90 créditos gratis para usos no comerciales)
+- <https://hycreator.tencent.com/> (Agent Harness for Long Video Generation)
 
 ### AI Vibe Coding
 
@@ -3176,6 +3192,8 @@ Mirrors:
 - <https://www.tinyfish.ai/> (Pagada, Requiere cuenta, 500 créditos gratis)
 - <https://github.com/elder-plinius/OBLITERATUS> (open-source toolkit for understanding and removing refusal behaviors from large language models)
 - <https://vibeprompts.dev/>
+- <https://dactyl.dev/> (Pagada, Requiere cuenta, 100 créditos gratis)
+- <https://replit.com/> (Pagada, Requiere cuenta, créditos gratis diarios)
 
 #### Skills
 
@@ -3235,6 +3253,7 @@ Ejem [Are Repository-Level Context Files Helpful for Coding Agents?](https://arx
 - <https://github.com/Graphify-Labs/graphify>
 - <https://github.com/moorcheh-ai/memanto>
 - <https://github.com/dmmulroy/anti-slop>
+- <https://github.com/MohamedAbdallah-14/unslop> (Make AI output sound human. Strips AI-isms (sycophancy, stock vocab, hedging stacks, em-dash pileups))
 
 #### Design.md
 
@@ -3275,6 +3294,7 @@ Ejem [Are Repository-Level Context Files Helpful for Coding Agents?](https://arx
 - <https://commandcode.ai/docs/design>
 - <https://loora.design/>
 - <https://github.com/elayadesign/ai-design-skills>
+- <https://github.com/ericzakariasson/scandinavian-design>
 
 ### AI Software
 
@@ -3342,6 +3362,12 @@ Ejem [Are Repository-Level Context Files Helpful for Coding Agents?](https://arx
 - <https://github.com/echohive42/AI-reads-books-page-by-page>
 - <https://www.snippetbar.com/>
 - <https://www.deepseek.com/harness/>
+- <https://github.com/FlashML-org/FreeToken> (edge-native Mixture-of-Experts (MoE) serving engine designed for running frontier-scale open-weight models on personal and consumer hardware)
+- <https://github.com/block/buzz> (self-hostable workspace where humans and AI agents share the same rooms)
+- <https://omp.sh/> (CLI Agentic coding)
+- <https://github.com/Nekodificador/ComfyUI-NKD-Basic-Tools>
+- <https://github.com/software-mansion/argent> (An agentic toolkit to control, debug, and profile iOS and Android apps)
+- <https://github.com/sammwyy/clay> (Compact coding-agent harness)
 
 #### AI Local
 
@@ -3384,11 +3410,13 @@ Ejem [Are Repository-Level Context Files Helpful for Coding Agents?](https://arx
 - <https://www.google.com/about/careers/applications/>
 - <https://www.sercanto.cl/>
 - <https://www.encuadrado.com/> (Pagada)
+- <https://jobsora.com/>
 
 ### Chile Búsqueda trabajo
 
 [↑](#tabla-de-contenido)
 
+- <https://www.dt.gob.cl> (Tramites)
 - <https://www.bne.cl/>
 - <https://firstjob.me/>
 - <https://www.chiletrabajos.cl/>
@@ -3404,6 +3432,7 @@ Ejem [Are Repository-Level Context Files Helpful for Coding Agents?](https://arx
 - <https://www.stack.cl/>
 - <https://www.admisionarmada.cl/concursos/>
 - <https://www.kitempleo.cl/>
+- <https://www.randstad.cl/>
 
 #### Páginas de empleo Gobierno
 
@@ -3434,10 +3463,13 @@ Ejem [Are Repository-Level Context Files Helpful for Coding Agents?](https://arx
 
 #### Páginas de empleo Corporativas
 
+*No promocionadas, solo las encontre y puede que ha alguien le sirvan
+
 [↑](#tabla-de-contenido)
 
 - <https://www.fintoc.com/careers#vacantes>
 - <https://www.cmfchile.cl/portal/principal/623/w4-propertyvalue-48678.html>
+- <https://amchamchile.cl/trabaja-con-nosotros/>
 
 ### Remoto
 
