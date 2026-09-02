@@ -1120,6 +1120,10 @@
           {
             "name": "https://kigen.design/color",
             "url": "https://kigen.design/color"
+          },
+          {
+            "name": "https://www.ramps.studio/",
+            "url": "https://www.ramps.studio/"
           }
         ],
         "children": [
@@ -3561,6 +3565,10 @@
           {
             "name": "https://openmotion.design/",
             "url": "https://openmotion.design/"
+          },
+          {
+            "name": "https://nostrapps.com/",
+            "url": "https://nostrapps.com/"
           }
         ],
         "children": [
@@ -3820,6 +3828,11 @@
               {
                 "name": "https://arcbrush.com/",
                 "url": "https://arcbrush.com/"
+              },
+              {
+                "name": "https://kalapaint.app/",
+                "url": "https://kalapaint.app/",
+                "description": "Pagada"
               }
             ],
             "children": []
@@ -3966,6 +3979,21 @@
                 "name": "https://github.com/lwthiker/curl-impersonate",
                 "url": "https://github.com/lwthiker/curl-impersonate",
                 "description": "curl-impersonate: A special build of curl that can impersonate Chrome & Firefox"
+              },
+              {
+                "name": "https://www.tavily.com/",
+                "url": "https://www.tavily.com/",
+                "description": "Freemium, Requiere cuenta, API for real-time web access"
+              },
+              {
+                "name": "https://parallel.ai/",
+                "url": "https://parallel.ai/",
+                "description": "Pagada, Requiere cuenta, API for real-time web access"
+              },
+              {
+                "name": "https://exa.ai/",
+                "url": "https://exa.ai/",
+                "description": "Freemium, Requiere cuenta, API for real-time web access"
               }
             ],
             "children": []
@@ -4238,6 +4266,10 @@
           {
             "name": "https://github.com/OpenLabs-so/openanalytics",
             "url": "https://github.com/OpenLabs-so/openanalytics"
+          },
+          {
+            "name": "https://nostr.org/",
+            "url": "https://nostr.org/"
           }
         ],
         "children": [
@@ -4466,6 +4498,11 @@
               {
                 "name": "https://github.com/Effect-TS/effect",
                 "url": "https://github.com/Effect-TS/effect"
+              },
+              {
+                "name": "https://scrit.to/",
+                "url": "https://scrit.to/",
+                "description": "JavaScript library that animates text in place"
               }
             ],
             "children": []
@@ -4711,6 +4748,10 @@
               {
                 "name": "https://github.com/siliconjungle/inkwell-webgpu-flowers",
                 "url": "https://github.com/siliconjungle/inkwell-webgpu-flowers"
+              },
+              {
+                "name": "https://labs.cuvii.dev/volume/phosphor",
+                "url": "https://labs.cuvii.dev/volume/phosphor"
               }
             ],
             "children": [
@@ -5059,6 +5100,10 @@
                   {
                     "name": "https://www.aicss.dev/",
                     "url": "https://www.aicss.dev/"
+                  },
+                  {
+                    "name": "https://www.rareui.com/",
+                    "url": "https://www.rareui.com/"
                   }
                 ],
                 "children": []
@@ -6006,6 +6051,11 @@
             "description": "Web Design"
           },
           {
+            "name": "https://learn-ui.com/",
+            "url": "https://learn-ui.com/",
+            "description": "Web Design"
+          },
+          {
             "name": "https://practicaltypography.com/typography-in-ten-minutes.html",
             "url": "https://practicaltypography.com/typography-in-ten-minutes.html",
             "description": "Tipografía"
@@ -6143,6 +6193,18 @@
           {
             "name": "https://inspectelement.org/apis.html",
             "url": "https://inspectelement.org/apis.html"
+          },
+          {
+            "name": "https://learn-data-systems.vercel.app/",
+            "url": "https://learn-data-systems.vercel.app/"
+          },
+          {
+            "name": "https://learn-kernels.com/",
+            "url": "https://learn-kernels.com/"
+          },
+          {
+            "name": "https://learn-inference.com/",
+            "url": "https://learn-inference.com/"
           }
         ],
         "children": []
@@ -6863,6 +6925,10 @@
           {
             "name": "https://github.com/googlefonts/noto-emoji",
             "url": "https://github.com/googlefonts/noto-emoji"
+          },
+          {
+            "name": "https://bryllim.github.io/workout-guide/",
+            "url": "https://bryllim.github.io/workout-guide/"
           }
         ],
         "children": []
@@ -7040,6 +7106,11 @@
           {
             "name": "https://www.lummi.ai/",
             "url": "https://www.lummi.ai/",
+            "description": "AI CC0"
+          },
+          {
+            "name": "https://www.imageory.in/",
+            "url": "https://www.imageory.in/",
             "description": "AI CC0"
           },
           {
@@ -7595,6 +7666,10 @@
           {
             "name": "https://straw.page/",
             "url": "https://straw.page/"
+          },
+          {
+            "name": "https://gitworkshop.dev/",
+            "url": "https://gitworkshop.dev/"
           }
         ],
         "children": []
@@ -9399,6 +9474,14 @@
           {
             "name": "https://blog.kunchenguid.com/",
             "url": "https://blog.kunchenguid.com/"
+          },
+          {
+            "name": "https://benji.org/",
+            "url": "https://benji.org/"
+          },
+          {
+            "name": "https://nodeweekly.com/issues",
+            "url": "https://nodeweekly.com/issues"
           }
         ],
         "children": []
@@ -10043,6 +10126,10 @@
           {
             "name": "https://frontpages.dev/",
             "url": "https://frontpages.dev/"
+          },
+          {
+            "name": "https://landdding.com/",
+            "url": "https://landdding.com/"
           }
         ],
         "children": []
@@ -10864,10 +10951,6 @@
             "url": "https://4o.run/"
           },
           {
-            "name": "https://exa.ai/",
-            "url": "https://exa.ai/"
-          },
-          {
             "name": "https://www.chatpdf.com/",
             "url": "https://www.chatpdf.com/"
           },
@@ -10965,6 +11048,11 @@
                 "name": "https://github.com/blader/humanizer",
                 "url": "https://github.com/blader/humanizer",
                 "description": "skill that removes signs of AI-generated writing from text"
+              },
+              {
+                "name": "https://github.com/Nanako0129/sepia",
+                "url": "https://github.com/Nanako0129/sepia",
+                "description": "De-AI writing skill for any Agent Skills-compatible agent. Narrative-architecture repair for fiction, venue-matched rules for professional prose"
               }
             ],
             "children": []
@@ -11577,6 +11665,11 @@
             "name": "https://huggingface.co/spaces/Loie/spotsound-temporal-grounding",
             "url": "https://huggingface.co/spaces/Loie/spotsound-temporal-grounding",
             "description": "Find when a described sound happens inside a long recording"
+          },
+          {
+            "name": "https://github.com/debpalash/VoiceStudio",
+            "url": "https://github.com/debpalash/VoiceStudio",
+            "description": "open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages"
           }
         ],
         "children": []
@@ -11837,6 +11930,16 @@
             "name": "https://hycreator.tencent.com/",
             "url": "https://hycreator.tencent.com/",
             "description": "Agent Harness for Long Video Generation"
+          },
+          {
+            "name": "https://github.com/veedstudio/open-edit",
+            "url": "https://github.com/veedstudio/open-edit",
+            "description": "Open-source, agent-driven editing pipeline"
+          },
+          {
+            "name": "https://aicameramovements.com/",
+            "url": "https://aicameramovements.com/",
+            "description": "Camera movement prompts"
           }
         ],
         "children": []
@@ -12403,6 +12506,11 @@
                 "url": "https://github.com/Graphify-Labs/graphify"
               },
               {
+                "name": "https://github.com/abhigyanpatwari/GitNexus",
+                "url": "https://github.com/abhigyanpatwari/GitNexus",
+                "description": "client-side knowledge graph creator that runs entirely in your browser"
+              },
+              {
                 "name": "https://github.com/moorcheh-ai/memanto",
                 "url": "https://github.com/moorcheh-ai/memanto"
               },
@@ -12414,6 +12522,16 @@
                 "name": "https://github.com/MohamedAbdallah-14/unslop",
                 "url": "https://github.com/MohamedAbdallah-14/unslop",
                 "description": "Make AI output sound human. Strips AI-isms (sycophancy, stock vocab, hedging stacks, em-dash pileups)"
+              },
+              {
+                "name": "https://github.com/subsy/skill-cabinet",
+                "url": "https://github.com/subsy/skill-cabinet",
+                "description": "A local catalog for agent skills installed on your machine"
+              },
+              {
+                "name": "https://www.warp.dev/skill-doctor",
+                "url": "https://www.warp.dev/skill-doctor",
+                "description": "Optimización"
               }
             ],
             "children": []
@@ -13866,6 +13984,10 @@
         "name": "https://runey.app/",
         "url": "https://runey.app/",
         "description": "Create invoices, quotes and proposals for your clients"
+      },
+      {
+        "name": "https://warmwind.com/",
+        "url": "https://warmwind.com/"
       }
     ],
     "children": []
