@@ -398,6 +398,7 @@ Mirrors:
 - <https://github.com/meodai/color-names>
 - <https://farbvelo.elastiq.ch>
 - <https://kigen.design/color>
+- <https://www.ramps.studio/>
 
 #### Revisar contraste
 
@@ -1034,6 +1035,7 @@ Mirrors:
 - <https://offline.tldraw.com/>
 - <https://ui8.ai/forge/> (free macOS app that turns any local web project into a visual canvas)
 - <https://openmotion.design/>
+- <https://nostrapps.com/>
 
 #### Editor Markdown
 
@@ -1110,6 +1112,7 @@ Mirrors:
 - <https://www.pixelmator.com/pro/> (Pagada)
 - <https://upscayl.org/>
 - <https://arcbrush.com/>
+- <https://kalapaint.app/> (Pagada)
 
 #### Browsers
 
@@ -1148,6 +1151,9 @@ Mirrors:
 - <https://github.com/D4Vinci/Scrapling> (an adaptive Web Scraping framework that handles everything from a single request to a full-scale crawl)
 - <https://github.com/alirezamika/autoscraper> (A Smart, Automatic, Fast and Lightweight Web Scraper for Python)
 - <https://github.com/lwthiker/curl-impersonate> (curl-impersonate: A special build of curl that can impersonate Chrome & Firefox)
+- <https://www.tavily.com/> (Freemium, Requiere cuenta, API for real-time web access)
+- <https://parallel.ai/> (Pagada, Requiere cuenta, API for real-time web access)
+- <https://exa.ai/> (Freemium, Requiere cuenta, API for real-time web access)
 
 #### Editores video
 
@@ -1217,6 +1223,7 @@ Mirrors:
 - <https://diffs.com/>
 - <https://github.com/HugoRCD/evlog>
 - <https://github.com/OpenLabs-so/openanalytics>
+- <https://nostr.org/>
 
 #### JS Recursos
 
@@ -1272,6 +1279,7 @@ Mirrors:
 - <https://jsonresume.org/>
 - <https://scriptc.dev/>
 - <https://github.com/Effect-TS/effect>
+- <https://scrit.to/> (JavaScript library that animates text in place)
 
 #### CSS Recursos
 
@@ -1332,6 +1340,7 @@ Mirrors:
 - <https://github.com/jal-co/holosticker>
 - <https://toolcraft.sh/>
 - <https://github.com/siliconjungle/inkwell-webgpu-flowers>
+- <https://labs.cuvii.dev/volume/phosphor>
 
 ##### Estilos inspirados en otros preexistentes
 
@@ -1427,6 +1436,7 @@ Mirrors:
 - <https://github.com/Code-with-Beto/swipe-menu-example>
 - <https://sahilcodex.vercel.app/components>
 - <https://www.aicss.dev/>
+- <https://www.rareui.com/>
 
 ### Web Audio API
 
@@ -1654,6 +1664,7 @@ Mirrors:
 - <https://www.designsystems.com/> (Web Design)
 - <https://frontendchecklist.io/> (Web Design)
 - <https://www.userinterface.wiki/> (Web Design)
+- <https://learn-ui.com/> (Web Design)
 - <https://practicaltypography.com/typography-in-ten-minutes.html> (Tipografía)
 - <http://www.typogui.de/> (Tipografía)
 - <https://betterwebtype.com/> (Requiere cuenta, Tipografía)
@@ -1686,6 +1697,9 @@ Mirrors:
 - <https://labex.io/> (Linux, DevOps & Cybersecurity)
 - <https://use-the-index-luke.com/> (SQL)
 - <https://inspectelement.org/apis.html>
+- <https://learn-data-systems.vercel.app/>
+- <https://learn-kernels.com/>
+- <https://learn-inference.com/>
 
 ### Udemy
 
@@ -1869,6 +1883,7 @@ Mirrors:
 - <https://www.transhumans.xyz/>
 - <https://brixmoji.com/>
 - <https://github.com/googlefonts/noto-emoji>
+- <https://bryllim.github.io/workout-guide/>
 
 ### Imágenes Gratuitas
 
@@ -1915,6 +1930,7 @@ Mirrors:
 - <https://giphy.com>
 - <https://dupephotos.com/>
 - <https://www.lummi.ai/> (AI CC0)
+- <https://www.imageory.in/> (AI CC0)
 - <https://microsoft.design/wallpapers/>
 - <https://texturelabs.org/>
 - <https://www.nga.gov/artworks/free-images-and-open-access> (CC0)
@@ -2064,6 +2080,7 @@ Mirrors:
 - <https://codeberg.org/>
 - <https://github.com/corebunch/instatic>
 - <https://straw.page/>
+- <https://gitworkshop.dev/>
 
 ### Incluyen de pago
 
@@ -2523,6 +2540,8 @@ Mirrors:
 - <https://ignorethecode.net/blog/>
 - <https://www.rachelhow.com/blog>
 - <https://blog.kunchenguid.com/>
+- <https://benji.org/>
+- <https://nodeweekly.com/issues>
 
 ### Inspiración exclusivamente
 
@@ -2683,6 +2702,7 @@ Mirrors:
 - <https://www.theinternetdesigns.com/>
 - <https://film-grab.com/>
 - <https://frontpages.dev/>
+- <https://landdding.com/>
 
 ## Cursos de pago
 
@@ -2893,7 +2913,6 @@ Mirrors:
 - <https://groq.com/> (Requiere cuenta)
 - <https://www.turboseek.io/>
 - <https://4o.run/>
-- <https://exa.ai/>
 - <https://www.chatpdf.com/>
 - <https://thegigabrain.com/>
 - <https://delve.a9.io/>
@@ -2918,6 +2937,7 @@ Mirrors:
 #### Skills Chatbots
 
 - <https://github.com/blader/humanizer> (skill that removes signs of AI-generated writing from text)
+- <https://github.com/Nanako0129/sepia> (De-AI writing skill for any Agent Skills-compatible agent. Narrative-architecture repair for fiction, venue-matched rules for professional prose)
 
 ### AI Imágenes
 
@@ -3055,6 +3075,7 @@ Mirrors:
 - <https://huggingface.co/nvidia/personaplex-7b-v1>
 - <https://github.com/jamiepine/voicebox> (Clone any voice. Generate speech. Dictate into any app. Talk to agents in voices you own. Running locally on your machine)
 - <https://huggingface.co/spaces/Loie/spotsound-temporal-grounding> (Find when a described sound happens inside a long recording)
+- <https://github.com/debpalash/VoiceStudio> (open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages)
 
 ### AI Música
 
@@ -3116,6 +3137,8 @@ Mirrors:
 - <https://editframe.com/> (Pagada, Requiere cuenta, gratis para usos no comerciales)
 - <https://app.beeble.ai/home> (Pagada, Requiere cuenta, 90 créditos gratis para usos no comerciales)
 - <https://hycreator.tencent.com/> (Agent Harness for Long Video Generation)
+- <https://github.com/veedstudio/open-edit> (Open-source, agent-driven editing pipeline)
+- <https://aicameramovements.com/> (Camera movement prompts)
 
 ### AI Vibe Coding
 
@@ -3251,9 +3274,12 @@ Ejem [Are Repository-Level Context Files Helpful for Coding Agents?](https://arx
 - <https://github.com/nanonets/graft> (Optimización)
 - <https://github.com/codejunkie99/graph-engineering>
 - <https://github.com/Graphify-Labs/graphify>
+- <https://github.com/abhigyanpatwari/GitNexus> (client-side knowledge graph creator that runs entirely in your browser)
 - <https://github.com/moorcheh-ai/memanto>
 - <https://github.com/dmmulroy/anti-slop>
 - <https://github.com/MohamedAbdallah-14/unslop> (Make AI output sound human. Strips AI-isms (sycophancy, stock vocab, hedging stacks, em-dash pileups))
+- <https://github.com/subsy/skill-cabinet> (A local catalog for agent skills installed on your machine)
+- <https://www.warp.dev/skill-doctor> (Optimización)
 
 #### Design.md
 
@@ -3652,5 +3678,6 @@ También conocidos como: pagan por tarea
 - <https://derivative.ca/download> (Pagada, Generador visuales, Version gratis no comercial)
 - <https://fff.dmtrkovalenko.dev> (Demo de busqueda no regex)
 - <https://runey.app/> (Create invoices, quotes and proposals for your clients)
+- <https://warmwind.com/>
 
 <!-- resources-end -->
