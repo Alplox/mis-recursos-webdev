@@ -101,11 +101,12 @@ Mirrors:
   - [AI Chatbot](#ai-chatbot)
     - [Skills Chatbot](#skills-chatbots)
   - [AI Imágenes](#ai-imágenes)
+    - [Skills AI Imágenes](#skills-ai-imágenes)
   - [AI Audio](#ai-audio)
   - [AI Música](#ai-música)
   - [AI Video](#ai-video)
   - [AI Vibe Coding](#ai-vibe-coding)
-    - [Skills](#skills)
+    - [Skills AI Vibe Coding](#skills-ai-vibe-coding)
     - [Design.md](#designmd)
   - [AI Software](#ai-software)
     - [AI Local](#ai-local)
@@ -755,6 +756,7 @@ Mirrors:
 - <https://www.adobe.com/express/feature/image/remove-background>
 - <https://www.pixelcut.ai/background-remover/png-maker>
 - <https://tools.dverso.io/bgremove/>
+- <https://bentossell.com/bg-gone/>
 
 ### Diseño
 
@@ -1358,7 +1360,7 @@ Mirrors:
 - <https://liquid-glass-oss.vercel.app/>
 - <https://www.vantaui.com/> (Pagada, Requiere cuenta)
 - <https://widget.st/>
-- <https://drawably-site.pages.dev/>
+- <https://www.drawably.dev/>
 
 ##### Animación Recursos
 
@@ -1437,6 +1439,7 @@ Mirrors:
 - <https://sahilcodex.vercel.app/components>
 - <https://www.aicss.dev/>
 - <https://www.rareui.com/>
+- <https://www.sonaui.com/>
 
 ### Web Audio API
 
@@ -1700,6 +1703,7 @@ Mirrors:
 - <https://learn-data-systems.vercel.app/>
 - <https://learn-kernels.com/>
 - <https://learn-inference.com/>
+- <https://systemdesign.sophiebi.com/> (System design estilo Duolingo)
 
 ### Udemy
 
@@ -1761,6 +1765,8 @@ Mirrors:
 - <https://itsfree.dev/>
 - <https://docs.google.com/spreadsheets/d/1qfukmoA6EmNNUDTgr77TZ3AirdCbTQcPOtyEWJtrovE/> (Free Design Resources)
 - <https://openalternative.co/>
+- <https://github.com/tashfeenahmed/freellmapi> (AI, free LLM providers)
+- <https://itsfree.ai/> (AI, free LLM providers)
 
 ### Iconos Gratuitos
 
@@ -2308,6 +2314,7 @@ Mirrors:
 - <https://codepen.io/editor/lentils801/pen/019f9b4b-10d7-7f77-817f-f4eb83fdb289> (claude-opus-5-ghibli)
 - <https://robot-game-3d-sq5l.vercel.app/>
 - <https://webgpu-glass-material.vercel.app/>
+- <https://macos-27-simulator.mweinbach.chatgpt.site/>
 
 #### Typewriter effect
 
@@ -2355,6 +2362,7 @@ Mirrors:
 - <https://github.com/MengTo/threeui>
 - <https://github.com/cortiz2894/stylized-components>
 - <https://github.com/SamG-Coder/threepp>
+- <https://keikoku-camp.vercel.app/>
 
 ## Cheatsheets
 
@@ -2703,6 +2711,7 @@ Mirrors:
 - <https://film-grab.com/>
 - <https://frontpages.dev/>
 - <https://landdding.com/>
+- <https://21st.tools/>
 
 ## Cursos de pago
 
@@ -2936,6 +2945,8 @@ Mirrors:
 
 #### Skills Chatbots
 
+[↑](#tabla-de-contenido)
+
 - <https://github.com/blader/humanizer> (skill that removes signs of AI-generated writing from text)
 - <https://github.com/Nanako0129/sepia> (De-AI writing skill for any Agent Skills-compatible agent. Narrative-architecture repair for fiction, venue-matched rules for professional prose)
 
@@ -3044,6 +3055,13 @@ Mirrors:
 - <https://huggingface.co/baidu/Unlimited-OCR>
 - <https://www.logo-creator.io/> (Requiere cuenta, 2 créditos gratis)
 
+#### Skills AI Imágenes
+
+[↑](#tabla-de-contenido)
+
+- <https://github.com/UzenUPozitiv4ik/gpt-image-2-skill/>
+- <https://github.com/freestylefly/awesome-gpt-image-2>
+
 ### AI Audio
 
 [↑](#tabla-de-contenido)
@@ -3139,6 +3157,7 @@ Mirrors:
 - <https://hycreator.tencent.com/> (Agent Harness for Long Video Generation)
 - <https://github.com/veedstudio/open-edit> (Open-source, agent-driven editing pipeline)
 - <https://aicameramovements.com/> (Camera movement prompts)
+- <https://github.com/blendi-remade/unreel> (Pick a title and a LLM writes the episode a few shots at a time while MiniMax H3 Max Turbo renders each shot live on fal)
 
 ### AI Vibe Coding
 
@@ -3218,7 +3237,7 @@ Mirrors:
 - <https://dactyl.dev/> (Pagada, Requiere cuenta, 100 créditos gratis)
 - <https://replit.com/> (Pagada, Requiere cuenta, créditos gratis diarios)
 
-#### Skills
+#### Skills AI Vibe Coding
 
 [↑](#tabla-de-contenido)
 
@@ -3245,7 +3264,6 @@ Ejem [Are Repository-Level Context Files Helpful for Coding Agents?](https://arx
 - <https://github.com/elder-plinius/CL4R1T4S/>
 - <https://github.com/jakubkrehel/oklch-skill>
 - <https://github.com/VoltAgent/awesome-agent-skills>
-- <https://github.com/UzenUPozitiv4ik/gpt-image-2-skill/>
 - <https://github.com/mattpocock/skills>
 - <https://github.com/anthropics/skills/tree/main>
 - <https://github.com/alirezarezvani/claude-skills>
@@ -3280,6 +3298,8 @@ Ejem [Are Repository-Level Context Files Helpful for Coding Agents?](https://arx
 - <https://github.com/MohamedAbdallah-14/unslop> (Make AI output sound human. Strips AI-isms (sycophancy, stock vocab, hedging stacks, em-dash pileups))
 - <https://github.com/subsy/skill-cabinet> (A local catalog for agent skills installed on your machine)
 - <https://www.warp.dev/skill-doctor> (Optimización)
+- <https://github.com/Panniantong/Agent-Reach> (Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees)
+- <https://github.com/tt-a1i/archify> (Turn a codebase or system description into a interactive system map)
 
 #### Design.md
 
@@ -3394,6 +3414,8 @@ Ejem [Are Repository-Level Context Files Helpful for Coding Agents?](https://arx
 - <https://github.com/Nekodificador/ComfyUI-NKD-Basic-Tools>
 - <https://github.com/software-mansion/argent> (An agentic toolkit to control, debug, and profile iOS and Android apps)
 - <https://github.com/sammwyy/clay> (Compact coding-agent harness)
+- <https://github.com/1jehuang/jcode> (RAM efficient harness)
+- <https://github.com/bilawalsidhu/gods-eye-view> (World monitor)
 
 #### AI Local
 
@@ -3412,6 +3434,7 @@ Ejem [Are Repository-Level Context Files Helpful for Coding Agents?](https://arx
 - <https://cactuscompute.com/needle> (An open 14MB model for tool calling, device use, and structured extraction)
 - <https://github.com/BennyKok/omg.dev>
 - <https://goblincorps.com/gobbonet>
+- <https://huggingface.co/Jackrong/DeepSeek-V4-Pro-Qwen3.5-9B-MTP-GGUF>
 
 ## Búsqueda trabajo
 
@@ -3442,6 +3465,7 @@ Ejem [Are Repository-Level Context Files Helpful for Coding Agents?](https://arx
 
 [↑](#tabla-de-contenido)
 
+- <https://sence.gob.cl/>
 - <https://www.dt.gob.cl> (Tramites)
 - <https://www.bne.cl/>
 - <https://firstjob.me/>
@@ -3471,6 +3495,7 @@ Ejem [Are Repository-Level Context Files Helpful for Coding Agents?](https://arx
 - <https://www.serviciocivil.cl/postulantes/>
 - <https://www.subtel.gob.cl/trabaja-en-subtel/concursos-abiertos/>
 - <https://www.contraloria.cl/web/cgr/trabajar-con-nosotros>
+- <https://pdichile.cl/instituci%C3%B3n/trabaja-con-nosotros>
 
 #### Páginas de empleo Universidades/Institutos
 

@@ -2485,6 +2485,10 @@
               {
                 "name": "https://tools.dverso.io/bgremove/",
                 "url": "https://tools.dverso.io/bgremove/"
+              },
+              {
+                "name": "https://bentossell.com/bg-gone/",
+                "url": "https://bentossell.com/bg-gone/"
               }
             ],
             "children": []
@@ -4819,8 +4823,8 @@
                     "url": "https://widget.st/"
                   },
                   {
-                    "name": "https://drawably-site.pages.dev/",
-                    "url": "https://drawably-site.pages.dev/"
+                    "name": "https://www.drawably.dev/",
+                    "url": "https://www.drawably.dev/"
                   }
                 ],
                 "children": []
@@ -5104,6 +5108,10 @@
                   {
                     "name": "https://www.rareui.com/",
                     "url": "https://www.rareui.com/"
+                  },
+                  {
+                    "name": "https://www.sonaui.com/",
+                    "url": "https://www.sonaui.com/"
                   }
                 ],
                 "children": []
@@ -6205,6 +6213,11 @@
           {
             "name": "https://learn-inference.com/",
             "url": "https://learn-inference.com/"
+          },
+          {
+            "name": "https://systemdesign.sophiebi.com/",
+            "url": "https://systemdesign.sophiebi.com/",
+            "description": "System design estilo Duolingo"
           }
         ],
         "children": []
@@ -6450,6 +6463,16 @@
       {
         "name": "https://openalternative.co/",
         "url": "https://openalternative.co/"
+      },
+      {
+        "name": "https://github.com/tashfeenahmed/freellmapi",
+        "url": "https://github.com/tashfeenahmed/freellmapi",
+        "description": "AI, free LLM providers"
+      },
+      {
+        "name": "https://itsfree.ai/",
+        "url": "https://itsfree.ai/",
+        "description": "AI, free LLM providers"
       }
     ],
     "children": [
@@ -8627,6 +8650,10 @@
           {
             "name": "https://webgpu-glass-material.vercel.app/",
             "url": "https://webgpu-glass-material.vercel.app/"
+          },
+          {
+            "name": "https://macos-27-simulator.mweinbach.chatgpt.site/",
+            "url": "https://macos-27-simulator.mweinbach.chatgpt.site/"
           }
         ],
         "children": [
@@ -8786,6 +8813,10 @@
           {
             "name": "https://github.com/SamG-Coder/threepp",
             "url": "https://github.com/SamG-Coder/threepp"
+          },
+          {
+            "name": "https://keikoku-camp.vercel.app/",
+            "url": "https://keikoku-camp.vercel.app/"
           }
         ],
         "children": []
@@ -10130,6 +10161,10 @@
           {
             "name": "https://landdding.com/",
             "url": "https://landdding.com/"
+          },
+          {
+            "name": "https://21st.tools/",
+            "url": "https://21st.tools/"
           }
         ],
         "children": []
@@ -11531,7 +11566,24 @@
             "description": "Requiere cuenta, 2 créditos gratis"
           }
         ],
-        "children": []
+        "children": [
+          {
+            "id": "skills-ai-imagenes",
+            "name": "Skills AI Imágenes",
+            "level": 4,
+            "links": [
+              {
+                "name": "https://github.com/UzenUPozitiv4ik/gpt-image-2-skill/",
+                "url": "https://github.com/UzenUPozitiv4ik/gpt-image-2-skill/"
+              },
+              {
+                "name": "https://github.com/freestylefly/awesome-gpt-image-2",
+                "url": "https://github.com/freestylefly/awesome-gpt-image-2"
+              }
+            ],
+            "children": []
+          }
+        ]
       },
       {
         "id": "ai-audio",
@@ -11940,6 +11992,11 @@
             "name": "https://aicameramovements.com/",
             "url": "https://aicameramovements.com/",
             "description": "Camera movement prompts"
+          },
+          {
+            "name": "https://github.com/blendi-remade/unreel",
+            "url": "https://github.com/blendi-remade/unreel",
+            "description": "Pick a title and a LLM writes the episode a few shots at a time while MiniMax H3 Max Turbo renders each shot live on fal"
           }
         ],
         "children": []
@@ -12289,8 +12346,8 @@
         ],
         "children": [
           {
-            "id": "skills",
-            "name": "Skills",
+            "id": "skills-ai-vibe-coding",
+            "name": "Skills AI Vibe Coding",
             "level": 4,
             "links": [
               {
@@ -12377,10 +12434,6 @@
               {
                 "name": "https://github.com/VoltAgent/awesome-agent-skills",
                 "url": "https://github.com/VoltAgent/awesome-agent-skills"
-              },
-              {
-                "name": "https://github.com/UzenUPozitiv4ik/gpt-image-2-skill/",
-                "url": "https://github.com/UzenUPozitiv4ik/gpt-image-2-skill/"
               },
               {
                 "name": "https://github.com/mattpocock/skills",
@@ -12532,6 +12585,16 @@
                 "name": "https://www.warp.dev/skill-doctor",
                 "url": "https://www.warp.dev/skill-doctor",
                 "description": "Optimización"
+              },
+              {
+                "name": "https://github.com/Panniantong/Agent-Reach",
+                "url": "https://github.com/Panniantong/Agent-Reach",
+                "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees"
+              },
+              {
+                "name": "https://github.com/tt-a1i/archify",
+                "url": "https://github.com/tt-a1i/archify",
+                "description": "Turn a codebase or system description into a interactive system map"
               }
             ],
             "children": []
@@ -13018,6 +13081,16 @@
             "name": "https://github.com/sammwyy/clay",
             "url": "https://github.com/sammwyy/clay",
             "description": "Compact coding-agent harness"
+          },
+          {
+            "name": "https://github.com/1jehuang/jcode",
+            "url": "https://github.com/1jehuang/jcode",
+            "description": "RAM efficient harness"
+          },
+          {
+            "name": "https://github.com/bilawalsidhu/gods-eye-view",
+            "url": "https://github.com/bilawalsidhu/gods-eye-view",
+            "description": "World monitor"
           }
         ],
         "children": [
@@ -13079,6 +13152,10 @@
               {
                 "name": "https://goblincorps.com/gobbonet",
                 "url": "https://goblincorps.com/gobbonet"
+              },
+              {
+                "name": "https://huggingface.co/Jackrong/DeepSeek-V4-Pro-Qwen3.5-9B-MTP-GGUF",
+                "url": "https://huggingface.co/Jackrong/DeepSeek-V4-Pro-Qwen3.5-9B-MTP-GGUF"
               }
             ],
             "children": []
@@ -13180,6 +13257,10 @@
         "name": "Chile Búsqueda trabajo",
         "level": 3,
         "links": [
+          {
+            "name": "https://sence.gob.cl/",
+            "url": "https://sence.gob.cl/"
+          },
           {
             "name": "https://www.dt.gob.cl",
             "url": "https://www.dt.gob.cl",
@@ -13283,6 +13364,10 @@
               {
                 "name": "https://www.contraloria.cl/web/cgr/trabajar-con-nosotros",
                 "url": "https://www.contraloria.cl/web/cgr/trabajar-con-nosotros"
+              },
+              {
+                "name": "https://pdichile.cl/instituci%C3%B3n/trabaja-con-nosotros",
+                "url": "https://pdichile.cl/instituci%C3%B3n/trabaja-con-nosotros"
               }
             ],
             "children": []
