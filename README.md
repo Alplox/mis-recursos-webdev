@@ -3629,6 +3629,7 @@ También conocidos como: pagan por tarea
 - <https://cv.me/>
 - <https://createresumo.herokuapp.com/>
 - <https://flowcv.com/>
+- <https://withresumeai.com/> — AI resume builder + free ATS checker (3/day anonymous, 10/day free account); State of ATS 2026 (738 employers; Workday 37.9%)
 - <https://resoume.com/> (Pagada)
 - <https://zety.com/> (Pagada)
 - <https://artickl.com/> (Pagada)
