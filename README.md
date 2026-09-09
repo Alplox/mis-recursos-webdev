@@ -692,6 +692,7 @@ Mirrors:
 - <https://fluid.krackeddevs.com/>
 - <https://backgrounds.supply/gradient-lab>
 - <https://cutting-mat-generator.vercel.app/>
+- <https://www.playgrnd.tools/>
 
 #### Upscale
 
@@ -804,6 +805,8 @@ Mirrors:
 - <https://milkshake.app/>
 - <https://avnac.design/>
 - <https://www.gatheros.co/> (MacOS, Organizador de referencias)
+- <https://github.com/JetSquirrel/gpui-kit-canvas> (Sketch GPUI Kit screens in the browser and turn them into vibe-coding prompts)
+- <https://github.com/lnkiai/m3e-canvas> (Sketch Material 3 Expressive screens in the browser and turn them into vibe-coding prompts)
 
 #### Figma plugin
 
@@ -1156,6 +1159,7 @@ Mirrors:
 - <https://www.tavily.com/> (Freemium, Requiere cuenta, API for real-time web access)
 - <https://parallel.ai/> (Pagada, Requiere cuenta, API for real-time web access)
 - <https://exa.ai/> (Freemium, Requiere cuenta, API for real-time web access)
+- <https://github.com/h4ckf0r0day/obscura> (headless browser engine written in Rust, built for web scraping and AI agent automation)
 
 #### Editores video
 
@@ -1177,6 +1181,8 @@ Mirrors:
 - <https://olivevideoeditor.org/>
 - <https://www.techsmith.es/camtasia/> (Pagada)
 - <https://vit-editor.vercel.app/> (Git para videos)
+- <https://github.com/CutWire-Studios/Drift>
+- <https://github.com/OpenCut-app/OpenCut>
 
 ### Librerías
 
@@ -1440,6 +1446,8 @@ Mirrors:
 - <https://www.aicss.dev/>
 - <https://www.rareui.com/>
 - <https://www.sonaui.com/>
+- <https://beui.dev/>
+- <https://opensourceui.in/>
 
 ### Web Audio API
 
@@ -2712,6 +2720,7 @@ Mirrors:
 - <https://frontpages.dev/>
 - <https://landdding.com/>
 - <https://21st.tools/>
+- <https://cari.institute/aesthetics> (online community dedicated to developing a visual lexicon of consumer ephemera from the 1970s until now)
 
 ## Cursos de pago
 
@@ -2801,6 +2810,7 @@ Mirrors:
 - <https://cv.nan.builders/> (Datamining, Analizador de curriculum "local", envia datos a proveedores de AI igualmente para generar el análisis)
 - <https://huggingface.co/spaces/HuggingFaceCode/in-the-stack> (15.9 TB dataset of source code across 713 programming languages from 173M repositories, crawled from GitHub in 2025)
 - <https://polymathsociety.us/> (Datamining, Genera reporte en base a chats LLM's de que "tecnologias usas" y que "habilidades demuestras")
+- <https://github.com/warmbly/warmbly> (open-source agentic cold email and warmup platform)
 
 ### AI Colecciones/Toolkit
 
@@ -2942,6 +2952,7 @@ Mirrors:
 - <https://huggingface.co/spaces/webml-community/gemma-4-webgpu-kernels>
 - <https://nodi.global/candidates/agent> (AI Career Agent)
 - <https://youraislopbores.me/> (AI sin AI)
+- <https://chatjimmy.ai/>
 
 #### Skills Chatbots
 
@@ -3061,6 +3072,7 @@ Mirrors:
 
 - <https://github.com/UzenUPozitiv4ik/gpt-image-2-skill/>
 - <https://github.com/freestylefly/awesome-gpt-image-2>
+- <https://github.com/nevertoday/xxd-panel-112>
 
 ### AI Audio
 
@@ -3236,6 +3248,7 @@ Mirrors:
 - <https://vibeprompts.dev/>
 - <https://dactyl.dev/> (Pagada, Requiere cuenta, 100 créditos gratis)
 - <https://replit.com/> (Pagada, Requiere cuenta, créditos gratis diarios)
+- <https://bezalel.sh/> (Pagada, Requiere cuenta, Memory, email, money, texting, a computer, sandboxes, and hundreds of connectors. One MCP URL, one token, every agent you run)
 
 #### Skills AI Vibe Coding
 
@@ -3374,6 +3387,8 @@ Ejem [Are Repository-Level Context Files Helpful for Coding Agents?](https://arx
 - <https://github.com/jamiepine/voicebox/releases> (audio)
 - <https://openclaw.ai/> ("personal AI assistant")
 - <https://hermes-agent.nousresearch.com/> ("personal AI assistant")
+- <https://muse.ai/> (Requiere cuenta)
+- <https://www.openmausbot.com/> (Open Source Alternative to Grok Bot with a virtual machine that bots can use)
 - <https://autoglm.z.ai/autoclaw/>
 - <https://github.com/AlexsJones/llmfit> (Hundreds of models & providers. One command to find what runs on your hardware)
 - <https://github.com/vava-nessa/free-coding-models>
@@ -3416,6 +3431,8 @@ Ejem [Are Repository-Level Context Files Helpful for Coding Agents?](https://arx
 - <https://github.com/sammwyy/clay> (Compact coding-agent harness)
 - <https://github.com/1jehuang/jcode> (RAM efficient harness)
 - <https://github.com/bilawalsidhu/gods-eye-view> (World monitor)
+- <https://github.com/DeepanshuMishraa/nootch> (shows usage limits and agent activity in a small, expandable overlay on your Mac)
+- <https://github.com/vinzdg/codenotch> (macOS app that pins a small black notch to a screen edge, showing how much of each coding assistant's usage limit you have burned)
 
 #### AI Local
 
@@ -3615,6 +3632,7 @@ También conocidos como: pagan por tarea
 - <https://elinterno.com/> (Reseñas comunitarias para ver "cómo es trabajar ahí de verdad")
 - <https://github.com/MadsLorentzen/ai-job-search> (AI)
 - <https://www.reaver.ink/> (AI, Freemium)
+- <https://pinloop.ai/> (AI, Command-line job search tool for coding agents)
 
 #### CV
 

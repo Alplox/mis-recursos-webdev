@@ -2255,6 +2255,10 @@
               {
                 "name": "https://cutting-mat-generator.vercel.app/",
                 "url": "https://cutting-mat-generator.vercel.app/"
+              },
+              {
+                "name": "https://www.playgrnd.tools/",
+                "url": "https://www.playgrnd.tools/"
               }
             ],
             "children": []
@@ -2675,6 +2679,16 @@
             "name": "https://www.gatheros.co/",
             "url": "https://www.gatheros.co/",
             "description": "MacOS, Organizador de referencias"
+          },
+          {
+            "name": "https://github.com/JetSquirrel/gpui-kit-canvas",
+            "url": "https://github.com/JetSquirrel/gpui-kit-canvas",
+            "description": "Sketch GPUI Kit screens in the browser and turn them into vibe-coding prompts"
+          },
+          {
+            "name": "https://github.com/lnkiai/m3e-canvas",
+            "url": "https://github.com/lnkiai/m3e-canvas",
+            "description": "Sketch Material 3 Expressive screens in the browser and turn them into vibe-coding prompts"
           }
         ],
         "children": [
@@ -3998,6 +4012,11 @@
                 "name": "https://exa.ai/",
                 "url": "https://exa.ai/",
                 "description": "Freemium, Requiere cuenta, API for real-time web access"
+              },
+              {
+                "name": "https://github.com/h4ckf0r0day/obscura",
+                "url": "https://github.com/h4ckf0r0day/obscura",
+                "description": "headless browser engine written in Rust, built for web scraping and AI agent automation"
               }
             ],
             "children": []
@@ -4076,6 +4095,14 @@
                 "name": "https://vit-editor.vercel.app/",
                 "url": "https://vit-editor.vercel.app/",
                 "description": "Git para videos"
+              },
+              {
+                "name": "https://github.com/CutWire-Studios/Drift",
+                "url": "https://github.com/CutWire-Studios/Drift"
+              },
+              {
+                "name": "https://github.com/OpenCut-app/OpenCut",
+                "url": "https://github.com/OpenCut-app/OpenCut"
               }
             ],
             "children": []
@@ -5112,6 +5139,14 @@
                   {
                     "name": "https://www.sonaui.com/",
                     "url": "https://www.sonaui.com/"
+                  },
+                  {
+                    "name": "https://beui.dev/",
+                    "url": "https://beui.dev/"
+                  },
+                  {
+                    "name": "https://opensourceui.in/",
+                    "url": "https://opensourceui.in/"
                   }
                 ],
                 "children": []
@@ -10165,6 +10200,11 @@
           {
             "name": "https://21st.tools/",
             "url": "https://21st.tools/"
+          },
+          {
+            "name": "https://cari.institute/aesthetics",
+            "url": "https://cari.institute/aesthetics",
+            "description": "online community dedicated to developing a visual lexicon of consumer ephemera from the 1970s until now"
           }
         ],
         "children": []
@@ -10517,6 +10557,11 @@
         "name": "https://polymathsociety.us/",
         "url": "https://polymathsociety.us/",
         "description": "Datamining, Genera reporte en base a chats LLM's de que \"tecnologias usas\" y que \"habilidades demuestras\""
+      },
+      {
+        "name": "https://github.com/warmbly/warmbly",
+        "url": "https://github.com/warmbly/warmbly",
+        "description": "open-source agentic cold email and warmup platform"
       }
     ],
     "children": [
@@ -11071,6 +11116,10 @@
             "name": "https://youraislopbores.me/",
             "url": "https://youraislopbores.me/",
             "description": "AI sin AI"
+          },
+          {
+            "name": "https://chatjimmy.ai/",
+            "url": "https://chatjimmy.ai/"
           }
         ],
         "children": [
@@ -11579,6 +11628,10 @@
               {
                 "name": "https://github.com/freestylefly/awesome-gpt-image-2",
                 "url": "https://github.com/freestylefly/awesome-gpt-image-2"
+              },
+              {
+                "name": "https://github.com/nevertoday/xxd-panel-112",
+                "url": "https://github.com/nevertoday/xxd-panel-112"
               }
             ],
             "children": []
@@ -12342,6 +12395,11 @@
             "name": "https://replit.com/",
             "url": "https://replit.com/",
             "description": "Pagada, Requiere cuenta, créditos gratis diarios"
+          },
+          {
+            "name": "https://bezalel.sh/",
+            "url": "https://bezalel.sh/",
+            "description": "Pagada, Requiere cuenta, Memory, email, money, texting, a computer, sandboxes, and hundreds of connectors. One MCP URL, one token, every agent you run"
           }
         ],
         "children": [
@@ -12898,6 +12956,16 @@
             "description": "\"personal AI assistant\""
           },
           {
+            "name": "https://muse.ai/",
+            "url": "https://muse.ai/",
+            "description": "Requiere cuenta"
+          },
+          {
+            "name": "https://www.openmausbot.com/",
+            "url": "https://www.openmausbot.com/",
+            "description": "Open Source Alternative to Grok Bot with a virtual machine that bots can use"
+          },
+          {
             "name": "https://autoglm.z.ai/autoclaw/",
             "url": "https://autoglm.z.ai/autoclaw/"
           },
@@ -13091,6 +13159,16 @@
             "name": "https://github.com/bilawalsidhu/gods-eye-view",
             "url": "https://github.com/bilawalsidhu/gods-eye-view",
             "description": "World monitor"
+          },
+          {
+            "name": "https://github.com/DeepanshuMishraa/nootch",
+            "url": "https://github.com/DeepanshuMishraa/nootch",
+            "description": "shows usage limits and agent activity in a small, expandable overlay on your Mac"
+          },
+          {
+            "name": "https://github.com/vinzdg/codenotch",
+            "url": "https://github.com/vinzdg/codenotch",
+            "description": "macOS app that pins a small black notch to a screen edge, showing how much of each coding assistant's usage limit you have burned"
           }
         ],
         "children": [
@@ -13765,6 +13843,11 @@
             "name": "https://www.reaver.ink/",
             "url": "https://www.reaver.ink/",
             "description": "AI, Freemium"
+          },
+          {
+            "name": "https://pinloop.ai/",
+            "url": "https://pinloop.ai/",
+            "description": "AI, Command-line job search tool for coding agents"
           }
         ],
         "children": [
