@@ -3604,6 +3604,10 @@
                 "url": "https://obsidian.md/"
               },
               {
+                "name": "https://knap.md/",
+                "url": "https://knap.md/"
+              },
+              {
                 "name": "https://tolaria.md/",
                 "url": "https://tolaria.md/"
               },
@@ -3851,6 +3855,15 @@
                 "name": "https://kalapaint.app/",
                 "url": "https://kalapaint.app/",
                 "description": "Pagada"
+              },
+              {
+                "name": "https://robbietilton.com/compositor",
+                "url": "https://robbietilton.com/compositor",
+                "description": "MacOS"
+              },
+              {
+                "name": "https://tenzen.studio/photon/",
+                "url": "https://tenzen.studio/photon/"
               }
             ],
             "children": []
@@ -5147,6 +5160,10 @@
                   {
                     "name": "https://opensourceui.in/",
                     "url": "https://opensourceui.in/"
+                  },
+                  {
+                    "name": "https://www.rtecn.space/",
+                    "url": "https://www.rtecn.space/"
                   }
                 ],
                 "children": []
@@ -10562,6 +10579,15 @@
         "name": "https://github.com/warmbly/warmbly",
         "url": "https://github.com/warmbly/warmbly",
         "description": "open-source agentic cold email and warmup platform"
+      },
+      {
+        "name": "https://typesafe.ai/",
+        "url": "https://typesafe.ai/"
+      },
+      {
+        "name": "https://thecolony.ai/",
+        "url": "https://thecolony.ai/",
+        "description": "red social de agentes IA"
       }
     ],
     "children": [
@@ -11120,6 +11146,10 @@
           {
             "name": "https://chatjimmy.ai/",
             "url": "https://chatjimmy.ai/"
+          },
+          {
+            "name": "https://jev.s1.dev/",
+            "url": "https://jev.s1.dev/"
           }
         ],
         "children": [
@@ -11137,6 +11167,11 @@
                 "name": "https://github.com/Nanako0129/sepia",
                 "url": "https://github.com/Nanako0129/sepia",
                 "description": "De-AI writing skill for any Agent Skills-compatible agent. Narrative-architecture repair for fiction, venue-matched rules for professional prose"
+              },
+              {
+                "name": "https://github.com/alphaXiv/OpenResearch",
+                "url": "https://github.com/alphaXiv/OpenResearch",
+                "description": "Turn your coding agents into research agents"
               }
             ],
             "children": []
@@ -11820,6 +11855,11 @@
           {
             "name": "https://sonauto.ai/",
             "url": "https://sonauto.ai/"
+          },
+          {
+            "name": "https://map-yue2.github.io/",
+            "url": "https://map-yue2.github.io/",
+            "description": "Frontier music generation with symbolic planning, zero-shot covers, and agentic music editing"
           }
         ],
         "children": []
@@ -12653,6 +12693,11 @@
                 "name": "https://github.com/tt-a1i/archify",
                 "url": "https://github.com/tt-a1i/archify",
                 "description": "Turn a codebase or system description into a interactive system map"
+              },
+              {
+                "name": "https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering",
+                "url": "https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering",
+                "description": "A comprehensive collection of Agent Skills for context engineering, multi-agent architectures, and production agent systems"
               }
             ],
             "children": []
@@ -13169,6 +13214,26 @@
             "name": "https://github.com/vinzdg/codenotch",
             "url": "https://github.com/vinzdg/codenotch",
             "description": "macOS app that pins a small black notch to a screen edge, showing how much of each coding assistant's usage limit you have burned"
+          },
+          {
+            "name": "https://github.com/melgarafael/DeskcommCRM",
+            "url": "https://github.com/melgarafael/DeskcommCRM",
+            "description": "Self-hosted CRM with native AI agents + WhatsApp (WAHA)"
+          },
+          {
+            "name": "https://github.com/vxcontrol/pentagi",
+            "url": "https://github.com/vxcontrol/pentagi",
+            "description": "Fully autonomous AI Agents system capable of performing complex penetration testing tasks"
+          },
+          {
+            "name": "https://sponsorbar.io/",
+            "url": "https://sponsorbar.io/",
+            "description": "MacOs, SponsorBar lets advertisers bid for space in your menu bar and shares the revenue with you"
+          },
+          {
+            "name": "https://pi.dev/",
+            "url": "https://pi.dev/",
+            "description": "minimal agent harness"
           }
         ],
         "children": [
@@ -13234,6 +13299,11 @@
               {
                 "name": "https://huggingface.co/Jackrong/DeepSeek-V4-Pro-Qwen3.5-9B-MTP-GGUF",
                 "url": "https://huggingface.co/Jackrong/DeepSeek-V4-Pro-Qwen3.5-9B-MTP-GGUF"
+              },
+              {
+                "name": "https://github.com/KohakuBlueleaf/KohakuHub",
+                "url": "https://github.com/KohakuBlueleaf/KohakuHub",
+                "description": "A self-hosted HuggingFace alternative"
               }
             ],
             "children": []
@@ -13514,6 +13584,10 @@
               {
                 "name": "https://amchamchile.cl/trabaja-con-nosotros/",
                 "url": "https://amchamchile.cl/trabaja-con-nosotros/"
+              },
+              {
+                "name": "https://www.fastcheck.cl/nosotros/trabaja-con-nosotros",
+                "url": "https://www.fastcheck.cl/nosotros/trabaja-con-nosotros"
               }
             ],
             "children": []
@@ -13558,6 +13632,10 @@
             "url": "https://remoteok.com/"
           },
           {
+            "name": "https://remotejobs.com/",
+            "url": "https://remotejobs.com/"
+          },
+          {
             "name": "https://www.remote.io/",
             "url": "https://www.remote.io/"
           },
@@ -13582,6 +13660,14 @@
             "url": "https://www.flexjobs.com/"
           },
           {
+            "name": "https://news.ycombinator.com/jobs",
+            "url": "https://news.ycombinator.com/jobs"
+          },
+          {
+            "name": "https://authenticjobs.com/",
+            "url": "https://authenticjobs.com/"
+          },
+          {
             "name": "https://wellfound.com/",
             "url": "https://wellfound.com/"
           },
@@ -13592,6 +13678,14 @@
           {
             "name": "https://remotive.com/",
             "url": "https://remotive.com/"
+          },
+          {
+            "name": "https://jsremotely.com/",
+            "url": "https://jsremotely.com/"
+          },
+          {
+            "name": "https://devitjobs.com/",
+            "url": "https://devitjobs.com/"
           },
           {
             "name": "https://www.devjobsscanner.com/",
@@ -13673,6 +13767,10 @@
           {
             "name": "https://opendoorscareers.com/jobs",
             "url": "https://opendoorscareers.com/jobs"
+          },
+          {
+            "name": "https://github.com/brandonhimpfen/awesome-remote-job-boards",
+            "url": "https://github.com/brandonhimpfen/awesome-remote-job-boards"
           }
         ],
         "children": []
