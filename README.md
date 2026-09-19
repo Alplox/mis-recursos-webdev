@@ -1048,6 +1048,7 @@ Mirrors:
 
 - <https://typora.io/>
 - <https://obsidian.md/>
+- <https://knap.md/>
 - <https://tolaria.md/>
 - <https://zennotes.org/>
 - <https://fude.md/>
@@ -1118,6 +1119,8 @@ Mirrors:
 - <https://upscayl.org/>
 - <https://arcbrush.com/>
 - <https://kalapaint.app/> (Pagada)
+- <https://robbietilton.com/compositor> (MacOS)
+- <https://tenzen.studio/photon/>
 
 #### Browsers
 
@@ -1448,6 +1451,7 @@ Mirrors:
 - <https://www.sonaui.com/>
 - <https://beui.dev/>
 - <https://opensourceui.in/>
+- <https://www.rtecn.space/>
 
 ### Web Audio API
 
@@ -2811,6 +2815,8 @@ Mirrors:
 - <https://huggingface.co/spaces/HuggingFaceCode/in-the-stack> (15.9 TB dataset of source code across 713 programming languages from 173M repositories, crawled from GitHub in 2025)
 - <https://polymathsociety.us/> (Datamining, Genera reporte en base a chats LLM's de que "tecnologias usas" y que "habilidades demuestras")
 - <https://github.com/warmbly/warmbly> (open-source agentic cold email and warmup platform)
+- <https://typesafe.ai/>
+- <https://thecolony.ai/> (red social de agentes IA)
 
 ### AI Colecciones/Toolkit
 
@@ -2953,6 +2959,7 @@ Mirrors:
 - <https://nodi.global/candidates/agent> (AI Career Agent)
 - <https://youraislopbores.me/> (AI sin AI)
 - <https://chatjimmy.ai/>
+- <https://jev.s1.dev/>
 
 #### Skills Chatbots
 
@@ -2960,6 +2967,7 @@ Mirrors:
 
 - <https://github.com/blader/humanizer> (skill that removes signs of AI-generated writing from text)
 - <https://github.com/Nanako0129/sepia> (De-AI writing skill for any Agent Skills-compatible agent. Narrative-architecture repair for fiction, venue-matched rules for professional prose)
+- <https://github.com/alphaXiv/OpenResearch> (Turn your coding agents into research agents)
 
 ### AI Imágenes
 
@@ -3120,6 +3128,7 @@ Mirrors:
 - <https://aidn.jp/jingle/>
 - <https://mubert.com/>
 - <https://sonauto.ai/>
+- <https://map-yue2.github.io/> (Frontier music generation with symbolic planning, zero-shot covers, and agentic music editing)
 
 ### AI Video
 
@@ -3313,6 +3322,7 @@ Ejem [Are Repository-Level Context Files Helpful for Coding Agents?](https://arx
 - <https://www.warp.dev/skill-doctor> (Optimización)
 - <https://github.com/Panniantong/Agent-Reach> (Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees)
 - <https://github.com/tt-a1i/archify> (Turn a codebase or system description into a interactive system map)
+- <https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering> (A comprehensive collection of Agent Skills for context engineering, multi-agent architectures, and production agent systems)
 
 #### Design.md
 
@@ -3433,6 +3443,10 @@ Ejem [Are Repository-Level Context Files Helpful for Coding Agents?](https://arx
 - <https://github.com/bilawalsidhu/gods-eye-view> (World monitor)
 - <https://github.com/DeepanshuMishraa/nootch> (shows usage limits and agent activity in a small, expandable overlay on your Mac)
 - <https://github.com/vinzdg/codenotch> (macOS app that pins a small black notch to a screen edge, showing how much of each coding assistant's usage limit you have burned)
+- <https://github.com/melgarafael/DeskcommCRM> (Self-hosted CRM with native AI agents + WhatsApp (WAHA))
+- <https://github.com/vxcontrol/pentagi> (Fully autonomous AI Agents system capable of performing complex penetration testing tasks)
+- <https://sponsorbar.io/> (MacOs, SponsorBar lets advertisers bid for space in your menu bar and shares the revenue with you)
+- <https://pi.dev/> (minimal agent harness)
 
 #### AI Local
 
@@ -3452,6 +3466,7 @@ Ejem [Are Repository-Level Context Files Helpful for Coding Agents?](https://arx
 - <https://github.com/BennyKok/omg.dev>
 - <https://goblincorps.com/gobbonet>
 - <https://huggingface.co/Jackrong/DeepSeek-V4-Pro-Qwen3.5-9B-MTP-GGUF>
+- <https://github.com/KohakuBlueleaf/KohakuHub> (A self-hosted HuggingFace alternative)
 
 ## Búsqueda trabajo
 
@@ -3538,6 +3553,7 @@ Ejem [Are Repository-Level Context Files Helpful for Coding Agents?](https://arx
 - <https://www.fintoc.com/careers#vacantes>
 - <https://www.cmfchile.cl/portal/principal/623/w4-propertyvalue-48678.html>
 - <https://amchamchile.cl/trabaja-con-nosotros/>
+- <https://www.fastcheck.cl/nosotros/trabaja-con-nosotros>
 
 ### Remoto
 
@@ -3551,15 +3567,20 @@ Ejem [Are Repository-Level Context Files Helpful for Coding Agents?](https://arx
 - <https://www.trabajando.com/trabajo-remoto/>
 - <https://www.publipega.com/>
 - <https://remoteok.com/>
+- <https://remotejobs.com/>
 - <https://www.remote.io/>
 - <https://www.realworkfromanywhere.com/>
 - <https://weworkremotely.com/>
 - <https://jobgether.com/>
 - <https://www.workingnomads.com/jobs>
 - <https://www.flexjobs.com/>
+- <https://news.ycombinator.com/jobs>
+- <https://authenticjobs.com/>
 - <https://wellfound.com/>
 - <https://nodesk.co/>
 - <https://remotive.com/>
+- <https://jsremotely.com/>
+- <https://devitjobs.com/>
 - <https://www.devjobsscanner.com/>
 - <https://www.skipthedrive.com/>
 - <https://jobs.telusinternational.com/en_US/careers/Home>
@@ -3580,6 +3601,7 @@ Ejem [Are Repository-Level Context Files Helpful for Coding Agents?](https://arx
 - <https://justremote.co/>
 - <https://jobspresso.co/>
 - <https://opendoorscareers.com/jobs>
+- <https://github.com/brandonhimpfen/awesome-remote-job-boards>
 
 ### Freelance
 
