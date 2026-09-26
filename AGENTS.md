@@ -14,7 +14,7 @@
 | CSS               | Vanilla CSS con variables (modo oscuro/claro) |
 | Critical CSS      | astro-critters (inline automático)            |
 | Minificación      | @playform/compress (CSS/HTML/JS/JSON)         |
-| Build             | `npm run build` → `/dist`                     |
+| Build             | `pnpm build` → `/dist`                     |
 | Package manager   | npm                                           |
 | Node.js requerido | ^22                                           |
 
@@ -173,9 +173,9 @@ El mantenedor revisa los issues y actualiza `README.md` manualmente.
 ## 🚀 Comandos
 
 ```bash
-npm run dev          # Servidor de desarrollo
-npm run build        # readme-to-json + astro build → /dist
-npm run preview      # Previsualizar build local
+pnpm dev          # Servidor de desarrollo
+pnpm build        # readme-to-json + astro build → /dist
+pnpm preview      # Previsualizar build local
 ```
 
 ## 📦 Deployment
@@ -183,13 +183,13 @@ npm run preview      # Previsualizar build local
 - **Plataforma**: Cloudflare Pages
 - **URL**: `https://mis-recursos-webdev.pages.dev/`
 - **Build output**: `dist/`
-- **Build command**: `npm run build`
+- **Build command**: `pnpm build`
 - **Base config**: `astro.config.mjs` → `base: '/'`
 
 ## 🔧 Flujo de edición de datos
 
 1. Editar `README.md` con links en formato `- <url>` o `- <url> (descripción)`
-2. `npm run build` genera automáticamente `src/data/recursos.json` y `public/data/recursos.json`
+2. `pnpm build` genera automáticamente `src/data/recursos.json` y `public/data/recursos.json`
 3. El sitio Astro consume el JSON generado
 
 No editar archivos JSON manualmente. El README es la única fuente de verdad.
