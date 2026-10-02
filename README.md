@@ -1063,6 +1063,7 @@ Mirrors:
 - <https://mdee.bkh.dev/>
 - <https://meadow-notes.com/> (macOS)
 - <https://neverwrite.app/>
+- <https://github.com/hughhowey/neo> (A novel-writing tool)
 
 #### Screen Recorder/Capturar Pantalla
 
@@ -1093,6 +1094,7 @@ Mirrors:
 - <https://antigravity.google/>
 - <https://athas.dev/>
 - <https://kiro.dev/>
+- <https://paseo.sh/>
 
 ##### Extensiones
 
@@ -1121,6 +1123,7 @@ Mirrors:
 - <https://kalapaint.app/> (Pagada)
 - <https://robbietilton.com/compositor> (MacOS)
 - <https://tenzen.studio/photon/>
+- <https://moko.art/>
 
 #### Browsers
 
@@ -1352,6 +1355,8 @@ Mirrors:
 - <https://toolcraft.sh/>
 - <https://github.com/siliconjungle/inkwell-webgpu-flowers>
 - <https://labs.cuvii.dev/volume/phosphor>
+- <https://hana-interface.vercel.app/>
+- <https://www.obsidianui.dev/>
 
 ##### Estilos inspirados en otros preexistentes
 
@@ -1452,6 +1457,7 @@ Mirrors:
 - <https://beui.dev/>
 - <https://opensourceui.in/>
 - <https://www.rtecn.space/>
+- <https://kobra.systems/components/input-otp> (Pagada)
 
 ### Web Audio API
 
@@ -2099,6 +2105,7 @@ Mirrors:
 - <https://github.com/corebunch/instatic>
 - <https://straw.page/>
 - <https://gitworkshop.dev/>
+- <https://try.cloudflare.com/>
 
 ### Incluyen de pago
 
@@ -2375,6 +2382,10 @@ Mirrors:
 - <https://github.com/cortiz2894/stylized-components>
 - <https://github.com/SamG-Coder/threepp>
 - <https://keikoku-camp.vercel.app/>
+- <https://claude.ai/artifact/N1cRTZqiUZyxDVP7dJGTau>
+- <https://seiryu.miraicode.one/>
+- <https://dgreenheck.github.io/tidewater/>
+- <https://claude-opus-5-5.riba2534.cn/>
 
 ## Cheatsheets
 
@@ -3073,6 +3084,7 @@ Mirrors:
 - <https://iclightai.com/ic-light-v2> (Requiere cuenta)
 - <https://huggingface.co/baidu/Unlimited-OCR>
 - <https://www.logo-creator.io/> (Requiere cuenta, 2 créditos gratis)
+- <https://promptsref.com/tool/AI-Image-Generator> (Requiere cuenta, 20 créditos gratis)
 
 #### Skills AI Imágenes
 
@@ -3179,6 +3191,7 @@ Mirrors:
 - <https://github.com/veedstudio/open-edit> (Open-source, agent-driven editing pipeline)
 - <https://aicameramovements.com/> (Camera movement prompts)
 - <https://github.com/blendi-remade/unreel> (Pick a title and a LLM writes the episode a few shots at a time while MiniMax H3 Max Turbo renders each shot live on fal)
+- <https://github.com/mexicat/pdoom-video> (A generative, code-rendered music video with word-synced karaoke typography)
 
 ### AI Vibe Coding
 
@@ -3258,6 +3271,12 @@ Mirrors:
 - <https://dactyl.dev/> (Pagada, Requiere cuenta, 100 créditos gratis)
 - <https://replit.com/> (Pagada, Requiere cuenta, créditos gratis diarios)
 - <https://bezalel.sh/> (Pagada, Requiere cuenta, Memory, email, money, texting, a computer, sandboxes, and hundreds of connectors. One MCP URL, one token, every agent you run)
+- <https://blog.cloudflare.com/clef-decision-models/> (open-source decision models, and RL fine-tuning platform)
+- <https://github.com/dzhng/jevgrep> (Find code by asking what it does. A CLI for coding agents that uses Jev to discover relevant files and source context)
+- <https://supersoniclabs.ai/julia-1/> (144.3M parameters, it turns a state, a question, and possible answers into one clear decision)
+- <https://github.com/mrmps/classifier-dev> (Zero-shot text classification over plain HTTP — no API key, no account. One Cloudflare Worker, a CLI, and an MCP server)
+- <https://github.com/mizorewww/laya-mlx> (Native MLX runtime for Laya typed decision models — 7–14 ms short decisions on M3 Max. No text generation, PyTorch, or cloud API)
+- <https://github.com/jaredpalmer/kev> (Jev-like family of decision models built on top of Qwen3.5/3.8 you can train and run on your own)
 
 #### Skills AI Vibe Coding
 
@@ -3364,6 +3383,7 @@ Ejem [Are Repository-Level Context Files Helpful for Coding Agents?](https://arx
 - <https://loora.design/>
 - <https://github.com/elayadesign/ai-design-skills>
 - <https://github.com/ericzakariasson/scandinavian-design>
+- <https://libraries.dev/skill>
 
 ### AI Software
 
@@ -3397,6 +3417,7 @@ Ejem [Are Repository-Level Context Files Helpful for Coding Agents?](https://arx
 - <https://github.com/jamiepine/voicebox/releases> (audio)
 - <https://openclaw.ai/> ("personal AI assistant")
 - <https://hermes-agent.nousresearch.com/> ("personal AI assistant")
+- <https://cue.im/> ("personal AI assistant")
 - <https://muse.ai/> (Requiere cuenta)
 - <https://www.openmausbot.com/> (Open Source Alternative to Grok Bot with a virtual machine that bots can use)
 - <https://autoglm.z.ai/autoclaw/>
@@ -3447,6 +3468,8 @@ Ejem [Are Repository-Level Context Files Helpful for Coding Agents?](https://arx
 - <https://github.com/vxcontrol/pentagi> (Fully autonomous AI Agents system capable of performing complex penetration testing tasks)
 - <https://sponsorbar.io/> (MacOs, SponsorBar lets advertisers bid for space in your menu bar and shares the revenue with you)
 - <https://pi.dev/> (minimal agent harness)
+- <https://github.com/dream-num/univer> (The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime)
+- <https://github.com/google/ax> (Google's open agentic orchestration runtime)
 
 #### AI Local
 
@@ -3515,6 +3538,7 @@ Ejem [Are Repository-Level Context Files Helpful for Coding Agents?](https://arx
 - <https://www.admisionarmada.cl/concursos/>
 - <https://www.kitempleo.cl/>
 - <https://www.randstad.cl/>
+- <https://mundolaboral.elmercurio.com/>
 
 #### Páginas de empleo Gobierno
 
@@ -3744,5 +3768,7 @@ También conocidos como: pagan por tarea
 - <https://fff.dmtrkovalenko.dev> (Demo de busqueda no regex)
 - <https://runey.app/> (Create invoices, quotes and proposals for your clients)
 - <https://warmwind.com/>
+- <https://age-verifier.eva.ac/>
+- <https://getmargin.vercel.app/>
 
 <!-- resources-end -->
