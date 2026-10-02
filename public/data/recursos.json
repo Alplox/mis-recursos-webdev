@@ -3671,6 +3671,11 @@
               {
                 "name": "https://neverwrite.app/",
                 "url": "https://neverwrite.app/"
+              },
+              {
+                "name": "https://github.com/hughhowey/neo",
+                "url": "https://github.com/hughhowey/neo",
+                "description": "A novel-writing tool"
               }
             ],
             "children": []
@@ -3768,6 +3773,10 @@
               {
                 "name": "https://kiro.dev/",
                 "url": "https://kiro.dev/"
+              },
+              {
+                "name": "https://paseo.sh/",
+                "url": "https://paseo.sh/"
               }
             ],
             "children": [
@@ -3864,6 +3873,10 @@
               {
                 "name": "https://tenzen.studio/photon/",
                 "url": "https://tenzen.studio/photon/"
+              },
+              {
+                "name": "https://moko.art/",
+                "url": "https://moko.art/"
               }
             ],
             "children": []
@@ -4796,6 +4809,14 @@
               {
                 "name": "https://labs.cuvii.dev/volume/phosphor",
                 "url": "https://labs.cuvii.dev/volume/phosphor"
+              },
+              {
+                "name": "https://hana-interface.vercel.app/",
+                "url": "https://hana-interface.vercel.app/"
+              },
+              {
+                "name": "https://www.obsidianui.dev/",
+                "url": "https://www.obsidianui.dev/"
               }
             ],
             "children": [
@@ -5164,6 +5185,11 @@
                   {
                     "name": "https://www.rtecn.space/",
                     "url": "https://www.rtecn.space/"
+                  },
+                  {
+                    "name": "https://kobra.systems/components/input-otp",
+                    "url": "https://kobra.systems/components/input-otp",
+                    "description": "Pagada"
                   }
                 ],
                 "children": []
@@ -7745,6 +7771,10 @@
           {
             "name": "https://gitworkshop.dev/",
             "url": "https://gitworkshop.dev/"
+          },
+          {
+            "name": "https://try.cloudflare.com/",
+            "url": "https://try.cloudflare.com/"
           }
         ],
         "children": []
@@ -8869,6 +8899,22 @@
           {
             "name": "https://keikoku-camp.vercel.app/",
             "url": "https://keikoku-camp.vercel.app/"
+          },
+          {
+            "name": "https://claude.ai/artifact/N1cRTZqiUZyxDVP7dJGTau",
+            "url": "https://claude.ai/artifact/N1cRTZqiUZyxDVP7dJGTau"
+          },
+          {
+            "name": "https://seiryu.miraicode.one/",
+            "url": "https://seiryu.miraicode.one/"
+          },
+          {
+            "name": "https://dgreenheck.github.io/tidewater/",
+            "url": "https://dgreenheck.github.io/tidewater/"
+          },
+          {
+            "name": "https://claude-opus-5-5.riba2534.cn/",
+            "url": "https://claude-opus-5-5.riba2534.cn/"
           }
         ],
         "children": []
@@ -11648,6 +11694,11 @@
             "name": "https://www.logo-creator.io/",
             "url": "https://www.logo-creator.io/",
             "description": "Requiere cuenta, 2 créditos gratis"
+          },
+          {
+            "name": "https://promptsref.com/tool/AI-Image-Generator",
+            "url": "https://promptsref.com/tool/AI-Image-Generator",
+            "description": "Requiere cuenta, 20 créditos gratis"
           }
         ],
         "children": [
@@ -12090,6 +12141,11 @@
             "name": "https://github.com/blendi-remade/unreel",
             "url": "https://github.com/blendi-remade/unreel",
             "description": "Pick a title and a LLM writes the episode a few shots at a time while MiniMax H3 Max Turbo renders each shot live on fal"
+          },
+          {
+            "name": "https://github.com/mexicat/pdoom-video",
+            "url": "https://github.com/mexicat/pdoom-video",
+            "description": "A generative, code-rendered music video with word-synced karaoke typography"
           }
         ],
         "children": []
@@ -12440,6 +12496,36 @@
             "name": "https://bezalel.sh/",
             "url": "https://bezalel.sh/",
             "description": "Pagada, Requiere cuenta, Memory, email, money, texting, a computer, sandboxes, and hundreds of connectors. One MCP URL, one token, every agent you run"
+          },
+          {
+            "name": "https://blog.cloudflare.com/clef-decision-models/",
+            "url": "https://blog.cloudflare.com/clef-decision-models/",
+            "description": "open-source decision models, and RL fine-tuning platform"
+          },
+          {
+            "name": "https://github.com/dzhng/jevgrep",
+            "url": "https://github.com/dzhng/jevgrep",
+            "description": "Find code by asking what it does. A CLI for coding agents that uses Jev to discover relevant files and source context"
+          },
+          {
+            "name": "https://supersoniclabs.ai/julia-1/",
+            "url": "https://supersoniclabs.ai/julia-1/",
+            "description": "144.3M parameters, it turns a state, a question, and possible answers into one clear decision"
+          },
+          {
+            "name": "https://github.com/mrmps/classifier-dev",
+            "url": "https://github.com/mrmps/classifier-dev",
+            "description": "Zero-shot text classification over plain HTTP — no API key, no account. One Cloudflare Worker, a CLI, and an MCP server"
+          },
+          {
+            "name": "https://github.com/mizorewww/laya-mlx",
+            "url": "https://github.com/mizorewww/laya-mlx",
+            "description": "Native MLX runtime for Laya typed decision models — 7–14 ms short decisions on M3 Max. No text generation, PyTorch, or cloud API"
+          },
+          {
+            "name": "https://github.com/jaredpalmer/kev",
+            "url": "https://github.com/jaredpalmer/kev",
+            "description": "Jev-like family of decision models built on top of Qwen3.5/3.8 you can train and run on your own"
           }
         ],
         "children": [
@@ -12853,6 +12939,10 @@
               {
                 "name": "https://github.com/ericzakariasson/scandinavian-design",
                 "url": "https://github.com/ericzakariasson/scandinavian-design"
+              },
+              {
+                "name": "https://libraries.dev/skill",
+                "url": "https://libraries.dev/skill"
               }
             ],
             "children": []
@@ -12998,6 +13088,11 @@
           {
             "name": "https://hermes-agent.nousresearch.com/",
             "url": "https://hermes-agent.nousresearch.com/",
+            "description": "\"personal AI assistant\""
+          },
+          {
+            "name": "https://cue.im/",
+            "url": "https://cue.im/",
             "description": "\"personal AI assistant\""
           },
           {
@@ -13234,6 +13329,16 @@
             "name": "https://pi.dev/",
             "url": "https://pi.dev/",
             "description": "minimal agent harness"
+          },
+          {
+            "name": "https://github.com/dream-num/univer",
+            "url": "https://github.com/dream-num/univer",
+            "description": "The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime"
+          },
+          {
+            "name": "https://github.com/google/ax",
+            "url": "https://github.com/google/ax",
+            "description": "Google's open agentic orchestration runtime"
           }
         ],
         "children": [
@@ -13477,6 +13582,10 @@
           {
             "name": "https://www.randstad.cl/",
             "url": "https://www.randstad.cl/"
+          },
+          {
+            "name": "https://mundolaboral.elmercurio.com/",
+            "url": "https://mundolaboral.elmercurio.com/"
           }
         ],
         "children": [
@@ -14254,6 +14363,14 @@
       {
         "name": "https://warmwind.com/",
         "url": "https://warmwind.com/"
+      },
+      {
+        "name": "https://age-verifier.eva.ac/",
+        "url": "https://age-verifier.eva.ac/"
+      },
+      {
+        "name": "https://getmargin.vercel.app/",
+        "url": "https://getmargin.vercel.app/"
       }
     ],
     "children": []
