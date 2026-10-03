@@ -3975,6 +3975,10 @@
                 "name": "https://aside.com/",
                 "url": "https://aside.com/",
                 "description": "\"AI\""
+              },
+              {
+                "name": "https://tinyweb.so/",
+                "url": "https://tinyweb.so/"
               }
             ],
             "children": []
@@ -4817,6 +4821,10 @@
               {
                 "name": "https://www.obsidianui.dev/",
                 "url": "https://www.obsidianui.dev/"
+              },
+              {
+                "name": "https://trellisui.com/",
+                "url": "https://trellisui.com/"
               }
             ],
             "children": [
@@ -8915,6 +8923,22 @@
           {
             "name": "https://claude-opus-5-5.riba2534.cn/",
             "url": "https://claude-opus-5-5.riba2534.cn/"
+          },
+          {
+            "name": "https://teleoperator.mindblown.ai/",
+            "url": "https://teleoperator.mindblown.ai/"
+          },
+          {
+            "name": "https://sael.net/prompt/",
+            "url": "https://sael.net/prompt/"
+          },
+          {
+            "name": "https://sael.net/plane-of-focus/",
+            "url": "https://sael.net/plane-of-focus/"
+          },
+          {
+            "name": "https://valley.mengto.here.now/",
+            "url": "https://valley.mengto.here.now/"
           }
         ],
         "children": []
@@ -9611,6 +9635,10 @@
           {
             "name": "https://nodeweekly.com/issues",
             "url": "https://nodeweekly.com/issues"
+          },
+          {
+            "name": "https://claude.dev/",
+            "url": "https://claude.dev/"
           }
         ],
         "children": []
@@ -10268,6 +10296,15 @@
             "name": "https://cari.institute/aesthetics",
             "url": "https://cari.institute/aesthetics",
             "description": "online community dedicated to developing a visual lexicon of consumer ephemera from the 1970s until now"
+          },
+          {
+            "name": "https://whatships.com/",
+            "url": "https://whatships.com/"
+          },
+          {
+            "name": "https://designeer.xyz/",
+            "url": "https://designeer.xyz/",
+            "description": "curated collection of interface craft, component libraries, AI tools, and resources for builders"
           }
         ],
         "children": []
@@ -12526,6 +12563,16 @@
             "name": "https://github.com/jaredpalmer/kev",
             "url": "https://github.com/jaredpalmer/kev",
             "description": "Jev-like family of decision models built on top of Qwen3.5/3.8 you can train and run on your own"
+          },
+          {
+            "name": "https://ai-index.view.fast/",
+            "url": "https://ai-index.view.fast/",
+            "description": "AI Index vs. Cost, Time & Output Tokens per Task"
+          },
+          {
+            "name": "https://github.com/tamaratran/fast-jev-compaction",
+            "url": "https://github.com/tamaratran/fast-jev-compaction",
+            "description": "Claude Code plugin that replaces the compaction summary with Jev decisions: every tool call and result is scored in one fast request, stale ones are dropped or truncated, everything kept stays verbatim"
           }
         ],
         "children": [
@@ -12784,6 +12831,16 @@
                 "name": "https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering",
                 "url": "https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering",
                 "description": "A comprehensive collection of Agent Skills for context engineering, multi-agent architectures, and production agent systems"
+              },
+              {
+                "name": "https://github.com/addyosmani/agent-skills",
+                "url": "https://github.com/addyosmani/agent-skills",
+                "description": "Production-grade engineering skills for AI coding agents"
+              },
+              {
+                "name": "https://github.com/Egonex-AI/Understand-Anything",
+                "url": "https://github.com/Egonex-AI/Understand-Anything",
+                "description": "Turn any code into an interactive knowledge graph you can explore, search, and ask questions about"
               }
             ],
             "children": []
@@ -13096,9 +13153,24 @@
             "description": "\"personal AI assistant\""
           },
           {
+            "name": "https://github.com/CopilotKit/OpenDots",
+            "url": "https://github.com/CopilotKit/OpenDots",
+            "description": "\"personal AI assistant\""
+          },
+          {
+            "name": "https://github.com/milind-soni/OpenMausBot",
+            "url": "https://github.com/milind-soni/OpenMausBot",
+            "description": "\"personal AI assistant\""
+          },
+          {
             "name": "https://muse.ai/",
             "url": "https://muse.ai/",
             "description": "Requiere cuenta"
+          },
+          {
+            "name": "https://wajo.ai/",
+            "url": "https://wajo.ai/",
+            "description": "Pagada, Requiere cuenta"
           },
           {
             "name": "https://www.openmausbot.com/",
@@ -13339,6 +13411,21 @@
             "name": "https://github.com/google/ax",
             "url": "https://github.com/google/ax",
             "description": "Google's open agentic orchestration runtime"
+          },
+          {
+            "name": "https://boxd.sh/",
+            "url": "https://boxd.sh/",
+            "description": "Composable computers for Devs and Agents"
+          },
+          {
+            "name": "https://railway.com/free-vm",
+            "url": "https://railway.com/free-vm",
+            "description": "free Linux VM on Railway, no account needed"
+          },
+          {
+            "name": "https://whattheport.dev/",
+            "url": "https://whattheport.dev/",
+            "description": "MacOs, Every dev server on your Mac, in the menu bar"
           }
         ],
         "children": [

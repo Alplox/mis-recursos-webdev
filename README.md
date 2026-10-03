@@ -1151,6 +1151,7 @@ Mirrors:
 - <https://ladybird.org/>
 - <https://www.wikiboard.org/> (Es sitio web)
 - <https://aside.com/> ("AI")
+- <https://tinyweb.so/>
 
 #### Web crawling
 
@@ -1357,6 +1358,7 @@ Mirrors:
 - <https://labs.cuvii.dev/volume/phosphor>
 - <https://hana-interface.vercel.app/>
 - <https://www.obsidianui.dev/>
+- <https://trellisui.com/>
 
 ##### Estilos inspirados en otros preexistentes
 
@@ -2386,6 +2388,10 @@ Mirrors:
 - <https://seiryu.miraicode.one/>
 - <https://dgreenheck.github.io/tidewater/>
 - <https://claude-opus-5-5.riba2534.cn/>
+- <https://teleoperator.mindblown.ai/>
+- <https://sael.net/prompt/>
+- <https://sael.net/plane-of-focus/>
+- <https://valley.mengto.here.now/>
 
 ## Cheatsheets
 
@@ -2573,6 +2579,7 @@ Mirrors:
 - <https://blog.kunchenguid.com/>
 - <https://benji.org/>
 - <https://nodeweekly.com/issues>
+- <https://claude.dev/>
 
 ### Inspiración exclusivamente
 
@@ -2736,6 +2743,8 @@ Mirrors:
 - <https://landdding.com/>
 - <https://21st.tools/>
 - <https://cari.institute/aesthetics> (online community dedicated to developing a visual lexicon of consumer ephemera from the 1970s until now)
+- <https://whatships.com/>
+- <https://designeer.xyz/> (curated collection of interface craft, component libraries, AI tools, and resources for builders)
 
 ## Cursos de pago
 
@@ -3277,6 +3286,8 @@ Mirrors:
 - <https://github.com/mrmps/classifier-dev> (Zero-shot text classification over plain HTTP — no API key, no account. One Cloudflare Worker, a CLI, and an MCP server)
 - <https://github.com/mizorewww/laya-mlx> (Native MLX runtime for Laya typed decision models — 7–14 ms short decisions on M3 Max. No text generation, PyTorch, or cloud API)
 - <https://github.com/jaredpalmer/kev> (Jev-like family of decision models built on top of Qwen3.5/3.8 you can train and run on your own)
+- <https://ai-index.view.fast/> (AI Index vs. Cost, Time & Output Tokens per Task)
+- <https://github.com/tamaratran/fast-jev-compaction> (Claude Code plugin that replaces the compaction summary with Jev decisions: every tool call and result is scored in one fast request, stale ones are dropped or truncated, everything kept stays verbatim)
 
 #### Skills AI Vibe Coding
 
@@ -3342,6 +3353,8 @@ Ejem [Are Repository-Level Context Files Helpful for Coding Agents?](https://arx
 - <https://github.com/Panniantong/Agent-Reach> (Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees)
 - <https://github.com/tt-a1i/archify> (Turn a codebase or system description into a interactive system map)
 - <https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering> (A comprehensive collection of Agent Skills for context engineering, multi-agent architectures, and production agent systems)
+- <https://github.com/addyosmani/agent-skills> (Production-grade engineering skills for AI coding agents)
+- <https://github.com/Egonex-AI/Understand-Anything> (Turn any code into an interactive knowledge graph you can explore, search, and ask questions about)
 
 #### Design.md
 
@@ -3418,7 +3431,10 @@ Ejem [Are Repository-Level Context Files Helpful for Coding Agents?](https://arx
 - <https://openclaw.ai/> ("personal AI assistant")
 - <https://hermes-agent.nousresearch.com/> ("personal AI assistant")
 - <https://cue.im/> ("personal AI assistant")
+- <https://github.com/CopilotKit/OpenDots> ("personal AI assistant")
+- <https://github.com/milind-soni/OpenMausBot> ("personal AI assistant")
 - <https://muse.ai/> (Requiere cuenta)
+- <https://wajo.ai/> (Pagada, Requiere cuenta)
 - <https://www.openmausbot.com/> (Open Source Alternative to Grok Bot with a virtual machine that bots can use)
 - <https://autoglm.z.ai/autoclaw/>
 - <https://github.com/AlexsJones/llmfit> (Hundreds of models & providers. One command to find what runs on your hardware)
@@ -3470,6 +3486,9 @@ Ejem [Are Repository-Level Context Files Helpful for Coding Agents?](https://arx
 - <https://pi.dev/> (minimal agent harness)
 - <https://github.com/dream-num/univer> (The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime)
 - <https://github.com/google/ax> (Google's open agentic orchestration runtime)
+- <https://boxd.sh/> (Composable computers for Devs and Agents)
+- <https://railway.com/free-vm> (free Linux VM on Railway, no account needed)
+- <https://whattheport.dev/> (MacOs, Every dev server on your Mac, in the menu bar)
 
 #### AI Local
 
