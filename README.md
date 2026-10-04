@@ -2050,6 +2050,9 @@ Mirrors:
 - <https://velvetyne.fr/>
 - <https://www.awwwards.com/awwwards/collections/free-fonts/>
 - <https://aviosans.lerbb.com/>
+- <https://github.com/ahatem/IoskeleyMono>
+- <https://github.com/nicoverbruggen/libron>
+- <https://github.com/nicoverbruggen/readerly>
 
 ### Audios Gratuitos
 
@@ -2580,6 +2583,7 @@ Mirrors:
 - <https://benji.org/>
 - <https://nodeweekly.com/issues>
 - <https://claude.dev/>
+- <https://deploymentsafety.openai.com/>
 
 ### Inspiración exclusivamente
 
@@ -3094,6 +3098,7 @@ Mirrors:
 - <https://huggingface.co/baidu/Unlimited-OCR>
 - <https://www.logo-creator.io/> (Requiere cuenta, 2 créditos gratis)
 - <https://promptsref.com/tool/AI-Image-Generator> (Requiere cuenta, 20 créditos gratis)
+- <https://visualaiclub.com/> (A community library of tested prompts and Claude skills for image, video, text, code and audio tools)
 
 #### Skills AI Imágenes
 
@@ -3288,6 +3293,7 @@ Mirrors:
 - <https://github.com/jaredpalmer/kev> (Jev-like family of decision models built on top of Qwen3.5/3.8 you can train and run on your own)
 - <https://ai-index.view.fast/> (AI Index vs. Cost, Time & Output Tokens per Task)
 - <https://github.com/tamaratran/fast-jev-compaction> (Claude Code plugin that replaces the compaction summary with Jev decisions: every tool call and result is scored in one fast request, stale ones are dropped or truncated, everything kept stays verbatim)
+- <https://github.com/blendi-remade/agentcraft> (A team of Claude agents doing real work on your code, inside a Minecraft studio you can walk around in)
 
 #### Skills AI Vibe Coding
 
@@ -3571,6 +3577,7 @@ Ejem [Are Repository-Level Context Files Helpful for Coding Agents?](https://arx
 - <https://www.subtel.gob.cl/trabaja-en-subtel/concursos-abiertos/>
 - <https://www.contraloria.cl/web/cgr/trabajar-con-nosotros>
 - <https://pdichile.cl/instituci%C3%B3n/trabaja-con-nosotros>
+- <https://www.pdichile.cl/instituci%C3%B3n/concursos-publicos>
 
 #### Páginas de empleo Universidades/Institutos
 

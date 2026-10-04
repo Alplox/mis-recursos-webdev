@@ -7572,6 +7572,18 @@
           {
             "name": "https://aviosans.lerbb.com/",
             "url": "https://aviosans.lerbb.com/"
+          },
+          {
+            "name": "https://github.com/ahatem/IoskeleyMono",
+            "url": "https://github.com/ahatem/IoskeleyMono"
+          },
+          {
+            "name": "https://github.com/nicoverbruggen/libron",
+            "url": "https://github.com/nicoverbruggen/libron"
+          },
+          {
+            "name": "https://github.com/nicoverbruggen/readerly",
+            "url": "https://github.com/nicoverbruggen/readerly"
           }
         ],
         "children": []
@@ -9639,6 +9651,10 @@
           {
             "name": "https://claude.dev/",
             "url": "https://claude.dev/"
+          },
+          {
+            "name": "https://deploymentsafety.openai.com/",
+            "url": "https://deploymentsafety.openai.com/"
           }
         ],
         "children": []
@@ -11736,6 +11752,11 @@
             "name": "https://promptsref.com/tool/AI-Image-Generator",
             "url": "https://promptsref.com/tool/AI-Image-Generator",
             "description": "Requiere cuenta, 20 créditos gratis"
+          },
+          {
+            "name": "https://visualaiclub.com/",
+            "url": "https://visualaiclub.com/",
+            "description": "A community library of tested prompts and Claude skills for image, video, text, code and audio tools"
           }
         ],
         "children": [
@@ -12573,6 +12594,11 @@
             "name": "https://github.com/tamaratran/fast-jev-compaction",
             "url": "https://github.com/tamaratran/fast-jev-compaction",
             "description": "Claude Code plugin that replaces the compaction summary with Jev decisions: every tool call and result is scored in one fast request, stale ones are dropped or truncated, everything kept stays verbatim"
+          },
+          {
+            "name": "https://github.com/blendi-remade/agentcraft",
+            "url": "https://github.com/blendi-remade/agentcraft",
+            "description": "A team of Claude agents doing real work on your code, inside a Minecraft studio you can walk around in"
           }
         ],
         "children": [
@@ -13712,6 +13738,10 @@
               {
                 "name": "https://pdichile.cl/instituci%C3%B3n/trabaja-con-nosotros",
                 "url": "https://pdichile.cl/instituci%C3%B3n/trabaja-con-nosotros"
+              },
+              {
+                "name": "https://www.pdichile.cl/instituci%C3%B3n/concursos-publicos",
+                "url": "https://www.pdichile.cl/instituci%C3%B3n/concursos-publicos"
               }
             ],
             "children": []
