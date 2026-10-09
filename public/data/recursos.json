@@ -3877,6 +3877,11 @@
               {
                 "name": "https://moko.art/",
                 "url": "https://moko.art/"
+              },
+              {
+                "name": "https://github.com/storytold/photocraft",
+                "url": "https://github.com/storytold/photocraft",
+                "description": "an open-source, clean-room reimplementation of Adobe Photoshop, rebuilt in pure Rust"
               }
             ],
             "children": []
@@ -4047,6 +4052,10 @@
                 "name": "https://github.com/h4ckf0r0day/obscura",
                 "url": "https://github.com/h4ckf0r0day/obscura",
                 "description": "headless browser engine written in Rust, built for web scraping and AI agent automation"
+              },
+              {
+                "name": "https://developers.cloudflare.com/web-search/how-to-use/",
+                "url": "https://developers.cloudflare.com/web-search/how-to-use/"
               }
             ],
             "children": []
@@ -6304,6 +6313,10 @@
             "name": "https://systemdesign.sophiebi.com/",
             "url": "https://systemdesign.sophiebi.com/",
             "description": "System design estilo Duolingo"
+          },
+          {
+            "name": "https://securitytxt.org/",
+            "url": "https://securitytxt.org/"
           }
         ],
         "children": []
@@ -8235,6 +8248,11 @@
             "name": "https://www.meshh.dev/",
             "url": "https://www.meshh.dev/",
             "description": "curated WebGL, Three.js, shader, and interactive canvas components with copyable code and AI-ready integration prompts"
+          },
+          {
+            "name": "https://iamsingle.app/",
+            "url": "https://iamsingle.app/",
+            "description": "A working directory of SFWAs (single-file web apps), apps that ship as a single HTML file. No install, no build, no server required to run"
           }
         ],
         "children": []
@@ -8951,6 +8969,15 @@
           {
             "name": "https://valley.mengto.here.now/",
             "url": "https://valley.mengto.here.now/"
+          },
+          {
+            "name": "https://gemini.google.com/share/3b1ebce6a7f2?skid=90fe9306-4951-4d36-a127-d2ffd952d39a",
+            "url": "https://gemini.google.com/share/3b1ebce6a7f2?skid=90fe9306-4951-4d36-a127-d2ffd952d39a"
+          },
+          {
+            "name": "https://3ditions.drop3.app/watch/infinite-water/",
+            "url": "https://3ditions.drop3.app/watch/infinite-water/",
+            "description": "Incluye de pago"
           }
         ],
         "children": []
@@ -10321,6 +10348,15 @@
             "name": "https://designeer.xyz/",
             "url": "https://designeer.xyz/",
             "description": "curated collection of interface craft, component libraries, AI tools, and resources for builders"
+          },
+          {
+            "name": "https://pinlite.app/",
+            "url": "https://pinlite.app/",
+            "description": "Pinterest mirror"
+          },
+          {
+            "name": "https://github.com/shsfwork/awesome-inspiration",
+            "url": "https://github.com/shsfwork/awesome-inspiration"
           }
         ],
         "children": []
@@ -11249,6 +11285,11 @@
           {
             "name": "https://jev.s1.dev/",
             "url": "https://jev.s1.dev/"
+          },
+          {
+            "name": "https://eternalai.org/",
+            "url": "https://eternalai.org/",
+            "description": "Pagada, Requiere cuenta"
           }
         ],
         "children": [
@@ -12599,6 +12640,11 @@
             "name": "https://github.com/blendi-remade/agentcraft",
             "url": "https://github.com/blendi-remade/agentcraft",
             "description": "A team of Claude agents doing real work on your code, inside a Minecraft studio you can walk around in"
+          },
+          {
+            "name": "https://github.com/morluto/rea",
+            "url": "https://github.com/morluto/rea",
+            "description": "Reverse engineer anything with agents, from app behavior down to native binaries"
           }
         ],
         "children": [
@@ -13452,6 +13498,11 @@
             "name": "https://whattheport.dev/",
             "url": "https://whattheport.dev/",
             "description": "MacOs, Every dev server on your Mac, in the menu bar"
+          },
+          {
+            "name": "https://antseed.com/",
+            "url": "https://antseed.com/",
+            "description": "\"AI VPN\""
           }
         ],
         "children": [
