@@ -1124,6 +1124,7 @@ Mirrors:
 - <https://robbietilton.com/compositor> (MacOS)
 - <https://tenzen.studio/photon/>
 - <https://moko.art/>
+- <https://github.com/storytold/photocraft> (an open-source, clean-room reimplementation of Adobe Photoshop, rebuilt in pure Rust)
 
 #### Browsers
 
@@ -1167,6 +1168,7 @@ Mirrors:
 - <https://parallel.ai/> (Pagada, Requiere cuenta, API for real-time web access)
 - <https://exa.ai/> (Freemium, Requiere cuenta, API for real-time web access)
 - <https://github.com/h4ckf0r0day/obscura> (headless browser engine written in Rust, built for web scraping and AI agent automation)
+- <https://developers.cloudflare.com/web-search/how-to-use/>
 
 #### Editores video
 
@@ -1724,6 +1726,7 @@ Mirrors:
 - <https://learn-kernels.com/>
 - <https://learn-inference.com/>
 - <https://systemdesign.sophiebi.com/> (System design estilo Duolingo)
+- <https://securitytxt.org/>
 
 ### Udemy
 
@@ -2224,6 +2227,7 @@ Mirrors:
 - <https://github.com/atherosai/ui>
 - <https://bg.ibelick.com/>
 - <https://www.meshh.dev/> (curated WebGL, Three.js, shader, and interactive canvas components with copyable code and AI-ready integration prompts)
+- <https://iamsingle.app/> (A working directory of SFWAs (single-file web apps), apps that ship as a single HTML file. No install, no build, no server required to run)
 
 ### HTML Snippets
 
@@ -2395,6 +2399,8 @@ Mirrors:
 - <https://sael.net/prompt/>
 - <https://sael.net/plane-of-focus/>
 - <https://valley.mengto.here.now/>
+- <https://gemini.google.com/share/3b1ebce6a7f2?skid=90fe9306-4951-4d36-a127-d2ffd952d39a>
+- <https://3ditions.drop3.app/watch/infinite-water/> (Incluye de pago)
 
 ## Cheatsheets
 
@@ -2749,6 +2755,8 @@ Mirrors:
 - <https://cari.institute/aesthetics> (online community dedicated to developing a visual lexicon of consumer ephemera from the 1970s until now)
 - <https://whatships.com/>
 - <https://designeer.xyz/> (curated collection of interface craft, component libraries, AI tools, and resources for builders)
+- <https://pinlite.app/> (Pinterest mirror)
+- <https://github.com/shsfwork/awesome-inspiration>
 
 ## Cursos de pago
 
@@ -2984,6 +2992,7 @@ Mirrors:
 - <https://youraislopbores.me/> (AI sin AI)
 - <https://chatjimmy.ai/>
 - <https://jev.s1.dev/>
+- <https://eternalai.org/> (Pagada, Requiere cuenta)
 
 #### Skills Chatbots
 
@@ -3294,6 +3303,7 @@ Mirrors:
 - <https://ai-index.view.fast/> (AI Index vs. Cost, Time & Output Tokens per Task)
 - <https://github.com/tamaratran/fast-jev-compaction> (Claude Code plugin that replaces the compaction summary with Jev decisions: every tool call and result is scored in one fast request, stale ones are dropped or truncated, everything kept stays verbatim)
 - <https://github.com/blendi-remade/agentcraft> (A team of Claude agents doing real work on your code, inside a Minecraft studio you can walk around in)
+- <https://github.com/morluto/rea> (Reverse engineer anything with agents, from app behavior down to native binaries)
 
 #### Skills AI Vibe Coding
 
@@ -3495,6 +3505,7 @@ Ejem [Are Repository-Level Context Files Helpful for Coding Agents?](https://arx
 - <https://boxd.sh/> (Composable computers for Devs and Agents)
 - <https://railway.com/free-vm> (free Linux VM on Railway, no account needed)
 - <https://whattheport.dev/> (MacOs, Every dev server on your Mac, in the menu bar)
+- <https://antseed.com/> ("AI VPN")
 
 #### AI Local
 
