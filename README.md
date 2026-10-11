@@ -1192,6 +1192,7 @@ Mirrors:
 - <https://vit-editor.vercel.app/> (Git para videos)
 - <https://github.com/CutWire-Studios/Drift>
 - <https://github.com/OpenCut-app/OpenCut>
+- <https://github.com/ozcancelik/harfiyen>
 
 ### Librerías
 
@@ -3001,6 +3002,7 @@ Mirrors:
 - <https://github.com/blader/humanizer> (skill that removes signs of AI-generated writing from text)
 - <https://github.com/Nanako0129/sepia> (De-AI writing skill for any Agent Skills-compatible agent. Narrative-architecture repair for fiction, venue-matched rules for professional prose)
 - <https://github.com/alphaXiv/OpenResearch> (Turn your coding agents into research agents)
+- <https://github.com/SNL-UCSB/paper-writing-skill> (A Claude Code skill that encodes battle-tested editorial principles, section-specific rhetorical moves, and a structured writing pipeline for research papers. Brainstorm → Draft 0 → Evaluate → Write → Compress)
 
 ### AI Imágenes
 
@@ -3215,11 +3217,13 @@ Mirrors:
 - <https://aicameramovements.com/> (Camera movement prompts)
 - <https://github.com/blendi-remade/unreel> (Pick a title and a LLM writes the episode a few shots at a time while MiniMax H3 Max Turbo renders each shot live on fal)
 - <https://github.com/mexicat/pdoom-video> (A generative, code-rendered music video with word-synced karaoke typography)
+- <https://github.com/academa-labs/manimgx> (3D animation engine for agents, compatible with Manim CE's API)
 
 ### AI Vibe Coding
 
 [↑](#tabla-de-contenido)
 
+- <https://github.com/filipecalegario/awesome-vibe-coding>
 - <https://v0.dev/>
 - <https://vzy.co/> (Requiere cuenta)
 - <https://www.magicpatterns.com/> (Requiere cuenta)
@@ -3304,6 +3308,8 @@ Mirrors:
 - <https://github.com/tamaratran/fast-jev-compaction> (Claude Code plugin that replaces the compaction summary with Jev decisions: every tool call and result is scored in one fast request, stale ones are dropped or truncated, everything kept stays verbatim)
 - <https://github.com/blendi-remade/agentcraft> (A team of Claude agents doing real work on your code, inside a Minecraft studio you can walk around in)
 - <https://github.com/morluto/rea> (Reverse engineer anything with agents, from app behavior down to native binaries)
+- <https://github.com/CopilotKit/OpenIntelligentUI> (An open-source chat interface that turns questions into explanations, comparisons, and working tools)
+- <https://tov.sh/> (A programming language for coding agents)
 
 #### Skills AI Vibe Coding
 
@@ -3413,6 +3419,10 @@ Ejem [Are Repository-Level Context Files Helpful for Coding Agents?](https://arx
 - <https://github.com/elayadesign/ai-design-skills>
 - <https://github.com/ericzakariasson/scandinavian-design>
 - <https://libraries.dev/skill>
+- <https://github.com/gholtzap/lintapple>
+- <https://github.com/wheresryan22/anatomy>
+- <https://prompt-motion.com/>
+- <https://ai-slop-checker.vercel.app/>
 
 ### AI Software
 
@@ -3433,6 +3443,8 @@ Ejem [Are Repository-Level Context Files Helpful for Coding Agents?](https://arx
 - <https://github.com/Gitlawb/openclaude> (CLI Agentic coding)
 - <https://github.com/CodebuffAI/codebuff> (CLI Agentic coding)
 - <https://zero.gitlawb.com/> (CLI Agentic coding)
+- <https://blackboard.sh/dash/> (CLI Agentic coding)
+- <https://stencil.so/tern> (CLI Agentic coding)
 - <https://www.orchids.app/> (IDE)
 - <https://ampcode.com/> (IDE Agentic coding)
 - <https://factory.ai/> (CLI Agentic coding)
@@ -3506,6 +3518,7 @@ Ejem [Are Repository-Level Context Files Helpful for Coding Agents?](https://arx
 - <https://railway.com/free-vm> (free Linux VM on Railway, no account needed)
 - <https://whattheport.dev/> (MacOs, Every dev server on your Mac, in the menu bar)
 - <https://antseed.com/> ("AI VPN")
+- <https://developers.google.com/edge/foresight> (MacOs, Intelligent Notetaking)
 
 #### AI Local
 
