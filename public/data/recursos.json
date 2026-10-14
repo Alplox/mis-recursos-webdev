@@ -1990,6 +1990,10 @@
           {
             "name": "https://ezascii.com/image-to-ascii",
             "url": "https://ezascii.com/image-to-ascii"
+          },
+          {
+            "name": "https://paint.jas.black/",
+            "url": "https://paint.jas.black/"
           }
         ],
         "children": [
@@ -3587,6 +3591,11 @@
           {
             "name": "https://nostrapps.com/",
             "url": "https://nostrapps.com/"
+          },
+          {
+            "name": "https://github.com/NationalSecurityAgency/ghidra",
+            "url": "https://github.com/NationalSecurityAgency/ghidra",
+            "description": "software reverse engineering (SRE) framework created and maintained by the National Security Agency Research Directorate"
           }
         ],
         "children": [
@@ -3676,6 +3685,10 @@
                 "name": "https://github.com/hughhowey/neo",
                 "url": "https://github.com/hughhowey/neo",
                 "description": "A novel-writing tool"
+              },
+              {
+                "name": "https://github.com/Freaction/Aquilum",
+                "url": "https://github.com/Freaction/Aquilum"
               }
             ],
             "children": []
@@ -4838,6 +4851,11 @@
               {
                 "name": "https://trellisui.com/",
                 "url": "https://trellisui.com/"
+              },
+              {
+                "name": "https://github.com/DavidHDev/canvas-ui",
+                "url": "https://github.com/DavidHDev/canvas-ui",
+                "description": "A library of creative canvas components. Real HTML with WebGL effects running over it. React, Vue, Svelte, vanilla"
               }
             ],
             "children": [
@@ -5004,6 +5022,21 @@
                   {
                     "name": "https://generativeloaders.com/",
                     "url": "https://generativeloaders.com/"
+                  },
+                  {
+                    "name": "https://github.com/ui-layouts/cursify",
+                    "url": "https://github.com/ui-layouts/cursify",
+                    "description": "Cursor Animation Library for React & Next.js"
+                  },
+                  {
+                    "name": "https://github.com/ui-layouts/uilayouts",
+                    "url": "https://github.com/ui-layouts/uilayouts",
+                    "description": "components, effects, design tools, and ready-to-use blocks"
+                  },
+                  {
+                    "name": "https://github.com/ibelick/motion-primitives",
+                    "url": "https://github.com/ibelick/motion-primitives",
+                    "description": "UI kit to make animated interfaces"
                   }
                 ],
                 "children": []
@@ -5211,6 +5244,11 @@
                     "name": "https://kobra.systems/components/input-otp",
                     "url": "https://kobra.systems/components/input-otp",
                     "description": "Pagada"
+                  },
+                  {
+                    "name": "https://github.com/paper-design/shaders",
+                    "url": "https://github.com/paper-design/shaders",
+                    "description": "Zero-dependency canvas shaders that can be installed from npm or designed in Paper"
                   }
                 ],
                 "children": []
@@ -7812,6 +7850,10 @@
           {
             "name": "https://try.cloudflare.com/",
             "url": "https://try.cloudflare.com/"
+          },
+          {
+            "name": "https://anonymous.4open.science/",
+            "url": "https://anonymous.4open.science/"
           }
         ],
         "children": []
@@ -8982,6 +9024,14 @@
             "name": "https://3ditions.drop3.app/watch/infinite-water/",
             "url": "https://3ditions.drop3.app/watch/infinite-water/",
             "description": "Incluye de pago"
+          },
+          {
+            "name": "https://terrain-atlas.pratikyadav.chatgpt.site/",
+            "url": "https://terrain-atlas.pratikyadav.chatgpt.site/"
+          },
+          {
+            "name": "https://denim.scottsun.io/",
+            "url": "https://denim.scottsun.io/"
           }
         ],
         "children": []
@@ -10361,6 +10411,11 @@
           {
             "name": "https://github.com/shsfwork/awesome-inspiration",
             "url": "https://github.com/shsfwork/awesome-inspiration"
+          },
+          {
+            "name": "https://mkdir.directory/",
+            "url": "https://mkdir.directory/",
+            "description": "segregador"
           }
         ],
         "children": []
@@ -11294,6 +11349,10 @@
             "name": "https://eternalai.org/",
             "url": "https://eternalai.org/",
             "description": "Pagada, Requiere cuenta"
+          },
+          {
+            "name": "https://uniichat.com/",
+            "url": "https://uniichat.com/"
           }
         ],
         "children": [
@@ -11321,6 +11380,11 @@
                 "name": "https://github.com/SNL-UCSB/paper-writing-skill",
                 "url": "https://github.com/SNL-UCSB/paper-writing-skill",
                 "description": "A Claude Code skill that encodes battle-tested editorial principles, section-specific rhetorical moves, and a structured writing pipeline for research papers. Brainstorm → Draft 0 → Evaluate → Write → Compress"
+              },
+              {
+                "name": "https://github.com/docwriter-org/plain-writing-skill",
+                "url": "https://github.com/docwriter-org/plain-writing-skill",
+                "description": "A plain-language writing skill for AI agents, with a revision view that shows what changed"
               }
             ],
             "children": []
@@ -12941,6 +13005,10 @@
                 "name": "https://github.com/Egonex-AI/Understand-Anything",
                 "url": "https://github.com/Egonex-AI/Understand-Anything",
                 "description": "Turn any code into an interactive knowledge graph you can explore, search, and ask questions about"
+              },
+              {
+                "name": "https://github.com/anthropics/claude-plugins-official",
+                "url": "https://github.com/anthropics/claude-plugins-official"
               }
             ],
             "children": []
@@ -13116,6 +13184,10 @@
               {
                 "name": "https://ai-slop-checker.vercel.app/",
                 "url": "https://ai-slop-checker.vercel.app/"
+              },
+              {
+                "name": "https://github.com/madebymustafa/design-taste",
+                "url": "https://github.com/madebymustafa/design-taste"
               }
             ],
             "children": []
@@ -13252,6 +13324,11 @@
             "name": "https://xirp.spotify.com/",
             "url": "https://xirp.spotify.com/",
             "description": "CLI Agentic coding"
+          },
+          {
+            "name": "https://github.com/paperclipai/paperclip",
+            "url": "https://github.com/paperclipai/paperclip",
+            "description": "open-source app to manage agents"
           },
           {
             "name": "https://www.pencil.dev/",
@@ -13562,6 +13639,21 @@
             "name": "https://developers.google.com/edge/foresight",
             "url": "https://developers.google.com/edge/foresight",
             "description": "MacOs, Intelligent Notetaking"
+          },
+          {
+            "name": "https://github.com/SegFault42/heliosgen",
+            "url": "https://github.com/SegFault42/heliosgen",
+            "description": "Self Hosted Gen AI desktop app. Free alternative to Higgsfield, OpenArt, Freepik"
+          },
+          {
+            "name": "https://github.com/marvkr/better-design",
+            "url": "https://github.com/marvkr/better-design",
+            "description": "Open-source design MCP server + shadcn/ui registry"
+          },
+          {
+            "name": "https://github.com/superdesigndev/superdesign",
+            "url": "https://github.com/superdesigndev/superdesign",
+            "description": "open-source design agent that lives right inside your IDE. Generate UI mockups, components, and wireframes directly from natural language prompts"
           }
         ],
         "children": [
@@ -13809,6 +13901,11 @@
           {
             "name": "https://mundolaboral.elmercurio.com/",
             "url": "https://mundolaboral.elmercurio.com/"
+          },
+          {
+            "name": "https://www.agrojob.cl/trabajos",
+            "url": "https://www.agrojob.cl/trabajos",
+            "description": "sector agrícola"
           }
         ],
         "children": [
@@ -14598,6 +14695,11 @@
       {
         "name": "https://getmargin.vercel.app/",
         "url": "https://getmargin.vercel.app/"
+      },
+      {
+        "name": "https://cooldock.app/",
+        "url": "https://cooldock.app/",
+        "description": "MacOs, Pagada"
       }
     ],
     "children": []
