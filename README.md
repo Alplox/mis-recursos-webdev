@@ -620,6 +620,7 @@ Mirrors:
 - <https://www.vishopper.com/cut-out-people>
 - <https://www.inaturalist.org/observations>
 - <https://ezascii.com/image-to-ascii>
+- <https://paint.jas.black/>
 
 #### Editar imágenes online
 
@@ -1041,6 +1042,7 @@ Mirrors:
 - <https://ui8.ai/forge/> (free macOS app that turns any local web project into a visual canvas)
 - <https://openmotion.design/>
 - <https://nostrapps.com/>
+- <https://github.com/NationalSecurityAgency/ghidra> (software reverse engineering (SRE) framework created and maintained by the National Security Agency Research Directorate)
 
 #### Editor Markdown
 
@@ -1064,6 +1066,7 @@ Mirrors:
 - <https://meadow-notes.com/> (macOS)
 - <https://neverwrite.app/>
 - <https://github.com/hughhowey/neo> (A novel-writing tool)
+- <https://github.com/Freaction/Aquilum>
 
 #### Screen Recorder/Capturar Pantalla
 
@@ -1362,6 +1365,7 @@ Mirrors:
 - <https://hana-interface.vercel.app/>
 - <https://www.obsidianui.dev/>
 - <https://trellisui.com/>
+- <https://github.com/DavidHDev/canvas-ui> (A library of creative canvas components. Real HTML with WebGL effects running over it. React, Vue, Svelte, vanilla)
 
 ##### Estilos inspirados en otros preexistentes
 
@@ -1407,6 +1411,9 @@ Mirrors:
 - <https://www.morphicons.com/>
 - <https://github.com/fayazara/portfolio-site-template>
 - <https://generativeloaders.com/>
+- <https://github.com/ui-layouts/cursify> (Cursor Animation Library for React & Next.js)
+- <https://github.com/ui-layouts/uilayouts> (components, effects, design tools, and ready-to-use blocks)
+- <https://github.com/ibelick/motion-primitives> (UI kit to make animated interfaces)
 
 #### REACT Recursos
 
@@ -1463,6 +1470,7 @@ Mirrors:
 - <https://opensourceui.in/>
 - <https://www.rtecn.space/>
 - <https://kobra.systems/components/input-otp> (Pagada)
+- <https://github.com/paper-design/shaders> (Zero-dependency canvas shaders that can be installed from npm or designed in Paper)
 
 ### Web Audio API
 
@@ -2115,6 +2123,7 @@ Mirrors:
 - <https://straw.page/>
 - <https://gitworkshop.dev/>
 - <https://try.cloudflare.com/>
+- <https://anonymous.4open.science/>
 
 ### Incluyen de pago
 
@@ -2402,6 +2411,8 @@ Mirrors:
 - <https://valley.mengto.here.now/>
 - <https://gemini.google.com/share/3b1ebce6a7f2?skid=90fe9306-4951-4d36-a127-d2ffd952d39a>
 - <https://3ditions.drop3.app/watch/infinite-water/> (Incluye de pago)
+- <https://terrain-atlas.pratikyadav.chatgpt.site/>
+- <https://denim.scottsun.io/>
 
 ## Cheatsheets
 
@@ -2758,6 +2769,7 @@ Mirrors:
 - <https://designeer.xyz/> (curated collection of interface craft, component libraries, AI tools, and resources for builders)
 - <https://pinlite.app/> (Pinterest mirror)
 - <https://github.com/shsfwork/awesome-inspiration>
+- <https://mkdir.directory/> (segregador)
 
 ## Cursos de pago
 
@@ -2994,6 +3006,7 @@ Mirrors:
 - <https://chatjimmy.ai/>
 - <https://jev.s1.dev/>
 - <https://eternalai.org/> (Pagada, Requiere cuenta)
+- <https://uniichat.com/>
 
 #### Skills Chatbots
 
@@ -3003,6 +3016,7 @@ Mirrors:
 - <https://github.com/Nanako0129/sepia> (De-AI writing skill for any Agent Skills-compatible agent. Narrative-architecture repair for fiction, venue-matched rules for professional prose)
 - <https://github.com/alphaXiv/OpenResearch> (Turn your coding agents into research agents)
 - <https://github.com/SNL-UCSB/paper-writing-skill> (A Claude Code skill that encodes battle-tested editorial principles, section-specific rhetorical moves, and a structured writing pipeline for research papers. Brainstorm → Draft 0 → Evaluate → Write → Compress)
+- <https://github.com/docwriter-org/plain-writing-skill> (A plain-language writing skill for AI agents, with a revision view that shows what changed)
 
 ### AI Imágenes
 
@@ -3377,6 +3391,7 @@ Ejem [Are Repository-Level Context Files Helpful for Coding Agents?](https://arx
 - <https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering> (A comprehensive collection of Agent Skills for context engineering, multi-agent architectures, and production agent systems)
 - <https://github.com/addyosmani/agent-skills> (Production-grade engineering skills for AI coding agents)
 - <https://github.com/Egonex-AI/Understand-Anything> (Turn any code into an interactive knowledge graph you can explore, search, and ask questions about)
+- <https://github.com/anthropics/claude-plugins-official>
 
 #### Design.md
 
@@ -3423,6 +3438,7 @@ Ejem [Are Repository-Level Context Files Helpful for Coding Agents?](https://arx
 - <https://github.com/wheresryan22/anatomy>
 - <https://prompt-motion.com/>
 - <https://ai-slop-checker.vercel.app/>
+- <https://github.com/madebymustafa/design-taste>
 
 ### AI Software
 
@@ -3454,6 +3470,7 @@ Ejem [Are Repository-Level Context Files Helpful for Coding Agents?](https://arx
 - <https://supermaven.com/> (IDE)
 - <https://www.term-v0.app/> (CLI Agentic coding)
 - <https://xirp.spotify.com/> (CLI Agentic coding)
+- <https://github.com/paperclipai/paperclip> (open-source app to manage agents)
 - <https://www.pencil.dev/> (Figma alternative)
 - <https://github.com/jamiepine/voicebox/releases> (audio)
 - <https://openclaw.ai/> ("personal AI assistant")
@@ -3519,6 +3536,9 @@ Ejem [Are Repository-Level Context Files Helpful for Coding Agents?](https://arx
 - <https://whattheport.dev/> (MacOs, Every dev server on your Mac, in the menu bar)
 - <https://antseed.com/> ("AI VPN")
 - <https://developers.google.com/edge/foresight> (MacOs, Intelligent Notetaking)
+- <https://github.com/SegFault42/heliosgen> (Self Hosted Gen AI desktop app. Free alternative to Higgsfield, OpenArt, Freepik)
+- <https://github.com/marvkr/better-design> (Open-source design MCP server + shadcn/ui registry)
+- <https://github.com/superdesigndev/superdesign> (open-source design agent that lives right inside your IDE. Generate UI mockups, components, and wireframes directly from natural language prompts)
 
 #### AI Local
 
@@ -3588,6 +3608,7 @@ Ejem [Are Repository-Level Context Files Helpful for Coding Agents?](https://arx
 - <https://www.kitempleo.cl/>
 - <https://www.randstad.cl/>
 - <https://mundolaboral.elmercurio.com/>
+- <https://www.agrojob.cl/trabajos> (sector agrícola)
 
 #### Páginas de empleo Gobierno
 
@@ -3820,5 +3841,6 @@ También conocidos como: pagan por tarea
 - <https://warmwind.com/>
 - <https://age-verifier.eva.ac/>
 - <https://getmargin.vercel.app/>
+- <https://cooldock.app/> (MacOs, Pagada)
 
 <!-- resources-end -->
