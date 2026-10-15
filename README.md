@@ -680,6 +680,7 @@ Mirrors:
 - <https://www.pixilart.com/>
 - <https://fjolt.com/article/css-pixel-art-generator>
 - <https://app.monopro.org/pixel/>
+- <https://tezumie.github.io/Image-to-Pixel/editor/>
 
 #### Generador de Fondos
 
@@ -808,6 +809,7 @@ Mirrors:
 - <https://www.gatheros.co/> (MacOS, Organizador de referencias)
 - <https://github.com/JetSquirrel/gpui-kit-canvas> (Sketch GPUI Kit screens in the browser and turn them into vibe-coding prompts)
 - <https://github.com/lnkiai/m3e-canvas> (Sketch Material 3 Expressive screens in the browser and turn them into vibe-coding prompts)
+- <https://www.designeng.tools/>
 
 #### Figma plugin
 
@@ -1043,6 +1045,9 @@ Mirrors:
 - <https://openmotion.design/>
 - <https://nostrapps.com/>
 - <https://github.com/NationalSecurityAgency/ghidra> (software reverse engineering (SRE) framework created and maintained by the National Security Agency Research Directorate)
+- <https://www.joecroskey.com/Aurora> (open-source audio metering & visualization)
+- <https://github.com/chenglou/handwired> (Turn your regular JavaScript code into a neural net)
+- <https://github.com/Administracion-Abierta/AutoFirme> (Client-side-rendered SPA: sign and verify documents with X.509 certificates, entirely in the browser. No backend, no key material leaving the client)
 
 #### Editor Markdown
 
@@ -1471,6 +1476,7 @@ Mirrors:
 - <https://www.rtecn.space/>
 - <https://kobra.systems/components/input-otp> (Pagada)
 - <https://github.com/paper-design/shaders> (Zero-dependency canvas shaders that can be installed from npm or designed in Paper)
+- <https://23rd.dev/> (Shaders, backgrounds and interactive pieces for React)
 
 ### Web Audio API
 
@@ -2770,6 +2776,9 @@ Mirrors:
 - <https://pinlite.app/> (Pinterest mirror)
 - <https://github.com/shsfwork/awesome-inspiration>
 - <https://mkdir.directory/> (segregador)
+- <https://cosign.co/landing>
+- <https://directoryyy.com/>
+- <https://usefulshelf.co/>
 
 ## Cursos de pago
 
@@ -3124,6 +3133,7 @@ Mirrors:
 - <https://www.logo-creator.io/> (Requiere cuenta, 2 créditos gratis)
 - <https://promptsref.com/tool/AI-Image-Generator> (Requiere cuenta, 20 créditos gratis)
 - <https://visualaiclub.com/> (A community library of tested prompts and Claude skills for image, video, text, code and audio tools)
+- <https://imageory.in/> (Prompts con ejemplos)
 
 #### Skills AI Imágenes
 
@@ -3439,6 +3449,7 @@ Ejem [Are Repository-Level Context Files Helpful for Coding Agents?](https://arx
 - <https://prompt-motion.com/>
 - <https://ai-slop-checker.vercel.app/>
 - <https://github.com/madebymustafa/design-taste>
+- <https://github.com/MartinPuli/taste-library>
 
 ### AI Software
 
