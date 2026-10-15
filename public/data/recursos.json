@@ -2217,6 +2217,10 @@
               {
                 "name": "https://app.monopro.org/pixel/",
                 "url": "https://app.monopro.org/pixel/"
+              },
+              {
+                "name": "https://tezumie.github.io/Image-to-Pixel/editor/",
+                "url": "https://tezumie.github.io/Image-to-Pixel/editor/"
               }
             ],
             "children": []
@@ -2693,6 +2697,10 @@
             "name": "https://github.com/lnkiai/m3e-canvas",
             "url": "https://github.com/lnkiai/m3e-canvas",
             "description": "Sketch Material 3 Expressive screens in the browser and turn them into vibe-coding prompts"
+          },
+          {
+            "name": "https://www.designeng.tools/",
+            "url": "https://www.designeng.tools/"
           }
         ],
         "children": [
@@ -3596,6 +3604,21 @@
             "name": "https://github.com/NationalSecurityAgency/ghidra",
             "url": "https://github.com/NationalSecurityAgency/ghidra",
             "description": "software reverse engineering (SRE) framework created and maintained by the National Security Agency Research Directorate"
+          },
+          {
+            "name": "https://www.joecroskey.com/Aurora",
+            "url": "https://www.joecroskey.com/Aurora",
+            "description": "open-source audio metering & visualization"
+          },
+          {
+            "name": "https://github.com/chenglou/handwired",
+            "url": "https://github.com/chenglou/handwired",
+            "description": "Turn your regular JavaScript code into a neural net"
+          },
+          {
+            "name": "https://github.com/Administracion-Abierta/AutoFirme",
+            "url": "https://github.com/Administracion-Abierta/AutoFirme",
+            "description": "Client-side-rendered SPA: sign and verify documents with X.509 certificates, entirely in the browser. No backend, no key material leaving the client"
           }
         ],
         "children": [
@@ -5249,6 +5272,11 @@
                     "name": "https://github.com/paper-design/shaders",
                     "url": "https://github.com/paper-design/shaders",
                     "description": "Zero-dependency canvas shaders that can be installed from npm or designed in Paper"
+                  },
+                  {
+                    "name": "https://23rd.dev/",
+                    "url": "https://23rd.dev/",
+                    "description": "Shaders, backgrounds and interactive pieces for React"
                   }
                 ],
                 "children": []
@@ -10416,6 +10444,18 @@
             "name": "https://mkdir.directory/",
             "url": "https://mkdir.directory/",
             "description": "segregador"
+          },
+          {
+            "name": "https://cosign.co/landing",
+            "url": "https://cosign.co/landing"
+          },
+          {
+            "name": "https://directoryyy.com/",
+            "url": "https://directoryyy.com/"
+          },
+          {
+            "name": "https://usefulshelf.co/",
+            "url": "https://usefulshelf.co/"
           }
         ],
         "children": []
@@ -11871,6 +11911,11 @@
             "name": "https://visualaiclub.com/",
             "url": "https://visualaiclub.com/",
             "description": "A community library of tested prompts and Claude skills for image, video, text, code and audio tools"
+          },
+          {
+            "name": "https://imageory.in/",
+            "url": "https://imageory.in/",
+            "description": "Prompts con ejemplos"
           }
         ],
         "children": [
@@ -13188,6 +13233,10 @@
               {
                 "name": "https://github.com/madebymustafa/design-taste",
                 "url": "https://github.com/madebymustafa/design-taste"
+              },
+              {
+                "name": "https://github.com/MartinPuli/taste-library",
+                "url": "https://github.com/MartinPuli/taste-library"
               }
             ],
             "children": []
