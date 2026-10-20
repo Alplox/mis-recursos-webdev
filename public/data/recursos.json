@@ -547,6 +547,10 @@
       {
         "name": "https://tree.icqr.com/",
         "url": "https://tree.icqr.com/"
+      },
+      {
+        "name": "https://lighthouseapp.io/tools/feed-finder",
+        "url": "https://lighthouseapp.io/tools/feed-finder"
       }
     ],
     "children": [
@@ -3270,6 +3274,10 @@
           {
             "name": "https://app.openreel.video/",
             "url": "https://app.openreel.video/"
+          },
+          {
+            "name": "https://www.freecut.net/",
+            "url": "https://www.freecut.net/"
           }
         ],
         "children": []
@@ -4092,6 +4100,11 @@
               {
                 "name": "https://developers.cloudflare.com/web-search/how-to-use/",
                 "url": "https://developers.cloudflare.com/web-search/how-to-use/"
+              },
+              {
+                "name": "https://github.com/vibheksoni/stealth-browser-mcp",
+                "url": "https://github.com/vibheksoni/stealth-browser-mcp",
+                "description": "Stealth browser automation for AI agents over MCP and the Chrome DevTools Protocol: navigation, network hooks, DOM extraction, and pixel-accurate UI cloning"
               }
             ],
             "children": []
@@ -4177,11 +4190,17 @@
               },
               {
                 "name": "https://github.com/OpenCut-app/OpenCut",
-                "url": "https://github.com/OpenCut-app/OpenCut"
+                "url": "https://github.com/OpenCut-app/OpenCut",
+                "description": "open-source CapCut alternative"
               },
               {
                 "name": "https://github.com/ozcancelik/harfiyen",
                 "url": "https://github.com/ozcancelik/harfiyen"
+              },
+              {
+                "name": "https://github.com/jub0t/Concat",
+                "url": "https://github.com/jub0t/Concat",
+                "description": "open-source, local-first, cross-platform CapCut replacement. Scriptable through a JSON-RPC API & MCP"
               }
             ],
             "children": []
@@ -4257,6 +4276,10 @@
           {
             "name": "https://vitepress.dev/",
             "url": "https://vitepress.dev/"
+          },
+          {
+            "name": "https://viteplus.dev/",
+            "url": "https://viteplus.dev/"
           },
           {
             "name": "https://veloxijs.com/",
@@ -4380,6 +4403,16 @@
           {
             "name": "https://nostr.org/",
             "url": "https://nostr.org/"
+          },
+          {
+            "name": "https://pele.run/",
+            "url": "https://pele.run/",
+            "description": "lightweight open source library that renders Mermaid diagrams to SVG, themed with CSS variables"
+          },
+          {
+            "name": "https://ondine.sh/",
+            "url": "https://ondine.sh/",
+            "description": "fast, small diagram engine for Mermaid syntax, written in Rust"
           }
         ],
         "children": [
@@ -4879,6 +4912,11 @@
                 "name": "https://github.com/DavidHDev/canvas-ui",
                 "url": "https://github.com/DavidHDev/canvas-ui",
                 "description": "A library of creative canvas components. Real HTML with WebGL effects running over it. React, Vue, Svelte, vanilla"
+              },
+              {
+                "name": "https://clankerui.dev/",
+                "url": "https://clankerui.dev/",
+                "description": "Waiting list, LLM Ready"
               }
             ],
             "children": [
@@ -5277,6 +5315,11 @@
                     "name": "https://23rd.dev/",
                     "url": "https://23rd.dev/",
                     "description": "Shaders, backgrounds and interactive pieces for React"
+                  },
+                  {
+                    "name": "https://github.com/0xGF/boneyard",
+                    "url": "https://github.com/0xGF/boneyard",
+                    "description": "Auto generated skeleton loading framework"
                   }
                 ],
                 "children": []
@@ -5606,6 +5649,10 @@
           {
             "name": "https://www.uxtools.co/challenges",
             "url": "https://www.uxtools.co/challenges"
+          },
+          {
+            "name": "https://ai-ml-questions.strangemachines.workers.dev/",
+            "url": "https://ai-ml-questions.strangemachines.workers.dev/"
           }
         ],
         "children": []
@@ -6387,6 +6434,10 @@
           {
             "name": "https://securitytxt.org/",
             "url": "https://securitytxt.org/"
+          },
+          {
+            "name": "https://iquilezles.org/articles/",
+            "url": "https://iquilezles.org/articles/"
           }
         ],
         "children": []
@@ -8327,6 +8378,10 @@
             "name": "https://iamsingle.app/",
             "url": "https://iamsingle.app/",
             "description": "A working directory of SFWAs (single-file web apps), apps that ship as a single HTML file. No install, no build, no server required to run"
+          },
+          {
+            "name": "https://www.shadertoy.com/",
+            "url": "https://www.shadertoy.com/"
           }
         ],
         "children": []
@@ -8848,6 +8903,10 @@
           {
             "name": "https://macos-27-simulator.mweinbach.chatgpt.site/",
             "url": "https://macos-27-simulator.mweinbach.chatgpt.site/"
+          },
+          {
+            "name": "https://experiments.thisiswhitespace.com/",
+            "url": "https://experiments.thisiswhitespace.com/"
           }
         ],
         "children": [
@@ -9060,6 +9119,10 @@
           {
             "name": "https://denim.scottsun.io/",
             "url": "https://denim.scottsun.io/"
+          },
+          {
+            "name": "https://github.com/Noniv/web-ocean",
+            "url": "https://github.com/Noniv/web-ocean"
           }
         ],
         "children": []
@@ -10456,6 +10519,14 @@
           {
             "name": "https://usefulshelf.co/",
             "url": "https://usefulshelf.co/"
+          },
+          {
+            "name": "https://www.appscout.co/apps/",
+            "url": "https://www.appscout.co/apps/"
+          },
+          {
+            "name": "https://trendshift.io/",
+            "url": "https://trendshift.io/"
           }
         ],
         "children": []
@@ -10731,6 +10802,16 @@
         "url": "https://huggingface.co/spaces"
       },
       {
+        "name": "https://pirateface.co/",
+        "url": "https://pirateface.co/",
+        "description": "Open models - LLMs, image, audio, datasets as magnet links"
+      },
+      {
+        "name": "https://llama.garden/",
+        "url": "https://llama.garden/",
+        "description": "Open models as magnet links"
+      },
+      {
         "name": "https://replicate.com/",
         "url": "https://replicate.com/"
       },
@@ -10822,6 +10903,26 @@
         "name": "https://thecolony.ai/",
         "url": "https://thecolony.ai/",
         "description": "red social de agentes IA"
+      },
+      {
+        "name": "https://www.braintrust.dev/",
+        "url": "https://www.braintrust.dev/",
+        "description": "Pagada, Requiere cuenta, plataforma de observabilidad y evaluación de aplicaciones y agentes de IA que permite monitorear su rendimiento, detectar errores y mejorar su calidad de forma continua"
+      },
+      {
+        "name": "https://portkey.ai/",
+        "url": "https://portkey.ai/",
+        "description": "Pagada, Requiere cuenta,, Plataforma de infraestructura para IA que centraliza el acceso a múltiples modelos de lenguaje y permite gestionar, proteger, monitorear y optimizar sus interacciones"
+      },
+      {
+        "name": "https://langfuse.com/",
+        "url": "https://langfuse.com/",
+        "description": "Pagada, Requiere cuenta, Plataforma open source de observabilidad y evaluación de aplicaciones y agentes de IA que permite rastrear ejecuciones, depurar errores, gestionar prompts y mejorar la calidad de las respuestas"
+      },
+      {
+        "name": "https://www.respan.ai/",
+        "url": "https://www.respan.ai/",
+        "description": "Pagada, Requiere cuenta,, Plataforma de infraestructura y observabilidad para aplicaciones y agentes de IA que integra enrutamiento de modelos, monitoreo, evaluación automatizada y análisis de costos para mejorar su rendimiento y confiabilidad"
       }
     ],
     "children": [
@@ -11916,6 +12017,11 @@
             "name": "https://imageory.in/",
             "url": "https://imageory.in/",
             "description": "Prompts con ejemplos"
+          },
+          {
+            "name": "https://onepromptdesign.com/",
+            "url": "https://onepromptdesign.com/",
+            "description": "Prompts con ejemplos visuales"
           }
         ],
         "children": [
@@ -12782,6 +12888,11 @@
             "name": "https://tov.sh/",
             "url": "https://tov.sh/",
             "description": "A programming language for coding agents"
+          },
+          {
+            "name": "https://github.com/abhij1306/citeladder",
+            "url": "https://github.com/abhij1306/citeladder",
+            "description": "Open source AI search visibility tracker: See which brands and pages ChatGPT, Gemini, Claude and AI Overviews name. Self-hostable alternative to Peec and Profound"
           }
         ],
         "children": [
@@ -12826,6 +12937,10 @@
               {
                 "name": "https://skillsmd.dev/",
                 "url": "https://skillsmd.dev/"
+              },
+              {
+                "name": "https://skill-issue.in/",
+                "url": "https://skill-issue.in/"
               },
               {
                 "name": "https://hermes-agent.nousresearch.com/docs/skills",
@@ -13054,6 +13169,16 @@
               {
                 "name": "https://github.com/anthropics/claude-plugins-official",
                 "url": "https://github.com/anthropics/claude-plugins-official"
+              },
+              {
+                "name": "https://github.com/android/skills",
+                "url": "https://github.com/android/skills",
+                "description": "AI-optimized, modular instructions and resources, to help agents better understand and execute specific patterns that follow the best practices and guidance on Android development from developer.android.com"
+              },
+              {
+                "name": "https://github.com/AgricIDaniel/claude-seo",
+                "url": "https://github.com/AgricIDaniel/claude-seo",
+                "description": "26 sub-skills + 19 sub-agents covering technical SEO, E-E-A-T, schema, GEO/AEO, agent readiness (Lighthouse Agentic Browsing, WebMCP, llms.txt), backlinks, local SEO, e-commerce, international SEO, Google APIs, and PDF/Excel reporting"
               }
             ],
             "children": []
@@ -13703,6 +13828,11 @@
             "name": "https://github.com/superdesigndev/superdesign",
             "url": "https://github.com/superdesigndev/superdesign",
             "description": "open-source design agent that lives right inside your IDE. Generate UI mockups, components, and wireframes directly from natural language prompts"
+          },
+          {
+            "name": "https://pond.raphaelsalaja.com/",
+            "url": "https://pond.raphaelsalaja.com/",
+            "description": "MacOs, Keep what you save on X, Instagram, Pinterest, and more in a folder on your Mac"
           }
         ],
         "children": [
