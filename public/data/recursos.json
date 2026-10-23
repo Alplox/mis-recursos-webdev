@@ -2189,6 +2189,11 @@
               {
                 "name": "https://texture.fayaz.workers.dev/",
                 "url": "https://texture.fayaz.workers.dev/"
+              },
+              {
+                "name": "https://www.ascii-magic.com/app",
+                "url": "https://www.ascii-magic.com/app",
+                "description": "Freemium"
               }
             ],
             "children": []
@@ -3278,6 +3283,11 @@
           {
             "name": "https://www.freecut.net/",
             "url": "https://www.freecut.net/"
+          },
+          {
+            "name": "https://shotreel.app/",
+            "url": "https://shotreel.app/",
+            "description": "Freemium, animar screenshots"
           }
         ],
         "children": []
@@ -3627,6 +3637,11 @@
             "name": "https://github.com/Administracion-Abierta/AutoFirme",
             "url": "https://github.com/Administracion-Abierta/AutoFirme",
             "description": "Client-side-rendered SPA: sign and verify documents with X.509 certificates, entirely in the browser. No backend, no key material leaving the client"
+          },
+          {
+            "name": "https://www.graphicalui.com/",
+            "url": "https://www.graphicalui.com/",
+            "description": "Pagada, A tool to create visual themes, customize colors, and build interfaces with agents"
           }
         ],
         "children": [
@@ -4413,6 +4428,11 @@
             "name": "https://ondine.sh/",
             "url": "https://ondine.sh/",
             "description": "fast, small diagram engine for Mermaid syntax, written in Rust"
+          },
+          {
+            "name": "https://www.mdxcn.dev/",
+            "url": "https://www.mdxcn.dev/",
+            "description": "markdown-friendly components for mdx"
           }
         ],
         "children": [
@@ -4917,6 +4937,10 @@
                 "name": "https://clankerui.dev/",
                 "url": "https://clankerui.dev/",
                 "description": "Waiting list, LLM Ready"
+              },
+              {
+                "name": "https://www.fluidfunctionalism.com/",
+                "url": "https://www.fluidfunctionalism.com/"
               }
             ],
             "children": [
@@ -4986,6 +5010,11 @@
                   {
                     "name": "https://www.drawably.dev/",
                     "url": "https://www.drawably.dev/"
+                  },
+                  {
+                    "name": "https://glass.samasante.com/",
+                    "url": "https://glass.samasante.com/",
+                    "description": "Liquid Glass"
                   }
                 ],
                 "children": []
@@ -5098,6 +5127,11 @@
                     "name": "https://github.com/ibelick/motion-primitives",
                     "url": "https://github.com/ibelick/motion-primitives",
                     "description": "UI kit to make animated interfaces"
+                  },
+                  {
+                    "name": "https://piixpal.dvkk.dev/",
+                    "url": "https://piixpal.dvkk.dev/",
+                    "description": "Tiny pixel creatures that live on your website"
                   }
                 ],
                 "children": []
@@ -5149,6 +5183,10 @@
               {
                 "name": "https://beautiful-ui-five.vercel.app/",
                 "url": "https://beautiful-ui-five.vercel.app/"
+              },
+              {
+                "name": "https://microkit.co/",
+                "url": "https://microkit.co/"
               }
             ],
             "children": [
@@ -5320,6 +5358,27 @@
                     "name": "https://github.com/0xGF/boneyard",
                     "url": "https://github.com/0xGF/boneyard",
                     "description": "Auto generated skeleton loading framework"
+                  },
+                  {
+                    "name": "https://bencho.dev/",
+                    "url": "https://bencho.dev/",
+                    "description": "Library of interactive React components and micro‑interactions"
+                  },
+                  {
+                    "name": "https://www.evilbuttons.com/",
+                    "url": "https://www.evilbuttons.com/"
+                  },
+                  {
+                    "name": "https://www.mapcn.dev/",
+                    "url": "https://www.mapcn.dev/"
+                  },
+                  {
+                    "name": "https://uiable.com/",
+                    "url": "https://uiable.com/"
+                  },
+                  {
+                    "name": "https://motion-primitives.com/",
+                    "url": "https://motion-primitives.com/"
                   }
                 ],
                 "children": []
@@ -6951,6 +7010,42 @@
           {
             "name": "https://www.buttery.so/icons",
             "url": "https://www.buttery.so/icons"
+          },
+          {
+            "name": "https://iconspace.dev/",
+            "url": "https://iconspace.dev/",
+            "description": "animados"
+          },
+          {
+            "name": "https://icons.devigner.cc/",
+            "url": "https://icons.devigner.cc/"
+          },
+          {
+            "name": "https://www.heroicons-animated.com/",
+            "url": "https://www.heroicons-animated.com/",
+            "description": "animados"
+          },
+          {
+            "name": "https://useanimations.com/",
+            "url": "https://useanimations.com/"
+          },
+          {
+            "name": "https://allsvgicons.com/",
+            "url": "https://allsvgicons.com/"
+          },
+          {
+            "name": "https://lucide-animated.com/",
+            "url": "https://lucide-animated.com/",
+            "description": "animados"
+          },
+          {
+            "name": "https://amicons.design/",
+            "url": "https://amicons.design/"
+          },
+          {
+            "name": "https://circleloaders.dominikakissi.com/",
+            "url": "https://circleloaders.dominikakissi.com/",
+            "description": "24 circulos SVG animados"
           }
         ],
         "children": []
@@ -7172,6 +7267,10 @@
           {
             "name": "https://bryllim.github.io/workout-guide/",
             "url": "https://bryllim.github.io/workout-guide/"
+          },
+          {
+            "name": "https://kitbitz.art/",
+            "url": "https://kitbitz.art/"
           }
         ],
         "children": []
@@ -9100,6 +9199,10 @@
             "url": "https://sael.net/plane-of-focus/"
           },
           {
+            "name": "https://sael.net/gigacity/",
+            "url": "https://sael.net/gigacity/"
+          },
+          {
             "name": "https://valley.mengto.here.now/",
             "url": "https://valley.mengto.here.now/"
           },
@@ -9123,6 +9226,14 @@
           {
             "name": "https://github.com/Noniv/web-ocean",
             "url": "https://github.com/Noniv/web-ocean"
+          },
+          {
+            "name": "https://hublot.darkroom.engineering/",
+            "url": "https://hublot.darkroom.engineering/"
+          },
+          {
+            "name": "https://horizon.zavrenn.chatgpt.site/",
+            "url": "https://horizon.zavrenn.chatgpt.site/"
           }
         ],
         "children": []
@@ -10527,6 +10638,33 @@
           {
             "name": "https://trendshift.io/",
             "url": "https://trendshift.io/"
+          },
+          {
+            "name": "https://www.details.so/inspo",
+            "url": "https://www.details.so/inspo",
+            "description": "Pagada, Requiere cuenta"
+          },
+          {
+            "name": "https://appllama.io/",
+            "url": "https://appllama.io/",
+            "description": "Pagada, Requiere cuenta"
+          },
+          {
+            "name": "https://designbookmark.com/",
+            "url": "https://designbookmark.com/",
+            "description": "curated collection of sites"
+          },
+          {
+            "name": "https://websitevice.com/",
+            "url": "https://websitevice.com/"
+          },
+          {
+            "name": "https://www.appshot.gallery/",
+            "url": "https://www.appshot.gallery/"
+          },
+          {
+            "name": "https://kage.design/",
+            "url": "https://kage.design/"
           }
         ],
         "children": []
@@ -11494,12 +11632,17 @@
           {
             "name": "https://uniichat.com/",
             "url": "https://uniichat.com/"
+          },
+          {
+            "name": "https://www.freemode.ai/",
+            "url": "https://www.freemode.ai/",
+            "description": "Pagada, Requiere cuenta"
           }
         ],
         "children": [
           {
-            "id": "skills-chatbots",
-            "name": "Skills Chatbots",
+            "id": "skills-ai-chatbots",
+            "name": "Skills AI Chatbots",
             "level": 4,
             "links": [
               {
@@ -11526,6 +11669,10 @@
                 "name": "https://github.com/docwriter-org/plain-writing-skill",
                 "url": "https://github.com/docwriter-org/plain-writing-skill",
                 "description": "A plain-language writing skill for AI agents, with a revision view that shows what changed"
+              },
+              {
+                "name": "https://github.com/coreyhaines31/marketingskills",
+                "url": "https://github.com/coreyhaines31/marketingskills"
               }
             ],
             "children": []
@@ -12041,6 +12188,14 @@
               {
                 "name": "https://github.com/nevertoday/xxd-panel-112",
                 "url": "https://github.com/nevertoday/xxd-panel-112"
+              },
+              {
+                "name": "https://github.com/hugohe3/ppt-master",
+                "url": "https://github.com/hugohe3/ppt-master"
+              },
+              {
+                "name": "https://github.com/cathrynlavery/diagram-design",
+                "url": "https://github.com/cathrynlavery/diagram-design"
               }
             ],
             "children": []
@@ -12476,7 +12631,21 @@
             "description": "3D animation engine for agents, compatible with Manim CE's API"
           }
         ],
-        "children": []
+        "children": [
+          {
+            "id": "skills-ai-video",
+            "name": "Skills AI Video",
+            "level": 4,
+            "links": [
+              {
+                "name": "https://github.com/pedrovelasquez9/fragua",
+                "url": "https://github.com/pedrovelasquez9/fragua",
+                "description": "Skill para Claude Code y OpenCode que edita vídeo vertical para TikTok, Reels y Shorts: quita silencios, quema subtítulos karaoke, añade cards gráficas y redacta el copy de publicación. Todo en local, sin API keys"
+              }
+            ],
+            "children": []
+          }
+        ]
       },
       {
         "id": "ai-vibe-coding",
@@ -13362,6 +13531,25 @@
               {
                 "name": "https://github.com/MartinPuli/taste-library",
                 "url": "https://github.com/MartinPuli/taste-library"
+              },
+              {
+                "name": "https://tailwindcss-concentric.diip3sh.xyz/",
+                "url": "https://tailwindcss-concentric.diip3sh.xyz/"
+              },
+              {
+                "name": "https://skillbay.dev/",
+                "url": "https://skillbay.dev/",
+                "description": "Pagada, Requiere cuenta"
+              },
+              {
+                "name": "https://jiro.build/",
+                "url": "https://jiro.build/",
+                "description": "Pagada, Requiere cuenta"
+              },
+              {
+                "name": "https://www.scrolltide.co/",
+                "url": "https://www.scrolltide.co/",
+                "description": "Pagada, Requiere cuenta, a curated library of scroll-driven templates and prompts"
               }
             ],
             "children": []
@@ -13833,6 +14021,11 @@
             "name": "https://pond.raphaelsalaja.com/",
             "url": "https://pond.raphaelsalaja.com/",
             "description": "MacOs, Keep what you save on X, Instagram, Pinterest, and more in a folder on your Mac"
+          },
+          {
+            "name": "https://github.com/cheaper-inference/OmniRoute",
+            "url": "https://github.com/cheaper-inference/OmniRoute",
+            "description": "Free MIT AI gateway: one endpoint, 375 providers"
           }
         ],
         "children": [
@@ -13903,6 +14096,11 @@
                 "name": "https://github.com/KohakuBlueleaf/KohakuHub",
                 "url": "https://github.com/KohakuBlueleaf/KohakuHub",
                 "description": "A self-hosted HuggingFace alternative"
+              },
+              {
+                "name": "https://runonweb.ai/",
+                "url": "https://runonweb.ai/",
+                "description": "Free, open-source AI models that run in your browser"
               }
             ],
             "children": []
