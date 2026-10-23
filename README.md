@@ -99,12 +99,13 @@ Mirrors:
 - [AI](#ai)
   - [AI Colecciones/Toolkit](#ai-coleccionestoolkit)
   - [AI Chatbot](#ai-chatbot)
-    - [Skills Chatbot](#skills-chatbots)
+    - [Skills AI Chatbots](#skills-ai-chatbots)
   - [AI Imágenes](#ai-imágenes)
     - [Skills AI Imágenes](#skills-ai-imágenes)
   - [AI Audio](#ai-audio)
   - [AI Música](#ai-música)
   - [AI Video](#ai-video)
+    - [Skills AI Video](#skills-ai-video)
   - [AI Vibe Coding](#ai-vibe-coding)
     - [Skills AI Vibe Coding](#skills-ai-vibe-coding)
     - [Design.md](#designmd)
@@ -670,6 +671,7 @@ Mirrors:
 - <https://ink-inky.vercel.app/> (Dibujar como si fuese con tinta)
 - <https://softle.app/>
 - <https://texture.fayaz.workers.dev/>
+- <https://www.ascii-magic.com/app> (Freemium)
 
 #### Editor PixelArt
 
@@ -962,6 +964,7 @@ Mirrors:
 - <https://z-tuner.vercel.app/> (video a ASCII)
 - <https://app.openreel.video/>
 - <https://www.freecut.net/>
+- <https://shotreel.app/> (Freemium, animar screenshots)
 
 ### Audio
 
@@ -1050,6 +1053,7 @@ Mirrors:
 - <https://www.joecroskey.com/Aurora> (open-source audio metering & visualization)
 - <https://github.com/chenglou/handwired> (Turn your regular JavaScript code into a neural net)
 - <https://github.com/Administracion-Abierta/AutoFirme> (Client-side-rendered SPA: sign and verify documents with X.509 certificates, entirely in the browser. No backend, no key material leaving the client)
+- <https://www.graphicalui.com/> (Pagada, A tool to create visual themes, customize colors, and build interfaces with agents)
 
 #### Editor Markdown
 
@@ -1257,6 +1261,7 @@ Mirrors:
 - <https://nostr.org/>
 - <https://pele.run/> (lightweight open source library that renders Mermaid diagrams to SVG, themed with CSS variables)
 - <https://ondine.sh/> (fast, small diagram engine for Mermaid syntax, written in Rust)
+- <https://www.mdxcn.dev/> (markdown-friendly components for mdx)
 
 #### JS Recursos
 
@@ -1379,6 +1384,7 @@ Mirrors:
 - <https://trellisui.com/>
 - <https://github.com/DavidHDev/canvas-ui> (A library of creative canvas components. Real HTML with WebGL effects running over it. React, Vue, Svelte, vanilla)
 - <https://clankerui.dev/> (Waiting list, LLM Ready)
+- <https://www.fluidfunctionalism.com/>
 
 ##### Estilos inspirados en otros preexistentes
 
@@ -1397,6 +1403,7 @@ Mirrors:
 - <https://www.vantaui.com/> (Pagada, Requiere cuenta)
 - <https://widget.st/>
 - <https://www.drawably.dev/>
+- <https://glass.samasante.com/> (Liquid Glass)
 
 ##### Animación Recursos
 
@@ -1427,6 +1434,7 @@ Mirrors:
 - <https://github.com/ui-layouts/cursify> (Cursor Animation Library for React & Next.js)
 - <https://github.com/ui-layouts/uilayouts> (components, effects, design tools, and ready-to-use blocks)
 - <https://github.com/ibelick/motion-primitives> (UI kit to make animated interfaces)
+- <https://piixpal.dvkk.dev/> (Tiny pixel creatures that live on your website)
 
 #### REACT Recursos
 
@@ -1442,6 +1450,7 @@ Mirrors:
 - <https://github.com/frame-script/FrameScript> (Hacer videos)
 - <https://github.com/cloudflare/kumo>
 - <https://beautiful-ui-five.vercel.app/>
+- <https://microkit.co/>
 
 ##### Componentes
 
@@ -1486,6 +1495,11 @@ Mirrors:
 - <https://github.com/paper-design/shaders> (Zero-dependency canvas shaders that can be installed from npm or designed in Paper)
 - <https://23rd.dev/> (Shaders, backgrounds and interactive pieces for React)
 - <https://github.com/0xGF/boneyard> (Auto generated skeleton loading framework)
+- <https://bencho.dev/> (Library of interactive React components and micro‑interactions)
+- <https://www.evilbuttons.com/>
+- <https://www.mapcn.dev/>
+- <https://uiable.com/>
+- <https://motion-primitives.com/>
 
 ### Web Audio API
 
@@ -1883,6 +1897,14 @@ Mirrors:
 - <https://logos.lndev.me/>
 - <https://koboyo.com/icons>
 - <https://www.buttery.so/icons>
+- <https://iconspace.dev/> (animados)
+- <https://icons.devigner.cc/>
+- <https://www.heroicons-animated.com/> (animados)
+- <https://useanimations.com/>
+- <https://allsvgicons.com/>
+- <https://lucide-animated.com/> (animados)
+- <https://amicons.design/>
+- <https://circleloaders.dominikakissi.com/> (24 circulos SVG animados)
 
 ### Ilustraciones Gratuitas
 
@@ -1939,6 +1961,7 @@ Mirrors:
 - <https://brixmoji.com/>
 - <https://github.com/googlefonts/noto-emoji>
 - <https://bryllim.github.io/workout-guide/>
+- <https://kitbitz.art/>
 
 ### Imágenes Gratuitas
 
@@ -2427,12 +2450,15 @@ Mirrors:
 - <https://teleoperator.mindblown.ai/>
 - <https://sael.net/prompt/>
 - <https://sael.net/plane-of-focus/>
+- <https://sael.net/gigacity/>
 - <https://valley.mengto.here.now/>
 - <https://gemini.google.com/share/3b1ebce6a7f2?skid=90fe9306-4951-4d36-a127-d2ffd952d39a>
 - <https://3ditions.drop3.app/watch/infinite-water/> (Incluye de pago)
 - <https://terrain-atlas.pratikyadav.chatgpt.site/>
 - <https://denim.scottsun.io/>
 - <https://github.com/Noniv/web-ocean>
+- <https://hublot.darkroom.engineering/>
+- <https://horizon.zavrenn.chatgpt.site/>
 
 ## Cheatsheets
 
@@ -2795,6 +2821,12 @@ Mirrors:
 - <https://usefulshelf.co/>
 - <https://www.appscout.co/apps/>
 - <https://trendshift.io/>
+- <https://www.details.so/inspo> (Pagada, Requiere cuenta)
+- <https://appllama.io/> (Pagada, Requiere cuenta)
+- <https://designbookmark.com/> (curated collection of sites)
+- <https://websitevice.com/>
+- <https://www.appshot.gallery/>
+- <https://kage.design/>
 
 ## Cursos de pago
 
@@ -3038,8 +3070,9 @@ Mirrors:
 - <https://jev.s1.dev/>
 - <https://eternalai.org/> (Pagada, Requiere cuenta)
 - <https://uniichat.com/>
+- <https://www.freemode.ai/> (Pagada, Requiere cuenta)
 
-#### Skills Chatbots
+#### Skills AI Chatbots
 
 [↑](#tabla-de-contenido)
 
@@ -3048,6 +3081,7 @@ Mirrors:
 - <https://github.com/alphaXiv/OpenResearch> (Turn your coding agents into research agents)
 - <https://github.com/SNL-UCSB/paper-writing-skill> (A Claude Code skill that encodes battle-tested editorial principles, section-specific rhetorical moves, and a structured writing pipeline for research papers. Brainstorm → Draft 0 → Evaluate → Write → Compress)
 - <https://github.com/docwriter-org/plain-writing-skill> (A plain-language writing skill for AI agents, with a revision view that shows what changed)
+- <https://github.com/coreyhaines31/marketingskills>
 
 ### AI Imágenes
 
@@ -3165,6 +3199,8 @@ Mirrors:
 - <https://github.com/UzenUPozitiv4ik/gpt-image-2-skill/>
 - <https://github.com/freestylefly/awesome-gpt-image-2>
 - <https://github.com/nevertoday/xxd-panel-112>
+- <https://github.com/hugohe3/ppt-master>
+- <https://github.com/cathrynlavery/diagram-design>
 
 ### AI Audio
 
@@ -3265,6 +3301,10 @@ Mirrors:
 - <https://github.com/blendi-remade/unreel> (Pick a title and a LLM writes the episode a few shots at a time while MiniMax H3 Max Turbo renders each shot live on fal)
 - <https://github.com/mexicat/pdoom-video> (A generative, code-rendered music video with word-synced karaoke typography)
 - <https://github.com/academa-labs/manimgx> (3D animation engine for agents, compatible with Manim CE's API)
+
+#### Skills AI Video
+
+- <https://github.com/pedrovelasquez9/fragua> (Skill para Claude Code y OpenCode que edita vídeo vertical para TikTok, Reels y Shorts: quita silencios, quema subtítulos karaoke, añade cards gráficas y redacta el copy de publicación. Todo en local, sin API keys)
 
 ### AI Vibe Coding
 
@@ -3477,6 +3517,10 @@ Ejem [Are Repository-Level Context Files Helpful for Coding Agents?](https://arx
 - <https://ai-slop-checker.vercel.app/>
 - <https://github.com/madebymustafa/design-taste>
 - <https://github.com/MartinPuli/taste-library>
+- <https://tailwindcss-concentric.diip3sh.xyz/>
+- <https://skillbay.dev/> (Pagada, Requiere cuenta)
+- <https://jiro.build/> (Pagada, Requiere cuenta)
+- <https://www.scrolltide.co/> (Pagada, Requiere cuenta, a curated library of scroll-driven templates and prompts)
 
 ### AI Software
 
@@ -3578,6 +3622,7 @@ Ejem [Are Repository-Level Context Files Helpful for Coding Agents?](https://arx
 - <https://github.com/marvkr/better-design> (Open-source design MCP server + shadcn/ui registry)
 - <https://github.com/superdesigndev/superdesign> (open-source design agent that lives right inside your IDE. Generate UI mockups, components, and wireframes directly from natural language prompts)
 - <https://pond.raphaelsalaja.com/> (MacOs, Keep what you save on X, Instagram, Pinterest, and more in a folder on your Mac)
+- <https://github.com/cheaper-inference/OmniRoute> (Free MIT AI gateway: one endpoint, 375 providers)
 
 #### AI Local
 
@@ -3598,6 +3643,7 @@ Ejem [Are Repository-Level Context Files Helpful for Coding Agents?](https://arx
 - <https://goblincorps.com/gobbonet>
 - <https://huggingface.co/Jackrong/DeepSeek-V4-Pro-Qwen3.5-9B-MTP-GGUF>
 - <https://github.com/KohakuBlueleaf/KohakuHub> (A self-hosted HuggingFace alternative)
+- <https://runonweb.ai/> (Free, open-source AI models that run in your browser)
 
 ## Búsqueda trabajo
 
