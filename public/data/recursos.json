@@ -228,6 +228,11 @@
         "description": "Toolkit"
       },
       {
+        "name": "https://www.cliputils.com/",
+        "url": "https://www.cliputils.com/",
+        "description": "Toolkit"
+      },
+      {
         "name": "https://designengineer.tools/",
         "url": "https://designengineer.tools/"
       },
@@ -551,6 +556,10 @@
       {
         "name": "https://lighthouseapp.io/tools/feed-finder",
         "url": "https://lighthouseapp.io/tools/feed-finder"
+      },
+      {
+        "name": "https://github.com/monteduro/killmyidea",
+        "url": "https://github.com/monteduro/killmyidea"
       }
     ],
     "children": [
@@ -2194,6 +2203,11 @@
                 "name": "https://www.ascii-magic.com/app",
                 "url": "https://www.ascii-magic.com/app",
                 "description": "Freemium"
+              },
+              {
+                "name": "https://mr-r3b00t.github.io/net_draw/",
+                "url": "https://mr-r3b00t.github.io/net_draw/",
+                "description": "Diagramas"
               }
             ],
             "children": []
@@ -3642,6 +3656,21 @@
             "name": "https://www.graphicalui.com/",
             "url": "https://www.graphicalui.com/",
             "description": "Pagada, A tool to create visual themes, customize colors, and build interfaces with agents"
+          },
+          {
+            "name": "https://github.com/gr8rstudio/gr8r-studio/",
+            "url": "https://github.com/gr8rstudio/gr8r-studio/",
+            "description": "structured project management workspace"
+          },
+          {
+            "name": "https://github.com/betterclever/wraithterm",
+            "url": "https://github.com/betterclever/wraithterm",
+            "description": "Ghostty's terminal engine and a Rust WebGPU renderer, compiled into one Wasm module"
+          },
+          {
+            "name": "https://rama2555.github.io/nusa/",
+            "url": "https://rama2555.github.io/nusa/",
+            "description": "Nusa turns the top edge of Windows into a small notch that shows your music, synced lyrics, timers and files, then quietly gets out of the way"
           }
         ],
         "children": [
@@ -4043,6 +4072,40 @@
               {
                 "name": "https://tinyweb.so/",
                 "url": "https://tinyweb.so/"
+              },
+              {
+                "name": "https://flecha.dev/",
+                "url": "https://flecha.dev/",
+                "description": "AI, Chromium browser with a vertical sidebar, Spaces and a command bar that understands gh 482, JWTs and staging URLs. Your coding agent can see your tabs"
+              },
+              {
+                "name": "https://searchbrowser.app/",
+                "url": "https://searchbrowser.app/",
+                "description": "MacOs"
+              },
+              {
+                "name": "https://parkweb.co/",
+                "url": "https://parkweb.co/"
+              },
+              {
+                "name": "https://crestbrowser.com/",
+                "url": "https://crestbrowser.com/",
+                "description": "MacOs"
+              },
+              {
+                "name": "https://ardia.dev/",
+                "url": "https://ardia.dev/",
+                "description": "MacOs"
+              },
+              {
+                "name": "https://yetanotherbrowser.com/",
+                "url": "https://yetanotherbrowser.com/",
+                "description": "MacOs"
+              },
+              {
+                "name": "https://zephium.app/",
+                "url": "https://zephium.app/",
+                "description": "AI"
               }
             ],
             "children": []
@@ -4120,6 +4183,36 @@
                 "name": "https://github.com/vibheksoni/stealth-browser-mcp",
                 "url": "https://github.com/vibheksoni/stealth-browser-mcp",
                 "description": "Stealth browser automation for AI agents over MCP and the Chrome DevTools Protocol: navigation, network hooks, DOM extraction, and pixel-accurate UI cloning"
+              },
+              {
+                "name": "https://www.context.dev/",
+                "url": "https://www.context.dev/",
+                "description": "Freemuim, Requiere cuenta, API extracción de datos web y web scraping diseñada para agentes de IA"
+              },
+              {
+                "name": "https://www.browserbase.com/",
+                "url": "https://www.browserbase.com/",
+                "description": "Freemuim, Requiere cuenta, API extracción de datos web y web scraping diseñada para agentes de IA"
+              },
+              {
+                "name": "https://www.firecrawl.dev/",
+                "url": "https://www.firecrawl.dev/",
+                "description": "Freemuim, Requiere cuenta, API extracción de datos web y web scraping diseñada para agentes de IA"
+              },
+              {
+                "name": "https://www.linkup.so/",
+                "url": "https://www.linkup.so/",
+                "description": "Pagada, Requiere cuenta, API for real-time web access"
+              },
+              {
+                "name": "https://scrapfly.io/",
+                "url": "https://scrapfly.io/",
+                "description": "Pagada, Requiere cuenta"
+              },
+              {
+                "name": "https://spider.cloud/",
+                "url": "https://spider.cloud/",
+                "description": "Pagada, Requiere cuenta"
               }
             ],
             "children": []
@@ -4433,6 +4526,15 @@
             "name": "https://www.mdxcn.dev/",
             "url": "https://www.mdxcn.dev/",
             "description": "markdown-friendly components for mdx"
+          },
+          {
+            "name": "https://github.com/edoardolunardi/kugiri",
+            "url": "https://github.com/edoardolunardi/kugiri",
+            "description": "Splits text into lines, words and characters exactly where the browser already broke it"
+          },
+          {
+            "name": "https://github.com/baidu/Unlimited-OCR",
+            "url": "https://github.com/baidu/Unlimited-OCR"
           }
         ],
         "children": [
@@ -4666,6 +4768,11 @@
                 "name": "https://scrit.to/",
                 "url": "https://scrit.to/",
                 "description": "JavaScript library that animates text in place"
+              },
+              {
+                "name": "https://somonoco.com/",
+                "url": "https://somonoco.com/",
+                "description": "Smooth squircle corners for HTML elements"
               }
             ],
             "children": []
@@ -5132,6 +5239,26 @@
                     "name": "https://piixpal.dvkk.dev/",
                     "url": "https://piixpal.dvkk.dev/",
                     "description": "Tiny pixel creatures that live on your website"
+                  },
+                  {
+                    "name": "https://motion.dev/",
+                    "url": "https://motion.dev/"
+                  },
+                  {
+                    "name": "https://ui.nexvyn.dev/",
+                    "url": "https://ui.nexvyn.dev/"
+                  },
+                  {
+                    "name": "https://uselayouts.com/",
+                    "url": "https://uselayouts.com/"
+                  },
+                  {
+                    "name": "https://www.cult-ui.com/",
+                    "url": "https://www.cult-ui.com/"
+                  },
+                  {
+                    "name": "https://spell.sh/",
+                    "url": "https://spell.sh/"
                   }
                 ],
                 "children": []
@@ -5187,6 +5314,11 @@
               {
                 "name": "https://microkit.co/",
                 "url": "https://microkit.co/"
+              },
+              {
+                "name": "https://github.com/wcandillon/react-native-skia",
+                "url": "https://github.com/wcandillon/react-native-skia",
+                "description": "High-performance React Native Graphics using Skia"
               }
             ],
             "children": [
@@ -5379,6 +5511,24 @@
                   {
                     "name": "https://motion-primitives.com/",
                     "url": "https://motion-primitives.com/"
+                  },
+                  {
+                    "name": "https://ssgoi.dev/",
+                    "url": "https://ssgoi.dev/",
+                    "description": "Native page transitions"
+                  },
+                  {
+                    "name": "https://toggles.dev/",
+                    "url": "https://toggles.dev/"
+                  },
+                  {
+                    "name": "https://blendy.tahazsh.com/",
+                    "url": "https://blendy.tahazsh.com/",
+                    "description": "framework-agnostic tool that smoothly transitions one element into another"
+                  },
+                  {
+                    "name": "https://www.interior.dev/",
+                    "url": "https://www.interior.dev/"
                   }
                 ],
                 "children": []
@@ -5397,8 +5547,8 @@
             "url": "https://www.sensory-ui.com/"
           },
           {
-            "name": "https://cuelume-site.pages.dev/",
-            "url": "https://cuelume-site.pages.dev/"
+            "name": "https://github.com/danielwh2/cuelume",
+            "url": "https://github.com/danielwh2/cuelume"
           },
           {
             "name": "https://uisfx.com/",
@@ -5999,6 +6149,10 @@
       {
         "name": "https://ai.manz.dev/",
         "url": "https://ai.manz.dev/"
+      },
+      {
+        "name": "https://matiasbeltramone.com/apuntes/",
+        "url": "https://matiasbeltramone.com/apuntes/"
       }
     ],
     "children": [
@@ -6497,6 +6651,15 @@
           {
             "name": "https://iquilezles.org/articles/",
             "url": "https://iquilezles.org/articles/"
+          },
+          {
+            "name": "https://aiengineeringfromscratch.com/",
+            "url": "https://aiengineeringfromscratch.com/"
+          },
+          {
+            "name": "https://specification.website/",
+            "url": "https://specification.website/",
+            "description": "Website checklist"
           }
         ],
         "children": []
@@ -6752,6 +6915,23 @@
         "name": "https://itsfree.ai/",
         "url": "https://itsfree.ai/",
         "description": "AI, free LLM providers"
+      },
+      {
+        "name": "https://whypaywhenfree.lol/",
+        "url": "https://whypaywhenfree.lol/"
+      },
+      {
+        "name": "https://nosignups.net/",
+        "url": "https://nosignups.net/"
+      },
+      {
+        "name": "https://aifreenav.pages.dev/en/",
+        "url": "https://aifreenav.pages.dev/en/",
+        "description": "AI, free LLM providers"
+      },
+      {
+        "name": "https://www.studentoffers.co/",
+        "url": "https://www.studentoffers.co/"
       }
     ],
     "children": [
@@ -7886,7 +8066,7 @@
       },
       {
         "id": "hosting-gratuito",
-        "name": "Hosting gratuito",
+        "name": "Hosting Gratuito",
         "level": 3,
         "links": [
           {
@@ -8032,6 +8212,14 @@
           {
             "name": "https://anonymous.4open.science/",
             "url": "https://anonymous.4open.science/"
+          },
+          {
+            "name": "https://www.freehostia.com/",
+            "url": "https://www.freehostia.com/"
+          },
+          {
+            "name": "https://www.lcn.com/",
+            "url": "https://www.lcn.com/"
           }
         ],
         "children": []
@@ -9006,6 +9194,14 @@
           {
             "name": "https://experiments.thisiswhitespace.com/",
             "url": "https://experiments.thisiswhitespace.com/"
+          },
+          {
+            "name": "https://sidebar-sv-demo.vercel.app/",
+            "url": "https://sidebar-sv-demo.vercel.app/"
+          },
+          {
+            "name": "https://bm-task-management.vercel.app/",
+            "url": "https://bm-task-management.vercel.app/"
           }
         ],
         "children": [
@@ -9234,6 +9430,37 @@
           {
             "name": "https://horizon.zavrenn.chatgpt.site/",
             "url": "https://horizon.zavrenn.chatgpt.site/"
+          },
+          {
+            "name": "https://streetracer.app/",
+            "url": "https://streetracer.app/"
+          },
+          {
+            "name": "https://seisi.satoru.net/",
+            "url": "https://seisi.satoru.net/",
+            "description": "NSFW"
+          },
+          {
+            "name": "https://mamimumeme.com/endless-drive/",
+            "url": "https://mamimumeme.com/endless-drive/"
+          },
+          {
+            "name": "https://claude.ai/artifact/TXzvgUPXfpwqp84JH26yXB",
+            "url": "https://claude.ai/artifact/TXzvgUPXfpwqp84JH26yXB"
+          },
+          {
+            "name": "https://island-jelly.vercel.app/",
+            "url": "https://island-jelly.vercel.app/"
+          },
+          {
+            "name": "https://oscardumlao.com/",
+            "url": "https://oscardumlao.com/",
+            "description": "Agua realista"
+          },
+          {
+            "name": "https://3dscenes.qualityf2p.workers.dev/silo",
+            "url": "https://3dscenes.qualityf2p.workers.dev/silo",
+            "description": "Spoilers serie Silo"
           }
         ],
         "children": []
@@ -9968,6 +10195,10 @@
             "url": "https://thebestmotherfuckingwebsite.co/"
           },
           {
+            "name": "https://modernmotherfuckingwebsite.dreamstation.systems/",
+            "url": "https://modernmotherfuckingwebsite.dreamstation.systems/"
+          },
+          {
             "name": "https://sjmulder.nl/en/textonly.html",
             "url": "https://sjmulder.nl/en/textonly.html"
           },
@@ -10665,6 +10896,10 @@
           {
             "name": "https://kage.design/",
             "url": "https://kage.design/"
+          },
+          {
+            "name": "https://moviescenemap.com/",
+            "url": "https://moviescenemap.com/"
           }
         ],
         "children": []
@@ -10911,11 +11146,6 @@
         "name": "https://www.coderabbit.ai/",
         "url": "https://www.coderabbit.ai/",
         "description": "Freemium, Requiere Cuenta, Agente que revisa/reseña Pull Requests"
-      },
-      {
-        "name": "https://www.context.dev/",
-        "url": "https://www.context.dev/",
-        "description": "API extracción de datos web y web scraping diseñada para agentes de IA"
       }
     ],
     "children": []
@@ -11061,6 +11291,15 @@
         "name": "https://www.respan.ai/",
         "url": "https://www.respan.ai/",
         "description": "Pagada, Requiere cuenta,, Plataforma de infraestructura y observabilidad para aplicaciones y agentes de IA que integra enrutamiento de modelos, monitoreo, evaluación automatizada y análisis de costos para mejorar su rendimiento y confiabilidad"
+      },
+      {
+        "name": "https://www.1kpapers.com/",
+        "url": "https://www.1kpapers.com/",
+        "description": "1,000+ papers mapping AI research from 2025–2026"
+      },
+      {
+        "name": "https://www.felonybench.com/",
+        "url": "https://www.felonybench.com/"
       }
     ],
     "children": [
@@ -11394,6 +11633,10 @@
             "name": "https://sceneai.art/",
             "url": "https://sceneai.art/",
             "description": "Prompts con ejemplos visuales"
+          },
+          {
+            "name": "https://ai.manz.dev/tools/",
+            "url": "https://ai.manz.dev/tools/"
           }
         ],
         "children": []
@@ -12169,6 +12412,16 @@
             "name": "https://onepromptdesign.com/",
             "url": "https://onepromptdesign.com/",
             "description": "Prompts con ejemplos visuales"
+          },
+          {
+            "name": "https://github.com/inclusionAI/LLaDA-Image",
+            "url": "https://github.com/inclusionAI/LLaDA-Image",
+            "description": "unified model for high-quality image generation and editing"
+          },
+          {
+            "name": "https://github.com/nicolasvonluetzow/GaussianGPT",
+            "url": "https://github.com/nicolasvonluetzow/GaussianGPT",
+            "description": "3D Gaussian scenes completely autoregressively"
           }
         ],
         "children": [
@@ -12339,6 +12592,15 @@
             "name": "https://github.com/debpalash/VoiceStudio",
             "url": "https://github.com/debpalash/VoiceStudio",
             "description": "open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages"
+          },
+          {
+            "name": "https://block.xyz/dessa",
+            "url": "https://block.xyz/dessa"
+          },
+          {
+            "name": "https://github.com/cactus-compute/needle",
+            "url": "https://github.com/cactus-compute/needle",
+            "description": "Automation foundation model for tiny devices: 2-bit, 8-29 MB, tool calls, ASR, structured extraction and embeddings on phones, wearables, smart homes, robots, cars and microcontroller"
           }
         ],
         "children": []
@@ -12629,6 +12891,11 @@
             "name": "https://github.com/academa-labs/manimgx",
             "url": "https://github.com/academa-labs/manimgx",
             "description": "3D animation engine for agents, compatible with Manim CE's API"
+          },
+          {
+            "name": "https://github.com/calesthio/OpenMontage",
+            "url": "https://github.com/calesthio/OpenMontage",
+            "description": "12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI coding assistant into a full video production studio"
           }
         ],
         "children": [
@@ -13062,6 +13329,46 @@
             "name": "https://github.com/abhij1306/citeladder",
             "url": "https://github.com/abhij1306/citeladder",
             "description": "Open source AI search visibility tracker: See which brands and pages ChatGPT, Gemini, Claude and AI Overviews name. Self-hostable alternative to Peec and Profound"
+          },
+          {
+            "name": "https://github.com/mobile-next/mobile-mcp",
+            "url": "https://github.com/mobile-next/mobile-mcp",
+            "description": "Model Context Protocol Server for Mobile Automation and Scraping (iOS, Android, Emulators, Simulators and Real Devices)"
+          },
+          {
+            "name": "https://github.com/hsandhu/mobilecode",
+            "url": "https://github.com/hsandhu/mobilecode",
+            "description": "fork of opencode that builds and previews iOS and Android projects"
+          },
+          {
+            "name": "https://github.com/ellipsis-dev/blink",
+            "url": "https://github.com/ellipsis-dev/blink",
+            "description": "Codebase search powered by Jev"
+          },
+          {
+            "name": "https://github.com/vercel-labs/json-render",
+            "url": "https://github.com/vercel-labs/json-render",
+            "description": "Jev, Generate dynamic, personalized UIs from prompts without sacrificing reliability"
+          },
+          {
+            "name": "https://github.com/totec448-spec/chat-on-steroids",
+            "url": "https://github.com/totec448-spec/chat-on-steroids",
+            "description": "Cross-platform local MCP capabilities for ChatGPT with Chrome integration, Goal, Compact & Resume, and durable multi-agent workflows"
+          },
+          {
+            "name": "https://github.com/rtk-ai/rtk",
+            "url": "https://github.com/rtk-ai/rtk",
+            "description": "Optimización, CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies"
+          },
+          {
+            "name": "https://github.com/DeusData/codebase-memory-mcp",
+            "url": "https://github.com/DeusData/codebase-memory-mcp",
+            "description": "Local code intelligence for developers and AI agents. Connect code, docs and infrastructure in a persistent graph, with CBM Lens, MCP tools, agent integrations and change-aware test selection"
+          },
+          {
+            "name": "https://github.com/msitarzewski/agency-agents",
+            "url": "https://github.com/msitarzewski/agency-agents",
+            "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables"
           }
         ],
         "children": [
@@ -13348,6 +13655,26 @@
                 "name": "https://github.com/AgricIDaniel/claude-seo",
                 "url": "https://github.com/AgricIDaniel/claude-seo",
                 "description": "26 sub-skills + 19 sub-agents covering technical SEO, E-E-A-T, schema, GEO/AEO, agent readiness (Lighthouse Agentic Browsing, WebMCP, llms.txt), backlinks, local SEO, e-commerce, international SEO, Google APIs, and PDF/Excel reporting"
+              },
+              {
+                "name": "https://github.com/enesozturk/dimensional-drawing",
+                "url": "https://github.com/enesozturk/dimensional-drawing",
+                "description": "Give it a UI component, get back a one-page technical drawing of it"
+              },
+              {
+                "name": "https://github.com/browser-use/open-duet",
+                "url": "https://github.com/browser-use/open-duet",
+                "description": "Open Duet card feed: agents finish work, Magnus decides with one click"
+              },
+              {
+                "name": "https://github.com/coreyhaines31/makerskills",
+                "url": "https://github.com/coreyhaines31/makerskills",
+                "description": "AI agent skills for the personal operator's craft. Decisions, research, second-brain workflows, content rotation, scenario modeling, CFO cadence, domain hunts, and the meta-skills to author more"
+              },
+              {
+                "name": "https://skillry.dev/",
+                "url": "https://skillry.dev/",
+                "description": "Pagada"
               }
             ],
             "children": []
@@ -13550,6 +13877,19 @@
                 "name": "https://www.scrolltide.co/",
                 "url": "https://www.scrolltide.co/",
                 "description": "Pagada, Requiere cuenta, a curated library of scroll-driven templates and prompts"
+              },
+              {
+                "name": "https://illos.dev/",
+                "url": "https://illos.dev/",
+                "description": "Freemium, Requiere cuenta, animated SVG illustrations"
+              },
+              {
+                "name": "https://github.com/joe-bell/skills",
+                "url": "https://github.com/joe-bell/skills"
+              },
+              {
+                "name": "https://design.ricoui.com/",
+                "url": "https://design.ricoui.com/"
               }
             ],
             "children": []
@@ -13663,6 +14003,11 @@
             "description": "CLI Agentic coding"
           },
           {
+            "name": "https://github.com/JetBrains/thinkrail",
+            "url": "https://github.com/JetBrains/thinkrail",
+            "description": "IDE, Vibe code with pi in a lightweight, real IDE that customises itself around the way you work"
+          },
+          {
             "name": "https://roocode.com/",
             "url": "https://roocode.com/",
             "description": "IDE Extension"
@@ -13686,6 +14031,26 @@
             "name": "https://xirp.spotify.com/",
             "url": "https://xirp.spotify.com/",
             "description": "CLI Agentic coding"
+          },
+          {
+            "name": "https://github.com/hardbeat920/monocode/",
+            "url": "https://github.com/hardbeat920/monocode/",
+            "description": "A GUI for your coding agents"
+          },
+          {
+            "name": "https://sheet.dipxsy.app/",
+            "url": "https://sheet.dipxsy.app/",
+            "description": "infinite canvas for real UI"
+          },
+          {
+            "name": "https://github.com/eneskirca/nodeterm",
+            "url": "https://github.com/eneskirca/nodeterm",
+            "description": "Node-based terminal manager for AI coding agents"
+          },
+          {
+            "name": "https://github.com/stablyai/orca",
+            "url": "https://github.com/stablyai/orca",
+            "description": "Run Codex, ClaudeCode, OpenCode or Pi side-by-side — each in its own worktree, tracked in one place"
           },
           {
             "name": "https://github.com/paperclipai/paperclip",
@@ -13725,6 +14090,11 @@
           {
             "name": "https://github.com/milind-soni/OpenMausBot",
             "url": "https://github.com/milind-soni/OpenMausBot",
+            "description": "\"personal AI assistant\""
+          },
+          {
+            "name": "https://github.com/tinyhumansai/openhuman",
+            "url": "https://github.com/tinyhumansai/openhuman",
             "description": "\"personal AI assistant\""
           },
           {
@@ -14026,6 +14396,31 @@
             "name": "https://github.com/cheaper-inference/OmniRoute",
             "url": "https://github.com/cheaper-inference/OmniRoute",
             "description": "Free MIT AI gateway: one endpoint, 375 providers"
+          },
+          {
+            "name": "https://www.bluestacksdesktop.com/",
+            "url": "https://www.bluestacksdesktop.com/",
+            "description": "Run many Android apps at once on your PC and Mac, each in its own window"
+          },
+          {
+            "name": "https://github.com/itsmostafa/system-one-connector",
+            "url": "https://github.com/itsmostafa/system-one-connector",
+            "description": "Give your AI agent direct access to models like TypeSafe Jev, Liquid AI d1, Cloudflare Clef, Respan Span-01, GPT-6 Luna Decisions, and Perplexity Decider Flash"
+          },
+          {
+            "name": "https://github.com/burnigtm/jev-mcp",
+            "url": "https://github.com/burnigtm/jev-mcp",
+            "description": "MCP server that puts TypeSafe Jev on the coding loop in Cursor, Codex, and any MCP client"
+          },
+          {
+            "name": "https://github.com/genspark-ai/genoffice",
+            "url": "https://github.com/genspark-ai/genoffice",
+            "description": "Free, open-source AI Office suite"
+          },
+          {
+            "name": "https://github.com/SenteLabsAI/OpenExecutive",
+            "url": "https://github.com/SenteLabsAI/OpenExecutive",
+            "description": "AI-powered virtual executive team — a single coherent executive persona backed by 8 specialist agents (FastAPI + Next.js)"
           }
         ],
         "children": [
@@ -14101,6 +14496,11 @@
                 "name": "https://runonweb.ai/",
                 "url": "https://runonweb.ai/",
                 "description": "Free, open-source AI models that run in your browser"
+              },
+              {
+                "name": "https://github.com/JungleJimJim/AI-Image-Video-Studio",
+                "url": "https://github.com/JungleJimJim/AI-Image-Video-Studio",
+                "description": "Windows desktop studio for local image generation, editing, video generation, and model-specific LoRAs"
               }
             ],
             "children": []
@@ -14283,6 +14683,10 @@
             "name": "https://www.agrojob.cl/trabajos",
             "url": "https://www.agrojob.cl/trabajos",
             "description": "sector agrícola"
+          },
+          {
+            "name": "https://trabajoremotochile.com/",
+            "url": "https://trabajoremotochile.com/"
           }
         ],
         "children": [
@@ -14581,6 +14985,14 @@
           {
             "name": "https://github.com/brandonhimpfen/awesome-remote-job-boards",
             "url": "https://github.com/brandonhimpfen/awesome-remote-job-boards"
+          },
+          {
+            "name": "https://www.workana.com",
+            "url": "https://www.workana.com"
+          },
+          {
+            "name": "https://remotolist.com/",
+            "url": "https://remotolist.com/"
           }
         ],
         "children": []
@@ -14925,6 +15337,10 @@
               {
                 "name": "https://www.aws.training/",
                 "url": "https://www.aws.training/"
+              },
+              {
+                "name": "https://emprende.cl/webinar",
+                "url": "https://emprende.cl/webinar"
               }
             ],
             "children": []
