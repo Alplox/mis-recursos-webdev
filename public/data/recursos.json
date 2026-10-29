@@ -560,6 +560,11 @@
       {
         "name": "https://github.com/monteduro/killmyidea",
         "url": "https://github.com/monteduro/killmyidea"
+      },
+      {
+        "name": "https://doblique.com/",
+        "url": "https://doblique.com/",
+        "description": "PDF Toolkit"
       }
     ],
     "children": [
@@ -2007,6 +2012,11 @@
           {
             "name": "https://paint.jas.black/",
             "url": "https://paint.jas.black/"
+          },
+          {
+            "name": "https://github.com/AlpinDale/foidfinder",
+            "url": "https://github.com/AlpinDale/foidfinder",
+            "description": "Identify anime characters and series in images"
           }
         ],
         "children": [
@@ -3671,6 +3681,11 @@
             "name": "https://rama2555.github.io/nusa/",
             "url": "https://rama2555.github.io/nusa/",
             "description": "Nusa turns the top edge of Windows into a small notch that shows your music, synced lyrics, timers and files, then quietly gets out of the way"
+          },
+          {
+            "name": "https://github.com/betterleaks/betterleaks",
+            "url": "https://github.com/betterleaks/betterleaks",
+            "description": "Find leaked secrets everywhere"
           }
         ],
         "children": [
@@ -3764,6 +3779,10 @@
               {
                 "name": "https://github.com/Freaction/Aquilum",
                 "url": "https://github.com/Freaction/Aquilum"
+              },
+              {
+                "name": "https://www.hibi.garden/",
+                "url": "https://www.hibi.garden/"
               }
             ],
             "children": []
@@ -3970,6 +3989,14 @@
                 "name": "https://github.com/storytold/photocraft",
                 "url": "https://github.com/storytold/photocraft",
                 "description": "an open-source, clean-room reimplementation of Adobe Photoshop, rebuilt in pure Rust"
+              },
+              {
+                "name": "https://github.com/storytold/artcraft",
+                "url": "https://github.com/storytold/artcraft"
+              },
+              {
+                "name": "https://misakistudio.io/",
+                "url": "https://misakistudio.io/"
               }
             ],
             "children": []
@@ -4213,6 +4240,21 @@
                 "name": "https://spider.cloud/",
                 "url": "https://spider.cloud/",
                 "description": "Pagada, Requiere cuenta"
+              },
+              {
+                "name": "https://github.com/0xMassi/webclaw",
+                "url": "https://github.com/0xMassi/webclaw",
+                "description": "Freemium, extracts public web pages into Markdown and structured JSON for your agents"
+              },
+              {
+                "name": "https://github.com/YOLOW92/pagesift",
+                "url": "https://github.com/YOLOW92/pagesift",
+                "description": "High-performance, memory-bounded web scraping and extraction engine built for AI agents and LLM pipelines"
+              },
+              {
+                "name": "https://github.com/donutbrowser/donutbrowser",
+                "url": "https://github.com/donutbrowser/donutbrowser",
+                "description": "Open Source Anti-Detect Browser"
               }
             ],
             "children": []
@@ -4535,6 +4577,11 @@
           {
             "name": "https://github.com/baidu/Unlimited-OCR",
             "url": "https://github.com/baidu/Unlimited-OCR"
+          },
+          {
+            "name": "https://github.com/lxsmnsyc/talata",
+            "url": "https://github.com/lxsmnsyc/talata",
+            "description": "Fast Markdown parser that produces remark-compatible mdast"
           }
         ],
         "children": [
@@ -5048,6 +5095,11 @@
               {
                 "name": "https://www.fluidfunctionalism.com/",
                 "url": "https://www.fluidfunctionalism.com/"
+              },
+              {
+                "name": "https://www.cuedesign.space/",
+                "url": "https://www.cuedesign.space/",
+                "description": "Freemium, Hand-picked interactions and sections from across the web, each with the prompt and code to rebuild it in Cursor, v0, Bolt or Claude"
               }
             ],
             "children": [
@@ -5259,6 +5311,11 @@
                   {
                     "name": "https://spell.sh/",
                     "url": "https://spell.sh/"
+                  },
+                  {
+                    "name": "https://reactdrops.dev/",
+                    "url": "https://reactdrops.dev/",
+                    "description": "React components, animations, and effects"
                   }
                 ],
                 "children": []
@@ -5319,6 +5376,11 @@
                 "name": "https://github.com/wcandillon/react-native-skia",
                 "url": "https://github.com/wcandillon/react-native-skia",
                 "description": "High-performance React Native Graphics using Skia"
+              },
+              {
+                "name": "https://snapcn.dev/",
+                "url": "https://snapcn.dev/",
+                "description": "Product demo videos, in React"
               }
             ],
             "children": [
@@ -5529,6 +5591,10 @@
                   {
                     "name": "https://www.interior.dev/",
                     "url": "https://www.interior.dev/"
+                  },
+                  {
+                    "name": "https://easyui.site/",
+                    "url": "https://easyui.site/"
                   }
                 ],
                 "children": []
@@ -7226,6 +7292,10 @@
             "name": "https://circleloaders.dominikakissi.com/",
             "url": "https://circleloaders.dominikakissi.com/",
             "description": "24 circulos SVG animados"
+          },
+          {
+            "name": "https://mochi-icons.com/",
+            "url": "https://mochi-icons.com/"
           }
         ],
         "children": []
@@ -9202,6 +9272,10 @@
           {
             "name": "https://bm-task-management.vercel.app/",
             "url": "https://bm-task-management.vercel.app/"
+          },
+          {
+            "name": "https://github.com/kargulstudio/calender-app-design",
+            "url": "https://github.com/kargulstudio/calender-app-design"
           }
         ],
         "children": [
@@ -9461,6 +9535,10 @@
             "name": "https://3dscenes.qualityf2p.workers.dev/silo",
             "url": "https://3dscenes.qualityf2p.workers.dev/silo",
             "description": "Spoilers serie Silo"
+          },
+          {
+            "name": "https://mrdoob.github.io/slop-newyork/",
+            "url": "https://mrdoob.github.io/slop-newyork/"
           }
         ],
         "children": []
@@ -11146,6 +11224,10 @@
         "name": "https://www.coderabbit.ai/",
         "url": "https://www.coderabbit.ai/",
         "description": "Freemium, Requiere Cuenta, Agente que revisa/reseña Pull Requests"
+      },
+      {
+        "name": "https://blueprint.page/",
+        "url": "https://blueprint.page/"
       }
     ],
     "children": []
@@ -11637,6 +11719,10 @@
           {
             "name": "https://ai.manz.dev/tools/",
             "url": "https://ai.manz.dev/tools/"
+          },
+          {
+            "name": "https://www.isthereanytool.app/",
+            "url": "https://www.isthereanytool.app/"
           }
         ],
         "children": []
@@ -11695,6 +11781,10 @@
           {
             "name": "https://clawd.rip/",
             "url": "https://clawd.rip/"
+          },
+          {
+            "name": "https://gist.github.com/flamerix-ai/c3905705cc4205e5de3011fa2e74efce",
+            "url": "https://gist.github.com/flamerix-ai/c3905705cc4205e5de3011fa2e74efce"
           },
           {
             "name": "https://deepai.org/chat",
@@ -11879,6 +11969,11 @@
           {
             "name": "https://www.freemode.ai/",
             "url": "https://www.freemode.ai/",
+            "description": "Pagada, Requiere cuenta"
+          },
+          {
+            "name": "https://plurilogai.com/",
+            "url": "https://plurilogai.com/",
             "description": "Pagada, Requiere cuenta"
           }
         ],
@@ -12601,6 +12696,10 @@
             "name": "https://github.com/cactus-compute/needle",
             "url": "https://github.com/cactus-compute/needle",
             "description": "Automation foundation model for tiny devices: 2-bit, 8-29 MB, tool calls, ASR, structured extraction and embeddings on phones, wearables, smart homes, robots, cars and microcontroller"
+          },
+          {
+            "name": "https://huggingface.co/nvidia/NVIDIA-Nemotron-3.5-Transcribe-30B-A4B",
+            "url": "https://huggingface.co/nvidia/NVIDIA-Nemotron-3.5-Transcribe-30B-A4B"
           }
         ],
         "children": []
@@ -13369,6 +13468,11 @@
             "name": "https://github.com/msitarzewski/agency-agents",
             "url": "https://github.com/msitarzewski/agency-agents",
             "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables"
+          },
+          {
+            "name": "https://boat.dev/",
+            "url": "https://boat.dev/",
+            "description": "Pagada, Requiere cuenta, cloud VMs for agents"
           }
         ],
         "children": [
@@ -13890,6 +13994,14 @@
               {
                 "name": "https://design.ricoui.com/",
                 "url": "https://design.ricoui.com/"
+              },
+              {
+                "name": "https://github.com/cesaroeduardo/antiwebslop",
+                "url": "https://github.com/cesaroeduardo/antiwebslop"
+              },
+              {
+                "name": "https://github.com/nomanjack/interface-bts",
+                "url": "https://github.com/nomanjack/interface-bts"
               }
             ],
             "children": []
@@ -14421,6 +14533,11 @@
             "name": "https://github.com/SenteLabsAI/OpenExecutive",
             "url": "https://github.com/SenteLabsAI/OpenExecutive",
             "description": "AI-powered virtual executive team — a single coherent executive persona backed by 8 specialist agents (FastAPI + Next.js)"
+          },
+          {
+            "name": "https://github.com/Aider-AI/aider",
+            "url": "https://github.com/Aider-AI/aider",
+            "description": "AI pair programming in your terminal"
           }
         ],
         "children": [
@@ -15168,6 +15285,18 @@
             "name": "https://pinloop.ai/",
             "url": "https://pinloop.ai/",
             "description": "AI, Command-line job search tool for coding agents"
+          },
+          {
+            "name": "https://startupchile.org/",
+            "url": "https://startupchile.org/"
+          },
+          {
+            "name": "https://www.chileemprende.gob.cl/chile-emprende/inicio",
+            "url": "https://www.chileemprende.gob.cl/chile-emprende/inicio"
+          },
+          {
+            "name": "https://www.sercotec.cl/",
+            "url": "https://www.sercotec.cl/"
           }
         ],
         "children": [
@@ -15493,6 +15622,10 @@
         "name": "https://cooldock.app/",
         "url": "https://cooldock.app/",
         "description": "MacOs, Pagada"
+      },
+      {
+        "name": "https://github.com/interplains/zero-breach",
+        "url": "https://github.com/interplains/zero-breach"
       }
     ],
     "children": []
