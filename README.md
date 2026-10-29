@@ -256,6 +256,7 @@ Mirrors:
 - <https://tree.icqr.com/>
 - <https://lighthouseapp.io/tools/feed-finder>
 - <https://github.com/monteduro/killmyidea>
+- <https://doblique.com/> (PDF Toolkit)
 
 ### Editores de código online
 
@@ -625,6 +626,7 @@ Mirrors:
 - <https://www.inaturalist.org/observations>
 - <https://ezascii.com/image-to-ascii>
 - <https://paint.jas.black/>
+- <https://github.com/AlpinDale/foidfinder> (Identify anime characters and series in images)
 
 #### Editar imágenes online
 
@@ -1060,6 +1062,7 @@ Mirrors:
 - <https://github.com/gr8rstudio/gr8r-studio/> (structured project management workspace)
 - <https://github.com/betterclever/wraithterm> (Ghostty's terminal engine and a Rust WebGPU renderer, compiled into one Wasm module)
 - <https://rama2555.github.io/nusa/> (Nusa turns the top edge of Windows into a small notch that shows your music, synced lyrics, timers and files, then quietly gets out of the way)
+- <https://github.com/betterleaks/betterleaks> (Find leaked secrets everywhere)
 
 #### Editor Markdown
 
@@ -1084,6 +1087,7 @@ Mirrors:
 - <https://neverwrite.app/>
 - <https://github.com/hughhowey/neo> (A novel-writing tool)
 - <https://github.com/Freaction/Aquilum>
+- <https://www.hibi.garden/>
 
 #### Screen Recorder/Capturar Pantalla
 
@@ -1145,6 +1149,7 @@ Mirrors:
 - <https://tenzen.studio/photon/>
 - <https://moko.art/>
 - <https://github.com/storytold/photocraft> (an open-source, clean-room reimplementation of Adobe Photoshop, rebuilt in pure Rust)
+- <https://github.com/storytold/artcraft>
 - <https://misakistudio.io/>
 
 #### Browsers
@@ -1204,6 +1209,9 @@ Mirrors:
 - <https://www.linkup.so/> (Pagada, Requiere cuenta, API for real-time web access)
 - <https://scrapfly.io/> (Pagada, Requiere cuenta)
 - <https://spider.cloud/> (Pagada, Requiere cuenta)
+- <https://github.com/0xMassi/webclaw> (Freemium, extracts public web pages into Markdown and structured JSON for your agents)
+- <https://github.com/YOLOW92/pagesift> (High-performance, memory-bounded web scraping and extraction engine built for AI agents and LLM pipelines)
+- <https://github.com/donutbrowser/donutbrowser> (Open Source Anti-Detect Browser)
 
 #### Editores video
 
@@ -1284,6 +1292,7 @@ Mirrors:
 - <https://www.mdxcn.dev/> (markdown-friendly components for mdx)
 - <https://github.com/edoardolunardi/kugiri> (Splits text into lines, words and characters exactly where the browser already broke it)
 - <https://github.com/baidu/Unlimited-OCR>
+- <https://github.com/lxsmnsyc/talata> (Fast Markdown parser that produces remark-compatible mdast)
 
 #### JS Recursos
 
@@ -1408,6 +1417,7 @@ Mirrors:
 - <https://github.com/DavidHDev/canvas-ui> (A library of creative canvas components. Real HTML with WebGL effects running over it. React, Vue, Svelte, vanilla)
 - <https://clankerui.dev/> (Waiting list, LLM Ready)
 - <https://www.fluidfunctionalism.com/>
+- <https://www.cuedesign.space/> (Freemium, Hand-picked interactions and sections from across the web, each with the prompt and code to rebuild it in Cursor, v0, Bolt or Claude)
 
 ##### Estilos inspirados en otros preexistentes
 
@@ -1463,6 +1473,7 @@ Mirrors:
 - <https://uselayouts.com/>
 - <https://www.cult-ui.com/>
 - <https://spell.sh/>
+- <https://reactdrops.dev/> (React components, animations, and effects)
 
 #### REACT Recursos
 
@@ -1480,6 +1491,7 @@ Mirrors:
 - <https://beautiful-ui-five.vercel.app/>
 - <https://microkit.co/>
 - <https://github.com/wcandillon/react-native-skia> (High-performance React Native Graphics using Skia)
+- <https://snapcn.dev/> (Product demo videos, in React)
 
 ##### Componentes
 
@@ -1533,6 +1545,7 @@ Mirrors:
 - <https://toggles.dev/>
 - <https://blendy.tahazsh.com/> (framework-agnostic tool that smoothly transitions one element into another)
 - <https://www.interior.dev/>
+- <https://easyui.site/>
 
 ### Web Audio API
 
@@ -1945,6 +1958,7 @@ Mirrors:
 - <https://lucide-animated.com/> (animados)
 - <https://amicons.design/>
 - <https://circleloaders.dominikakissi.com/> (24 circulos SVG animados)
+- <https://mochi-icons.com/>
 
 ### Ilustraciones Gratuitas
 
@@ -2439,6 +2453,7 @@ Mirrors:
 - <https://experiments.thisiswhitespace.com/>
 - <https://sidebar-sv-demo.vercel.app/>
 - <https://bm-task-management.vercel.app/>
+- <https://github.com/kargulstudio/calender-app-design>
 
 #### Typewriter effect
 
@@ -2510,6 +2525,7 @@ Mirrors:
 - <https://island-jelly.vercel.app/>
 - <https://oscardumlao.com/> (Agua realista)
 - <https://3dscenes.qualityf2p.workers.dev/silo> (Spoilers serie Silo)
+- <https://mrdoob.github.io/slop-newyork/>
 
 ## Cheatsheets
 
@@ -2943,6 +2959,7 @@ Mirrors:
 - <https://www.redomysite.com/> (Rehacer "cualquier sitio" en Astro, Pagada ($3 por sitio))
 - <https://freesvgicons.com/> (pagar pos svgs)
 - <https://www.coderabbit.ai/> (Freemium, Requiere Cuenta, Agente que revisa/reseña Pull Requests)
+- <https://blueprint.page/>
 
 ## AI
 
@@ -3066,6 +3083,7 @@ Mirrors:
 - <https://github.com/f/prompts.chat>
 - <https://sceneai.art/> (Prompts con ejemplos visuales)
 - <https://ai.manz.dev/tools/>
+- <https://www.isthereanytool.app/>
 
 ### AI Chatbot
 
@@ -3083,6 +3101,7 @@ Mirrors:
 - <https://scira.ai/>
 - <https://claude.ai/> (Requiere cuenta)
   - <https://clawd.rip/>
+  - <https://gist.github.com/flamerix-ai/c3905705cc4205e5de3011fa2e74efce>
 - <https://deepai.org/chat>
 - <https://talkai.info/es/chat/>
 - <https://www.aichatting.net/es/>
@@ -3126,6 +3145,7 @@ Mirrors:
 - <https://eternalai.org/> (Pagada, Requiere cuenta)
 - <https://uniichat.com/>
 - <https://www.freemode.ai/> (Pagada, Requiere cuenta)
+- <https://plurilogai.com/> (Pagada, Requiere cuenta)
 
 #### Skills AI Chatbots
 
@@ -3293,6 +3313,7 @@ Mirrors:
 - <https://github.com/debpalash/VoiceStudio> (open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages)
 - <https://block.xyz/dessa>
 - <https://github.com/cactus-compute/needle> (Automation foundation model for tiny devices: 2-bit, 8-29 MB, tool calls, ASR, structured extraction and embeddings on phones, wearables, smart homes, robots, cars and microcontroller)
+- <https://huggingface.co/nvidia/NVIDIA-Nemotron-3.5-Transcribe-30B-A4B>
 
 ### AI Música
 
@@ -3466,6 +3487,7 @@ Mirrors:
 - <https://github.com/rtk-ai/rtk> (Optimización, CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies)
 - <https://github.com/DeusData/codebase-memory-mcp> (Local code intelligence for developers and AI agents. Connect code, docs and infrastructure in a persistent graph, with CBM Lens, MCP tools, agent integrations and change-aware test selection)
 - <https://github.com/msitarzewski/agency-agents> (A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables)
+- <https://boat.dev/> (Pagada, Requiere cuenta, cloud VMs for agents)
 
 #### Skills AI Vibe Coding
 
@@ -3596,6 +3618,8 @@ Ejem [Are Repository-Level Context Files Helpful for Coding Agents?](https://arx
 - <https://illos.dev/> (Freemium, Requiere cuenta, animated SVG illustrations)
 - <https://github.com/joe-bell/skills>
 - <https://design.ricoui.com/>
+- <https://github.com/cesaroeduardo/antiwebslop>
+- <https://github.com/nomanjack/interface-bts>
 
 ### AI Software
 
@@ -3709,6 +3733,7 @@ Ejem [Are Repository-Level Context Files Helpful for Coding Agents?](https://arx
 - <https://github.com/burnigtm/jev-mcp> (MCP server that puts TypeSafe Jev on the coding loop in Cursor, Codex, and any MCP client)
 - <https://github.com/genspark-ai/genoffice> (Free, open-source AI Office suite)
 - <https://github.com/SenteLabsAI/OpenExecutive> (AI-powered virtual executive team — a single coherent executive persona backed by 8 specialist agents (FastAPI + Next.js))
+- <https://github.com/Aider-AI/aider> (AI pair programming in your terminal)
 
 #### AI Local
 
@@ -3925,6 +3950,9 @@ También conocidos como: pagan por tarea
 - <https://github.com/MadsLorentzen/ai-job-search> (AI)
 - <https://www.reaver.ink/> (AI, Freemium)
 - <https://pinloop.ai/> (AI, Command-line job search tool for coding agents)
+- <https://startupchile.org/>
+- <https://www.chileemprende.gob.cl/chile-emprende/inicio>
+- <https://www.sercotec.cl/>
 
 #### CV
 
@@ -4018,5 +4046,6 @@ También conocidos como: pagan por tarea
 - <https://age-verifier.eva.ac/>
 - <https://getmargin.vercel.app/>
 - <https://cooldock.app/> (MacOs, Pagada)
+- <https://github.com/interplains/zero-breach>
 
 <!-- resources-end -->
