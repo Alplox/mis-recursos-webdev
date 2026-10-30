@@ -2218,6 +2218,11 @@
                 "name": "https://mr-r3b00t.github.io/net_draw/",
                 "url": "https://mr-r3b00t.github.io/net_draw/",
                 "description": "Diagramas"
+              },
+              {
+                "name": "https://splitter.swimming.fish/",
+                "url": "https://splitter.swimming.fish/",
+                "description": "matching X/twitter banner and profile picture"
               }
             ],
             "children": []
@@ -7027,8 +7032,8 @@
             "url": "https://iconsvg.xyz/"
           },
           {
-            "name": "https://ionicons.com/",
-            "url": "https://ionicons.com/"
+            "name": "https://ionic.io/ionicons",
+            "url": "https://ionic.io/ionicons"
           },
           {
             "name": "https://feathericons.com/",
@@ -7296,6 +7301,23 @@
           {
             "name": "https://mochi-icons.com/",
             "url": "https://mochi-icons.com/"
+          },
+          {
+            "name": "https://hugeicons.com/",
+            "url": "https://hugeicons.com/",
+            "description": "Incluye de pago"
+          },
+          {
+            "name": "https://www.carbondesignsystem.com/building-blocks/foundations/icons/library",
+            "url": "https://www.carbondesignsystem.com/building-blocks/foundations/icons/library"
+          },
+          {
+            "name": "https://github.com/microsoft/fluentui-system-icons",
+            "url": "https://github.com/microsoft/fluentui-system-icons"
+          },
+          {
+            "name": "https://primer.style/octicons/",
+            "url": "https://primer.style/octicons/"
           }
         ],
         "children": []
@@ -10023,6 +10045,11 @@
               {
                 "name": "https://www.brandguidelines.net/",
                 "url": "https://www.brandguidelines.net/"
+              },
+              {
+                "name": "https://design.how/directory/design-systems",
+                "url": "https://design.how/directory/design-systems",
+                "description": "Colección"
               }
             ],
             "children": []
@@ -14002,6 +14029,10 @@
               {
                 "name": "https://github.com/nomanjack/interface-bts",
                 "url": "https://github.com/nomanjack/interface-bts"
+              },
+              {
+                "name": "https://github.com/arla6ka/design.how",
+                "url": "https://github.com/arla6ka/design.how"
               }
             ],
             "children": []
