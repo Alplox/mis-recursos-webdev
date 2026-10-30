@@ -677,6 +677,7 @@ Mirrors:
 - <https://texture.fayaz.workers.dev/>
 - <https://www.ascii-magic.com/app> (Freemium)
 - <https://mr-r3b00t.github.io/net_draw/> (Diagramas)
+- <https://splitter.swimming.fish/> (matching X/twitter banner and profile picture)
 
 #### Editor PixelArt
 
@@ -1893,7 +1894,7 @@ Mirrors:
 - <https://svgporn.com/>
 - <https://css.gg/>
 - <https://iconsvg.xyz/>
-- <https://ionicons.com/>
+- <https://ionic.io/ionicons>
 - <https://feathericons.com/>
 - <https://erikflowers.github.io/weather-icons/>
 - <https://websygen.github.io/owfont/>
@@ -1959,6 +1960,10 @@ Mirrors:
 - <https://amicons.design/>
 - <https://circleloaders.dominikakissi.com/> (24 circulos SVG animados)
 - <https://mochi-icons.com/>
+- <https://hugeicons.com/> (Incluye de pago)
+- <https://www.carbondesignsystem.com/building-blocks/foundations/icons/library>
+- <https://github.com/microsoft/fluentui-system-icons>
+- <https://primer.style/octicons/>
 
 ### Ilustraciones Gratuitas
 
@@ -2659,6 +2664,7 @@ Mirrors:
 - <https://www.makingsoftware.com/>
 - <https://brand.youtube/>
 - <https://www.brandguidelines.net/>
+- <https://design.how/directory/design-systems> (Colección)
 
 ### Blogs
 
@@ -3620,6 +3626,7 @@ Ejem [Are Repository-Level Context Files Helpful for Coding Agents?](https://arx
 - <https://design.ricoui.com/>
 - <https://github.com/cesaroeduardo/antiwebslop>
 - <https://github.com/nomanjack/interface-bts>
+- <https://github.com/arla6ka/design.how>
 
 ### AI Software
 
