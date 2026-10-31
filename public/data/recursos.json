@@ -183,8 +183,8 @@
         "description": "Toolkit Buscador"
       },
       {
-        "name": "https://toolfolio.io/",
-        "url": "https://toolfolio.io/",
+        "name": "https://toolfolio.com/",
+        "url": "https://toolfolio.com/",
         "description": "Toolkit"
       },
       {
@@ -2223,6 +2223,11 @@
                 "name": "https://splitter.swimming.fish/",
                 "url": "https://splitter.swimming.fish/",
                 "description": "matching X/twitter banner and profile picture"
+              },
+              {
+                "name": "https://xpade.dothome.co.kr/",
+                "url": "https://xpade.dothome.co.kr/",
+                "description": "Face Liquify"
               }
             ],
             "children": []
@@ -4825,6 +4830,11 @@
                 "name": "https://somonoco.com/",
                 "url": "https://somonoco.com/",
                 "description": "Smooth squircle corners for HTML elements"
+              },
+              {
+                "name": "https://roughnotation.com/",
+                "url": "https://roughnotation.com/",
+                "description": "create and animate annotations on a web page"
               }
             ],
             "children": []
@@ -5321,6 +5331,16 @@
                     "name": "https://reactdrops.dev/",
                     "url": "https://reactdrops.dev/",
                     "description": "React components, animations, and effects"
+                  },
+                  {
+                    "name": "https://number-flow.barvian.me/",
+                    "url": "https://number-flow.barvian.me/",
+                    "description": "An animated number component. Dependency-free. Accessible. Customizable"
+                  },
+                  {
+                    "name": "https://glimm.dev/",
+                    "url": "https://glimm.dev/",
+                    "description": "React and Next.js library for shader-driven page transitions"
                   }
                 ],
                 "children": []
@@ -5600,6 +5620,24 @@
                   {
                     "name": "https://easyui.site/",
                     "url": "https://easyui.site/"
+                  },
+                  {
+                    "name": "https://pro.ui-layouts.com/",
+                    "url": "https://pro.ui-layouts.com/",
+                    "description": "Pagada"
+                  },
+                  {
+                    "name": "https://www.fancycomponents.dev/",
+                    "url": "https://www.fancycomponents.dev/"
+                  },
+                  {
+                    "name": "https://shadcnstudio.com/",
+                    "url": "https://shadcnstudio.com/",
+                    "description": "Freemium"
+                  },
+                  {
+                    "name": "https://www.great-ui.com/",
+                    "url": "https://www.great-ui.com/"
                   }
                 ],
                 "children": []
@@ -9298,6 +9336,10 @@
           {
             "name": "https://github.com/kargulstudio/calender-app-design",
             "url": "https://github.com/kargulstudio/calender-app-design"
+          },
+          {
+            "name": "https://loader-buttons.appllama.io/",
+            "url": "https://loader-buttons.appllama.io/"
           }
         ],
         "children": [
@@ -9561,6 +9603,22 @@
           {
             "name": "https://mrdoob.github.io/slop-newyork/",
             "url": "https://mrdoob.github.io/slop-newyork/"
+          },
+          {
+            "name": "https://moh4696.github.io/dustline-desert-rally/",
+            "url": "https://moh4696.github.io/dustline-desert-rally/"
+          },
+          {
+            "name": "https://mengto.github.io/towers/",
+            "url": "https://mengto.github.io/towers/"
+          },
+          {
+            "name": "https://atlas-anatomia.vercel.app/atlas",
+            "url": "https://atlas-anatomia.vercel.app/atlas"
+          },
+          {
+            "name": "https://yang123-prog.github.io/anatomy/",
+            "url": "https://yang123-prog.github.io/anatomy/"
           }
         ],
         "children": []
@@ -11005,6 +11063,10 @@
           {
             "name": "https://moviescenemap.com/",
             "url": "https://moviescenemap.com/"
+          },
+          {
+            "name": "https://meditationsincolor.com/",
+            "url": "https://meditationsincolor.com/"
           }
         ],
         "children": []
@@ -11255,6 +11317,10 @@
       {
         "name": "https://blueprint.page/",
         "url": "https://blueprint.page/"
+      },
+      {
+        "name": "https://pageflows.com/",
+        "url": "https://pageflows.com/"
       }
     ],
     "children": []
@@ -12002,6 +12068,11 @@
             "name": "https://plurilogai.com/",
             "url": "https://plurilogai.com/",
             "description": "Pagada, Requiere cuenta"
+          },
+          {
+            "name": "https://www.workbuddy.ai/",
+            "url": "https://www.workbuddy.ai/",
+            "description": "Pagada, Requiere cuenta, 100 créditos gratis por mes"
           }
         ],
         "children": [
@@ -12571,6 +12642,11 @@
               {
                 "name": "https://github.com/cathrynlavery/diagram-design",
                 "url": "https://github.com/cathrynlavery/diagram-design"
+              },
+              {
+                "name": "https://sohna.dev/waterlemon/",
+                "url": "https://sohna.dev/waterlemon/",
+                "description": "Pagada"
               }
             ],
             "children": []
@@ -12727,6 +12803,11 @@
           {
             "name": "https://huggingface.co/nvidia/NVIDIA-Nemotron-3.5-Transcribe-30B-A4B",
             "url": "https://huggingface.co/nvidia/NVIDIA-Nemotron-3.5-Transcribe-30B-A4B"
+          },
+          {
+            "name": "https://github.com/anomalyco/hex",
+            "url": "https://github.com/anomalyco/hex",
+            "description": "MacOs, Local-first voice dictation for macOS"
           }
         ],
         "children": []
@@ -12949,6 +13030,10 @@
             "description": "Pagada, Requiere cuenta, 5 créditos gratis por dia con watermark"
           },
           {
+            "name": "https://higgsfield.sucks/",
+            "url": "https://higgsfield.sucks/"
+          },
+          {
             "name": "https://www.pippit.ai/",
             "url": "https://www.pippit.ai/",
             "description": "Pagada, Requiere cuenta, content creation tools"
@@ -13022,6 +13107,21 @@
             "name": "https://github.com/calesthio/OpenMontage",
             "url": "https://github.com/calesthio/OpenMontage",
             "description": "12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI coding assistant into a full video production studio"
+          },
+          {
+            "name": "https://huggingface.co/spaces/hugging-apps/4danyone-multiview-demo",
+            "url": "https://huggingface.co/spaces/hugging-apps/4danyone-multiview-demo",
+            "description": "4D Gaussian-splatting reconstruction"
+          },
+          {
+            "name": "https://github.com/diffusionstudio/editor",
+            "url": "https://github.com/diffusionstudio/editor",
+            "description": "The VS Code of video editing, built for agents"
+          },
+          {
+            "name": "https://glif.app/",
+            "url": "https://glif.app/",
+            "description": "Pagada, Requiere cuenta"
           }
         ],
         "children": [
@@ -13034,6 +13134,11 @@
                 "name": "https://github.com/pedrovelasquez9/fragua",
                 "url": "https://github.com/pedrovelasquez9/fragua",
                 "description": "Skill para Claude Code y OpenCode que edita vídeo vertical para TikTok, Reels y Shorts: quita silencios, quema subtítulos karaoke, añade cards gráficas y redacta el copy de publicación. Todo en local, sin API keys"
+              },
+              {
+                "name": "https://www.launchvideo.dev/",
+                "url": "https://www.launchvideo.dev/",
+                "description": "Pagada"
               }
             ],
             "children": []
@@ -13089,6 +13194,11 @@
           {
             "name": "https://chat.z.ai/",
             "url": "https://chat.z.ai/"
+          },
+          {
+            "name": "https://fx.sh/",
+            "url": "https://fx.sh/",
+            "description": "coding agent harness and CLI written in Zig"
           },
           {
             "name": "https://wegic.ai",
@@ -13500,6 +13610,15 @@
             "name": "https://boat.dev/",
             "url": "https://boat.dev/",
             "description": "Pagada, Requiere cuenta, cloud VMs for agents"
+          },
+          {
+            "name": "https://github.com/abi/screenshot-to-code",
+            "url": "https://github.com/abi/screenshot-to-code"
+          },
+          {
+            "name": "https://github.com/tirth8205/code-review-graph",
+            "url": "https://github.com/tirth8205/code-review-graph",
+            "description": "A local code knowledge graph that gives AI coding tools precise review context over MCP"
           }
         ],
         "children": [
@@ -13806,6 +13925,25 @@
                 "name": "https://skillry.dev/",
                 "url": "https://skillry.dev/",
                 "description": "Pagada"
+              },
+              {
+                "name": "https://github.com/AndyVictors/clausative",
+                "url": "https://github.com/AndyVictors/clausative",
+                "description": "A writing style for specifications that both AI and humans are happy with"
+              },
+              {
+                "name": "https://github.com/saurabhkumar8112/cyclomatic-complexity-skill",
+                "url": "https://github.com/saurabhkumar8112/cyclomatic-complexity-skill",
+                "description": "refactor code to reduce cyclomatic complexity"
+              },
+              {
+                "name": "https://github.com/microsoft/skill-recorder",
+                "url": "https://github.com/microsoft/skill-recorder",
+                "description": "Desktop app that records your on-screen work session and uses the GitHub Copilot SDK to reconstruct it as an intent + ordered steps, then builds a reusable Skill or Automation for Microsoft Autopilots like Scout, Microsoft Copilot Cowork, or Copilot Studio"
+              },
+              {
+                "name": "https://github.com/davidondrej/skills",
+                "url": "https://github.com/davidondrej/skills"
               }
             ],
             "children": []
@@ -14033,6 +14171,24 @@
               {
                 "name": "https://github.com/arla6ka/design.how",
                 "url": "https://github.com/arla6ka/design.how"
+              },
+              {
+                "name": "https://github.com/s0xDk/refactoring-ui-skill",
+                "url": "https://github.com/s0xDk/refactoring-ui-skill"
+              },
+              {
+                "name": "https://github.com/amaancoderx/npxskillui",
+                "url": "https://github.com/amaancoderx/npxskillui",
+                "description": "Reverse-engineer any design system into a Claude-ready skill"
+              },
+              {
+                "name": "https://github.com/MengTo/skills",
+                "url": "https://github.com/MengTo/skills",
+                "description": "curated collection of agent skills for designers and builders  to build rich user interfaces, playable games, frontend systems, agent loops, automations, and reusable workflows"
+              },
+              {
+                "name": "https://github.com/heydamir/unslop",
+                "url": "https://github.com/heydamir/unslop"
               }
             ],
             "children": []
@@ -14238,6 +14394,11 @@
           {
             "name": "https://github.com/tinyhumansai/openhuman",
             "url": "https://github.com/tinyhumansai/openhuman",
+            "description": "\"personal AI assistant\""
+          },
+          {
+            "name": "https://github.com/leepokai/Codync",
+            "url": "https://github.com/leepokai/Codync",
             "description": "\"personal AI assistant\""
           },
           {
@@ -14569,6 +14730,26 @@
             "name": "https://github.com/Aider-AI/aider",
             "url": "https://github.com/Aider-AI/aider",
             "description": "AI pair programming in your terminal"
+          },
+          {
+            "name": "https://monkeycode-ai.net/",
+            "url": "https://monkeycode-ai.net/",
+            "description": "all-in-one AI platform for work & code"
+          },
+          {
+            "name": "https://github.com/alishahryar1/free-claude-code",
+            "url": "https://github.com/alishahryar1/free-claude-code",
+            "description": "Use Claude Code, Codex, Antigravity, VSCode, Pi, and OpenCode (and 6 other harnesses) for free (1.3B+ free tokens) from your terminal, app, IDE, or phone, and now from the browser with native browser sessions (multi-harness + multi-model) like OpenClaw (voice supported + ToS friendly)"
+          },
+          {
+            "name": "https://github.com/ericzakariasson/gloss",
+            "url": "https://github.com/ericzakariasson/gloss",
+            "description": "Personalize any website with a prompt. A floating orb screenshots the page, asks Grok, and streams new CSS onto it live"
+          },
+          {
+            "name": "https://meuclaudinho.com.br/",
+            "url": "https://meuclaudinho.com.br/",
+            "description": "interfaz gráfica alternativa para Claude Code"
           }
         ],
         "children": [
