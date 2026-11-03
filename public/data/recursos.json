@@ -2310,6 +2310,10 @@
               {
                 "name": "https://www.playgrnd.tools/",
                 "url": "https://www.playgrnd.tools/"
+              },
+              {
+                "name": "https://aether3d-kappa.vercel.app/",
+                "url": "https://aether3d-kappa.vercel.app/"
               }
             ],
             "children": []
@@ -2744,6 +2748,11 @@
           {
             "name": "https://www.designeng.tools/",
             "url": "https://www.designeng.tools/"
+          },
+          {
+            "name": "https://github.com/szymonkaliski/Archivist",
+            "url": "https://github.com/szymonkaliski/Archivist",
+            "description": "Tool for archiving and exploring"
           }
         ],
         "children": [
@@ -3894,6 +3903,18 @@
               {
                 "name": "https://paseo.sh/",
                 "url": "https://paseo.sh/"
+              },
+              {
+                "name": "https://neovim.io/",
+                "url": "https://neovim.io/"
+              },
+              {
+                "name": "https://github.com/doomemacs/core",
+                "url": "https://github.com/doomemacs/core"
+              },
+              {
+                "name": "https://helix-editor.com/",
+                "url": "https://helix-editor.com/"
               }
             ],
             "children": [
@@ -4143,6 +4164,11 @@
                 "name": "https://zephium.app/",
                 "url": "https://zephium.app/",
                 "description": "AI"
+              },
+              {
+                "name": "https://github.com/szymonkaliski/cartographist",
+                "url": "https://github.com/szymonkaliski/cartographist",
+                "description": "experimental web browser optimized for rabbit-holing"
               }
             ],
             "children": []
@@ -5115,6 +5141,11 @@
                 "name": "https://www.cuedesign.space/",
                 "url": "https://www.cuedesign.space/",
                 "description": "Freemium, Hand-picked interactions and sections from across the web, each with the prompt and code to rebuild it in Cursor, v0, Bolt or Claude"
+              },
+              {
+                "name": "https://pryzm.design/",
+                "url": "https://pryzm.design/",
+                "description": "Blend gradients, glass, and grain into unique backgrounds and animated loops"
               }
             ],
             "children": [
@@ -6262,6 +6293,10 @@
       {
         "name": "https://matiasbeltramone.com/apuntes/",
         "url": "https://matiasbeltramone.com/apuntes/"
+      },
+      {
+        "name": "https://www.playqacademy.com/",
+        "url": "https://www.playqacademy.com/"
       }
     ],
     "children": [
@@ -6769,6 +6804,10 @@
             "name": "https://specification.website/",
             "url": "https://specification.website/",
             "description": "Website checklist"
+          },
+          {
+            "name": "https://github.com/patchy631/ai-engineering-hub",
+            "url": "https://github.com/patchy631/ai-engineering-hub"
           }
         ],
         "children": []
@@ -8127,6 +8166,10 @@
           {
             "name": "https://github.com/nicoverbruggen/readerly",
             "url": "https://github.com/nicoverbruggen/readerly"
+          },
+          {
+            "name": "https://fontzz.vercel.app/",
+            "url": "https://fontzz.vercel.app/"
           }
         ],
         "children": []
@@ -8350,6 +8393,10 @@
           {
             "name": "https://www.lcn.com/",
             "url": "https://www.lcn.com/"
+          },
+          {
+            "name": "https://forgejo.org/",
+            "url": "https://forgejo.org/"
           }
         ],
         "children": []
@@ -9619,6 +9666,14 @@
           {
             "name": "https://yang123-prog.github.io/anatomy/",
             "url": "https://yang123-prog.github.io/anatomy/"
+          },
+          {
+            "name": "https://grassworks.techredux.co/forest-demo",
+            "url": "https://grassworks.techredux.co/forest-demo"
+          },
+          {
+            "name": "https://github.com/Humpalumps/Ultra-Water",
+            "url": "https://github.com/Humpalumps/Ultra-Water"
           }
         ],
         "children": []
@@ -11067,6 +11122,11 @@
           {
             "name": "https://meditationsincolor.com/",
             "url": "https://meditationsincolor.com/"
+          },
+          {
+            "name": "https://underrated.space/",
+            "url": "https://underrated.space/",
+            "description": "curated collection of sites"
           }
         ],
         "children": []
@@ -12073,6 +12133,10 @@
             "name": "https://www.workbuddy.ai/",
             "url": "https://www.workbuddy.ai/",
             "description": "Pagada, Requiere cuenta, 100 créditos gratis por mes"
+          },
+          {
+            "name": "https://smry.ai/",
+            "url": "https://smry.ai/"
           }
         ],
         "children": [
@@ -12647,6 +12711,11 @@
                 "name": "https://sohna.dev/waterlemon/",
                 "url": "https://sohna.dev/waterlemon/",
                 "description": "Pagada"
+              },
+              {
+                "name": "https://github.com/0xSero/ascii-art",
+                "url": "https://github.com/0xSero/ascii-art",
+                "description": "photo to two-tone dot map to seamless animated loop (engine + scripts)"
               }
             ],
             "children": []
@@ -13139,6 +13208,10 @@
                 "name": "https://www.launchvideo.dev/",
                 "url": "https://www.launchvideo.dev/",
                 "description": "Pagada"
+              },
+              {
+                "name": "https://www.mcp-for-blender.com/",
+                "url": "https://www.mcp-for-blender.com/"
               }
             ],
             "children": []
@@ -13944,6 +14017,11 @@
               {
                 "name": "https://github.com/davidondrej/skills",
                 "url": "https://github.com/davidondrej/skills"
+              },
+              {
+                "name": "https://github.com/caru-ini/stack-diagram",
+                "url": "https://github.com/caru-ini/stack-diagram",
+                "description": "describe your stack in a sentence, get an architecture diagram with official logos"
               }
             ],
             "children": []
@@ -14189,6 +14267,15 @@
               {
                 "name": "https://github.com/heydamir/unslop",
                 "url": "https://github.com/heydamir/unslop"
+              },
+              {
+                "name": "https://github.com/rubenhassid1/remake",
+                "url": "https://github.com/rubenhassid1/remake",
+                "description": "Remake any website pixel for pixel with Claude Code"
+              },
+              {
+                "name": "https://github.com/peteromallet/desloppify",
+                "url": "https://github.com/peteromallet/desloppify"
               }
             ],
             "children": []
@@ -14750,6 +14837,11 @@
             "name": "https://meuclaudinho.com.br/",
             "url": "https://meuclaudinho.com.br/",
             "description": "interfaz gráfica alternativa para Claude Code"
+          },
+          {
+            "name": "https://agentbuffs.com/",
+            "url": "https://agentbuffs.com/",
+            "description": "Find the right MCP server or Claude skill"
           }
         ],
         "children": [

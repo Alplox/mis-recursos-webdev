@@ -705,6 +705,7 @@ Mirrors:
 - <https://backgrounds.supply/gradient-lab>
 - <https://cutting-mat-generator.vercel.app/>
 - <https://www.playgrnd.tools/>
+- <https://aether3d-kappa.vercel.app/>
 
 #### Upscale
 
@@ -820,6 +821,7 @@ Mirrors:
 - <https://github.com/JetSquirrel/gpui-kit-canvas> (Sketch GPUI Kit screens in the browser and turn them into vibe-coding prompts)
 - <https://github.com/lnkiai/m3e-canvas> (Sketch Material 3 Expressive screens in the browser and turn them into vibe-coding prompts)
 - <https://www.designeng.tools/>
+- <https://github.com/szymonkaliski/Archivist> (Tool for archiving and exploring)
 
 #### Figma plugin
 
@@ -1121,6 +1123,9 @@ Mirrors:
 - <https://athas.dev/>
 - <https://kiro.dev/>
 - <https://paseo.sh/>
+- <https://neovim.io/>
+- <https://github.com/doomemacs/core>
+- <https://helix-editor.com/>
 
 ##### Extensiones
 
@@ -1188,6 +1193,7 @@ Mirrors:
 - <https://ardia.dev/> (MacOs)
 - <https://yetanotherbrowser.com/> (MacOs)
 - <https://zephium.app/> (AI)
+- <https://github.com/szymonkaliski/cartographist> (experimental web browser optimized for rabbit-holing)
 
 #### Web crawling
 
@@ -1421,6 +1427,7 @@ Mirrors:
 - <https://clankerui.dev/> (Waiting list, LLM Ready)
 - <https://www.fluidfunctionalism.com/>
 - <https://www.cuedesign.space/> (Freemium, Hand-picked interactions and sections from across the web, each with the prompt and code to rebuild it in Cursor, v0, Bolt or Claude)
+- <https://pryzm.design/> (Blend gradients, glass, and grain into unique backgrounds and animated loops)
 
 ##### Estilos inspirados en otros preexistentes
 
@@ -1710,6 +1717,7 @@ Mirrors:
 - <https://www.jscamp.dev/> (Requiere cuenta)
 - <https://ai.manz.dev/>
 - <https://matiasbeltramone.com/apuntes/>
+- <https://www.playqacademy.com/>
 
 ### Libros
 
@@ -1825,6 +1833,7 @@ Mirrors:
 - <https://iquilezles.org/articles/>
 - <https://aiengineeringfromscratch.com/>
 - <https://specification.website/> (Website checklist)
+- <https://github.com/patchy631/ai-engineering-hub>
 
 ### Udemy
 
@@ -2172,6 +2181,7 @@ Mirrors:
 - <https://github.com/ahatem/IoskeleyMono>
 - <https://github.com/nicoverbruggen/libron>
 - <https://github.com/nicoverbruggen/readerly>
+- <https://fontzz.vercel.app/>
 
 ### Audios Gratuitos
 
@@ -2233,6 +2243,7 @@ Mirrors:
 - <https://anonymous.4open.science/>
 - <https://www.freehostia.com/>
 - <https://www.lcn.com/>
+- <https://forgejo.org/>
 
 ### Incluyen de pago
 
@@ -2544,6 +2555,8 @@ Mirrors:
 - <https://mengto.github.io/towers/>
 - <https://atlas-anatomia.vercel.app/atlas>
 - <https://yang123-prog.github.io/anatomy/>
+- <https://grassworks.techredux.co/forest-demo>
+- <https://github.com/Humpalumps/Ultra-Water>
 
 ## Cheatsheets
 
@@ -2916,6 +2929,7 @@ Mirrors:
 - <https://kage.design/>
 - <https://moviescenemap.com/>
 - <https://meditationsincolor.com/>
+- <https://underrated.space/> (curated collection of sites)
 
 ## Cursos de pago
 
@@ -3168,6 +3182,7 @@ Mirrors:
 - <https://www.freemode.ai/> (Pagada, Requiere cuenta)
 - <https://plurilogai.com/> (Pagada, Requiere cuenta)
 - <https://www.workbuddy.ai/> (Pagada, Requiere cuenta, 100 créditos gratis por mes)
+- <https://smry.ai/>
 
 #### Skills AI Chatbots
 
@@ -3301,6 +3316,7 @@ Mirrors:
 - <https://github.com/hugohe3/ppt-master>
 - <https://github.com/cathrynlavery/diagram-design>
 - <https://sohna.dev/waterlemon/> (Pagada)
+- <https://github.com/0xSero/ascii-art> (photo to two-tone dot map to seamless animated loop (engine + scripts))
 
 ### AI Audio
 
@@ -3415,6 +3431,7 @@ Mirrors:
 
 - <https://github.com/pedrovelasquez9/fragua> (Skill para Claude Code y OpenCode que edita vídeo vertical para TikTok, Reels y Shorts: quita silencios, quema subtítulos karaoke, añade cards gráficas y redacta el copy de publicación. Todo en local, sin API keys)
 - <https://www.launchvideo.dev/> (Pagada)
+- <https://www.mcp-for-blender.com/>
 
 ### AI Vibe Coding
 
@@ -3599,6 +3616,7 @@ Ejem [Are Repository-Level Context Files Helpful for Coding Agents?](https://arx
 - <https://github.com/saurabhkumar8112/cyclomatic-complexity-skill> (refactor code to reduce cyclomatic complexity)
 - <https://github.com/microsoft/skill-recorder> (Desktop app that records your on-screen work session and uses the GitHub Copilot SDK to reconstruct it as an intent + ordered steps, then builds a reusable Skill or Automation for Microsoft Autopilots like Scout, Microsoft Copilot Cowork, or Copilot Studio)
 - <https://github.com/davidondrej/skills>
+- <https://github.com/caru-ini/stack-diagram> (describe your stack in a sentence, get an architecture diagram with official logos)
 
 #### Design.md
 
@@ -3661,6 +3679,8 @@ Ejem [Are Repository-Level Context Files Helpful for Coding Agents?](https://arx
 - <https://github.com/amaancoderx/npxskillui> (Reverse-engineer any design system into a Claude-ready skill)
 - <https://github.com/MengTo/skills> (curated collection of agent skills for designers and builders  to build rich user interfaces, playable games, frontend systems, agent loops, automations, and reusable workflows)
 - <https://github.com/heydamir/unslop>
+- <https://github.com/rubenhassid1/remake> (Remake any website pixel for pixel with Claude Code)
+- <https://github.com/peteromallet/desloppify>
 
 ### AI Software
 
@@ -3780,6 +3800,7 @@ Ejem [Are Repository-Level Context Files Helpful for Coding Agents?](https://arx
 - <https://github.com/alishahryar1/free-claude-code> (Use Claude Code, Codex, Antigravity, VSCode, Pi, and OpenCode (and 6 other harnesses) for free (1.3B+ free tokens) from your terminal, app, IDE, or phone, and now from the browser with native browser sessions (multi-harness + multi-model) like OpenClaw (voice supported + ToS friendly))
 - <https://github.com/ericzakariasson/gloss> (Personalize any website with a prompt. A floating orb screenshots the page, asks Grok, and streams new CSS onto it live)
 - <https://meuclaudinho.com.br/> (interfaz gráfica alternativa para Claude Code)
+- <https://agentbuffs.com/> (Find the right MCP server or Claude skill)
 
 #### AI Local
 
