@@ -679,6 +679,7 @@ Mirrors:
 - <https://mr-r3b00t.github.io/net_draw/> (Diagramas)
 - <https://splitter.swimming.fish/> (matching X/twitter banner and profile picture)
 - <https://xpade.dothome.co.kr/> (Face Liquify)
+- <https://devault-ascii.pages.dev/ascii-generator/> (Requiere cuenta)
 
 #### Editor PixelArt
 
@@ -1092,6 +1093,7 @@ Mirrors:
 - <https://github.com/hughhowey/neo> (A novel-writing tool)
 - <https://github.com/Freaction/Aquilum>
 - <https://www.hibi.garden/>
+- <https://github.com/s1dashu/quiet-md>
 
 #### Screen Recorder/Capturar Pantalla
 
@@ -1220,6 +1222,7 @@ Mirrors:
 - <https://github.com/0xMassi/webclaw> (Freemium, extracts public web pages into Markdown and structured JSON for your agents)
 - <https://github.com/YOLOW92/pagesift> (High-performance, memory-bounded web scraping and extraction engine built for AI agents and LLM pipelines)
 - <https://github.com/donutbrowser/donutbrowser> (Open Source Anti-Detect Browser)
+- <https://teapawt.net/> (Search public posts without ads, tracking, or an account)
 
 #### Editores video
 
@@ -1834,6 +1837,7 @@ Mirrors:
 - <https://aiengineeringfromscratch.com/>
 - <https://specification.website/> (Website checklist)
 - <https://github.com/patchy631/ai-engineering-hub>
+- <https://grahamhelton.github.io/harness-engineering-workshop-book/introduction.html>
 
 ### Udemy
 
@@ -1901,6 +1905,7 @@ Mirrors:
 - <https://nosignups.net/>
 - <https://aifreenav.pages.dev/en/> (AI, free LLM providers)
 - <https://www.studentoffers.co/>
+- <https://hackerbooks.org/>
 
 ### Iconos Gratuitos
 
@@ -2182,6 +2187,7 @@ Mirrors:
 - <https://github.com/nicoverbruggen/libron>
 - <https://github.com/nicoverbruggen/readerly>
 - <https://fontzz.vercel.app/>
+- <https://typographic.systems/obel-mono>
 
 ### Audios Gratuitos
 
@@ -2313,6 +2319,7 @@ Mirrors:
 - <https://carnet.ai/> (Pagada)
 - <https://earthquake.usgs.gov/>
 - <https://datosabiertos.mineduc.cl/>
+- <https://s2.dev/> (API for unlimited, durable, real-time streams)
 
 ## Snippets
 
@@ -2557,6 +2564,7 @@ Mirrors:
 - <https://yang123-prog.github.io/anatomy/>
 - <https://grassworks.techredux.co/forest-demo>
 - <https://github.com/Humpalumps/Ultra-Water>
+- <https://vibe-gp.ben3d.ca/>
 
 ## Cheatsheets
 
@@ -2930,6 +2938,8 @@ Mirrors:
 - <https://moviescenemap.com/>
 - <https://meditationsincolor.com/>
 - <https://underrated.space/> (curated collection of sites)
+- <https://designtrash.com/> (curated collection of sites)
+- <https://deimos.evilrabbit.com/> (A collection designers)
 
 ## Cursos de pago
 
@@ -3464,6 +3474,7 @@ Mirrors:
 - <https://www.vibed.inc/> (Pagada, Requiere cuenta)
 - <https://browser-use.com/> (Pagada, Requiere cuenta)
 - <https://caffeine.ai/>
+- <https://refuseless.com/> (Pagada, Requiere cuenta)
 - <https://catdoes.com/> (Requiere cuenta, Pagada, 2 Créditos gratis diarios)
 - <https://llamacoder.together.ai/>
 - <https://mgx.dev/> (Requiere cuenta, Pagada, 7.5 créditos diarios (hasta 25 / mes))
@@ -3617,6 +3628,7 @@ Ejem [Are Repository-Level Context Files Helpful for Coding Agents?](https://arx
 - <https://github.com/microsoft/skill-recorder> (Desktop app that records your on-screen work session and uses the GitHub Copilot SDK to reconstruct it as an intent + ordered steps, then builds a reusable Skill or Automation for Microsoft Autopilots like Scout, Microsoft Copilot Cowork, or Copilot Studio)
 - <https://github.com/davidondrej/skills>
 - <https://github.com/caru-ini/stack-diagram> (describe your stack in a sentence, get an architecture diagram with official logos)
+- <https://github.com/cloudflare/security-audit-skill>
 
 #### Design.md
 
@@ -3681,6 +3693,8 @@ Ejem [Are Repository-Level Context Files Helpful for Coding Agents?](https://arx
 - <https://github.com/heydamir/unslop>
 - <https://github.com/rubenhassid1/remake> (Remake any website pixel for pixel with Claude Code)
 - <https://github.com/peteromallet/desloppify>
+- <https://github.com/StewdioAI/blank-page> (A skill for Claude Code and Codex, blank-page, for getting started on a motion piece)
+- <https://github.com/charliesbot/android-design> (Material 3 Expressive design judgment for Jetpack Compose, as an agent skill)
 
 ### AI Software
 

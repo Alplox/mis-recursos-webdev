@@ -2228,6 +2228,11 @@
                 "name": "https://xpade.dothome.co.kr/",
                 "url": "https://xpade.dothome.co.kr/",
                 "description": "Face Liquify"
+              },
+              {
+                "name": "https://devault-ascii.pages.dev/ascii-generator/",
+                "url": "https://devault-ascii.pages.dev/ascii-generator/",
+                "description": "Requiere cuenta"
               }
             ],
             "children": []
@@ -3802,6 +3807,10 @@
               {
                 "name": "https://www.hibi.garden/",
                 "url": "https://www.hibi.garden/"
+              },
+              {
+                "name": "https://github.com/s1dashu/quiet-md",
+                "url": "https://github.com/s1dashu/quiet-md"
               }
             ],
             "children": []
@@ -4291,6 +4300,11 @@
                 "name": "https://github.com/donutbrowser/donutbrowser",
                 "url": "https://github.com/donutbrowser/donutbrowser",
                 "description": "Open Source Anti-Detect Browser"
+              },
+              {
+                "name": "https://teapawt.net/",
+                "url": "https://teapawt.net/",
+                "description": "Search public posts without ads, tracking, or an account"
               }
             ],
             "children": []
@@ -6808,6 +6822,10 @@
           {
             "name": "https://github.com/patchy631/ai-engineering-hub",
             "url": "https://github.com/patchy631/ai-engineering-hub"
+          },
+          {
+            "name": "https://grahamhelton.github.io/harness-engineering-workshop-book/introduction.html",
+            "url": "https://grahamhelton.github.io/harness-engineering-workshop-book/introduction.html"
           }
         ],
         "children": []
@@ -7080,6 +7098,10 @@
       {
         "name": "https://www.studentoffers.co/",
         "url": "https://www.studentoffers.co/"
+      },
+      {
+        "name": "https://hackerbooks.org/",
+        "url": "https://hackerbooks.org/"
       }
     ],
     "children": [
@@ -8170,6 +8192,10 @@
           {
             "name": "https://fontzz.vercel.app/",
             "url": "https://fontzz.vercel.app/"
+          },
+          {
+            "name": "https://typographic.systems/obel-mono",
+            "url": "https://typographic.systems/obel-mono"
           }
         ],
         "children": []
@@ -8668,6 +8694,11 @@
       {
         "name": "https://datosabiertos.mineduc.cl/",
         "url": "https://datosabiertos.mineduc.cl/"
+      },
+      {
+        "name": "https://s2.dev/",
+        "url": "https://s2.dev/",
+        "description": "API for unlimited, durable, real-time streams"
       }
     ],
     "children": []
@@ -9674,6 +9705,10 @@
           {
             "name": "https://github.com/Humpalumps/Ultra-Water",
             "url": "https://github.com/Humpalumps/Ultra-Water"
+          },
+          {
+            "name": "https://vibe-gp.ben3d.ca/",
+            "url": "https://vibe-gp.ben3d.ca/"
           }
         ],
         "children": []
@@ -11127,6 +11162,16 @@
             "name": "https://underrated.space/",
             "url": "https://underrated.space/",
             "description": "curated collection of sites"
+          },
+          {
+            "name": "https://designtrash.com/",
+            "url": "https://designtrash.com/",
+            "description": "curated collection of sites"
+          },
+          {
+            "name": "https://deimos.evilrabbit.com/",
+            "url": "https://deimos.evilrabbit.com/",
+            "description": "A collection designers"
           }
         ],
         "children": []
@@ -13349,6 +13394,11 @@
             "url": "https://caffeine.ai/"
           },
           {
+            "name": "https://refuseless.com/",
+            "url": "https://refuseless.com/",
+            "description": "Pagada, Requiere cuenta"
+          },
+          {
             "name": "https://catdoes.com/",
             "url": "https://catdoes.com/",
             "description": "Requiere cuenta, Pagada, 2 Créditos gratis diarios"
@@ -14022,6 +14072,10 @@
                 "name": "https://github.com/caru-ini/stack-diagram",
                 "url": "https://github.com/caru-ini/stack-diagram",
                 "description": "describe your stack in a sentence, get an architecture diagram with official logos"
+              },
+              {
+                "name": "https://github.com/cloudflare/security-audit-skill",
+                "url": "https://github.com/cloudflare/security-audit-skill"
               }
             ],
             "children": []
@@ -14276,6 +14330,16 @@
               {
                 "name": "https://github.com/peteromallet/desloppify",
                 "url": "https://github.com/peteromallet/desloppify"
+              },
+              {
+                "name": "https://github.com/StewdioAI/blank-page",
+                "url": "https://github.com/StewdioAI/blank-page",
+                "description": "A skill for Claude Code and Codex, blank-page, for getting started on a motion piece"
+              },
+              {
+                "name": "https://github.com/charliesbot/android-design",
+                "url": "https://github.com/charliesbot/android-design",
+                "description": "Material 3 Expressive design judgment for Jetpack Compose, as an agent skill"
               }
             ],
             "children": []
