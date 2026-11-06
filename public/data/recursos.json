@@ -741,6 +741,19 @@
           {
             "name": "https://jsonhero.io/",
             "url": "https://jsonhero.io/"
+          },
+          {
+            "name": "https://mehditmimi.com/tools/web-playground/",
+            "url": "https://mehditmimi.com/tools/web-playground/"
+          },
+          {
+            "name": "https://htmldrop.com/",
+            "url": "https://htmldrop.com/"
+          },
+          {
+            "name": "https://ship.page/",
+            "url": "https://ship.page/",
+            "description": "Requiere cuenta"
           }
         ],
         "children": []
@@ -1673,6 +1686,10 @@
               {
                 "name": "https://easings.net/",
                 "url": "https://easings.net/"
+              },
+              {
+                "name": "https://www.easing.dev/",
+                "url": "https://www.easing.dev/"
               }
             ],
             "children": []
@@ -2233,6 +2250,10 @@
                 "name": "https://devault-ascii.pages.dev/ascii-generator/",
                 "url": "https://devault-ascii.pages.dev/ascii-generator/",
                 "description": "Requiere cuenta"
+              },
+              {
+                "name": "https://www.dongha.ca/lab/impasto",
+                "url": "https://www.dongha.ca/lab/impasto"
               }
             ],
             "children": []
@@ -2467,6 +2488,10 @@
               {
                 "name": "https://postspark.app/",
                 "url": "https://postspark.app/"
+              },
+              {
+                "name": "https://vi-text-generator.vercel.app/",
+                "url": "https://vi-text-generator.vercel.app/"
               }
             ],
             "children": []
@@ -3248,6 +3273,10 @@
               {
                 "name": "https://winden.app/s",
                 "url": "https://winden.app/s"
+              },
+              {
+                "name": "https://pairdrop.net/",
+                "url": "https://pairdrop.net/"
               }
             ],
             "children": []
@@ -3811,6 +3840,10 @@
               {
                 "name": "https://github.com/s1dashu/quiet-md",
                 "url": "https://github.com/s1dashu/quiet-md"
+              },
+              {
+                "name": "https://www.riddled.ai/",
+                "url": "https://www.riddled.ai/"
               }
             ],
             "children": []
@@ -4632,6 +4665,21 @@
             "name": "https://github.com/lxsmnsyc/talata",
             "url": "https://github.com/lxsmnsyc/talata",
             "description": "Fast Markdown parser that produces remark-compatible mdast"
+          },
+          {
+            "name": "https://github.com/zeux/meshoptimizer",
+            "url": "https://github.com/zeux/meshoptimizer",
+            "description": "Mesh optimization library that makes meshes smaller and faster to render"
+          },
+          {
+            "name": "https://github.com/myshell-ai/MeloTTS",
+            "url": "https://github.com/myshell-ai/MeloTTS",
+            "description": "High-quality multi-lingual text-to-speech library"
+          },
+          {
+            "name": "https://github.com/marc2332/freya",
+            "url": "https://github.com/marc2332/freya",
+            "description": "Cross-platform native GUI library for Rust"
           }
         ],
         "children": [
@@ -4875,6 +4923,16 @@
                 "name": "https://roughnotation.com/",
                 "url": "https://roughnotation.com/",
                 "description": "create and animate annotations on a web page"
+              },
+              {
+                "name": "https://github.com/konvajs/konva",
+                "url": "https://github.com/konvajs/konva",
+                "description": "HTML5 Canvas JavaScript framework for interactive graphics, design editors, whiteboards, and diagrams"
+              },
+              {
+                "name": "https://github.com/piqnt/planck.js",
+                "url": "https://github.com/piqnt/planck.js",
+                "description": "2D JavaScript Physics Engine"
               }
             ],
             "children": []
@@ -5160,6 +5218,21 @@
                 "name": "https://pryzm.design/",
                 "url": "https://pryzm.design/",
                 "description": "Blend gradients, glass, and grain into unique backgrounds and animated loops"
+              },
+              {
+                "name": "https://github.com/regl-project/regl",
+                "url": "https://github.com/regl-project/regl",
+                "description": "Fast functional WebGL"
+              },
+              {
+                "name": "https://github.com/ashima/webgl-noise",
+                "url": "https://github.com/ashima/webgl-noise",
+                "description": "Procedural Noise Shader Routines compatible with WebGL"
+              },
+              {
+                "name": "https://www.ripplix.com/",
+                "url": "https://www.ripplix.com/",
+                "description": "Freemium, UI Animation Library With AI Ready Prompt for 7K+ Micro Interactions"
               }
             ],
             "children": [
@@ -5386,6 +5459,33 @@
                     "name": "https://glimm.dev/",
                     "url": "https://glimm.dev/",
                     "description": "React and Next.js library for shader-driven page transitions"
+                  },
+                  {
+                    "name": "https://skullet.lochie.me/",
+                    "url": "https://skullet.lochie.me/"
+                  },
+                  {
+                    "name": "https://haptics.lochie.me/",
+                    "url": "https://haptics.lochie.me/"
+                  },
+                  {
+                    "name": "https://torph.lochie.me/",
+                    "url": "https://torph.lochie.me/"
+                  },
+                  {
+                    "name": "https://github.com/pencil2d/pencil",
+                    "url": "https://github.com/pencil2d/pencil",
+                    "description": "2D hand-drawn animations"
+                  },
+                  {
+                    "name": "https://github.com/metafizzy/zdog",
+                    "url": "https://github.com/metafizzy/zdog",
+                    "description": "Flat, round, designer-friendly pseudo-3D engine for canvas & SVG"
+                  },
+                  {
+                    "name": "https://github.com/guillaumeblanc/ozz-animation",
+                    "url": "https://github.com/guillaumeblanc/ozz-animation",
+                    "description": "skeletal animation library and toolset"
                   }
                 ],
                 "children": []
@@ -5451,6 +5551,24 @@
                 "name": "https://snapcn.dev/",
                 "url": "https://snapcn.dev/",
                 "description": "Product demo videos, in React"
+              },
+              {
+                "name": "https://github.com/remotion-dev/remotion",
+                "url": "https://github.com/remotion-dev/remotion",
+                "description": "Make videos programmatically with React"
+              },
+              {
+                "name": "https://heroui.com/",
+                "url": "https://heroui.com/"
+              },
+              {
+                "name": "https://www.boardui.com/",
+                "url": "https://www.boardui.com/"
+              },
+              {
+                "name": "https://nativecook.dev/",
+                "url": "https://nativecook.dev/",
+                "description": "Mobile UI blocks, cooked for React Native, Swift and Kotlin"
               }
             ],
             "children": [
@@ -5683,6 +5801,10 @@
                   {
                     "name": "https://www.great-ui.com/",
                     "url": "https://www.great-ui.com/"
+                  },
+                  {
+                    "name": "https://www.pinui.xyz/",
+                    "url": "https://www.pinui.xyz/"
                   }
                 ],
                 "children": []
@@ -6152,6 +6274,19 @@
             "name": "https://modalzmodalzmodalz.com",
             "url": "https://modalzmodalzmodalz.com",
             "description": "sitio con ejemplos de alternativas a usar modal"
+          },
+          {
+            "name": "https://github.com/meodai/design-book",
+            "url": "https://github.com/meodai/design-book",
+            "description": "Reactive TypeScript design token system for defining primitives, semantic roles, and derived UI tokens with dependency tracking and multi-format export"
+          },
+          {
+            "name": "https://tomato-architecture.github.io/",
+            "url": "https://tomato-architecture.github.io/"
+          },
+          {
+            "name": "https://shopify.engineering/reflex",
+            "url": "https://shopify.engineering/reflex"
           }
         ],
         "children": []
@@ -7102,6 +7237,14 @@
       {
         "name": "https://hackerbooks.org/",
         "url": "https://hackerbooks.org/"
+      },
+      {
+        "name": "https://codeberg.org/ethical-foss/ai-free-foss-alternatives",
+        "url": "https://codeberg.org/ethical-foss/ai-free-foss-alternatives"
+      },
+      {
+        "name": "https://interneto.github.io/",
+        "url": "https://interneto.github.io/"
       }
     ],
     "children": [
@@ -9418,6 +9561,15 @@
           {
             "name": "https://loader-buttons.appllama.io/",
             "url": "https://loader-buttons.appllama.io/"
+          },
+          {
+            "name": "https://isometricsf.com",
+            "url": "https://isometricsf.com",
+            "description": "An isometric pixel-art map of the whole San Francisco Bay Area"
+          },
+          {
+            "name": "https://experiments.thisiswhitespace.com/one-time-code",
+            "url": "https://experiments.thisiswhitespace.com/one-time-code"
           }
         ],
         "children": [
@@ -9709,6 +9861,10 @@
           {
             "name": "https://vibe-gp.ben3d.ca/",
             "url": "https://vibe-gp.ben3d.ca/"
+          },
+          {
+            "name": "https://electronics-101-six.vercel.app/",
+            "url": "https://electronics-101-six.vercel.app/"
           }
         ],
         "children": []
@@ -10115,7 +10271,7 @@
           {
             "name": "https://www.are.na/",
             "url": "https://www.are.na/",
-            "description": "Requiere cuenta, Pagada, 200 \"bloques gratis\""
+            "description": "Pagada, Requiere cuenta, 200 \"bloques gratis\""
           },
           {
             "name": "https://refero.design/",
@@ -10137,6 +10293,15 @@
           {
             "name": "https://save.design/",
             "url": "https://save.design/",
+            "description": "Requiere cuenta"
+          },
+          {
+            "name": "https://designengineer.world/",
+            "url": "https://designengineer.world/"
+          },
+          {
+            "name": "https://on.design/",
+            "url": "https://on.design/",
             "description": "Requiere cuenta"
           }
         ],
@@ -11172,6 +11337,48 @@
             "name": "https://deimos.evilrabbit.com/",
             "url": "https://deimos.evilrabbit.com/",
             "description": "A collection designers"
+          },
+          {
+            "name": "https://devault.design/",
+            "url": "https://devault.design/"
+          },
+          {
+            "name": "https://designdetails.io/",
+            "url": "https://designdetails.io/"
+          },
+          {
+            "name": "https://motionimo.xyz/",
+            "url": "https://motionimo.xyz/"
+          },
+          {
+            "name": "https://marked.dev/explore",
+            "url": "https://marked.dev/explore"
+          },
+          {
+            "name": "https://vibrant.design/",
+            "url": "https://vibrant.design/"
+          },
+          {
+            "name": "https://theinternetdesigns.com/",
+            "url": "https://theinternetdesigns.com/"
+          },
+          {
+            "name": "https://motionin.design/",
+            "url": "https://motionin.design/"
+          },
+          {
+            "name": "https://launchvideos.gallery/",
+            "url": "https://launchvideos.gallery/"
+          },
+          {
+            "name": "https://iconly.design/",
+            "url": "https://iconly.design/",
+            "description": "Pagada, Requiere cuenta"
+          },
+          {
+            "name": "https://logotouse.com/",
+            "url": "https://logotouse.com/",
+            "description": "Pagada, Requiere cuenta"
           }
         ],
         "children": []
@@ -11426,6 +11633,31 @@
       {
         "name": "https://pageflows.com/",
         "url": "https://pageflows.com/"
+      },
+      {
+        "name": "https://www.wedoflow.com/",
+        "url": "https://www.wedoflow.com/",
+        "description": "Webflow templates"
+      },
+      {
+        "name": "https://wonderlist.design/",
+        "url": "https://wonderlist.design/"
+      },
+      {
+        "name": "https://paperanimation.ai/",
+        "url": "https://paperanimation.ai/"
+      },
+      {
+        "name": "https://www.tripo3d.ai/es",
+        "url": "https://www.tripo3d.ai/es"
+      },
+      {
+        "name": "https://backgrounds.supply/",
+        "url": "https://backgrounds.supply/"
+      },
+      {
+        "name": "https://grainient.supply/",
+        "url": "https://grainient.supply/"
       }
     ],
     "children": []
@@ -11580,6 +11812,19 @@
       {
         "name": "https://www.felonybench.com/",
         "url": "https://www.felonybench.com/"
+      },
+      {
+        "name": "https://is-agentic.com/",
+        "url": "https://is-agentic.com/",
+        "description": "Enter a URL for a score based on what agents can discover, access, and use"
+      },
+      {
+        "name": "https://noailist.org/",
+        "url": "https://noailist.org/"
+      },
+      {
+        "name": "https://www.human-md.ai/",
+        "url": "https://www.human-md.ai/"
       }
     ],
     "children": [
@@ -12218,6 +12463,11 @@
               {
                 "name": "https://github.com/coreyhaines31/marketingskills",
                 "url": "https://github.com/coreyhaines31/marketingskills"
+              },
+              {
+                "name": "https://github.com/wondelai/skills",
+                "url": "https://github.com/wondelai/skills",
+                "description": "Business, Marketing, UX & Coding Frameworks from Bestselling Books. 50 skills + 12 guided journeys"
               }
             ],
             "children": []
@@ -12761,6 +13011,10 @@
                 "name": "https://github.com/0xSero/ascii-art",
                 "url": "https://github.com/0xSero/ascii-art",
                 "description": "photo to two-tone dot map to seamless animated loop (engine + scripts)"
+              },
+              {
+                "name": "https://github.com/chunkithwang/design-playful-app-icons",
+                "url": "https://github.com/chunkithwang/design-playful-app-icons"
               }
             ],
             "children": []
@@ -13257,6 +13511,11 @@
               {
                 "name": "https://www.mcp-for-blender.com/",
                 "url": "https://www.mcp-for-blender.com/"
+              },
+              {
+                "name": "https://github.com/JuneYaooo/rea-video",
+                "url": "https://github.com/JuneYaooo/rea-video",
+                "description": "Reverse-engineer any video, shot by shot: tells whether each shot was filmed, AI-generated or coded, how the captions, cuts and audio were made, and how to remake it"
               }
             ],
             "children": []
@@ -13321,7 +13580,7 @@
           {
             "name": "https://wegic.ai",
             "url": "https://wegic.ai",
-            "description": "Requiere cuenta, Pagada, 30 créditos gratis por mes"
+            "description": "Pagada, Requiere cuenta, 30 créditos gratis por mes"
           },
           {
             "name": "https://www.createanything.com",
@@ -13352,7 +13611,7 @@
           {
             "name": "https://www.aura.build",
             "url": "https://www.aura.build",
-            "description": "Requiere cuenta, Pagada, 10 prompts por mes"
+            "description": "Pagada, Requiere cuenta, 10 prompts por mes"
           },
           {
             "name": "https://www.figma.com/es-es/make/",
@@ -13362,17 +13621,17 @@
           {
             "name": "https://www.builder.io/",
             "url": "https://www.builder.io/",
-            "description": "Requiere cuenta, Pagada, 75 creditos por mes (limite diario 25)"
+            "description": "Pagada, Requiere cuenta, 75 creditos por mes (limite diario 25)"
           },
           {
             "name": "https://www.macaly.com/",
             "url": "https://www.macaly.com/",
-            "description": "Requiere cuenta, Pagada, Up to 1M credits daily"
+            "description": "Pagada, Requiere cuenta, Up to 1M credits daily"
           },
           {
             "name": "https://readdy.ai/",
             "url": "https://readdy.ai/",
-            "description": "Requiere cuenta, Pagada, 250 creditos por mes"
+            "description": "Pagada, Requiere cuenta, 250 creditos por mes"
           },
           {
             "name": "https://reshape.build/",
@@ -13394,6 +13653,16 @@
             "url": "https://caffeine.ai/"
           },
           {
+            "name": "https://bestaibuilder.website/es",
+            "url": "https://bestaibuilder.website/es",
+            "description": "Un índice independiente de las herramientas que crean sitios web con IA"
+          },
+          {
+            "name": "https://www.banani.co/",
+            "url": "https://www.banani.co/",
+            "description": "Pagada, Requiere cuenta, 12 Créditos gratis diarios"
+          },
+          {
             "name": "https://refuseless.com/",
             "url": "https://refuseless.com/",
             "description": "Pagada, Requiere cuenta"
@@ -13401,7 +13670,7 @@
           {
             "name": "https://catdoes.com/",
             "url": "https://catdoes.com/",
-            "description": "Requiere cuenta, Pagada, 2 Créditos gratis diarios"
+            "description": "Pagada, Requiere cuenta, 2 Créditos gratis diarios"
           },
           {
             "name": "https://llamacoder.together.ai/",
@@ -13410,7 +13679,7 @@
           {
             "name": "https://mgx.dev/",
             "url": "https://mgx.dev/",
-            "description": "Requiere cuenta, Pagada, 7.5 créditos diarios (hasta 25 / mes)"
+            "description": "Pagada, Requiere cuenta, 7.5 créditos diarios (hasta 25 / mes)"
           },
           {
             "name": "https://github.com/simstudioai/sim",
@@ -13742,6 +14011,11 @@
             "name": "https://github.com/tirth8205/code-review-graph",
             "url": "https://github.com/tirth8205/code-review-graph",
             "description": "A local code knowledge graph that gives AI coding tools precise review context over MCP"
+          },
+          {
+            "name": "https://antiwebslop.com",
+            "url": "https://antiwebslop.com",
+            "description": "Freemium"
           }
         ],
         "children": [
@@ -13790,6 +14064,10 @@
               {
                 "name": "https://skill-issue.in/",
                 "url": "https://skill-issue.in/"
+              },
+              {
+                "name": "https://visualskills.dev/",
+                "url": "https://visualskills.dev/"
               },
               {
                 "name": "https://hermes-agent.nousresearch.com/docs/skills",
@@ -14076,6 +14354,10 @@
               {
                 "name": "https://github.com/cloudflare/security-audit-skill",
                 "url": "https://github.com/cloudflare/security-audit-skill"
+              },
+              {
+                "name": "https://github.com/ScrapeCreators/social-media-research-skills",
+                "url": "https://github.com/ScrapeCreators/social-media-research-skills"
               }
             ],
             "children": []
@@ -14328,6 +14610,11 @@
                 "description": "Remake any website pixel for pixel with Claude Code"
               },
               {
+                "name": "https://github.com/johntony1/site-prompt",
+                "url": "https://github.com/johntony1/site-prompt",
+                "description": "Point at any part of a website and get a prompt that rebuilds it 1:1, or break it down layer by layer to learn how it is made"
+              },
+              {
                 "name": "https://github.com/peteromallet/desloppify",
                 "url": "https://github.com/peteromallet/desloppify"
               },
@@ -14340,6 +14627,15 @@
                 "name": "https://github.com/charliesbot/android-design",
                 "url": "https://github.com/charliesbot/android-design",
                 "description": "Material 3 Expressive design judgment for Jetpack Compose, as an agent skill"
+              },
+              {
+                "name": "https://github.com/kosta4a/tactile-design",
+                "url": "https://github.com/kosta4a/tactile-design"
+              },
+              {
+                "name": "https://shiftnudge.com/skill",
+                "url": "https://shiftnudge.com/skill",
+                "description": "Requiere correo y es skill es basicamente publicidad - https://rentry.co/d8gqwqor"
               }
             ],
             "children": []
@@ -14435,6 +14731,11 @@
           {
             "name": "https://www.orchids.app/",
             "url": "https://www.orchids.app/",
+            "description": "IDE"
+          },
+          {
+            "name": "https://gui.usecornercase.dev/",
+            "url": "https://gui.usecornercase.dev/",
             "description": "IDE"
           },
           {
@@ -14550,6 +14851,11 @@
           {
             "name": "https://github.com/leepokai/Codync",
             "url": "https://github.com/leepokai/Codync",
+            "description": "\"personal AI assistant\""
+          },
+          {
+            "name": "https://github.com/first-tree-ai/opentag",
+            "url": "https://github.com/first-tree-ai/opentag",
             "description": "\"personal AI assistant\""
           },
           {
@@ -14906,6 +15212,11 @@
             "name": "https://agentbuffs.com/",
             "url": "https://agentbuffs.com/",
             "description": "Find the right MCP server or Claude skill"
+          },
+          {
+            "name": "https://github.com/superdesigndev/treg",
+            "url": "https://github.com/superdesigndev/treg",
+            "description": "OpenRouter for agent tools"
           }
         ],
         "children": [
@@ -15802,6 +16113,10 @@
               {
                 "name": "https://knowyourworth.app/",
                 "url": "https://knowyourworth.app/"
+              },
+              {
+                "name": "https://pesoapeso.cl/",
+                "url": "https://pesoapeso.cl/"
               }
             ],
             "children": []

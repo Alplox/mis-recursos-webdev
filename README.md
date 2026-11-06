@@ -301,6 +301,9 @@ Mirrors:
 - <https://simplepdf.com/>
 - <https://cryptpad.fr> (Office)
 - <https://jsonhero.io/>
+- <https://mehditmimi.com/tools/web-playground/>
+- <https://htmldrop.com/>
+- <https://ship.page/> (Requiere cuenta)
 
 ### Editores markdown online
 
@@ -545,6 +548,7 @@ Mirrors:
 - <https://animista.net/>
 - <https://animotion.dev/>
 - <https://easings.net/>
+- <https://www.easing.dev/>
 
 ### JS
 
@@ -680,6 +684,7 @@ Mirrors:
 - <https://splitter.swimming.fish/> (matching X/twitter banner and profile picture)
 - <https://xpade.dothome.co.kr/> (Face Liquify)
 - <https://devault-ascii.pages.dev/ascii-generator/> (Requiere cuenta)
+- <https://www.dongha.ca/lab/impasto>
 
 #### Editor PixelArt
 
@@ -748,6 +753,7 @@ Mirrors:
 - <https://tokokino.com/app>
 - <https://ui.camera/>
 - <https://postspark.app/>
+- <https://vi-text-generator.vercel.app/>
 
 #### Remover Fondos
 
@@ -952,6 +958,7 @@ Mirrors:
 - <https://instant.io/>
 - <https://toffeeshare.com/es/>
 - <https://winden.app/s>
+- <https://pairdrop.net/>
 
 ### Video
 
@@ -1094,6 +1101,7 @@ Mirrors:
 - <https://github.com/Freaction/Aquilum>
 - <https://www.hibi.garden/>
 - <https://github.com/s1dashu/quiet-md>
+- <https://www.riddled.ai/>
 
 #### Screen Recorder/Capturar Pantalla
 
@@ -1304,6 +1312,9 @@ Mirrors:
 - <https://github.com/edoardolunardi/kugiri> (Splits text into lines, words and characters exactly where the browser already broke it)
 - <https://github.com/baidu/Unlimited-OCR>
 - <https://github.com/lxsmnsyc/talata> (Fast Markdown parser that produces remark-compatible mdast)
+- <https://github.com/zeux/meshoptimizer> (Mesh optimization library that makes meshes smaller and faster to render)
+- <https://github.com/myshell-ai/MeloTTS> (High-quality multi-lingual text-to-speech library)
+- <https://github.com/marc2332/freya> (Cross-platform native GUI library for Rust)
 
 #### JS Recursos
 
@@ -1362,6 +1373,8 @@ Mirrors:
 - <https://scrit.to/> (JavaScript library that animates text in place)
 - <https://somonoco.com/> (Smooth squircle corners for HTML elements)
 - <https://roughnotation.com/> (create and animate annotations on a web page)
+- <https://github.com/konvajs/konva> (HTML5 Canvas JavaScript framework for interactive graphics, design editors, whiteboards, and diagrams)
+- <https://github.com/piqnt/planck.js> (2D JavaScript Physics Engine)
 
 #### CSS Recursos
 
@@ -1431,6 +1444,9 @@ Mirrors:
 - <https://www.fluidfunctionalism.com/>
 - <https://www.cuedesign.space/> (Freemium, Hand-picked interactions and sections from across the web, each with the prompt and code to rebuild it in Cursor, v0, Bolt or Claude)
 - <https://pryzm.design/> (Blend gradients, glass, and grain into unique backgrounds and animated loops)
+- <https://github.com/regl-project/regl> (Fast functional WebGL)
+- <https://github.com/ashima/webgl-noise> (Procedural Noise Shader Routines compatible with WebGL)
+- <https://www.ripplix.com/> (Freemium, UI Animation Library With AI Ready Prompt for 7K+ Micro Interactions)
 
 ##### Estilos inspirados en otros preexistentes
 
@@ -1489,6 +1505,12 @@ Mirrors:
 - <https://reactdrops.dev/> (React components, animations, and effects)
 - <https://number-flow.barvian.me/> (An animated number component. Dependency-free. Accessible. Customizable)
 - <https://glimm.dev/> (React and Next.js library for shader-driven page transitions)
+- <https://skullet.lochie.me/>
+- <https://haptics.lochie.me/>
+- <https://torph.lochie.me/>
+- <https://github.com/pencil2d/pencil> (2D hand-drawn animations)
+- <https://github.com/metafizzy/zdog> (Flat, round, designer-friendly pseudo-3D engine for canvas & SVG)
+- <https://github.com/guillaumeblanc/ozz-animation> (skeletal animation library and toolset)
 
 #### REACT Recursos
 
@@ -1507,6 +1529,10 @@ Mirrors:
 - <https://microkit.co/>
 - <https://github.com/wcandillon/react-native-skia> (High-performance React Native Graphics using Skia)
 - <https://snapcn.dev/> (Product demo videos, in React)
+- <https://github.com/remotion-dev/remotion> (Make videos programmatically with React)
+- <https://heroui.com/>
+- <https://www.boardui.com/>
+- <https://nativecook.dev/> (Mobile UI blocks, cooked for React Native, Swift and Kotlin)
 
 ##### Componentes
 
@@ -1565,6 +1591,7 @@ Mirrors:
 - <https://www.fancycomponents.dev/>
 - <https://shadcnstudio.com/> (Freemium)
 - <https://www.great-ui.com/>
+- <https://www.pinui.xyz/>
 
 ### Web Audio API
 
@@ -1684,6 +1711,9 @@ Mirrors:
 - <https://wiki.csswg.org/ideas/>
 - <https://principles-wiki.net/start>
 - <https://modalzmodalzmodalz.com> (sitio con ejemplos de alternativas a usar modal)
+- <https://github.com/meodai/design-book> (Reactive TypeScript design token system for defining primitives, semantic roles, and derived UI tokens with dependency tracking and multi-format export)
+- <https://tomato-architecture.github.io/>
+- <https://shopify.engineering/reflex>
 
 ## Guías y cursos escritos
 
@@ -1906,6 +1936,8 @@ Mirrors:
 - <https://aifreenav.pages.dev/en/> (AI, free LLM providers)
 - <https://www.studentoffers.co/>
 - <https://hackerbooks.org/>
+- <https://codeberg.org/ethical-foss/ai-free-foss-alternatives>
+- <https://interneto.github.io/>
 
 ### Iconos Gratuitos
 
@@ -2486,6 +2518,8 @@ Mirrors:
 - <https://bm-task-management.vercel.app/>
 - <https://github.com/kargulstudio/calender-app-design>
 - <https://loader-buttons.appllama.io/>
+- <https://isometricsf.com> (An isometric pixel-art map of the whole San Francisco Bay Area)
+- <https://experiments.thisiswhitespace.com/one-time-code>
 
 #### Typewriter effect
 
@@ -2565,6 +2599,7 @@ Mirrors:
 - <https://grassworks.techredux.co/forest-demo>
 - <https://github.com/Humpalumps/Ultra-Water>
 - <https://vibe-gp.ben3d.ca/>
+- <https://electronics-101-six.vercel.app/>
 
 ## Cheatsheets
 
@@ -2675,12 +2710,14 @@ Mirrors:
 - <https://geometryclub.org/>
 - <https://muz.li/es> (Extension)
 - <https://www.curationofcurations.com/>
-- <https://www.are.na/> (Requiere cuenta, Pagada, 200 "bloques gratis")
+- <https://www.are.na/> (Pagada, Requiere cuenta, 200 "bloques gratis")
 - <https://refero.design/> (Requiere cuenta)
 - <https://brandfetch.com/>
 - <https://www.framer.com/community/feed/>
 - <https://stateofaidesign.com/>
 - <https://save.design/> (Requiere cuenta)
+- <https://designengineer.world/>
+- <https://on.design/> (Requiere cuenta)
 
 #### Design/Brand Guidelines
 
@@ -2940,6 +2977,16 @@ Mirrors:
 - <https://underrated.space/> (curated collection of sites)
 - <https://designtrash.com/> (curated collection of sites)
 - <https://deimos.evilrabbit.com/> (A collection designers)
+- <https://devault.design/>
+- <https://designdetails.io/>
+- <https://motionimo.xyz/>
+- <https://marked.dev/explore>
+- <https://vibrant.design/>
+- <https://theinternetdesigns.com/>
+- <https://motionin.design/>
+- <https://launchvideos.gallery/>
+- <https://iconly.design/> (Pagada, Requiere cuenta)
+- <https://logotouse.com/> (Pagada, Requiere cuenta)
 
 ## Cursos de pago
 
@@ -3005,6 +3052,12 @@ Mirrors:
 - <https://www.coderabbit.ai/> (Freemium, Requiere Cuenta, Agente que revisa/reseña Pull Requests)
 - <https://blueprint.page/>
 - <https://pageflows.com/>
+- <https://www.wedoflow.com/> (Webflow templates)
+- <https://wonderlist.design/>
+- <https://paperanimation.ai/>
+- <https://www.tripo3d.ai/es>
+- <https://backgrounds.supply/>
+- <https://grainient.supply/>
 
 ## AI
 
@@ -3041,6 +3094,9 @@ Mirrors:
 - <https://www.respan.ai/> (Pagada, Requiere cuenta,, Plataforma de infraestructura y observabilidad para aplicaciones y agentes de IA que integra enrutamiento de modelos, monitoreo, evaluación automatizada y análisis de costos para mejorar su rendimiento y confiabilidad)
 - <https://www.1kpapers.com/> (1,000+ papers mapping AI research from 2025–2026)
 - <https://www.felonybench.com/>
+- <https://is-agentic.com/> (Enter a URL for a score based on what agents can discover, access, and use)
+- <https://noailist.org/>
+- <https://www.human-md.ai/>
 
 ### AI Colecciones/Toolkit
 
@@ -3204,6 +3260,7 @@ Mirrors:
 - <https://github.com/SNL-UCSB/paper-writing-skill> (A Claude Code skill that encodes battle-tested editorial principles, section-specific rhetorical moves, and a structured writing pipeline for research papers. Brainstorm → Draft 0 → Evaluate → Write → Compress)
 - <https://github.com/docwriter-org/plain-writing-skill> (A plain-language writing skill for AI agents, with a revision view that shows what changed)
 - <https://github.com/coreyhaines31/marketingskills>
+- <https://github.com/wondelai/skills> (Business, Marketing, UX & Coding Frameworks from Bestselling Books. 50 skills + 12 guided journeys)
 
 ### AI Imágenes
 
@@ -3327,6 +3384,7 @@ Mirrors:
 - <https://github.com/cathrynlavery/diagram-design>
 - <https://sohna.dev/waterlemon/> (Pagada)
 - <https://github.com/0xSero/ascii-art> (photo to two-tone dot map to seamless animated loop (engine + scripts))
+- <https://github.com/chunkithwang/design-playful-app-icons>
 
 ### AI Audio
 
@@ -3442,6 +3500,7 @@ Mirrors:
 - <https://github.com/pedrovelasquez9/fragua> (Skill para Claude Code y OpenCode que edita vídeo vertical para TikTok, Reels y Shorts: quita silencios, quema subtítulos karaoke, añade cards gráficas y redacta el copy de publicación. Todo en local, sin API keys)
 - <https://www.launchvideo.dev/> (Pagada)
 - <https://www.mcp-for-blender.com/>
+- <https://github.com/JuneYaooo/rea-video> (Reverse-engineer any video, shot by shot: tells whether each shot was filmed, AI-generated or coded, how the captions, cuts and audio were made, and how to remake it)
 
 ### AI Vibe Coding
 
@@ -3458,26 +3517,28 @@ Mirrors:
 - <https://lovable.dev/>
 - <https://chat.z.ai/>
 - <https://fx.sh/> (coding agent harness and CLI written in Zig)
-- <https://wegic.ai> (Requiere cuenta, Pagada, 30 créditos gratis por mes)
+- <https://wegic.ai> (Pagada, Requiere cuenta, 30 créditos gratis por mes)
 - <https://www.createanything.com> (Requiere cuenta)
 - <https://codewiki.ai/>
 - <https://codewiki.google/>
 - <https://deepwiki.org/>
 - <https://repodoc.app>
 - <https://stitch.withgoogle.com/> (Requiere cuenta)
-- <https://www.aura.build> (Requiere cuenta, Pagada, 10 prompts por mes)
+- <https://www.aura.build> (Pagada, Requiere cuenta, 10 prompts por mes)
 - <https://www.figma.com/es-es/make/> (Pagada, Requiere cuenta)
-- <https://www.builder.io/> (Requiere cuenta, Pagada, 75 creditos por mes (limite diario 25))
-- <https://www.macaly.com/> (Requiere cuenta, Pagada, Up to 1M credits daily)
-- <https://readdy.ai/> (Requiere cuenta, Pagada, 250 creditos por mes)
+- <https://www.builder.io/> (Pagada, Requiere cuenta, 75 creditos por mes (limite diario 25))
+- <https://www.macaly.com/> (Pagada, Requiere cuenta, Up to 1M credits daily)
+- <https://readdy.ai/> (Pagada, Requiere cuenta, 250 creditos por mes)
 - <https://reshape.build/> (Pagada, Requiere cuenta, Nota: se ve vibe coded, no usar con información real/personal)
 - <https://www.vibed.inc/> (Pagada, Requiere cuenta)
 - <https://browser-use.com/> (Pagada, Requiere cuenta)
 - <https://caffeine.ai/>
+- <https://bestaibuilder.website/es> (Un índice independiente de las herramientas que crean sitios web con IA)
+- <https://www.banani.co/> (Pagada, Requiere cuenta, 12 Créditos gratis diarios)
 - <https://refuseless.com/> (Pagada, Requiere cuenta)
-- <https://catdoes.com/> (Requiere cuenta, Pagada, 2 Créditos gratis diarios)
+- <https://catdoes.com/> (Pagada, Requiere cuenta, 2 Créditos gratis diarios)
 - <https://llamacoder.together.ai/>
-- <https://mgx.dev/> (Requiere cuenta, Pagada, 7.5 créditos diarios (hasta 25 / mes))
+- <https://mgx.dev/> (Pagada, Requiere cuenta, 7.5 créditos diarios (hasta 25 / mes))
 - <https://github.com/simstudioai/sim>
 - <https://www.canirun.ai/> (Revisar online que LLM puede correr tu equipo)
 - <https://context7.com/>
@@ -3548,6 +3609,7 @@ Mirrors:
 - <https://boat.dev/> (Pagada, Requiere cuenta, cloud VMs for agents)
 - <https://github.com/abi/screenshot-to-code>
 - <https://github.com/tirth8205/code-review-graph> (A local code knowledge graph that gives AI coding tools precise review context over MCP)
+- <https://antiwebslop.com> (Freemium)
 
 #### Skills AI Vibe Coding
 
@@ -3565,6 +3627,7 @@ Ejem [Are Repository-Level Context Files Helpful for Coding Agents?](https://arx
 - <https://skills.rest/>
 - <https://skillsmd.dev/>
 - <https://skill-issue.in/>
+- <https://visualskills.dev/>
 - <https://hermes-agent.nousresearch.com/docs/skills>
 - <https://majiayu000.github.io/claude-skill-registry-core/>
 - <https://github.com/addyosmani/web-quality-skills/>
@@ -3629,6 +3692,7 @@ Ejem [Are Repository-Level Context Files Helpful for Coding Agents?](https://arx
 - <https://github.com/davidondrej/skills>
 - <https://github.com/caru-ini/stack-diagram> (describe your stack in a sentence, get an architecture diagram with official logos)
 - <https://github.com/cloudflare/security-audit-skill>
+- <https://github.com/ScrapeCreators/social-media-research-skills>
 
 #### Design.md
 
@@ -3692,9 +3756,12 @@ Ejem [Are Repository-Level Context Files Helpful for Coding Agents?](https://arx
 - <https://github.com/MengTo/skills> (curated collection of agent skills for designers and builders  to build rich user interfaces, playable games, frontend systems, agent loops, automations, and reusable workflows)
 - <https://github.com/heydamir/unslop>
 - <https://github.com/rubenhassid1/remake> (Remake any website pixel for pixel with Claude Code)
+- <https://github.com/johntony1/site-prompt> (Point at any part of a website and get a prompt that rebuilds it 1:1, or break it down layer by layer to learn how it is made)
 - <https://github.com/peteromallet/desloppify>
 - <https://github.com/StewdioAI/blank-page> (A skill for Claude Code and Codex, blank-page, for getting started on a motion piece)
 - <https://github.com/charliesbot/android-design> (Material 3 Expressive design judgment for Jetpack Compose, as an agent skill)
+- <https://github.com/kosta4a/tactile-design>
+- <https://shiftnudge.com/skill> (Requiere correo y es skill es basicamente publicidad - https://rentry.co/d8gqwqor)
 
 ### AI Software
 
@@ -3718,6 +3785,7 @@ Ejem [Are Repository-Level Context Files Helpful for Coding Agents?](https://arx
 - <https://blackboard.sh/dash/> (CLI Agentic coding)
 - <https://stencil.so/tern> (CLI Agentic coding)
 - <https://www.orchids.app/> (IDE)
+- <https://gui.usecornercase.dev/> (IDE)
 - <https://ampcode.com/> (IDE Agentic coding)
 - <https://factory.ai/> (CLI Agentic coding)
 - <https://herdr.dev/> (CLI Agentic coding)
@@ -3741,6 +3809,7 @@ Ejem [Are Repository-Level Context Files Helpful for Coding Agents?](https://arx
 - <https://github.com/milind-soni/OpenMausBot> ("personal AI assistant")
 - <https://github.com/tinyhumansai/openhuman> ("personal AI assistant")
 - <https://github.com/leepokai/Codync> ("personal AI assistant")
+- <https://github.com/first-tree-ai/opentag> ("personal AI assistant")
 - <https://muse.ai/> (Requiere cuenta)
 - <https://wajo.ai/> (Pagada, Requiere cuenta)
 - <https://www.openmausbot.com/> (Open Source Alternative to Grok Bot with a virtual machine that bots can use)
@@ -3815,6 +3884,7 @@ Ejem [Are Repository-Level Context Files Helpful for Coding Agents?](https://arx
 - <https://github.com/ericzakariasson/gloss> (Personalize any website with a prompt. A floating orb screenshots the page, asks Grok, and streams new CSS onto it live)
 - <https://meuclaudinho.com.br/> (interfaz gráfica alternativa para Claude Code)
 - <https://agentbuffs.com/> (Find the right MCP server or Claude skill)
+- <https://github.com/superdesigndev/treg> (OpenRouter for agent tools)
 
 #### AI Local
 
@@ -4078,6 +4148,7 @@ También conocidos como: pagan por tarea
 - <https://tusalario.org>
 - <https://www.bbva.es/personas/productos/cuentas/calculadora-sueldo-neto.html>
 - <https://knowyourworth.app/>
+- <https://pesoapeso.cl/>
 
 #### "Certificaciones"
 
