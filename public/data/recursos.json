@@ -2492,6 +2492,11 @@
               {
                 "name": "https://vi-text-generator.vercel.app/",
                 "url": "https://vi-text-generator.vercel.app/"
+              },
+              {
+                "name": "https://motionmockups.com/",
+                "url": "https://motionmockups.com/",
+                "description": "Pagada"
               }
             ],
             "children": []
@@ -3018,6 +3023,11 @@
           {
             "name": "https://www.iconanimator.app/",
             "url": "https://www.iconanimator.app/"
+          },
+          {
+            "name": "https://svgconverter.online/",
+            "url": "https://svgconverter.online/",
+            "description": "Convert PNG and JPG to SVG, in full color"
           }
         ],
         "children": []
@@ -4680,6 +4690,21 @@
             "name": "https://github.com/marc2332/freya",
             "url": "https://github.com/marc2332/freya",
             "description": "Cross-platform native GUI library for Rust"
+          },
+          {
+            "name": "https://stickitupx.vercel.app/",
+            "url": "https://stickitupx.vercel.app/",
+            "description": "A curated collection of 65+ handcrafted vector, metallic chrome, and pixel art sticker components for React & Next.js"
+          },
+          {
+            "name": "https://github.com/anomalyco/rune",
+            "url": "https://github.com/anomalyco/rune",
+            "description": "A native GPU-rendered Rust UI framework for macOS, Windows, Linux and the web, with its own renderer, text, layout and springs"
+          },
+          {
+            "name": "https://github.com/yappologistic/CUI",
+            "url": "https://github.com/yappologistic/CUI",
+            "description": "Native UI components for C"
           }
         ],
         "children": [
@@ -5307,6 +5332,10 @@
                     "name": "https://glass.samasante.com/",
                     "url": "https://glass.samasante.com/",
                     "description": "Liquid Glass"
+                  },
+                  {
+                    "name": "https://cs16.samke.me/",
+                    "url": "https://cs16.samke.me/"
                   }
                 ],
                 "children": []
@@ -5486,6 +5515,16 @@
                     "name": "https://github.com/guillaumeblanc/ozz-animation",
                     "url": "https://github.com/guillaumeblanc/ozz-animation",
                     "description": "skeletal animation library and toolset"
+                  },
+                  {
+                    "name": "https://ding.yusufcengiz.dev/",
+                    "url": "https://ding.yusufcengiz.dev/",
+                    "description": "One toast that morphs in place. No dependencies. React, Svelte or plain DOM"
+                  },
+                  {
+                    "name": "https://verse.rajatsethii.in/",
+                    "url": "https://verse.rajatsethii.in/",
+                    "description": "Spider-Verse inspired text reveal"
                   }
                 ],
                 "children": []
@@ -6446,6 +6485,14 @@
       {
         "name": "https://www.playqacademy.com/",
         "url": "https://www.playqacademy.com/"
+      },
+      {
+        "name": "https://aprenderust.dev/",
+        "url": "https://aprenderust.dev/"
+      },
+      {
+        "name": "https://midu.dev/cursos/",
+        "url": "https://midu.dev/cursos/"
       }
     ],
     "children": [
@@ -9570,6 +9617,11 @@
           {
             "name": "https://experiments.thisiswhitespace.com/one-time-code",
             "url": "https://experiments.thisiswhitespace.com/one-time-code"
+          },
+          {
+            "name": "https://codepen.io/EntropyReversed/pen/VYZVGpq",
+            "url": "https://codepen.io/EntropyReversed/pen/VYZVGpq",
+            "description": "Gooey Button with SVG Mask & Framer Motion"
           }
         ],
         "children": [
@@ -9865,6 +9917,11 @@
           {
             "name": "https://electronics-101-six.vercel.app/",
             "url": "https://electronics-101-six.vercel.app/"
+          },
+          {
+            "name": "https://dimension9.space/",
+            "url": "https://dimension9.space/",
+            "description": "Backrooms"
           }
         ],
         "children": []
@@ -11379,6 +11436,10 @@
             "name": "https://logotouse.com/",
             "url": "https://logotouse.com/",
             "description": "Pagada, Requiere cuenta"
+          },
+          {
+            "name": "https://weather.com/retro/",
+            "url": "https://weather.com/retro/"
           }
         ],
         "children": []
@@ -12974,6 +13035,11 @@
             "name": "https://github.com/nicolasvonluetzow/GaussianGPT",
             "url": "https://github.com/nicolasvonluetzow/GaussianGPT",
             "description": "3D Gaussian scenes completely autoregressively"
+          },
+          {
+            "name": "https://cactuscompute.com/blog/mirage",
+            "url": "https://cactuscompute.com/blog/mirage",
+            "description": "a small vision model for phones, wearables, robots and other consumer devices"
           }
         ],
         "children": [
@@ -14636,6 +14702,11 @@
                 "name": "https://shiftnudge.com/skill",
                 "url": "https://shiftnudge.com/skill",
                 "description": "Requiere correo y es skill es basicamente publicidad - https://rentry.co/d8gqwqor"
+              },
+              {
+                "name": "https://github.com/NiazMorshed2007/reanimate",
+                "url": "https://github.com/NiazMorshed2007/reanimate",
+                "description": "Reverse-engineer animations"
               }
             ],
             "children": []
@@ -14702,6 +14773,11 @@
             "name": "https://opencode.ai/",
             "url": "https://opencode.ai/",
             "description": "CLI Agentic coding"
+          },
+          {
+            "name": "https://opencode.ai/product/browse",
+            "url": "https://opencode.ai/product/browse",
+            "description": "MCP server and a Chromium extension that let your agents use your real browser"
           },
           {
             "name": "https://github.com/Gitlawb/openclaude",
@@ -14862,6 +14938,11 @@
             "name": "https://muse.ai/",
             "url": "https://muse.ai/",
             "description": "Requiere cuenta"
+          },
+          {
+            "name": "https://www.agent-one.dev/",
+            "url": "https://www.agent-one.dev/",
+            "description": "Pagada, Requiere cuenta"
           },
           {
             "name": "https://wajo.ai/",

@@ -754,6 +754,7 @@ Mirrors:
 - <https://ui.camera/>
 - <https://postspark.app/>
 - <https://vi-text-generator.vercel.app/>
+- <https://motionmockups.com/> (Pagada)
 
 #### Remover Fondos
 
@@ -888,6 +889,7 @@ Mirrors:
 - <https://svgomg.net/> (Optimizar)
 - <https://svgstudio.org/>
 - <https://www.iconanimator.app/>
+- <https://svgconverter.online/> (Convert PNG and JPG to SVG, in full color)
 
 ### Fuentes
 
@@ -1315,6 +1317,9 @@ Mirrors:
 - <https://github.com/zeux/meshoptimizer> (Mesh optimization library that makes meshes smaller and faster to render)
 - <https://github.com/myshell-ai/MeloTTS> (High-quality multi-lingual text-to-speech library)
 - <https://github.com/marc2332/freya> (Cross-platform native GUI library for Rust)
+- <https://stickitupx.vercel.app/> (A curated collection of 65+ handcrafted vector, metallic chrome, and pixel art sticker components for React & Next.js)
+- <https://github.com/anomalyco/rune> (A native GPU-rendered Rust UI framework for macOS, Windows, Linux and the web, with its own renderer, text, layout and springs)
+- <https://github.com/yappologistic/CUI> (Native UI components for C)
 
 #### JS Recursos
 
@@ -1466,6 +1471,7 @@ Mirrors:
 - <https://widget.st/>
 - <https://www.drawably.dev/>
 - <https://glass.samasante.com/> (Liquid Glass)
+- <https://cs16.samke.me/>
 
 ##### Animación Recursos
 
@@ -1511,6 +1517,8 @@ Mirrors:
 - <https://github.com/pencil2d/pencil> (2D hand-drawn animations)
 - <https://github.com/metafizzy/zdog> (Flat, round, designer-friendly pseudo-3D engine for canvas & SVG)
 - <https://github.com/guillaumeblanc/ozz-animation> (skeletal animation library and toolset)
+- <https://ding.yusufcengiz.dev/> (One toast that morphs in place. No dependencies. React, Svelte or plain DOM)
+- <https://verse.rajatsethii.in/> (Spider-Verse inspired text reveal)
 
 #### REACT Recursos
 
@@ -1751,6 +1759,8 @@ Mirrors:
 - <https://ai.manz.dev/>
 - <https://matiasbeltramone.com/apuntes/>
 - <https://www.playqacademy.com/>
+- <https://aprenderust.dev/>
+- <https://midu.dev/cursos/>
 
 ### Libros
 
@@ -2520,6 +2530,7 @@ Mirrors:
 - <https://loader-buttons.appllama.io/>
 - <https://isometricsf.com> (An isometric pixel-art map of the whole San Francisco Bay Area)
 - <https://experiments.thisiswhitespace.com/one-time-code>
+- <https://codepen.io/EntropyReversed/pen/VYZVGpq> (Gooey Button with SVG Mask & Framer Motion)
 
 #### Typewriter effect
 
@@ -2600,6 +2611,7 @@ Mirrors:
 - <https://github.com/Humpalumps/Ultra-Water>
 - <https://vibe-gp.ben3d.ca/>
 - <https://electronics-101-six.vercel.app/>
+- <https://dimension9.space/> (Backrooms)
 
 ## Cheatsheets
 
@@ -2987,6 +2999,7 @@ Mirrors:
 - <https://launchvideos.gallery/>
 - <https://iconly.design/> (Pagada, Requiere cuenta)
 - <https://logotouse.com/> (Pagada, Requiere cuenta)
+- <https://weather.com/retro/>
 
 ## Cursos de pago
 
@@ -3372,6 +3385,7 @@ Mirrors:
 - <https://onepromptdesign.com/> (Prompts con ejemplos visuales)
 - <https://github.com/inclusionAI/LLaDA-Image> (unified model for high-quality image generation and editing)
 - <https://github.com/nicolasvonluetzow/GaussianGPT> (3D Gaussian scenes completely autoregressively)
+- <https://cactuscompute.com/blog/mirage> (a small vision model for phones, wearables, robots and other consumer devices)
 
 #### Skills AI Imágenes
 
@@ -3762,6 +3776,7 @@ Ejem [Are Repository-Level Context Files Helpful for Coding Agents?](https://arx
 - <https://github.com/charliesbot/android-design> (Material 3 Expressive design judgment for Jetpack Compose, as an agent skill)
 - <https://github.com/kosta4a/tactile-design>
 - <https://shiftnudge.com/skill> (Requiere correo y es skill es basicamente publicidad - https://rentry.co/d8gqwqor)
+- <https://github.com/NiazMorshed2007/reanimate> (Reverse-engineer animations)
 
 ### AI Software
 
@@ -3779,6 +3794,7 @@ Ejem [Are Repository-Level Context Files Helpful for Coding Agents?](https://arx
 - <https://lykos.ai/> (Imágenes)
 - <https://zju3dv.github.io/freetimegs/>
 - <https://opencode.ai/> (CLI Agentic coding)
+- <https://opencode.ai/product/browse> (MCP server and a Chromium extension that let your agents use your real browser)
 - <https://github.com/Gitlawb/openclaude> (CLI Agentic coding)
 - <https://github.com/CodebuffAI/codebuff> (CLI Agentic coding)
 - <https://zero.gitlawb.com/> (CLI Agentic coding)
@@ -3811,6 +3827,7 @@ Ejem [Are Repository-Level Context Files Helpful for Coding Agents?](https://arx
 - <https://github.com/leepokai/Codync> ("personal AI assistant")
 - <https://github.com/first-tree-ai/opentag> ("personal AI assistant")
 - <https://muse.ai/> (Requiere cuenta)
+- <https://www.agent-one.dev/> (Pagada, Requiere cuenta)
 - <https://wajo.ai/> (Pagada, Requiere cuenta)
 - <https://www.openmausbot.com/> (Open Source Alternative to Grok Bot with a virtual machine that bots can use)
 - <https://autoglm.z.ai/autoclaw/>
