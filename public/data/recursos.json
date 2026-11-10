@@ -2034,6 +2034,10 @@
             "name": "https://github.com/AlpinDale/foidfinder",
             "url": "https://github.com/AlpinDale/foidfinder",
             "description": "Identify anime characters and series in images"
+          },
+          {
+            "name": "https://fluffy-head.vercel.app/",
+            "url": "https://fluffy-head.vercel.app/"
           }
         ],
         "children": [
@@ -3967,6 +3971,11 @@
               {
                 "name": "https://helix-editor.com/",
                 "url": "https://helix-editor.com/"
+              },
+              {
+                "name": "https://reflet.sh/",
+                "url": "https://reflet.sh/",
+                "description": "a reverse engineering focused code editor"
               }
             ],
             "children": [
@@ -5844,6 +5853,11 @@
                   {
                     "name": "https://www.pinui.xyz/",
                     "url": "https://www.pinui.xyz/"
+                  },
+                  {
+                    "name": "https://detentui.com/",
+                    "url": "https://detentui.com/",
+                    "description": "Pagada"
                   }
                 ],
                 "children": []
@@ -9622,6 +9636,10 @@
             "name": "https://codepen.io/EntropyReversed/pen/VYZVGpq",
             "url": "https://codepen.io/EntropyReversed/pen/VYZVGpq",
             "description": "Gooey Button with SVG Mask & Framer Motion"
+          },
+          {
+            "name": "https://devouringdetails.com/mantras",
+            "url": "https://devouringdetails.com/mantras"
           }
         ],
         "children": [
@@ -9922,6 +9940,36 @@
             "name": "https://dimension9.space/",
             "url": "https://dimension9.space/",
             "description": "Backrooms"
+          },
+          {
+            "name": "https://iamtechartist.com/demos/",
+            "url": "https://iamtechartist.com/demos/"
+          },
+          {
+            "name": "https://what-the-water-keeps.vercel.app/",
+            "url": "https://what-the-water-keeps.vercel.app/"
+          },
+          {
+            "name": "https://claude.ai/artifact/MXxb36zKgN261ckbGhmNin",
+            "url": "https://claude.ai/artifact/MXxb36zKgN261ckbGhmNin"
+          },
+          {
+            "name": "https://www.spawn.co/@mattshumer/earth",
+            "url": "https://www.spawn.co/@mattshumer/earth"
+          },
+          {
+            "name": "https://vinyl-gl.vercel.app/",
+            "url": "https://vinyl-gl.vercel.app/"
+          },
+          {
+            "name": "https://coo.mx/",
+            "url": "https://coo.mx/",
+            "description": "A pigeon adventure over downtown Toronto"
+          },
+          {
+            "name": "https://webgpu.toys/",
+            "url": "https://webgpu.toys/",
+            "description": "Colección"
           }
         ],
         "children": []
@@ -10640,6 +10688,10 @@
           {
             "name": "https://deploymentsafety.openai.com/",
             "url": "https://deploymentsafety.openai.com/"
+          },
+          {
+            "name": "https://grahamhelton.com/blog",
+            "url": "https://grahamhelton.com/blog"
           }
         ],
         "children": []
@@ -11440,6 +11492,15 @@
           {
             "name": "https://weather.com/retro/",
             "url": "https://weather.com/retro/"
+          },
+          {
+            "name": "https://themuseumofads.com/",
+            "url": "https://themuseumofads.com/",
+            "description": "A museum of great advertising. Films, launches and campaigns worth studying"
+          },
+          {
+            "name": "https://pixlpin.com/",
+            "url": "https://pixlpin.com/"
           }
         ],
         "children": []
@@ -13242,6 +13303,11 @@
             "name": "https://github.com/anomalyco/hex",
             "url": "https://github.com/anomalyco/hex",
             "description": "MacOs, Local-first voice dictation for macOS"
+          },
+          {
+            "name": "https://github.com/adventists-ai/sophon-realtime",
+            "url": "https://github.com/adventists-ai/sophon-realtime",
+            "description": "an open full-duplex voice model family: it listens while you talk, hears how you say things, and answers with a voice that laughs, sighs and breathes when the moment calls for it"
           }
         ],
         "children": []
@@ -14424,6 +14490,11 @@
               {
                 "name": "https://github.com/ScrapeCreators/social-media-research-skills",
                 "url": "https://github.com/ScrapeCreators/social-media-research-skills"
+              },
+              {
+                "name": "https://github.com/dotslashsimran/simcraft",
+                "url": "https://github.com/dotslashsimran/simcraft",
+                "description": "Skill for Video, Engineering, Learning, Design and Planning"
               }
             ],
             "children": []
@@ -14679,6 +14750,11 @@
                 "name": "https://github.com/johntony1/site-prompt",
                 "url": "https://github.com/johntony1/site-prompt",
                 "description": "Point at any part of a website and get a prompt that rebuilds it 1:1, or break it down layer by layer to learn how it is made"
+              },
+              {
+                "name": "https://github.com/Atharvsinh-codez/skills",
+                "url": "https://github.com/Atharvsinh-codez/skills",
+                "description": "Give your AI agent a design image. Get back a real, responsive website"
               },
               {
                 "name": "https://github.com/peteromallet/desloppify",
@@ -15044,6 +15120,11 @@
             "description": "IDE Agentic Coding"
           },
           {
+            "name": "https://deepai.org/es/chat/ai-code",
+            "url": "https://deepai.org/es/chat/ai-code",
+            "description": "IDE Agentic Coding, hasta 200 Theos al día"
+          },
+          {
             "name": "https://www.typeui.sh/",
             "url": "https://www.typeui.sh/",
             "description": "IDE Agentic Coding"
@@ -15298,6 +15379,11 @@
             "name": "https://github.com/superdesigndev/treg",
             "url": "https://github.com/superdesigndev/treg",
             "description": "OpenRouter for agent tools"
+          },
+          {
+            "name": "https://github.com/qybaihe/bla",
+            "url": "https://github.com/qybaihe/bla",
+            "description": "BLA (Blind LLM Agents) — Adversarial defense shield that protects binaries, Electron apps, JS bundles, Python, and WebAssembly against AI reverse-engineering agents like REA. Poison -> Exhaust -> Hallucinate"
           }
         ],
         "children": [
@@ -15870,6 +15956,10 @@
           {
             "name": "https://remotolist.com/",
             "url": "https://remotolist.com/"
+          },
+          {
+            "name": "https://www.jobsfromspace.com/",
+            "url": "https://www.jobsfromspace.com/"
           }
         ],
         "children": []

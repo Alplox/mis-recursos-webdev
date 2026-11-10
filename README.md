@@ -631,6 +631,7 @@ Mirrors:
 - <https://ezascii.com/image-to-ascii>
 - <https://paint.jas.black/>
 - <https://github.com/AlpinDale/foidfinder> (Identify anime characters and series in images)
+- <https://fluffy-head.vercel.app/>
 
 #### Editar imágenes online
 
@@ -1138,6 +1139,7 @@ Mirrors:
 - <https://neovim.io/>
 - <https://github.com/doomemacs/core>
 - <https://helix-editor.com/>
+- <https://reflet.sh/> (a reverse engineering focused code editor)
 
 ##### Extensiones
 
@@ -1600,6 +1602,7 @@ Mirrors:
 - <https://shadcnstudio.com/> (Freemium)
 - <https://www.great-ui.com/>
 - <https://www.pinui.xyz/>
+- <https://detentui.com/> (Pagada)
 
 ### Web Audio API
 
@@ -2531,6 +2534,7 @@ Mirrors:
 - <https://isometricsf.com> (An isometric pixel-art map of the whole San Francisco Bay Area)
 - <https://experiments.thisiswhitespace.com/one-time-code>
 - <https://codepen.io/EntropyReversed/pen/VYZVGpq> (Gooey Button with SVG Mask & Framer Motion)
+- <https://devouringdetails.com/mantras>
 
 #### Typewriter effect
 
@@ -2612,6 +2616,13 @@ Mirrors:
 - <https://vibe-gp.ben3d.ca/>
 - <https://electronics-101-six.vercel.app/>
 - <https://dimension9.space/> (Backrooms)
+- <https://iamtechartist.com/demos/>
+- <https://what-the-water-keeps.vercel.app/>
+- <https://claude.ai/artifact/MXxb36zKgN261ckbGhmNin>
+- <https://www.spawn.co/@mattshumer/earth>
+- <https://vinyl-gl.vercel.app/>
+- <https://coo.mx/> (A pigeon adventure over downtown Toronto)
+- <https://webgpu.toys/> (Colección)
 
 ## Cheatsheets
 
@@ -2804,6 +2815,7 @@ Mirrors:
 - <https://nodeweekly.com/issues>
 - <https://claude.dev/>
 - <https://deploymentsafety.openai.com/>
+- <https://grahamhelton.com/blog>
 
 ### Inspiración exclusivamente
 
@@ -3000,6 +3012,8 @@ Mirrors:
 - <https://iconly.design/> (Pagada, Requiere cuenta)
 - <https://logotouse.com/> (Pagada, Requiere cuenta)
 - <https://weather.com/retro/>
+- <https://themuseumofads.com/> (A museum of great advertising. Films, launches and campaigns worth studying)
+- <https://pixlpin.com/>
 
 ## Cursos de pago
 
@@ -3436,6 +3450,7 @@ Mirrors:
 - <https://github.com/cactus-compute/needle> (Automation foundation model for tiny devices: 2-bit, 8-29 MB, tool calls, ASR, structured extraction and embeddings on phones, wearables, smart homes, robots, cars and microcontroller)
 - <https://huggingface.co/nvidia/NVIDIA-Nemotron-3.5-Transcribe-30B-A4B>
 - <https://github.com/anomalyco/hex> (MacOs, Local-first voice dictation for macOS)
+- <https://github.com/adventists-ai/sophon-realtime> (an open full-duplex voice model family: it listens while you talk, hears how you say things, and answers with a voice that laughs, sighs and breathes when the moment calls for it)
 
 ### AI Música
 
@@ -3707,6 +3722,7 @@ Ejem [Are Repository-Level Context Files Helpful for Coding Agents?](https://arx
 - <https://github.com/caru-ini/stack-diagram> (describe your stack in a sentence, get an architecture diagram with official logos)
 - <https://github.com/cloudflare/security-audit-skill>
 - <https://github.com/ScrapeCreators/social-media-research-skills>
+- <https://github.com/dotslashsimran/simcraft> (Skill for Video, Engineering, Learning, Design and Planning)
 
 #### Design.md
 
@@ -3771,6 +3787,7 @@ Ejem [Are Repository-Level Context Files Helpful for Coding Agents?](https://arx
 - <https://github.com/heydamir/unslop>
 - <https://github.com/rubenhassid1/remake> (Remake any website pixel for pixel with Claude Code)
 - <https://github.com/johntony1/site-prompt> (Point at any part of a website and get a prompt that rebuilds it 1:1, or break it down layer by layer to learn how it is made)
+- <https://github.com/Atharvsinh-codez/skills> (Give your AI agent a design image. Get back a real, responsive website)
 - <https://github.com/peteromallet/desloppify>
 - <https://github.com/StewdioAI/blank-page> (A skill for Claude Code and Codex, blank-page, for getting started on a motion piece)
 - <https://github.com/charliesbot/android-design> (Material 3 Expressive design judgment for Jetpack Compose, as an agent skill)
@@ -3850,6 +3867,7 @@ Ejem [Are Repository-Level Context Files Helpful for Coding Agents?](https://arx
 - <https://github.com/Dryxio/auto-re-agent>
 - <https://www.glaze.app/> (MacOS, Requiere cuenta, Freemium, 120 créditos gratis)
 - <https://www.ship.studio/> (IDE Agentic Coding)
+- <https://deepai.org/es/chat/ai-code> (IDE Agentic Coding, hasta 200 Theos al día)
 - <https://www.typeui.sh/> (IDE Agentic Coding)
 - <https://github.com/manaflow-ai/cmux> (MacOS, IDE Agentic Coding)
 - <https://github.com/diegosouzapw/OmniRoute> (Free AI Gateway)
@@ -3902,6 +3920,7 @@ Ejem [Are Repository-Level Context Files Helpful for Coding Agents?](https://arx
 - <https://meuclaudinho.com.br/> (interfaz gráfica alternativa para Claude Code)
 - <https://agentbuffs.com/> (Find the right MCP server or Claude skill)
 - <https://github.com/superdesigndev/treg> (OpenRouter for agent tools)
+- <https://github.com/qybaihe/bla> (BLA (Blind LLM Agents) — Adversarial defense shield that protects binaries, Electron apps, JS bundles, Python, and WebAssembly against AI reverse-engineering agents like REA. Poison -> Exhaust -> Hallucinate)
 
 #### AI Local
 
@@ -4065,6 +4084,7 @@ Ejem [Are Repository-Level Context Files Helpful for Coding Agents?](https://arx
 - <https://github.com/brandonhimpfen/awesome-remote-job-boards>
 - <https://www.workana.com>
 - <https://remotolist.com/>
+- <https://www.jobsfromspace.com/>
 
 ### Freelance
 
