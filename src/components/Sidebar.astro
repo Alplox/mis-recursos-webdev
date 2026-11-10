@@ -14,7 +14,7 @@ const { sections } = Astro.props
   <div class="sidebar-header">
     <div class="logo">W</div>
     <h1>Recursos WEB DEV</h1>
-    <button class="icon-btn" onclick="__toggleSidebar()" aria-label="Cerrar sidebar">
+    <button class="icon-btn" id="sidebar-close-btn" aria-label="Cerrar sidebar">
       <svg width="14" height="14" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><use href="#icon-close"/></svg>
     </button>
   </div>
@@ -24,10 +24,16 @@ const { sections } = Astro.props
     <input type="text" id="sidebar-search-input" class="sidebar-search-input" placeholder="Buscar sección..." autocomplete="off" />
   </div>
 
-  <nav class="sidebar-content" id="sidebar-content">
-    {sections.filter(s => countLinks(s) > 0).map(section => (
-      <SidebarSection section={section} count={countLinks(section)} />
-    ))}
+  <nav class="sidebar-content" id="sidebar-content" aria-label="Índice de recursos">
+    <div class="toc-rail-wrap" id="toc-rail-wrap">
+      <svg class="toc-rail toc-rail--muted" id="toc-rail-muted" aria-hidden="true"></svg>
+      <svg class="toc-rail toc-rail--active" id="toc-rail-active" aria-hidden="true"></svg>
+      <div class="toc-content" id="toc-content">
+        {sections.filter(s => countLinks(s) > 0).map(section => (
+          <SidebarSection section={section} count={countLinks(section)} />
+        ))}
+      </div>
+    </div>
   </nav>
 
   <div class="sidebar-footer">

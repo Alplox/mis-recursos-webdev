@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://mis-recursos-webdev.pages.dev/sitemap.xml

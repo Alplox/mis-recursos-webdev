@@ -10,12 +10,27 @@ const { title, links, sectionId, level = 3 } = Astro.props
 const Tag = level === 3 ? 'h3' : level === 4 ? 'h4' : 'h5'
 const headerClass = level === 3 ? 'subcategory-header' : level === 4 ? 'sub-subcategory-header' : 'lvl5-header'
 const gridId = sectionId || ''
+const skeletonCount = Math.min(links.length, 3)
 ---
 
 {sectionId ? <div id={sectionId} class="section-anchor"></div> : null}
 
 <div class={headerClass}>
-  <Tag>{title} <span class="count">{links.length}</span></Tag>
+  <Tag>
+    {sectionId && (
+      <button type="button" class="anchor-link-btn" data-anchor-id={sectionId} aria-label={`Copiar enlace a ${title}`} title="Copiar enlace a esta sección">
+        <svg width="14" height="14" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><use href="#icon-hash"/></svg>
+      </button>
+    )}
+    <span class="heading-text">{title}</span>
+    <span class="count">{links.length}</span>
+  </Tag>
 </div>
 
-<div class="link-grid" data-section-id={gridId}></div>
+<ul class="link-list" data-section-id={gridId}>
+  {Array.from({ length: skeletonCount }).map(() => (
+    <li class="link-skeleton" aria-hidden="true">
+      <span class="skeleton-line"></span>
+    </li>
+  ))}
+</ul>

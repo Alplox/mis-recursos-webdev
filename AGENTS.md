@@ -26,10 +26,11 @@ mis-recursos-webdev/
 │   ├── pages/
 │   │   └── index.astro            # Página principal (única ruta)
 │   ├── components/
-│   │   ├── Sidebar.astro           # Sidebar de navegación
+│   │   ├── Sidebar.astro           # Sidebar/TOC de navegación (desktop lateral, móvil bottom sheet)
 │   │   ├── SidebarSection.astro    # Sección colapsable del sidebar
 │   │   ├── LinkGrid.astro          # Grid de links (vacio, JS renderiza cards)
-│   │   ├── SearchBar.astro         # Barra de búsqueda + header actions
+│   │   ├── SearchBar.astro         # Header/navbar con toggle de sidebar, búsqueda centrada y acciones (bookmarks/tema)
+│   │   ├── BottomNav.astro         # Barra de navegación inferior fija en móvil (Índice, Buscar, Arriba)
 │   │   ├── ThemeToggle.astro       # Cambio dark/light mode
 │   │   ├── BookmarkExport.astro    # Exportar a bookmarks.html
 │   │   └── ContributeButton.astro  # Botón "Añadir recurso"
@@ -87,15 +88,16 @@ Los headings `##` / `###` / `####` / `#####` definen la jerarquía de secciones.
 
 El proyecto usa un enfoque **híbrido**:
 
-1. **Server-side (Astro)**: Renderiza el esqueleto: sidebar, headers de sección, contenedores vacíos de grids con `data-section-id`. HTML final: **~70 KB**.
+1. **Server-side (Astro)**: Renderiza el esqueleto: sidebar, headers de sección y listas con placeholders skeleton (`.link-skeleton`) según el número de enlaces de cada subnivel para reservar espacio y evitar layout shift antes de cargar datos. HTML final: **~70 KB**.
 2. **Client-side (JS)**:
    - `loadData()` fetchea `recursos.json` desde `/data/recursos.json`
-   - `renderBrowseCards()` recorre el árbol de secciones y rellena los `<div class="link-grid" data-section-id="...">` vacíos
-   - Los primeros 3 grids se renderizan sincrónicamente
-   - El resto se renderiza progresivamente, un grid por frame vía `requestAnimationFrame`
-3. **Búsqueda**: Usa `flattenData()` + `searchLinks()` sobre el JSON en memoria. No toca el DOM de browse.
+   - `renderBrowseCards()` recorre el árbol de secciones y rellena los `<ul class="link-list" data-section-id="...">` vacíos
+   - Prioriza la categoría activa: renderiza inmediatamente todos sus grids para evitar contenido vacío al hacer scroll; el resto de categorías se renderiza en segundo plano en lotes vía `requestAnimationFrame`
+   - Los enlaces se renderizan en listas estándar (no cards) sin animación de entrada para reducir retraso percibido; los resultados de búsqueda mantienen una animación breve
+   - **Vista por categoría**: solo una categoría de nivel superior (`.categories-section`) se muestra a la vez (`.active`). Al hacer clic en el sidebar se cambia la categoría activa y, si aplica, se hace scroll al subnivel dentro de ella.
+3. **Búsqueda**: Usa `flattenData()` + `searchLinks()` sobre el JSON en memoria. No toca el DOM de browse. Al limpiar la búsqueda se vuelve a la categoría activa.
 
-Este enfoque reduce el HTML inicial de **5.5 MB → 70 KB** (98.7% menos).
+Este enfoque reduce el HTML inicial de **5.5 MB → 70 KB** (98.7% menos) y evita el scroll infinito mostrando categorías independientes.
 
 ## 🎨 Convenciones de código
 
@@ -120,9 +122,11 @@ Este enfoque reduce el HTML inicial de **5.5 MB → 70 KB** (98.7% menos).
 - **Font-smoothing**: `-webkit-font-smoothing: antialiased` en body
 - **Todas las transiciones**: `200ms cubic-bezier(0.4, 0, 0.2, 1)` usando `var(--transition)`
 - **Active states**: `scale(0.96)` en cards, `scale(0.92)` en botones acción, `scale(0.95)` en chips
-- **Concentric border-radius**: card 8px → favicon 5px
-- **Sidebar glass**: `backdrop-filter: blur(16px)` + `box-shadow: inset 0 1px 0 rgba(255,255,255,0.06)` + gradiente sutil
-- **Toast**: SVG checkmark inline
+- **Listado de enlaces**: formato lista estándar (no cards) para permitir selección de texto, ver descripciones completas y aprovechar mejor el ancho (`.link-list` / `.link-item`), con placeholders skeleton SSR por cantidad de enlaces para reservar espacio y evitar saltos de layout antes de hidratar datos
+- **Sidebar / TOC**: navegación lateral estilo TOC con línea vertical guía unificada por nivel (`.sidebar-children::before`), indentación según nivel de encabezado (`--toc-level` en subniveles), y marcado claro de la sección activa/cargada (expansión de ancestros y scroll del item activo al navegar)
+- **Móvil**: en `<=768px` el TOC se muestra como *bottom sheet* (panel deslizante desde abajo, no pantalla completa) y se accede desde la barra inferior fija (`BottomNav`: Índice, Buscar, Arriba). El hamburguesa superior se oculta en móvil; el contenido reserva espacio inferior (`safe-area-inset-bottom`) para no quedar bajo la barra.
+- **Sidebar glass**: `backdrop-filter: blur(16px)` + `box-shadow: inset 0 1px 0 rgba(255,255,255,0.06)` + gradiente sutil (en móvil se usa fondo sólido para rendimiento)
+- **Feedback de acciones**: sin toast global; copiar/exportar muestran resultado (éxito/error) in situ mediante morph de icono y actualización de `aria-label` para accesibilidad
 
 ### SVG Sprite Sheet
 
@@ -142,7 +146,7 @@ Este enfoque reduce el HTML inicial de **5.5 MB → 70 KB** (98.7% menos).
 - `astro-critters` inlinea CSS crítico (71% del CSS inyectado en HTML)
 - `@playform/compress` minifica CSS/HTML/JS/JSON en build
 - `compressHTML: true` en build config (nativo de Astro)
-- `animation: card-in` solo en tarjetas creadas por search (clase `.animate-in`), no en tarjetas estáticas
+- `animation: item-in` breve solo en ítems de resultados de búsqueda (clase `.animate-in`); los ítems de navegación se renderizan sin animación de entrada para evitar retraso percibido
 - `renderBrowseCards()` renderiza progresivamente con `requestAnimationFrame` (1 grid por frame)
 - search.js se carga con dynamic import solo cuando el usuario busca por primera vez
 
@@ -154,10 +158,13 @@ Este enfoque reduce el HTML inicial de **5.5 MB → 70 KB** (98.7% menos).
 
 ### JavaScript client-side
 
-- Funciones globales expuestas en `window.__*` (ej: `__search`, `__toggleSidebar`, `__copyLink`, `__showToast`)
+- Funciones globales expuestas en `window.__*` (ej: `__search`, `__toggleSidebar`, `__copyLink`, `__goToSection`)
 - Módulos ES importados desde `src/lib/` y `src/scripts/`
 - Datos cargados vía `fetch('/data/recursos.json')` asíncrono
 - Tarjetas renderizadas desde JS con `renderBrowseCards()` progresivo
+- Navegación por categorías independientes: `idToTopLevel` mapea cualquier id a su categoría raíz, `showCategory()` alterna la `.categories-section.active`, `__goToSection()` cambia de categoría y hace scroll a subniveles
+- En móvil el índice (sidebar/TOC) funciona como *bottom sheet*: se abre/cierra con `__toggleSidebar()` (botón Índice), se cierra al navegar a una sección (`__goToSection`/click en TOC), con `Escape` y al tocar el overlay; la barra inferior también ofrece acceso rápido a buscar y volver arriba.
+- **Búsqueda en header**: la barra de búsqueda vive dentro del navbar/header (centrada en escritorio) y permanece visible para editar/consultar sin overlays. El atajo `/`, `__toggleSearch()` y el botón “Buscar” de la barra inferior enfocan el input; los resultados se renderizan en el contenido principal como antes.
 - **`search.js`** se carga con dynamic import (`import()`) solo cuando el usuario escribe en el buscador por primera vez. No está en el bundle crítico.
 - `flattenData()` se ejecuta lazy en el primer search, no al cargar la página
 - Search usa `flattenData()` + `searchLinks()` sobre JSON en memoria (no toca el DOM de browse)

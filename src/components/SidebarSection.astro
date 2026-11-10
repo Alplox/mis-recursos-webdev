@@ -16,11 +16,16 @@ const isSub = level !== 0
 ---
 
 <div class="sidebar-section" data-section-id={section.id} data-level={level}>
-  <button class:list={['sidebar-section-toggle', isSub && 'sidebar-section-toggle-sub']} data-section-id={section.id}>
-    {hasChildren && <span class="arrow">&#9654;</span>}
-    {!hasChildren && <span class="arrow arrow-placeholder"></span>}
+  <button
+    class:list={['sidebar-section-toggle', isSub && 'sidebar-section-toggle-sub']}
+    data-section-id={section.id}
+    data-toc-level={level}
+    style={`padding-left:${20 + level * 12}px`}
+  >
     <span class="label">{section.name}</span>
     <span class="count">{count}</span>
+    {hasChildren && <span class="arrow" aria-hidden="true"><svg width="10" height="10" viewBox="0 0 10 10" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><path d="M2.5 4L5 6.5L7.5 4"/></svg></span>}
+    {!hasChildren && <span class="arrow arrow-placeholder" aria-hidden="true"></span>}
   </button>
 
   {hasChildren && (

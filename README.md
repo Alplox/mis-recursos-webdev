@@ -1474,6 +1474,7 @@ Mirrors:
 - <https://www.drawably.dev/>
 - <https://glass.samasante.com/> (Liquid Glass)
 - <https://cs16.samke.me/>
+- <https://glisse.kelvinzhang.com/> (Glisse is a faithful implementation of Apple’s Liquid Glass for the web)
 
 ##### Animación Recursos
 
@@ -2623,6 +2624,7 @@ Mirrors:
 - <https://vinyl-gl.vercel.app/>
 - <https://coo.mx/> (A pigeon adventure over downtown Toronto)
 - <https://webgpu.toys/> (Colección)
+- <https://neon-strike-fps-pc9z.netlify.app/>
 
 ## Cheatsheets
 
@@ -4128,6 +4130,7 @@ También conocidos como: pagan por tarea
 - <https://orientador.fundaciontelefonica.com/>
 - <https://grow.google/certificates/interview-warmup/>
 - <https://layoffs.fyi/>
+- <https://layoffsandhires.com/>
 - <https://capacita.sii.cl/>
 - <https://www.registrodeempresasysociedades.cl/Curso.aspx>
 - <https://github.com/Angest1/cazapegas-app>

@@ -3,12 +3,16 @@ import BaseLayout from '../layouts/BaseLayout.astro'
 import Sidebar from '../components/Sidebar.astro'
 import SearchBar from '../components/SearchBar.astro'
 import LinkGrid from '../components/LinkGrid.astro'
+import BottomNav from '../components/BottomNav.astro'
 
 import type { Section } from '../types'
 import { countLinks } from '../lib/countLinks'
 import recursos from '../data/recursos.json'
 
 const sections = recursos as Section[]
+const renderableSections = sections
+  .map(section => ({ section, total: countLinks(section) }))
+  .filter(({ total }) => total > 0)
 ---
 
 <BaseLayout>
@@ -19,22 +23,51 @@ const sections = recursos as Section[]
       <SearchBar />
 
       <main class="main-body" id="main-content">
+        <nav id="breadcrumb" class="breadcrumb" aria-label="Ruta" style="display:none"></nav>
         <div id="search-results" style="display:none">
           <div class="search-results-header" id="search-header"></div>
           <div id="search-results-content"></div>
         </div>
 
         <div id="browse-content">
-          {sections.filter(s => s.links.length > 0 || s.children.length > 0).map(section => {
-            const sectionTotal = countLinks(section)
-            if (sectionTotal === 0) return null
+          {renderableSections.map(({ section, total: sectionTotal }, i) => {
+            const prev = renderableSections[i - 1]?.section
+            const next = renderableSections[i + 1]?.section
+
+            if (i !== 0) {
+              return (
+                <section class="categories-section" data-section={section.id} data-lazy="1" style={`contain-intrinsic-size: auto ${sectionTotal * 25 + 80}px`}></section>
+              )
+            }
 
             return (
-              <section class="categories-section" data-section={section.id} style={`contain-intrinsic-size: auto ${sectionTotal * 25 + 80}px`}>
+              <section class="categories-section active" data-section={section.id} data-built="1" style={`contain-intrinsic-size: auto ${sectionTotal * 25 + 80}px`}>
                 <div class="category-header" id={section.id}>
-                  <h2>{section.name}</h2>
+                  <h2>
+                    <button type="button" class="anchor-link-btn" data-anchor-id={section.id} aria-label={`Copiar enlace a ${section.name}`} title="Copiar enlace a esta sección">
+                      <svg width="14" height="14" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><use href="#icon-hash"/></svg>
+                    </button>
+                    <span class="heading-text">{section.name}</span>
+                  </h2>
                   <span class="count-badge">{sectionTotal}</span>
                 </div>
+
+                {(prev || next) && (
+                  <nav class="category-pagination category-pagination-top" aria-label="Categorías anterior y siguiente">
+                    {prev ? (
+                      <button type="button" class="category-nav-btn prev" data-goto={prev.id}>
+                        <span class="dir">← Anterior</span>
+                        <span class="name">{prev.name}</span>
+                      </button>
+                    ) : <span />}
+                    {next ? (
+                      <button type="button" class="category-nav-btn next" data-goto={next.id}>
+                        <span class="dir">Siguiente →</span>
+                        <span class="name">{next.name}</span>
+                      </button>
+                    ) : <span />}
+                  </nav>
+                )}
 
                 {section.links.length > 0 && (
                   <LinkGrid title={section.name + ' (general)'} links={section.links} sectionId={section.id + '-links'} level={2} />
@@ -55,6 +88,23 @@ const sections = recursos as Section[]
                     ))}
                   </>
                 ))}
+
+                {(prev || next) && (
+                  <nav class="category-pagination category-pagination-bottom" aria-label="Categorías anterior y siguiente">
+                    {prev ? (
+                      <button type="button" class="category-nav-btn prev" data-goto={prev.id}>
+                        <span class="dir">← Anterior</span>
+                        <span class="name">{prev.name}</span>
+                      </button>
+                    ) : <span />}
+                    {next ? (
+                      <button type="button" class="category-nav-btn next" data-goto={next.id}>
+                        <span class="dir">Siguiente →</span>
+                        <span class="name">{next.name}</span>
+                      </button>
+                    ) : <span />}
+                  </nav>
+                )}
               </section>
             )
           })}
@@ -70,6 +120,7 @@ const sections = recursos as Section[]
       </main>
     </div>
   </div>
+  <BottomNav />
 
   <script>
     ;(function() {

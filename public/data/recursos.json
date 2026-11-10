@@ -5345,6 +5345,11 @@
                   {
                     "name": "https://cs16.samke.me/",
                     "url": "https://cs16.samke.me/"
+                  },
+                  {
+                    "name": "https://glisse.kelvinzhang.com/",
+                    "url": "https://glisse.kelvinzhang.com/",
+                    "description": "Glisse is a faithful implementation of Apple’s Liquid Glass for the web"
                   }
                 ],
                 "children": []
@@ -9970,6 +9975,10 @@
             "name": "https://webgpu.toys/",
             "url": "https://webgpu.toys/",
             "description": "Colección"
+          },
+          {
+            "name": "https://neon-strike-fps-pc9z.netlify.app/",
+            "url": "https://neon-strike-fps-pc9z.netlify.app/"
           }
         ],
         "children": []
@@ -16089,6 +16098,10 @@
           {
             "name": "https://layoffs.fyi/",
             "url": "https://layoffs.fyi/"
+          },
+          {
+            "name": "https://layoffsandhires.com/",
+            "url": "https://layoffsandhires.com/"
           },
           {
             "name": "https://capacita.sii.cl/",

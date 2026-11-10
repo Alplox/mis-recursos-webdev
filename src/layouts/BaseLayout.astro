@@ -1,6 +1,6 @@
 ---
 import '../styles/global.css'
-const siteUrl = 'https://mis-recursos-webdev.pages.dev'
+const siteUrl = Astro.site?.toString().replace(/\/$/, '') || 'https://mis-recursos-webdev.pages.dev'
 ---
 
 <!DOCTYPE html>
@@ -8,16 +8,24 @@ const siteUrl = 'https://mis-recursos-webdev.pages.dev'
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="color-scheme" content="dark light" />
+  <meta name="theme-color" content="#0b0d14" media="(prefers-color-scheme: dark)" />
+  <meta name="theme-color" content="#FFFAE6" media="(prefers-color-scheme: light)" />
   <title>Mis Recursos WEB DEV</title>
   <meta name="description" content="Colección de herramientas, recursos, guías e inspiración para desarrollo web." />
+  <meta name="robots" content="index,follow" />
   <link rel="canonical" href={siteUrl} />
   <meta property="og:title" content="Mis Recursos WEB DEV" />
   <meta property="og:description" content="Colección de herramientas, recursos, guías e inspiración para desarrollo web." />
   <meta property="og:type" content="website" />
   <meta property="og:url" content={siteUrl} />
-  <meta name="twitter:card" content="summary" />
+  <meta property="og:locale" content="es_ES" />
+  <meta property="og:image" content={`${siteUrl}/og.svg`} />
+  <meta property="og:image:alt" content="Mis Recursos WEB DEV: herramientas, recursos, guías e inspiración para desarrollo web." />
+  <meta name="twitter:card" content="summary_large_image" />
   <meta name="twitter:title" content="Mis Recursos WEB DEV" />
   <meta name="twitter:description" content="Colección de herramientas, recursos, guías e inspiración para desarrollo web." />
+  <meta name="twitter:image" content={`${siteUrl}/og.svg`} />
   <link rel="icon" type="image/svg+xml" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'><rect rx='6' width='32' height='32' fill='%23CD9E4B'/><text x='16' y='22' font-size='18' text-anchor='middle' fill='white' font-family='system-ui'>W</text></svg>" />
   <link rel="preconnect" href="https://fonts.googleapis.com" />
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
@@ -27,14 +35,16 @@ const siteUrl = 'https://mis-recursos-webdev.pages.dev'
   <link rel="dns-prefetch" href="https://t2.gstatic.com" />
   <link rel="dns-prefetch" href="https://t3.gstatic.com" />
   <link rel="preload" href="/data/recursos.json" as="fetch" crossorigin="anonymous" />
-  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Onest:wght@400..700&display=swap" media="print" onload="this.media='all'" />
-  <noscript><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Onest:wght@400..700&display=swap" /></noscript>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Onest:wght@400..700&display=optional" media="print" onload="this.media='all'" />
+  <noscript><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Onest:wght@400..700&display=optional" /></noscript>
 </head>
 <body>
   <a href="#main-content" class="skip-link">Ir al contenido</a>
   <slot />
-  <div id="toast" class="toast"><span class="toast-icon"><svg width="16" height="16" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><use href="#icon-check"/></svg></span><span id="toast-msg"></span></div>
   <div id="sidebar-overlay" class="sidebar-overlay"></div>
+  <button id="scroll-to-top" class="scroll-to-top" type="button" aria-label="Volver arriba" title="Volver arriba">
+    <svg width="20" height="20" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><use href="#icon-arrow-up"/></svg>
+  </button>
 
   <svg aria-hidden="true" style="position:absolute;width:0;height:0;overflow:hidden">
     <defs>
@@ -49,6 +59,10 @@ const siteUrl = 'https://mis-recursos-webdev.pages.dev'
       <symbol id="icon-bookmark" viewBox="0 0 24 24"><path d="M19 21l-7-5-7 5V5a2 2 0 012-2h10a2 2 0 012 2z"/></symbol>
       <symbol id="icon-plus" viewBox="0 0 24 24"><line x1="12" y1="5" x2="12" y2="19"/><line x1="5" y1="12" x2="19" y2="12"/></symbol>
       <symbol id="icon-close" viewBox="0 0 24 24"><line x1="18" y1="6" x2="6" y2="18"/><line x1="6" y1="6" x2="18" y2="18"/></symbol>
+      <symbol id="icon-list" viewBox="0 0 24 24"><line x1="8" y1="6" x2="21" y2="6"/><line x1="8" y1="12" x2="21" y2="12"/><line x1="8" y1="18" x2="21" y2="18"/><circle cx="4" cy="6" r="1"/><circle cx="4" cy="12" r="1"/><circle cx="4" cy="18" r="1"/></symbol>
+      <symbol id="icon-arrow-up" viewBox="0 0 24 24"><line x1="12" y1="19" x2="12" y2="5"/><polyline points="5 12 12 5 19 12"/></symbol>
+      <symbol id="icon-alert" viewBox="0 0 24 24"><path d="M10.29 3.86L1.82 18a2 2 0 001.71 3h16.94a2 2 0 001.71-3L13.71 3.86a2 2 0 00-3.42 0z"/><line x1="12" y1="9" x2="12" y2="13"/><line x1="12" y1="17" x2="12.01" y2="17"/></symbol>
+      <symbol id="icon-hash" viewBox="0 0 24 24"><line x1="4" y1="9" x2="20" y2="9"/><line x1="4" y1="15" x2="20" y2="15"/><line x1="10" y1="3" x2="8" y2="21"/><line x1="16" y1="3" x2="14" y2="21"/></symbol>
     </defs>
   </svg>
 </body>
