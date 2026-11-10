@@ -777,9 +777,10 @@ sidebarSearchInput?.addEventListener('input', () => {
 
 // --- Active section tracking ---
 function initActiveSection() {
-  const allEls = document.querySelectorAll<HTMLElement>('.category-header[id], .section-anchor[id]')
-  const targets = [...allEls].filter(el => el.classList.contains('category-header') || !el.id.endsWith('-links'))
-  if (targets.length === 0) return
+  function getTargets() {
+    return Array.from(document.querySelectorAll<HTMLElement>('.category-header[id], .section-anchor[id]'))
+      .filter(el => el.classList.contains('category-header') || !el.id.endsWith('-links'))
+  }
 
   function setActive(id: string | null) {
     if (!id) return
@@ -821,6 +822,7 @@ function initActiveSection() {
 
     const activeSection = document.querySelector<HTMLElement>('.categories-section.active')
     if (!activeSection) return
+    const targets = getTargets()
     const visibleTargets = targets.filter(t => activeSection.contains(t))
     if (visibleTargets.length === 0) return
 
