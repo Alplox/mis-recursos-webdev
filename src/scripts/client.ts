@@ -383,6 +383,8 @@ let isSearchActive = false
 let currentCategoryId: string | null = null
 let programmaticTargetId: string | null = null
 let programmaticScrollTimer: ReturnType<typeof setTimeout> | null = null
+let programmaticScrollStart = 0
+let programmaticBestDelta: number | null = null
 let searchLinksFn: ((data: any[], query: string) => { results: any[]; grouped: any[]; total: number }) | null = null
 
 function countLinksSafe(section: any): number {
@@ -462,13 +464,16 @@ function expandSidebarTo(id: string) {
 
 function setProgrammaticTarget(id: string | null) {
   programmaticTargetId = id
+  programmaticBestDelta = null
   if (programmaticScrollTimer) clearTimeout(programmaticScrollTimer)
   if (id) {
+    programmaticScrollStart = Date.now()
     // Safety fallback only; normal release happens when target position is reached or user interrupts
     programmaticScrollTimer = setTimeout(() => {
       programmaticTargetId = null
       programmaticScrollTimer = null
-    }, 8000)
+      programmaticBestDelta = null
+    }, 2500)
   } else {
     programmaticScrollTimer = null
   }
@@ -559,10 +564,7 @@ window.__search = async (query: string) => {
   const emptyQuery = document.getElementById('empty-query')!
 
   if (!query || query.trim().length === 0) {
-    isSearchActive = false
-    browse.style.display = ''
-    searchResults.style.display = 'none'
-    emptyState.style.display = 'none'
+    clearSearchView()
     if (currentCategoryId) showCategory(currentCategoryId)
     updateBreadcrumb(currentActiveId || currentCategoryId)
     return
@@ -651,12 +653,22 @@ clearBtn?.addEventListener('click', () => {
   window.__search('')
 })
 
+function clearSearchView() {
+  const browse = document.getElementById('browse-content')
+  const searchResults = document.getElementById('search-results')
+  const emptyState = document.getElementById('empty-state')
+  isSearchActive = false
+  if (browse) browse.style.display = ''
+  if (searchResults) searchResults.style.display = 'none'
+  if (emptyState) emptyState.style.display = 'none'
+}
+
 window.__goToSection = async (id: string) => {
   if (!id) return
   clearTimeout(debounceTimer)
   if (searchInput) searchInput.value = ''
   clearBtn?.classList.remove('visible')
-  await window.__search('')
+  clearSearchView()
 
   const topId = idToTopLevel[id] || id
   const scrollToId = id !== topId ? id : undefined
@@ -785,8 +797,17 @@ function initActiveSection() {
     if (programmaticTargetId) {
       const target = document.getElementById(programmaticTargetId)
       if (target) {
-        const delta = Math.abs(target.getBoundingClientRect().top - 80)
-        if (delta < 4) {
+        const rawDelta = target.getBoundingClientRect().top - 80
+        const delta = Math.abs(rawDelta)
+        const elapsed = Date.now() - programmaticScrollStart
+        if (programmaticBestDelta === null || delta < programmaticBestDelta) {
+          programmaticBestDelta = delta
+        }
+        const movingAway = delta > programmaticBestDelta + 8
+        // Release if user scrolled away (distance growing) after initial jump, or if taking too long while far
+        if ((elapsed > 120 && movingAway) || (elapsed > 1200 && delta > 80)) {
+          setProgrammaticTarget(null)
+        } else if (delta < 4) {
           reachedProgrammaticTarget = programmaticTargetId
           setProgrammaticTarget(null)
         } else {
@@ -833,7 +854,9 @@ function initActiveSection() {
   }
   window.addEventListener('wheel', clearProgrammaticOnUserScroll, { passive: true })
   window.addEventListener('touchstart', clearProgrammaticOnUserScroll, { passive: true })
+  window.addEventListener('touchmove', clearProgrammaticOnUserScroll, { passive: true })
   window.addEventListener('pointerdown', clearProgrammaticOnUserScroll, { passive: true })
+  window.addEventListener('mousedown', clearProgrammaticOnUserScroll, { passive: true })
   window.addEventListener('keydown', (e) => {
     if (['ArrowUp', 'ArrowDown', 'PageUp', 'PageDown', 'Home', 'End', ' '].includes(e.key)) {
       clearProgrammaticOnUserScroll()
