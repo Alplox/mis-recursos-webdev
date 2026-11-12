@@ -97,16 +97,16 @@ Los headings `##` / `###` / `####` / `#####` definen la jerarquía de secciones.
 
 El proyecto usa un enfoque **híbrido**:
 
-1. **Server-side (Astro)**: Renderiza el esqueleto: sidebar, headers de sección y listas con placeholders skeleton (`.link-skeleton`) según el número de enlaces de cada subnivel para reservar espacio y evitar layout shift antes de cargar datos. HTML final: **~70 KB**.
+1. **Server-side (Astro)**: Renderiza el sidebar completo y **la primera categoría de nivel superior íntegra** (todas sus subsecciones y filas, sin skeletons) para que el primer paint ya sea el contenido final y no haya CLS al hidratar. El resto de categorías se renderizan como `<section class="categories-section" data-lazy="1">` vacíos con `contain-intrinsic-size` aproximado. HTML final: **~920 KB** (~52 KB comprimido).
 2. **Client-side (JS)**:
    - `loadData()` fetchea `recursos.json` desde `/data/recursos.json`
-   - `renderBrowseCards()` recorre el árbol de secciones y rellena los `<ul class="link-list" data-section-id="...">` vacíos
-   - Prioriza la categoría activa: renderiza inmediatamente todos sus grids para evitar contenido vacío al hacer scroll; el resto de categorías se renderiza en segundo plano en lotes vía `requestAnimationFrame`
+   - `renderBrowseCards()` solo renderiza la **categoría activa**; las demás se construyen y renderizan bajo demanda al navegar (`showCategory()` → `ensureCategorySection()` + render de sus grids)
+   - No renderizar todas las categorías en segundo plano: genera ~9k nodos DOM y tareas largas en móvil
    - Los enlaces se renderizan en listas estándar (no cards) sin animación de entrada para reducir retraso percibido; los resultados de búsqueda mantienen una animación breve
    - **Vista por categoría**: solo una categoría de nivel superior (`.categories-section`) se muestra a la vez (`.active`). Al hacer clic en el sidebar se cambia la categoría activa y, si aplica, se hace scroll al subnivel dentro de ella.
 3. **Búsqueda**: Usa `flattenData()` + `searchLinks()` sobre el JSON en memoria. No toca el DOM de browse. Al limpiar la búsqueda se vuelve a la categoría activa.
 
-Este enfoque reduce el HTML inicial de **5.5 MB → 70 KB** (98.7% menos) y evita el scroll infinito mostrando categorías independientes.
+El SSR de la primera categoría evita el CLS por intercambio de skeletons; el resto de categorías se hidrata lazy para mantener el DOM y el parseo inicial acotados.
 
 ## 🎨 Convenciones de código
 
@@ -159,8 +159,11 @@ Este enfoque reduce el HTML inicial de **5.5 MB → 70 KB** (98.7% menos) y evit
 - `@playform/compress` minifica CSS/HTML/JS/JSON en build
 - `compressHTML: true` en build config (nativo de Astro)
 - `animation: item-in` breve solo en ítems de resultados de búsqueda (clase `.animate-in`); los ítems de navegación se renderizan sin animación de entrada para evitar retraso percibido
-- `renderBrowseCards()` renderiza progresivamente con `requestAnimationFrame` (1 grid por frame)
+- `renderBrowseCards()` solo renderiza la categoría activa; las demás se construyen/renderizan bajo demanda al navegar (`showCategory`)
 - search.js se carga con dynamic import solo cuando el usuario busca por primera vez
+- El breadcrumb renderizado en SSR no se oculta hasta que `fullData` esté listo: si no, colapsa ~48px y desplaza `#browse-content` (CLS)
+- El scroll-spy (`setActive`) hace early-return cuando la sección activa no cambia, evitando reflows forzados del TOC
+- El script de tema es externo `/theme.js` (clásico, en `<head>`), no inline: la CSP `script-src 'self'` lo permite sin `unsafe-inline`
 
 ### Componentes Astro
 

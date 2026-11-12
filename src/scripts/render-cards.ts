@@ -112,23 +112,9 @@ export function renderBrowseCards(sections: any[], activeTopId?: string | null) 
     list.dataset.rendered = '1'
   }
 
-  let activeQueue = queue
-  let restQueue: typeof queue = []
-  if (activeTopId) {
-    activeQueue = queue.filter(item => item.topId === activeTopId)
-    restQueue = queue.filter(item => item.topId !== activeTopId)
-  }
-
-  // Render active category immediately so visible content is ready
+  // Only the active category is visible; render the rest lazily when the user
+  // navigates to them (showCategory builds + renders on demand). Rendering all
+  // categories up front creates ~9k DOM nodes and long main-thread tasks.
+  const activeQueue = activeTopId ? queue.filter(item => item.topId === activeTopId) : []
   for (const item of activeQueue) renderItem(item)
-
-  // Render remaining categories in background without blocking interaction
-  let i = 0
-  function next() {
-    if (i >= restQueue.length) return
-    const end = Math.min(i + 4, restQueue.length)
-    for (; i < end; i++) renderItem(restQueue[i])
-    requestAnimationFrame(next)
-  }
-  if (restQueue.length > 0) requestAnimationFrame(next)
 }

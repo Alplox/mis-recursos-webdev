@@ -12,28 +12,6 @@ const siteUrl = Astro.site?.toString().replace(/\/$/, '') || 'https://mis-recurs
   <meta name="theme-color" content="#0b0d14" media="(prefers-color-scheme: dark)" />
   <meta name="theme-color" content="#FFFAE6" media="(prefers-color-scheme: light)" />
   <title>Mis Recursos WEB DEV</title>
-  <script is:inline>
-    ;(function () {
-      var STORAGE_KEY = 'recursos-theme'
-      function getStored() { try { return localStorage.getItem(STORAGE_KEY) } catch (e) { return null } }
-      function getPreferred() {
-        var stored = getStored()
-        if (stored === 'light' || stored === 'dark') return stored
-        return window.matchMedia('(prefers-color-scheme: light)').matches ? 'light' : 'dark'
-      }
-      function setTheme(theme) {
-        document.documentElement.setAttribute('data-theme', theme)
-        try { localStorage.setItem(STORAGE_KEY, theme) } catch (e) {}
-      }
-      setTheme(getPreferred())
-      window.__toggleTheme = function () {
-        var current = document.documentElement.getAttribute('data-theme') || 'dark'
-        var next = current === 'dark' ? 'light' : 'dark'
-        setTheme(next)
-        return next
-      }
-    })()
-  </script>
   <meta name="description" content="Colección de herramientas, recursos, guías e inspiración para desarrollo web." />
   <meta name="robots" content="index,follow" />
   <link rel="canonical" href={siteUrl} />
@@ -49,9 +27,12 @@ const siteUrl = Astro.site?.toString().replace(/\/$/, '') || 'https://mis-recurs
   <meta name="twitter:description" content="Colección de herramientas, recursos, guías e inspiración para desarrollo web." />
   <meta name="twitter:image" content={`${siteUrl}/og.svg`} />
   <link rel="icon" type="image/svg+xml" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'><rect rx='6' width='32' height='32' fill='%23CD9E4B'/><text x='16' y='22' font-size='18' text-anchor='middle' fill='white' font-family='system-ui'>W</text></svg>" />
+  <link rel="preconnect" href="https://static.cloudflareinsights.com" crossorigin />
+  <link rel="dns-prefetch" href="https://cloudflareinsights.com" />
   <link rel="preload" href="/fonts/onest-latin.woff2" as="font" type="font/woff2" crossorigin />
   <link rel="preload" href="/data/recursos.json" as="fetch" crossorigin="anonymous" />
   <link rel="ai-catalog" href="/.well-known/ai-catalog.json" />
+  <script is:inline src="/theme.js"></script>
 </head>
 <body>
   <a href="#main-content" class="skip-link">Ir al contenido</a>

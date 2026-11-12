@@ -536,6 +536,9 @@ function updateBreadcrumb(activeId?: string | null) {
     nav.style.display = 'none'
     return
   }
+  // Keep the server-rendered breadcrumb until the data is ready: hiding it here
+  // would collapse the bar and shift #browse-content (CLS).
+  if (!fullData) return
   const id = activeId ?? currentActiveId ?? currentCategoryId
   const path = getBreadcrumbPath(id)
   if (path.length === 0) {
@@ -652,7 +655,7 @@ async function loadData() {
     console.error('Error loading resource data:', e)
     const browse = document.getElementById('browse-content')
     if (browse) {
-      browse.innerHTML = '<div class="empty-state" style="display:block;grid-column:1/-1"><p>Error al cargar los datos. <a href="javascript:location.reload()">Reintentar</a></p></div>'
+      browse.innerHTML = '<div class="empty-state" style="display:block;grid-column:1/-1"><p>Error al cargar los datos. <a href="/">Reintentar</a></p></div>'
     }
   }
 }
@@ -888,6 +891,9 @@ function initActiveSection() {
 
   function setActive(id: string | null) {
     if (!id) return
+    // The scroll-spy runs on every frame; skip DOM writes when nothing changed
+    // to avoid layout thrashing (forced reflow) and breadcrumb re-renders.
+    if (id === currentActiveId) return
     currentActiveId = id
     document.querySelectorAll('.sidebar-section-toggle.active').forEach(t => t.classList.remove('active'))
     document.querySelectorAll('.sidebar-section.highlight').forEach(s => s.classList.remove('highlight'))

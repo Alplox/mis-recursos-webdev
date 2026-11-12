@@ -969,7 +969,7 @@ input {
   white-space: normal;
   word-break: break-word;
   overflow-wrap: anywhere;
-  text-wrap: pretty;
+  text-wrap: balance;
 }
 
 .link-desc::before {
@@ -1328,7 +1328,7 @@ input {
 
 .empty-state p {
   font-size: 0.9rem;
-  text-wrap: pretty;
+  text-wrap: balance;
 }
 
 .contribute-btn {
