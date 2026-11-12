@@ -5887,6 +5887,10 @@
                   {
                     "name": "https://ui.lenso.dev/",
                     "url": "https://ui.lenso.dev/"
+                  },
+                  {
+                    "name": "https://www.akoder.xyz/components",
+                    "url": "https://www.akoder.xyz/components"
                   }
                 ],
                 "children": []
@@ -10450,6 +10454,10 @@
             "name": "https://on.design/",
             "url": "https://on.design/",
             "description": "Requiere cuenta"
+          },
+          {
+            "name": "https://contra.com/",
+            "url": "https://contra.com/"
           }
         ],
         "children": [
@@ -15026,6 +15034,11 @@
             "description": "open-source app to manage agents"
           },
           {
+            "name": "https://github.com/agentes-chat/agentes-chat",
+            "url": "https://github.com/agentes-chat/agentes-chat",
+            "description": "Open-source, self-hosted Slack alternative where your team and AI agents work together in channels and DMs"
+          },
+          {
             "name": "https://www.pencil.dev/",
             "url": "https://www.pencil.dev/",
             "description": "Figma alternative"
@@ -15449,6 +15462,11 @@
             "name": "https://github.com/qybaihe/bla",
             "url": "https://github.com/qybaihe/bla",
             "description": "BLA (Blind LLM Agents) — Adversarial defense shield that protects binaries, Electron apps, JS bundles, Python, and WebAssembly against AI reverse-engineering agents like REA. Poison -> Exhaust -> Hallucinate"
+          },
+          {
+            "name": "https://www.better-vault.dev/",
+            "url": "https://www.better-vault.dev/",
+            "description": "Open-source NotebookLM alternative"
           }
         ],
         "children": [

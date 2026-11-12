@@ -118,7 +118,7 @@ Este enfoque reduce el HTML inicial de **5.5 MB → 70 KB** (98.7% menos) y evit
 - No usar librerías CSS externas
 - **NUNCA usar `transition: all`** — siempre propiedades específicas
 - Sombras teñidas al hue del fondo (`rgba(bg-r, bg-g, bg-b, a)`) en vez de `rgba(0,0,0,a)`
-- **`content-visibility: auto`** en `.categories-section` para diferir render de secciones fuera del viewport
+- **`content-visibility`**: retirado de `.categories-section` (las secciones inactivas son `display:none`; en la activa causaba espacios en blanco al hacer scroll)
 - **`contain-intrinsic-size`** en secciones virtualizadas para layout estable
 
 ### Diseño

@@ -99,6 +99,11 @@ export function renderBrowseCards(sections: any[], activeTopId?: string | null) 
     const sel = `[data-section-id="${item.id}${item.root ? '-links' : ''}"]`
     const list = document.querySelector<HTMLElement>(`.link-list${sel}`)
     if (!list || list.dataset.rendered === '1') return
+    // SSR may have already rendered the final rows; avoid a replace that can shift layout.
+    if (!list.querySelector('.link-skeleton') && list.querySelector('.link-item')) {
+      list.dataset.rendered = '1'
+      return
+    }
     const frag = document.createDocumentFragment()
     for (const link of item.links) {
       frag.appendChild(createCard(link, false))

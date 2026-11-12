@@ -14,9 +14,9 @@ const renderableSections = sections
   .map(section => ({ section, total: countLinks(section) }))
   .filter(({ total }) => total > 0)
 
-// Rows server-rendered at their final size for the first category, so hydrating
-// them cannot shift the layout. Budget spread across grids in document order.
-let ssrBudget = 60
+// Server-render the entire first category so hydration never shifts layout and
+// first paint shows final content (avoids CLS/render delay from skeleton swap).
+let ssrBudget = Infinity
 function takeSsr(count: number) {
   const n = Math.max(0, Math.min(ssrBudget, count))
   ssrBudget -= n
@@ -53,7 +53,7 @@ const initialSection = renderableSections[0]?.section
             }
 
             return (
-              <section class="categories-section active" data-section={section.id} data-built="1" style={`contain-intrinsic-size: auto ${sectionTotal * 25 + 80}px`}>
+              <section class="categories-section active" data-section={section.id} data-built="1">
                 <div class="category-header" id={section.id}>
                   <h2>
                     <button type="button" class="anchor-link-btn" data-anchor-id={section.id} aria-label={`Copiar enlace a ${section.name}`} title="Copiar enlace a esta sección">

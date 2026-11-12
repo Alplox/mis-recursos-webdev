@@ -410,7 +410,7 @@ input {
   flex-shrink: 0;
   position: relative;
   z-index: 101;
-  transition: border-color var(--transition), background var(--transition), color var(--transition), transform var(--transition);
+  transition: transform var(--transition);
 }
 
 .hamburger-icon {
@@ -508,7 +508,6 @@ input {
   width: 100%;
   text-align: left;
   border-radius: 4px;
-  transition: background var(--transition), color var(--transition);
 }
 
 .sidebar-section-toggle .label {
@@ -694,7 +693,6 @@ input {
   border-radius: var(--radius);
   font-size: 0.9rem;
   color: var(--text);
-  transition: border-color var(--transition), box-shadow var(--transition), background var(--transition);
 }
 
 .search-input::placeholder {
@@ -729,7 +727,7 @@ input {
   border: 1px solid var(--border);
   opacity: 0;
   pointer-events: none;
-  transition: opacity var(--transition), background var(--transition), border-color var(--transition);
+  transition: opacity var(--transition);
 }
 .search-clear::after {
   content: '';
@@ -770,7 +768,7 @@ input {
   background: var(--bg-secondary);
   font-size: 1rem;
   color: var(--text-secondary);
-  transition: border-color var(--transition), color var(--transition), background var(--transition), transform var(--transition);
+  transition: transform var(--transition);
   position: relative;
 }
 .icon-btn::after {
@@ -833,7 +831,6 @@ input {
 .categories-section {
   display: none;
   margin-bottom: 40px;
-  content-visibility: auto;
 }
 
 .categories-section.active {
@@ -997,7 +994,7 @@ input {
   background: transparent;
   border: 1px solid transparent;
   color: var(--text-muted);
-  transition: color var(--transition), border-color var(--transition), background var(--transition), transform var(--transition);
+  transition: transform var(--transition), opacity var(--transition);
   position: relative;
 }
 
@@ -1016,7 +1013,7 @@ input {
 
 .link-action-btn:active {
   transform: scale(0.96);
-  transition: transform var(--transition-press), color var(--transition), border-color var(--transition), background var(--transition);
+  transition: transform var(--transition-press);
 }
 
 .link-action-btn:focus-visible {

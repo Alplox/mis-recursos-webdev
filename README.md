@@ -1609,6 +1609,7 @@ Mirrors:
 - <https://www.pinui.xyz/>
 - <https://detentui.com/> (Pagada)
 - <https://ui.lenso.dev/>
+- <https://www.akoder.xyz/components>
 
 ### Web Audio API
 
@@ -2750,6 +2751,7 @@ Mirrors:
 - <https://save.design/> (Requiere cuenta)
 - <https://designengineer.world/>
 - <https://on.design/> (Requiere cuenta)
+- <https://contra.com/>
 
 #### Design/Brand Guidelines
 
@@ -3847,6 +3849,7 @@ Ejem [Are Repository-Level Context Files Helpful for Coding Agents?](https://arx
 - <https://github.com/eneskirca/nodeterm> (Node-based terminal manager for AI coding agents)
 - <https://github.com/stablyai/orca> (Run Codex, ClaudeCode, OpenCode or Pi side-by-side — each in its own worktree, tracked in one place)
 - <https://github.com/paperclipai/paperclip> (open-source app to manage agents)
+- <https://github.com/agentes-chat/agentes-chat> (Open-source, self-hosted Slack alternative where your team and AI agents work together in channels and DMs)
 - <https://www.pencil.dev/> (Figma alternative)
 - <https://github.com/jamiepine/voicebox/releases> (audio)
 - <https://openclaw.ai/> ("personal AI assistant")
@@ -3935,6 +3938,7 @@ Ejem [Are Repository-Level Context Files Helpful for Coding Agents?](https://arx
 - <https://agentbuffs.com/> (Find the right MCP server or Claude skill)
 - <https://github.com/superdesigndev/treg> (OpenRouter for agent tools)
 - <https://github.com/qybaihe/bla> (BLA (Blind LLM Agents) — Adversarial defense shield that protects binaries, Electron apps, JS bundles, Python, and WebAssembly against AI reverse-engineering agents like REA. Poison -> Exhaust -> Hallucinate)
+- <https://www.better-vault.dev/> (Open-source NotebookLM alternative)
 
 #### AI Local
 

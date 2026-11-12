@@ -12,7 +12,28 @@ const siteUrl = Astro.site?.toString().replace(/\/$/, '') || 'https://mis-recurs
   <meta name="theme-color" content="#0b0d14" media="(prefers-color-scheme: dark)" />
   <meta name="theme-color" content="#FFFAE6" media="(prefers-color-scheme: light)" />
   <title>Mis Recursos WEB DEV</title>
-  <script is:inline src="/theme.js"></script>
+  <script is:inline>
+    ;(function () {
+      var STORAGE_KEY = 'recursos-theme'
+      function getStored() { try { return localStorage.getItem(STORAGE_KEY) } catch (e) { return null } }
+      function getPreferred() {
+        var stored = getStored()
+        if (stored === 'light' || stored === 'dark') return stored
+        return window.matchMedia('(prefers-color-scheme: light)').matches ? 'light' : 'dark'
+      }
+      function setTheme(theme) {
+        document.documentElement.setAttribute('data-theme', theme)
+        try { localStorage.setItem(STORAGE_KEY, theme) } catch (e) {}
+      }
+      setTheme(getPreferred())
+      window.__toggleTheme = function () {
+        var current = document.documentElement.getAttribute('data-theme') || 'dark'
+        var next = current === 'dark' ? 'light' : 'dark'
+        setTheme(next)
+        return next
+      }
+    })()
+  </script>
   <meta name="description" content="Colección de herramientas, recursos, guías e inspiración para desarrollo web." />
   <meta name="robots" content="index,follow" />
   <link rel="canonical" href={siteUrl} />

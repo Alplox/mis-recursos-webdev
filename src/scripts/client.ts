@@ -216,6 +216,12 @@ function renderTocRails() {
   const activeRail = document.getElementById('toc-rail-active') as SVGSVGElement | null
   const content = document.getElementById('toc-content')
   if (!wrap || !muted || !activeRail || !content) return
+  const sidebarEl = document.getElementById('sidebar')
+  if (sidebarEl) {
+    const isMobile = window.innerWidth <= 768
+    if (!isMobile && sidebarEl.classList.contains('closed')) return
+    if (isMobile && !sidebarEl.classList.contains('open')) return
+  }
 
   const toggles = Array.from(content.querySelectorAll<HTMLElement>('.sidebar-section-toggle'))
   const visible: Array<{ el: HTMLElement; level: number; y: number; h: number }> = []
@@ -589,6 +595,10 @@ function showCategory(topLevelId: string, scrollToId?: string) {
         const sel = `[data-section-id="${item.id}${item.root ? '-links' : ''}"]`
         const list = document.querySelector<HTMLElement>(`.link-list${sel}`)
         if (!list || list.dataset.rendered === '1') continue
+        if (!list.querySelector('.link-skeleton') && list.querySelector('.link-item')) {
+          list.dataset.rendered = '1'
+          continue
+        }
         const frag = document.createDocumentFragment()
         for (const link of item.links) frag.appendChild(createCard(link, false))
         list.replaceChildren(frag)
