@@ -1141,6 +1141,7 @@ Mirrors:
 - <https://github.com/doomemacs/core>
 - <https://helix-editor.com/>
 - <https://reflet.sh/> (a reverse engineering focused code editor)
+- <https://cmux.com/> (Terminal nativa de macOS open source y gratuita basada en Ghostty)
 
 ##### Extensiones
 
@@ -1325,6 +1326,8 @@ Mirrors:
 - <https://github.com/yappologistic/CUI> (Native UI components for C)
 - <https://clarity.microsoft.com/> (análisis de comportamiento)
 - <https://github.com/expo/exact> (Write an app once. It runs natively on the web, macOS, iOS, and Linux, and an AI agent can build it, run it, see it, and test it on every one of them)
+- <https://lithos.software/> (a GPU-accelerated, node-based terrain editor for Mac, Windows, and Linux)
+- <https://github.com/taleshape-com/shaper> (Visualize and share your data. All in SQL. Powered by DuckDB)
 
 #### JS Recursos
 
@@ -1478,6 +1481,7 @@ Mirrors:
 - <https://glass.samasante.com/> (Liquid Glass)
 - <https://cs16.samke.me/>
 - <https://glisse.kelvinzhang.com/> (Glisse is a faithful implementation of Apple’s Liquid Glass for the web)
+- <https://github.com/onlymoein/liquidglass> (Liquid Glass)
 
 ##### Animación Recursos
 
@@ -1525,6 +1529,7 @@ Mirrors:
 - <https://github.com/guillaumeblanc/ozz-animation> (skeletal animation library and toolset)
 - <https://ding.yusufcengiz.dev/> (One toast that morphs in place. No dependencies. React, Svelte or plain DOM)
 - <https://verse.rajatsethii.in/> (Spider-Verse inspired text reveal)
+- <https://calligraph.raphaelsalaja.com/> (Fluid text transitions powered by Motion)
 
 #### REACT Recursos
 
@@ -1610,6 +1615,8 @@ Mirrors:
 - <https://detentui.com/> (Pagada)
 - <https://ui.lenso.dev/>
 - <https://www.akoder.xyz/components>
+- <https://ruixen.com/> (Freemium)
+- <https://arindam200.github.io/termui/> (shadcn-style terminal UI components for React + Ink)
 
 ### Web Audio API
 
@@ -1661,6 +1668,7 @@ Mirrors:
 - <https://brrrviz.com/>
 - <https://www.skills.google/>
 - <https://www.youtube.com/playlist?list=PLXOJEg4xbr50> (CS50x en Español)
+- <https://redefinefx.com/witcher/> (Unreal engine niagara fluids beginner course)
 
 ### Practicas/Ejercicios
 
@@ -1732,6 +1740,7 @@ Mirrors:
 - <https://github.com/meodai/design-book> (Reactive TypeScript design token system for defining primitives, semantic roles, and derived UI tokens with dependency tracking and multi-format export)
 - <https://tomato-architecture.github.io/>
 - <https://shopify.engineering/reflex>
+- <https://morphrig.dev/>
 
 ## Guías y cursos escritos
 
@@ -2633,6 +2642,8 @@ Mirrors:
 - <https://neon-strike-fps-pc9z.netlify.app/>
 - <https://github.com/av/safe-sand> (Hyper-realistic sand on your phone screen (WebGL2))
 - <https://forge.ui8.ai/share/frag_899f5f6d-1cbc-46b6-b7c7-44e28191f482>
+- <https://bloomvale.vercel.app/> (juego inspirado en pokopia, minecraft, animal crossing)
+- <https://threejsroadmap.com/assets/threejs-water-pro> (Pagada)
 
 ## Cheatsheets
 
@@ -3026,6 +3037,7 @@ Mirrors:
 - <https://weather.com/retro/>
 - <https://themuseumofads.com/> (A museum of great advertising. Films, launches and campaigns worth studying)
 - <https://pixlpin.com/>
+- <https://abtest.design/>
 
 ## Cursos de pago
 
@@ -3653,6 +3665,7 @@ Mirrors:
 - <https://github.com/abi/screenshot-to-code>
 - <https://github.com/tirth8205/code-review-graph> (A local code knowledge graph that gives AI coding tools precise review context over MCP)
 - <https://antiwebslop.com> (Freemium)
+- <https://github.com/rohitg00/agentmemory> (Persistent memory for AI coding agents based on real-world benchmarks)
 
 #### Skills AI Vibe Coding
 
@@ -3738,6 +3751,7 @@ Ejem [Are Repository-Level Context Files Helpful for Coding Agents?](https://arx
 - <https://github.com/ScrapeCreators/social-media-research-skills>
 - <https://github.com/dotslashsimran/simcraft> (Skill for Video, Engineering, Learning, Design and Planning)
 - <https://github.com/Appllama/appllama-skills> (Agent skills that turn top-grossing app patterns into native-quality mobile screens)
+- <https://github.com/Leonxlnx/cook> (An agent skill for ambitious visual builds that have to hold up next to references: 3D worlds in code, films, launch videos, games and UI)
 
 #### Design.md
 
@@ -4133,6 +4147,8 @@ También conocidos como: pagan por tarea
 - <https://www.youtube.com/jobs/>
 - <https://apply.careers.microsoft.com/careers>
 - <https://devlist.co/> (Requiere cuenta, Marketing via email, No permite busqueda manual)
+- <https://fonzi.ai/>
+- <https://aarivi.com> (Pagada, Requiere cuenta, arivi finds jobs, cold emails your profile to founders, tracks every application, and builds your resume and portfolio)
 
 ### Herramientas Trabajo
 

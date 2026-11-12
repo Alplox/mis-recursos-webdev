@@ -3981,6 +3981,11 @@
                 "name": "https://reflet.sh/",
                 "url": "https://reflet.sh/",
                 "description": "a reverse engineering focused code editor"
+              },
+              {
+                "name": "https://cmux.com/",
+                "url": "https://cmux.com/",
+                "description": "Terminal nativa de macOS open source y gratuita basada en Ghostty"
               }
             ],
             "children": [
@@ -4729,6 +4734,16 @@
             "name": "https://github.com/expo/exact",
             "url": "https://github.com/expo/exact",
             "description": "Write an app once. It runs natively on the web, macOS, iOS, and Linux, and an AI agent can build it, run it, see it, and test it on every one of them"
+          },
+          {
+            "name": "https://lithos.software/",
+            "url": "https://lithos.software/",
+            "description": "a GPU-accelerated, node-based terrain editor for Mac, Windows, and Linux"
+          },
+          {
+            "name": "https://github.com/taleshape-com/shaper",
+            "url": "https://github.com/taleshape-com/shaper",
+            "description": "Visualize and share your data. All in SQL. Powered by DuckDB"
           }
         ],
         "children": [
@@ -5365,6 +5380,11 @@
                     "name": "https://glisse.kelvinzhang.com/",
                     "url": "https://glisse.kelvinzhang.com/",
                     "description": "Glisse is a faithful implementation of Apple’s Liquid Glass for the web"
+                  },
+                  {
+                    "name": "https://github.com/onlymoein/liquidglass",
+                    "url": "https://github.com/onlymoein/liquidglass",
+                    "description": "Liquid Glass"
                   }
                 ],
                 "children": []
@@ -5554,6 +5574,11 @@
                     "name": "https://verse.rajatsethii.in/",
                     "url": "https://verse.rajatsethii.in/",
                     "description": "Spider-Verse inspired text reveal"
+                  },
+                  {
+                    "name": "https://calligraph.raphaelsalaja.com/",
+                    "url": "https://calligraph.raphaelsalaja.com/",
+                    "description": "Fluid text transitions powered by Motion"
                   }
                 ],
                 "children": []
@@ -5891,6 +5916,16 @@
                   {
                     "name": "https://www.akoder.xyz/components",
                     "url": "https://www.akoder.xyz/components"
+                  },
+                  {
+                    "name": "https://ruixen.com/",
+                    "url": "https://ruixen.com/",
+                    "description": "Freemium"
+                  },
+                  {
+                    "name": "https://arindam200.github.io/termui/",
+                    "url": "https://arindam200.github.io/termui/",
+                    "description": "shadcn-style terminal UI components for React + Ink"
                   }
                 ],
                 "children": []
@@ -6098,6 +6133,11 @@
         "name": "https://www.youtube.com/playlist?list=PLXOJEg4xbr50",
         "url": "https://www.youtube.com/playlist?list=PLXOJEg4xbr50",
         "description": "CS50x en Español"
+      },
+      {
+        "name": "https://redefinefx.com/witcher/",
+        "url": "https://redefinefx.com/witcher/",
+        "description": "Unreal engine niagara fluids beginner course"
       }
     ],
     "children": [
@@ -6373,6 +6413,10 @@
           {
             "name": "https://shopify.engineering/reflex",
             "url": "https://shopify.engineering/reflex"
+          },
+          {
+            "name": "https://morphrig.dev/",
+            "url": "https://morphrig.dev/"
           }
         ],
         "children": []
@@ -10016,6 +10060,16 @@
           {
             "name": "https://forge.ui8.ai/share/frag_899f5f6d-1cbc-46b6-b7c7-44e28191f482",
             "url": "https://forge.ui8.ai/share/frag_899f5f6d-1cbc-46b6-b7c7-44e28191f482"
+          },
+          {
+            "name": "https://bloomvale.vercel.app/",
+            "url": "https://bloomvale.vercel.app/",
+            "description": "juego inspirado en pokopia, minecraft, animal crossing"
+          },
+          {
+            "name": "https://threejsroadmap.com/assets/threejs-water-pro",
+            "url": "https://threejsroadmap.com/assets/threejs-water-pro",
+            "description": "Pagada"
           }
         ],
         "children": []
@@ -11555,6 +11609,10 @@
           {
             "name": "https://pixlpin.com/",
             "url": "https://pixlpin.com/"
+          },
+          {
+            "name": "https://abtest.design/",
+            "url": "https://abtest.design/"
           }
         ],
         "children": []
@@ -14211,6 +14269,11 @@
             "name": "https://antiwebslop.com",
             "url": "https://antiwebslop.com",
             "description": "Freemium"
+          },
+          {
+            "name": "https://github.com/rohitg00/agentmemory",
+            "url": "https://github.com/rohitg00/agentmemory",
+            "description": "Persistent memory for AI coding agents based on real-world benchmarks"
           }
         ],
         "children": [
@@ -14563,6 +14626,11 @@
                 "name": "https://github.com/Appllama/appllama-skills",
                 "url": "https://github.com/Appllama/appllama-skills",
                 "description": "Agent skills that turn top-grossing app patterns into native-quality mobile screens"
+              },
+              {
+                "name": "https://github.com/Leonxlnx/cook",
+                "url": "https://github.com/Leonxlnx/cook",
+                "description": "An agent skill for ambitious visual builds that have to hold up next to references: 3D worlds in code, films, launch videos, games and UI"
               }
             ],
             "children": []
@@ -16132,6 +16200,15 @@
             "name": "https://devlist.co/",
             "url": "https://devlist.co/",
             "description": "Requiere cuenta, Marketing via email, No permite busqueda manual"
+          },
+          {
+            "name": "https://fonzi.ai/",
+            "url": "https://fonzi.ai/"
+          },
+          {
+            "name": "https://aarivi.com",
+            "url": "https://aarivi.com",
+            "description": "Pagada, Requiere cuenta, arivi finds jobs, cold emails your profile to founders, tracks every application, and builds your resume and portfolio"
           }
         ],
         "children": []
