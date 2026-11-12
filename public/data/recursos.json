@@ -2038,6 +2038,11 @@
           {
             "name": "https://fluffy-head.vercel.app/",
             "url": "https://fluffy-head.vercel.app/"
+          },
+          {
+            "name": "https://www.ihateimg.cv/",
+            "url": "https://www.ihateimg.cv/",
+            "description": "Photos, PDF, video and audio, all processed in your browser, so there is no size limit, no watermark and no sign-up"
           }
         ],
         "children": [
@@ -4714,6 +4719,16 @@
             "name": "https://github.com/yappologistic/CUI",
             "url": "https://github.com/yappologistic/CUI",
             "description": "Native UI components for C"
+          },
+          {
+            "name": "https://clarity.microsoft.com/",
+            "url": "https://clarity.microsoft.com/",
+            "description": "análisis de comportamiento"
+          },
+          {
+            "name": "https://github.com/expo/exact",
+            "url": "https://github.com/expo/exact",
+            "description": "Write an app once. It runs natively on the web, macOS, iOS, and Linux, and an AI agent can build it, run it, see it, and test it on every one of them"
           }
         ],
         "children": [
@@ -5622,6 +5637,11 @@
                 "name": "https://nativecook.dev/",
                 "url": "https://nativecook.dev/",
                 "description": "Mobile UI blocks, cooked for React Native, Swift and Kotlin"
+              },
+              {
+                "name": "https://github.com/thesysdev/openui",
+                "url": "https://github.com/thesysdev/openui",
+                "description": "a full-stack, framework-agnostic Generative UI framework built around a compact, streaming-first language"
               }
             ],
             "children": [
@@ -5863,6 +5883,10 @@
                     "name": "https://detentui.com/",
                     "url": "https://detentui.com/",
                     "description": "Pagada"
+                  },
+                  {
+                    "name": "https://ui.lenso.dev/",
+                    "url": "https://ui.lenso.dev/"
                   }
                 ],
                 "children": []
@@ -9979,6 +10003,15 @@
           {
             "name": "https://neon-strike-fps-pc9z.netlify.app/",
             "url": "https://neon-strike-fps-pc9z.netlify.app/"
+          },
+          {
+            "name": "https://github.com/av/safe-sand",
+            "url": "https://github.com/av/safe-sand",
+            "description": "Hyper-realistic sand on your phone screen (WebGL2)"
+          },
+          {
+            "name": "https://forge.ui8.ai/share/frag_899f5f6d-1cbc-46b6-b7c7-44e28191f482",
+            "url": "https://forge.ui8.ai/share/frag_899f5f6d-1cbc-46b6-b7c7-44e28191f482"
           }
         ],
         "children": []
@@ -10701,6 +10734,10 @@
           {
             "name": "https://grahamhelton.com/blog",
             "url": "https://grahamhelton.com/blog"
+          },
+          {
+            "name": "https://cyb3rmaddy.substack.com/",
+            "url": "https://cyb3rmaddy.substack.com/"
           }
         ],
         "children": []
@@ -12599,6 +12636,14 @@
                 "name": "https://github.com/wondelai/skills",
                 "url": "https://github.com/wondelai/skills",
                 "description": "Business, Marketing, UX & Coding Frameworks from Bestselling Books. 50 skills + 12 guided journeys"
+              },
+              {
+                "name": "https://github.com/conorbronsdon/avoid-ai-writing",
+                "url": "https://github.com/conorbronsdon/avoid-ai-writing"
+              },
+              {
+                "name": "https://github.com/lynote-ai/humanize-text",
+                "url": "https://github.com/lynote-ai/humanize-text"
               }
             ],
             "children": []
@@ -13631,6 +13676,11 @@
             "name": "https://glif.app/",
             "url": "https://glif.app/",
             "description": "Pagada, Requiere cuenta"
+          },
+          {
+            "name": "https://github.com/heygen-com/hyperframes",
+            "url": "https://github.com/heygen-com/hyperframes",
+            "description": "Write HTML. Render video. Built for agents"
           }
         ],
         "children": [
@@ -13847,10 +13897,6 @@
             "name": "https://neuform.ai/",
             "url": "https://neuform.ai/",
             "description": "Pagada, Requiere cuenta"
-          },
-          {
-            "name": "https://github.com/heygen-com/hyperframes",
-            "url": "https://github.com/heygen-com/hyperframes"
           },
           {
             "name": "https://github.com/hyperbrowserai/hyperbrowser-app-examples",
@@ -14504,6 +14550,11 @@
                 "name": "https://github.com/dotslashsimran/simcraft",
                 "url": "https://github.com/dotslashsimran/simcraft",
                 "description": "Skill for Video, Engineering, Learning, Design and Planning"
+              },
+              {
+                "name": "https://github.com/Appllama/appllama-skills",
+                "url": "https://github.com/Appllama/appllama-skills",
+                "description": "Agent skills that turn top-grossing app patterns into native-quality mobile screens"
               }
             ],
             "children": []
@@ -14948,6 +14999,11 @@
             "name": "https://github.com/hardbeat920/monocode/",
             "url": "https://github.com/hardbeat920/monocode/",
             "description": "A GUI for your coding agents"
+          },
+          {
+            "name": "https://paradev.com/",
+            "url": "https://paradev.com/",
+            "description": "open-source workspace for Claude Code, Codex, and any coding agent"
           },
           {
             "name": "https://sheet.dipxsy.app/",

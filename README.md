@@ -632,6 +632,7 @@ Mirrors:
 - <https://paint.jas.black/>
 - <https://github.com/AlpinDale/foidfinder> (Identify anime characters and series in images)
 - <https://fluffy-head.vercel.app/>
+- <https://www.ihateimg.cv/> (Photos, PDF, video and audio, all processed in your browser, so there is no size limit, no watermark and no sign-up)
 
 #### Editar imágenes online
 
@@ -1322,6 +1323,8 @@ Mirrors:
 - <https://stickitupx.vercel.app/> (A curated collection of 65+ handcrafted vector, metallic chrome, and pixel art sticker components for React & Next.js)
 - <https://github.com/anomalyco/rune> (A native GPU-rendered Rust UI framework for macOS, Windows, Linux and the web, with its own renderer, text, layout and springs)
 - <https://github.com/yappologistic/CUI> (Native UI components for C)
+- <https://clarity.microsoft.com/> (análisis de comportamiento)
+- <https://github.com/expo/exact> (Write an app once. It runs natively on the web, macOS, iOS, and Linux, and an AI agent can build it, run it, see it, and test it on every one of them)
 
 #### JS Recursos
 
@@ -1544,6 +1547,7 @@ Mirrors:
 - <https://heroui.com/>
 - <https://www.boardui.com/>
 - <https://nativecook.dev/> (Mobile UI blocks, cooked for React Native, Swift and Kotlin)
+- <https://github.com/thesysdev/openui> (a full-stack, framework-agnostic Generative UI framework built around a compact, streaming-first language)
 
 ##### Componentes
 
@@ -1604,6 +1608,7 @@ Mirrors:
 - <https://www.great-ui.com/>
 - <https://www.pinui.xyz/>
 - <https://detentui.com/> (Pagada)
+- <https://ui.lenso.dev/>
 
 ### Web Audio API
 
@@ -2625,6 +2630,8 @@ Mirrors:
 - <https://coo.mx/> (A pigeon adventure over downtown Toronto)
 - <https://webgpu.toys/> (Colección)
 - <https://neon-strike-fps-pc9z.netlify.app/>
+- <https://github.com/av/safe-sand> (Hyper-realistic sand on your phone screen (WebGL2))
+- <https://forge.ui8.ai/share/frag_899f5f6d-1cbc-46b6-b7c7-44e28191f482>
 
 ## Cheatsheets
 
@@ -2818,6 +2825,7 @@ Mirrors:
 - <https://claude.dev/>
 - <https://deploymentsafety.openai.com/>
 - <https://grahamhelton.com/blog>
+- <https://cyb3rmaddy.substack.com/>
 
 ### Inspiración exclusivamente
 
@@ -3290,6 +3298,8 @@ Mirrors:
 - <https://github.com/docwriter-org/plain-writing-skill> (A plain-language writing skill for AI agents, with a revision view that shows what changed)
 - <https://github.com/coreyhaines31/marketingskills>
 - <https://github.com/wondelai/skills> (Business, Marketing, UX & Coding Frameworks from Bestselling Books. 50 skills + 12 guided journeys)
+- <https://github.com/conorbronsdon/avoid-ai-writing>
+- <https://github.com/lynote-ai/humanize-text>
 
 ### AI Imágenes
 
@@ -3525,6 +3535,7 @@ Mirrors:
 - <https://huggingface.co/spaces/hugging-apps/4danyone-multiview-demo> (4D Gaussian-splatting reconstruction)
 - <https://github.com/diffusionstudio/editor> (The VS Code of video editing, built for agents)
 - <https://glif.app/> (Pagada, Requiere cuenta)
+- <https://github.com/heygen-com/hyperframes> (Write HTML. Render video. Built for agents)
 
 #### Skills AI Video
 
@@ -3576,7 +3587,6 @@ Mirrors:
 - <https://github.com/JCodesMore/ai-website-cloner-template>
 - <https://github.com/maxbogo/awesome-ai-tools-for-ui>
 - <https://neuform.ai/> (Pagada, Requiere cuenta)
-- <https://github.com/heygen-com/hyperframes>
 - <https://github.com/hyperbrowserai/hyperbrowser-app-examples>
 - <https://www.agentfriendlycode.com/>
 - <https://www.typeui.sh/prompts>
@@ -3725,6 +3735,7 @@ Ejem [Are Repository-Level Context Files Helpful for Coding Agents?](https://arx
 - <https://github.com/cloudflare/security-audit-skill>
 - <https://github.com/ScrapeCreators/social-media-research-skills>
 - <https://github.com/dotslashsimran/simcraft> (Skill for Video, Engineering, Learning, Design and Planning)
+- <https://github.com/Appllama/appllama-skills> (Agent skills that turn top-grossing app patterns into native-quality mobile screens)
 
 #### Design.md
 
@@ -3831,6 +3842,7 @@ Ejem [Are Repository-Level Context Files Helpful for Coding Agents?](https://arx
 - <https://www.term-v0.app/> (CLI Agentic coding)
 - <https://xirp.spotify.com/> (CLI Agentic coding)
 - <https://github.com/hardbeat920/monocode/> (A GUI for your coding agents)
+- <https://paradev.com/> (open-source workspace for Claude Code, Codex, and any coding agent)
 - <https://sheet.dipxsy.app/> (infinite canvas for real UI)
 - <https://github.com/eneskirca/nodeterm> (Node-based terminal manager for AI coding agents)
 - <https://github.com/stablyai/orca> (Run Codex, ClaudeCode, OpenCode or Pi side-by-side — each in its own worktree, tracked in one place)

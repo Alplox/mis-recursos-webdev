@@ -16,6 +16,95 @@ const overlay = document.getElementById('sidebar-overlay')!
 const sidebar = document.getElementById('sidebar')!
 let sidebarOpen = false
 
+// Mobile bottom sheet drag support
+let touchStartY = 0
+let touchCurrentY = 0
+let isDraggingSidebar = false
+let suppressNavClick = false
+
+// Fully hidden distance in px: own height + the gap reserved for the bottom nav.
+// Uses the computed `bottom` so it always matches the CSS variable (portrait/landscape).
+function sidebarHiddenOffset(): number {
+  if (!sidebar) return 0
+  const bottom = parseFloat(getComputedStyle(sidebar).bottom) || 0
+  return sidebar.offsetHeight + bottom
+}
+
+function initMobileSidebarDrag() {
+  if (!sidebar) return
+  const handleDragStart = (e: TouchEvent) => {
+    if (window.innerWidth > 768) return
+    // Only the header works as a drag handle: touches inside the scrollable TOC
+    // must scroll it instead of dragging/closing the sheet.
+    if ((e.target as HTMLElement).closest('.sidebar-content')) return
+    const touch = e.touches[0]
+    touchStartY = touch.clientY
+    touchCurrentY = touch.clientY
+    isDraggingSidebar = true
+    sidebar.style.transition = 'none'
+  }
+  const handleDragMove = (e: TouchEvent) => {
+    if (!isDraggingSidebar || window.innerWidth > 768) return
+    const touch = e.touches[0]
+    touchCurrentY = touch.clientY
+    const deltaY = touchCurrentY - touchStartY
+    if (sidebarOpen) {
+      if (deltaY > 0) {
+        sidebar.style.transform = `translateY(${deltaY}px)`
+      }
+    } else if (deltaY < 0) {
+      const progress = Math.min(Math.abs(deltaY), 220) / 220
+      sidebar.style.transform = `translateY(${sidebarHiddenOffset() * (1 - progress)}px)`
+    }
+  }
+  const handleDragEnd = () => {
+    if (!isDraggingSidebar) return
+    const deltaY = touchCurrentY - touchStartY
+    const wasOpen = sidebarOpen
+    isDraggingSidebar = false
+    touchStartY = 0
+    touchCurrentY = 0
+    sidebar.style.transition = ''
+    if (window.innerWidth > 768) {
+      sidebar.style.transform = ''
+      return
+    }
+    // Clear the inline transform (and toggle the class in the same frame) so the
+    // transition animates from the dragged position to the CSS-defined state.
+    if (wasOpen && deltaY > 50) {
+      toggleSidebar(false)
+    } else if (!wasOpen && deltaY < -30) {
+      // Swiping up from the nav also emits a click on it; avoid reopening/closing.
+      suppressNavClick = true
+      window.setTimeout(() => { suppressNavClick = false }, 0)
+      toggleSidebar(true)
+    } else {
+      sidebar.style.transform = ''
+    }
+  }
+
+  sidebar.addEventListener('touchstart', handleDragStart, { passive: true })
+  sidebar.addEventListener('touchmove', handleDragMove, { passive: true })
+  sidebar.addEventListener('touchend', handleDragEnd, { passive: true })
+  sidebar.addEventListener('touchcancel', handleDragEnd, { passive: true })
+
+  // Also allow dragging from bottom edge to open
+  const bottomNav = document.querySelector('.bottom-nav')
+  bottomNav?.addEventListener('touchstart', (e) => {
+    if (window.innerWidth > 768 || sidebarOpen) return
+    const touch = (e as TouchEvent).touches[0]
+    touchStartY = touch.clientY
+    touchCurrentY = touch.clientY
+    isDraggingSidebar = true
+    sidebar.style.transition = 'none'
+  }, { passive: true })
+  // The touch stays targeted at the nav that started the gesture, so the sheet
+  // needs the move/end handlers there too for the swipe-up-to-open gesture.
+  bottomNav?.addEventListener('touchmove', handleDragMove, { passive: true })
+  bottomNav?.addEventListener('touchend', handleDragEnd, { passive: true })
+  bottomNav?.addEventListener('touchcancel', handleDragEnd, { passive: true })
+}
+
 function updateSidebarToggleState() {
   const btn = document.getElementById('bottom-nav-index')
   btn?.classList.toggle('active', sidebarOpen && window.innerWidth <= 768)
@@ -34,7 +123,12 @@ function toggleSidebar(open: boolean) {
   const isMobile = window.innerWidth <= 768
   if (isMobile) {
     sidebar?.classList.toggle('open', open)
-    sidebar!.style.transform = ''
+    if (sidebar) {
+      // CSS owns the open/closed transforms (see --bottom-nav-total), so we only
+      // drop any inline transform left by a drag gesture.
+      sidebar.style.transition = ''
+      sidebar.style.transform = ''
+    }
     overlay?.classList.toggle('open', open)
     document.body.style.overflow = open ? 'hidden' : ''
     const main = document.querySelector('.main-content') as HTMLElement
@@ -883,26 +977,46 @@ function handleHash() {
 
 window.addEventListener('hashchange', handleHash)
 
+function setStableViewport() {
+  if (window.innerWidth > 768) return
+  const vh = window.innerHeight * 0.01
+  document.documentElement.style.setProperty('--vh', `${vh}px`)
+}
+
+function applyStableViewport() {
+  setStableViewport()
+}
+
 // ponytail: reset residual sidebar state que cache de Cloudflare pueda pegar
 function syncSidebar() {
   const isMobile = window.innerWidth <= 768
   sidebar?.classList.remove('closed', 'open')
-  sidebar!.style.transform = ''
+  if (sidebar) {
+    sidebar.style.transition = ''
+    sidebar.style.transform = ''
+  }
   const main = document.querySelector('.main-content') as HTMLElement
   if (main) main.style.marginLeft = isMobile ? '0' : ''
   sidebarOpen = !isMobile
   overlay?.classList.remove('open')
   document.body.style.overflow = ''
   updateSidebarToggleState()
+  applyStableViewport()
 }
 
 window.addEventListener('resize', () => {
   syncSidebar()
   scheduleTocRails()
+  applyStableViewport()
+})
+
+window.addEventListener('orientationchange', () => {
+  setTimeout(applyStableViewport, 100)
 })
 
 function initInteractions() {
   document.getElementById('bottom-nav-index')?.addEventListener('click', () => {
+    if (suppressNavClick) return
     window.__toggleSidebar()
   })
   document.getElementById('bottom-nav-search')?.addEventListener('click', () => {
@@ -979,10 +1093,12 @@ function initScrollToTop() {
 
 // --- Init ---
 async function init() {
+  applyStableViewport()
   syncSidebar()
   initSidebarSections()
   initInteractions()
   initScrollToTop()
+  initMobileSidebarDrag()
   requestAnimationFrame(() => initActiveSection())
   await loadData()
   if (fullData) {
