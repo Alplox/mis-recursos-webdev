@@ -38,6 +38,7 @@ mis-recursos-webdev/
 │   │   └── BaseLayout.astro        # Layout base (head, scripts globales, SVG sprite)
 │   ├── lib/
 │   │   └── search.js               # Lógica de búsqueda/flatten
+│   │   └── linkItem.ts             # Marcado compartido de filas de enlaces (SSR + cliente)
 │   ├── scripts/
 │   │   ├── client.ts               # 🧠 TODO el JS cliente (sidebar, search, preview, tooltip, IntersectionObserver)
 │   │   └── render-cards.ts         # createCard() + renderBrowseCards() progresivo
@@ -46,8 +47,16 @@ mis-recursos-webdev/
 │   └── data/
 │       └── recursos.json           # ⚙️ Auto-generado desde README.md (gitignored)
 ├── public/
-│   └── data/
-│       └── recursos.json           # Copia del JSON (generada en build, gitignored)
+│   ├── _headers                # Security headers (Cloudflare Pages)
+│   ├── .well-known/
+│   │   └── ai-catalog.json     # Catálogo ARD para agentes IA
+│   ├── fonts/
+│   │   ├── onest-latin.woff2
+│   │   └── onest-latin-ext.woff2
+│   ├── data/
+│   │   └── recursos.json       # Copia del JSON (generada en build, gitignored)
+│   ├── llms.txt
+│   └── theme.js
 ├── scripts/
 │   ├── parse-readme.mjs            # Parser compartido (slugify, parse, countLinks)
 │   ├── readme-to-json.mjs          # README.md → recursos.json (prebuild)
@@ -114,7 +123,7 @@ Este enfoque reduce el HTML inicial de **5.5 MB → 70 KB** (98.7% menos) y evit
 
 ### Diseño
 
-- **Fuente**: Onest (Google Fonts), cargada en BaseLayout.astro
+- **Fuente**: Onest, autoalojada en `/fonts` (woff2, `font-display: optional` para CLS 0)
 - **Accent color**: Warm amber/gold (`#CD9E4B` oscuro, `#A87D2E` claro)
 - **Textura**: Noise/grain sutil (`body::after` con SVG `feTurbulence`, opacidad 0.015)
 - **Jerarquía tipográfica**: h2=1.35rem, h3=1.15rem, h4=0.95rem, con `text-wrap: balance`

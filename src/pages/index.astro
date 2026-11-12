@@ -13,6 +13,16 @@ const sections = recursos as Section[]
 const renderableSections = sections
   .map(section => ({ section, total: countLinks(section) }))
   .filter(({ total }) => total > 0)
+
+// Rows server-rendered at their final size for the first category, so hydrating
+// them cannot shift the layout. Budget spread across grids in document order.
+let ssrBudget = 60
+function takeSsr(count: number) {
+  const n = Math.max(0, Math.min(ssrBudget, count))
+  ssrBudget -= n
+  return n
+}
+const initialSection = renderableSections[0]?.section
 ---
 
 <BaseLayout>
@@ -23,7 +33,9 @@ const renderableSections = sections
       <SearchBar />
 
       <main class="main-body" id="main-content">
-        <nav id="breadcrumb" class="breadcrumb" aria-label="Ruta" style="display:none"></nav>
+        <nav id="breadcrumb" class="breadcrumb" aria-label="Ruta" aria-current="page">
+  {initialSection && <span class="breadcrumb-current" aria-current="page">{initialSection.name}</span>}
+</nav>
         <div id="search-results" style="display:none">
           <div class="search-results-header" id="search-header"></div>
           <div id="search-results-content"></div>
@@ -70,19 +82,19 @@ const renderableSections = sections
                 )}
 
                 {section.links.length > 0 && (
-                  <LinkGrid title={section.name + ' (general)'} links={section.links} sectionId={section.id + '-links'} level={2} />
+                  <LinkGrid title={section.name + ' (general)'} links={section.links} sectionId={section.id + '-links'} level={2} ssrCount={takeSsr(section.links.length)} />
                 )}
 
                 {section.children.filter(c => c.links.length > 0 || c.children.length > 0).map(child => (
                   <>
-                    <LinkGrid title={child.name} links={child.links} sectionId={child.id} level={3} />
+                    <LinkGrid title={child.name} links={child.links} sectionId={child.id} level={3} ssrCount={takeSsr((child.links || []).length)} />
 
                     {child.children.filter(gc => gc.links.length > 0 || gc.children.length > 0).map(gc => (
                       <>
-                        <LinkGrid title={gc.name} links={gc.links} sectionId={gc.id} level={4} />
+                        <LinkGrid title={gc.name} links={gc.links} sectionId={gc.id} level={4} ssrCount={takeSsr((gc.links || []).length)} />
 
                         {gc.children.filter(ggc => ggc.links.length > 0).map(ggc => (
-                          <LinkGrid title={ggc.name} links={ggc.links} sectionId={ggc.id} level={5} />
+                          <LinkGrid title={ggc.name} links={ggc.links} sectionId={ggc.id} level={5} ssrCount={takeSsr((ggc.links || []).length)} />
                         ))}
                       </>
                     ))}
@@ -121,29 +133,6 @@ const renderableSections = sections
     </div>
   </div>
   <BottomNav />
-
-  <script>
-    ;(function() {
-      const STORAGE_KEY = 'recursos-theme'
-      function getStored() { try { return localStorage.getItem(STORAGE_KEY) } catch { return null } }
-      function getPreferred() {
-        const s = getStored()
-        if (s === 'light' || s === 'dark') return s
-        return window.matchMedia('(prefers-color-scheme: light)').matches ? 'light' : 'dark'
-      }
-      function setTheme(t: string) {
-        document.documentElement.setAttribute('data-theme', t)
-        try { localStorage.setItem(STORAGE_KEY, t) } catch {}
-      }
-      setTheme(getPreferred())
-      window.__toggleTheme = () => {
-        const cur = document.documentElement.getAttribute('data-theme') || 'dark'
-        const next = cur === 'dark' ? 'light' : 'dark'
-        setTheme(next)
-        return next
-      }
-    })()
-  </script>
 
   <script src="../scripts/client.ts"></script>
 </BaseLayout>

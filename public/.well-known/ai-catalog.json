@@ -1,0 +1,18 @@
+{
+  "specVersion": "1.0",
+  "host": {
+    "displayName": "Mis Recursos WEB DEV",
+    "identifier": "did:web:mis-recursos-webdev.pages.dev",
+    "documentationUrl": "https://mis-recursos-webdev.pages.dev/llms.txt"
+  },
+  "entries": [
+    {
+      "identifier": "urn:air:mis-recursos-webdev.pages.dev:dataset:recursos",
+      "displayName": "Recursos WEB DEV (catálogo JSON)",
+      "type": "application/json",
+      "description": "Catálogo estructurado con 3.583 recursos de desarrollo web organizados por categorías, subcategorías y enlaces con descripción.",
+      "url": "https://mis-recursos-webdev.pages.dev/data/recursos.json",
+      "tags": ["web-development", "resources", "directory", "datasets"]
+    }
+  ]
+}

@@ -12,6 +12,7 @@ const siteUrl = Astro.site?.toString().replace(/\/$/, '') || 'https://mis-recurs
   <meta name="theme-color" content="#0b0d14" media="(prefers-color-scheme: dark)" />
   <meta name="theme-color" content="#FFFAE6" media="(prefers-color-scheme: light)" />
   <title>Mis Recursos WEB DEV</title>
+  <script is:inline src="/theme.js"></script>
   <meta name="description" content="Colección de herramientas, recursos, guías e inspiración para desarrollo web." />
   <meta name="robots" content="index,follow" />
   <link rel="canonical" href={siteUrl} />
@@ -27,16 +28,9 @@ const siteUrl = Astro.site?.toString().replace(/\/$/, '') || 'https://mis-recurs
   <meta name="twitter:description" content="Colección de herramientas, recursos, guías e inspiración para desarrollo web." />
   <meta name="twitter:image" content={`${siteUrl}/og.svg`} />
   <link rel="icon" type="image/svg+xml" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'><rect rx='6' width='32' height='32' fill='%23CD9E4B'/><text x='16' y='22' font-size='18' text-anchor='middle' fill='white' font-family='system-ui'>W</text></svg>" />
-  <link rel="preconnect" href="https://fonts.googleapis.com" />
-  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
-  <link rel="preconnect" href="https://www.google.com" crossorigin />
-  <link rel="dns-prefetch" href="https://t0.gstatic.com" />
-  <link rel="dns-prefetch" href="https://t1.gstatic.com" />
-  <link rel="dns-prefetch" href="https://t2.gstatic.com" />
-  <link rel="dns-prefetch" href="https://t3.gstatic.com" />
+  <link rel="preload" href="/fonts/onest-latin.woff2" as="font" type="font/woff2" crossorigin />
   <link rel="preload" href="/data/recursos.json" as="fetch" crossorigin="anonymous" />
-  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Onest:wght@400..700&display=optional" media="print" onload="this.media='all'" />
-  <noscript><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Onest:wght@400..700&display=optional" /></noscript>
+  <link rel="ai-catalog" href="/.well-known/ai-catalog.json" />
 </head>
 <body>
   <a href="#main-content" class="skip-link">Ir al contenido</a>

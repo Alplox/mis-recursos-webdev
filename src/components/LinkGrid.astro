@@ -1,16 +1,24 @@
 ---
+import { linkItemHtml } from '../lib/linkItem'
+
 export interface Props {
   title: string
   links: Array<{ name: string; url: string; description?: string }>
   sectionId?: string
   level?: number
+  /** Rows rendered server-side at their final size so hydration cannot shift them. */
+  ssrCount?: number
 }
 
-const { title, links, sectionId, level = 3 } = Astro.props
-const Tag = level === 3 ? 'h3' : level === 4 ? 'h4' : 'h5'
-const headerClass = level === 3 ? 'subcategory-header' : level === 4 ? 'sub-subcategory-header' : 'lvl5-header'
+const { title, links, sectionId, level = 3, ssrCount = 0 } = Astro.props
+// Keep the heading hierarchy sequential: h2 (category) → h3 → h4 → h5.
+// Level 2 is the category's general list, so it sits at the same depth as h3.
+const Tag = level >= 5 ? 'h5' : level === 4 ? 'h4' : 'h3'
+const headerClass = level >= 5 ? 'lvl5-header' : level === 4 ? 'sub-subcategory-header' : 'subcategory-header'
 const gridId = sectionId || ''
-const skeletonCount = Math.min(links.length, 3)
+const serverLinks = links.slice(0, ssrCount)
+const ssrRowsHtml = serverLinks.map(link => linkItemHtml(link)).join('')
+const skeletonCount = Math.min(links.length - serverLinks.length, 3)
 ---
 
 {sectionId ? <div id={sectionId} class="section-anchor"></div> : null}
@@ -28,6 +36,7 @@ const skeletonCount = Math.min(links.length, 3)
 </div>
 
 <ul class="link-list" data-section-id={gridId}>
+  {ssrRowsHtml && <Fragment set:html={ssrRowsHtml} />}
   {Array.from({ length: skeletonCount }).map(() => (
     <li class="link-skeleton" aria-hidden="true">
       <span class="skeleton-line"></span>

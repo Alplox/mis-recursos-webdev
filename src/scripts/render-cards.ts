@@ -1,28 +1,17 @@
+import { linkItemContentHtml, linkItemHtml } from '../lib/linkItem'
+
 export function escapeHtml(str: string) {
   const div = document.createElement('div')
   div.textContent = str
   return div.innerHTML
 }
 
+export { linkItemHtml }
+
 export function createCard(link: { name: string; url: string; description?: string }, animate = false) {
   const item = document.createElement('li')
   item.className = animate ? 'link-item animate-in' : 'link-item'
-
-  item.innerHTML = `
-    <div class="link-main">
-      <a href="${escapeHtml(link.url)}" target="_blank" rel="noopener noreferrer" class="link-url">${escapeHtml(link.name)}</a>
-      ${link.description ? `<span class="link-desc">${escapeHtml(link.description)}</span>` : ''}
-    </div>
-    <div class="link-actions">
-      <button class="link-action-btn copy-btn" data-copy-url="${escapeHtml(link.url)}" title="Copiar URL" aria-label="Copiar URL">
-        <span class="action-feedback-icon"><svg width="14" height="14" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><use href="#icon-copy"/></svg></span>
-      </button>
-      <a href="https://github.com/Alplox/mis-recursos-webdev/issues/new?template=sugerir-cambio.md&title=Sugerencia: ${encodeURIComponent(link.name)}&body=URL: ${encodeURIComponent(link.url)}%0A---%0A" target="_blank" rel="noopener noreferrer" class="link-action-btn report-btn" title="Reportar enlace o sugerir cambio">
-        <svg width="14" height="14" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><use href="#icon-alert"/></svg>
-      </a>
-    </div>
-  `
-
+  item.innerHTML = linkItemContentHtml(link)
   return item
 }
 
@@ -33,8 +22,8 @@ function countLinks(section: any): number {
 }
 
 function renderLinkGrid(title: string, links: any[], sectionId: string, level: number): string {
-  const tag = level === 3 ? 'h3' : level === 4 ? 'h4' : 'h5'
-  const headerClass = level === 3 ? 'subcategory-header' : level === 4 ? 'sub-subcategory-header' : 'lvl5-header'
+  const tag = level >= 5 ? 'h5' : level === 4 ? 'h4' : 'h3'
+  const headerClass = level >= 5 ? 'lvl5-header' : level === 4 ? 'sub-subcategory-header' : 'subcategory-header'
   const skeletonCount = Math.min(links.length, 3)
   const skeletons = Array.from({ length: skeletonCount }, () => '<li class="link-skeleton" aria-hidden="true"><span class="skeleton-line"></span></li>').join('')
   const anchor = sectionId ? `<div id="${escapeHtml(sectionId)}" class="section-anchor"></div>` : ''

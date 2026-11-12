@@ -1,0 +1,20 @@
+# Mis Recursos WEB DEV
+
+> Directorio curado de herramientas, recursos, guías, cursos e inspiración para desarrollo web. Contiene 3.583 enlaces organizados por categorías y subcategorías, con descripciones breves.
+
+## Contenido principal
+
+- [Herramientas](https://mis-recursos-webdev.pages.dev/#herramientas): editores online, colores, CSS, imágenes, SVG, fuentes, vídeo y audio.
+- [Recursos](https://mis-recursos-webdev.pages.dev/#recursos): documentación, librerías, plantillas e iconos.
+- [Guías](https://mis-recursos-webdev.pages.dev/#guias): guías y cursos escritos para aprender desarrollo web.
+- [Gratuito](https://mis-recursos-webdev.pages.dev/#gratuito): recursos gratuitos, API, snippets y cheatsheets.
+- [Foros, blogs e inspiración](https://mis-recursos-webdev.pages.dev/#foros-blogs-inspiracion): comunidades, blogs y galerías de diseño.
+- [AI](https://mis-recursos-webdev.pages.dev/#ai): modelos, asistentes y herramientas de inteligencia artificial.
+- [Búsqueda de trabajo](https://mis-recursos-webdev.pages.dev/#busqueda-trabajo): portales de empleo y ofertas para desarrolladores.
+
+## Datos y contribución
+
+- [Catálogo completo en JSON](https://mis-recursos-webdev.pages.dev/data/recursos.json): árbol de secciones y enlaces listo para consumo programático.
+- [Repositorio en GitHub](https://github.com/Alplox/mis-recursos-webdev): código fuente y lista completa de recursos en el README.
+- [Añadir un recurso](https://github.com/Alplox/mis-recursos-webdev/issues/new?template=nuevo-recurso.md): formulario para sugerir un enlace nuevo.
+- [Sugerir un cambio](https://github.com/Alplox/mis-recursos-webdev/issues/new?template=sugerir-cambio.md): reportar un enlace desactualizado o incorrecto.
