@@ -1208,6 +1208,7 @@ Mirrors:
 - <https://crestbrowser.com/> (MacOs)
 - <https://ardia.dev/> (MacOs)
 - <https://yetanotherbrowser.com/> (MacOs)
+- <https://wrenbrowser.com/> (MacOs)
 - <https://zephium.app/> (AI)
 - <https://github.com/szymonkaliski/cartographist> (experimental web browser optimized for rabbit-holing)
 
@@ -1482,6 +1483,7 @@ Mirrors:
 - <https://cs16.samke.me/>
 - <https://glisse.kelvinzhang.com/> (Glisse is a faithful implementation of Apple’s Liquid Glass for the web)
 - <https://github.com/onlymoein/liquidglass> (Liquid Glass)
+- <https://spec-01.vercel.app/> (A hardware theme for Vercel UI SDK)
 
 ##### Animación Recursos
 
@@ -1553,6 +1555,7 @@ Mirrors:
 - <https://www.boardui.com/>
 - <https://nativecook.dev/> (Mobile UI blocks, cooked for React Native, Swift and Kotlin)
 - <https://github.com/thesysdev/openui> (a full-stack, framework-agnostic Generative UI framework built around a compact, streaming-first language)
+- <https://github.com/Sam721166/stick-it-up> (A collection of handcrafted vector, metallic chrome, and pixel art sticker components for React & Next.js with realistic 3D vinyl peel physics)
 
 ##### Componentes
 
@@ -2644,6 +2647,10 @@ Mirrors:
 - <https://forge.ui8.ai/share/frag_899f5f6d-1cbc-46b6-b7c7-44e28191f482>
 - <https://bloomvale.vercel.app/> (juego inspirado en pokopia, minecraft, animal crossing)
 - <https://threejsroadmap.com/assets/threejs-water-pro> (Pagada)
+- <https://maad-maxxing.vercel.app/>
+- <https://tokyodrift.mindblown.ai/>
+- <https://cesarbravo.me/webut/>
+- <https://github.com/ChetasLua/crimson-loong>
 
 ## Cheatsheets
 
@@ -2997,6 +3004,24 @@ Mirrors:
 - <https://purelanding.page/>
 - <https://appllama.io/explore>
 - <https://trustmrr.com/>
+- <https://www.launchpanda.dev/>
+- <https://lemonlaunch.dev/>
+- <https://bricklaun.ch/>
+- <https://www.easylaunch.dev/>
+- <https://www.codehype.ai/>
+- <https://launchbuff.com/>
+- <https://www.tinyshelf.co/>
+- <https://dealmyapp.com/>
+- <https://turbo0.com/>
+- <https://twelve.tools/>
+- <https://buildlist.io/>
+- <https://www.listbulb.com/>
+- <https://deeplaunch.io/>
+- <https://www.easydofollow.dev/>
+- <https://nicklaunches.com/>
+- <https://huzzler.so/>
+- <https://postyourstartup.com/>
+- <https://launchbuck.com/>
 - <https://www.theinternetdesigns.com/>
 - <https://film-grab.com/>
 - <https://frontpages.dev/>
