@@ -179,6 +179,7 @@ Mirrors:
 - <https://tools.rmv.fyi/> (Toolkit)
 - <https://devpages.io/> (Toolkit)
 - <https://www.cliputils.com/> (Toolkit)
+- <https://www.uwarp.design/> (Toolkit)
 - <https://designengineer.tools/>
 - <https://mrfreetools.com/tools/>
 - <https://www.fetoolkit.io/>
@@ -1620,6 +1621,7 @@ Mirrors:
 - <https://www.akoder.xyz/components>
 - <https://ruixen.com/> (Freemium)
 - <https://arindam200.github.io/termui/> (shadcn-style terminal UI components for React + Ink)
+- <https://transition-kit.space/>
 
 ### Web Audio API
 
@@ -1900,6 +1902,7 @@ Mirrors:
 - <https://specification.website/> (Website checklist)
 - <https://github.com/patchy631/ai-engineering-hub>
 - <https://grahamhelton.github.io/harness-engineering-workshop-book/introduction.html>
+- <https://study.devatlas.site/> (backend engineering, one note at a time)
 
 ### Udemy
 
@@ -2651,6 +2654,9 @@ Mirrors:
 - <https://tokyodrift.mindblown.ai/>
 - <https://cesarbravo.me/webut/>
 - <https://github.com/ChetasLua/crimson-loong>
+- <https://github.com/thebuggeddev/books>
+- <https://remix.ui8.ai/fly>
+- <https://open-channel-high-plains.jesus-is-god.chatgpt.site/>
 
 ## Cheatsheets
 
@@ -3173,6 +3179,7 @@ Mirrors:
 - <https://is-agentic.com/> (Enter a URL for a score based on what agents can discover, access, and use)
 - <https://noailist.org/>
 - <https://www.human-md.ai/>
+- <https://www.slopmanifesto.com/>
 
 ### AI Colecciones/Toolkit
 
@@ -3464,6 +3471,7 @@ Mirrors:
 - <https://sohna.dev/waterlemon/> (Pagada)
 - <https://github.com/0xSero/ascii-art> (photo to two-tone dot map to seamless animated loop (engine + scripts))
 - <https://github.com/chunkithwang/design-playful-app-icons>
+- <https://github.com/lumenastrum/clio-style-preview> (414 art-style prompts as a ComfyUI node with live preview + a split-slider gallery to SEE the whole library on one subject)
 
 ### AI Audio
 
@@ -3575,7 +3583,8 @@ Mirrors:
 - <https://github.com/diffusionstudio/editor> (The VS Code of video editing, built for agents)
 - <https://glif.app/> (Pagada, Requiere cuenta)
 - <https://github.com/heygen-com/hyperframes> (Write HTML. Render video. Built for agents)
-
+- <https://cascadestudio.ai/> (Pagada, Requiere cuenta)
+- 
 #### Skills AI Video
 
 - <https://github.com/pedrovelasquez9/fragua> (Skill para Claude Code y OpenCode que edita vídeo vertical para TikTok, Reels y Shorts: quita silencios, quema subtítulos karaoke, añade cards gráficas y redacta el copy de publicación. Todo en local, sin API keys)
@@ -4000,6 +4009,7 @@ Ejem [Are Repository-Level Context Files Helpful for Coding Agents?](https://arx
 - <https://github.com/KohakuBlueleaf/KohakuHub> (A self-hosted HuggingFace alternative)
 - <https://runonweb.ai/> (Free, open-source AI models that run in your browser)
 - <https://github.com/JungleJimJim/AI-Image-Video-Studio> (Windows desktop studio for local image generation, editing, video generation, and model-specific LoRAs)
+- <https://uncensored-ai-phone.pages.dev/>
 
 ## Búsqueda trabajo
 
@@ -4201,6 +4211,7 @@ También conocidos como: pagan por tarea
 - <https://startupchile.org/>
 - <https://www.chileemprende.gob.cl/chile-emprende/inicio>
 - <https://www.sercotec.cl/>
+- <https://spanishtoptechcompanies.com/en/> (AI, MCP)
 
 #### CV
 

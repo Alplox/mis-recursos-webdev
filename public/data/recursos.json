@@ -233,6 +233,11 @@
         "description": "Toolkit"
       },
       {
+        "name": "https://www.uwarp.design/",
+        "url": "https://www.uwarp.design/",
+        "description": "Toolkit"
+      },
+      {
         "name": "https://designengineer.tools/",
         "url": "https://designengineer.tools/"
       },
@@ -5941,6 +5946,10 @@
                     "name": "https://arindam200.github.io/termui/",
                     "url": "https://arindam200.github.io/termui/",
                     "description": "shadcn-style terminal UI components for React + Ink"
+                  },
+                  {
+                    "name": "https://transition-kit.space/",
+                    "url": "https://transition-kit.space/"
                   }
                 ],
                 "children": []
@@ -7114,6 +7123,11 @@
           {
             "name": "https://grahamhelton.github.io/harness-engineering-workshop-book/introduction.html",
             "url": "https://grahamhelton.github.io/harness-engineering-workshop-book/introduction.html"
+          },
+          {
+            "name": "https://study.devatlas.site/",
+            "url": "https://study.devatlas.site/",
+            "description": "backend engineering, one note at a time"
           }
         ],
         "children": []
@@ -10101,6 +10115,18 @@
           {
             "name": "https://github.com/ChetasLua/crimson-loong",
             "url": "https://github.com/ChetasLua/crimson-loong"
+          },
+          {
+            "name": "https://github.com/thebuggeddev/books",
+            "url": "https://github.com/thebuggeddev/books"
+          },
+          {
+            "name": "https://remix.ui8.ai/fly",
+            "url": "https://remix.ui8.ai/fly"
+          },
+          {
+            "name": "https://open-channel-high-plains.jesus-is-god.chatgpt.site/",
+            "url": "https://open-channel-high-plains.jesus-is-god.chatgpt.site/"
           }
         ],
         "children": []
@@ -12162,6 +12188,10 @@
       {
         "name": "https://www.human-md.ai/",
         "url": "https://www.human-md.ai/"
+      },
+      {
+        "name": "https://www.slopmanifesto.com/",
+        "url": "https://www.slopmanifesto.com/"
       }
     ],
     "children": [
@@ -13365,6 +13395,11 @@
               {
                 "name": "https://github.com/chunkithwang/design-playful-app-icons",
                 "url": "https://github.com/chunkithwang/design-playful-app-icons"
+              },
+              {
+                "name": "https://github.com/lumenastrum/clio-style-preview",
+                "url": "https://github.com/lumenastrum/clio-style-preview",
+                "description": "414 art-style prompts as a ComfyUI node with live preview + a split-slider gallery to SEE the whole library on one subject"
               }
             ],
             "children": []
@@ -13850,6 +13885,11 @@
             "name": "https://github.com/heygen-com/hyperframes",
             "url": "https://github.com/heygen-com/hyperframes",
             "description": "Write HTML. Render video. Built for agents"
+          },
+          {
+            "name": "https://cascadestudio.ai/",
+            "url": "https://cascadestudio.ai/",
+            "description": "Pagada, Requiere cuenta"
           }
         ],
         "children": [
@@ -15718,6 +15758,10 @@
                 "name": "https://github.com/JungleJimJim/AI-Image-Video-Studio",
                 "url": "https://github.com/JungleJimJim/AI-Image-Video-Studio",
                 "description": "Windows desktop studio for local image generation, editing, video generation, and model-specific LoRAs"
+              },
+              {
+                "name": "https://uncensored-ai-phone.pages.dev/",
+                "url": "https://uncensored-ai-phone.pages.dev/"
               }
             ],
             "children": []
@@ -16414,6 +16458,11 @@
           {
             "name": "https://www.sercotec.cl/",
             "url": "https://www.sercotec.cl/"
+          },
+          {
+            "name": "https://spanishtoptechcompanies.com/en/",
+            "url": "https://spanishtoptechcompanies.com/en/",
+            "description": "AI, MCP"
           }
         ],
         "children": [
