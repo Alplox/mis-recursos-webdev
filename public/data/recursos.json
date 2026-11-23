@@ -2511,6 +2511,11 @@
                 "name": "https://motionmockups.com/",
                 "url": "https://motionmockups.com/",
                 "description": "Pagada"
+              },
+              {
+                "name": "https://luciameme.com/",
+                "url": "https://luciameme.com/",
+                "description": "GTA 6 meme built on a mission card from the game"
               }
             ],
             "children": []
@@ -5400,6 +5405,16 @@
                     "name": "https://spec-01.vercel.app/",
                     "url": "https://spec-01.vercel.app/",
                     "description": "A hardware theme for Vercel UI SDK"
+                  },
+                  {
+                    "name": "https://slopstrap.mikelacher.com/",
+                    "url": "https://slopstrap.mikelacher.com/",
+                    "description": "AI Slop - Make your site look hastily vibecoded"
+                  },
+                  {
+                    "name": "https://marcelochaman.com/repository/hitbox",
+                    "url": "https://marcelochaman.com/repository/hitbox",
+                    "description": "Extend clickable areas with CSS while keeping content aligned"
                   }
                 ],
                 "children": []
@@ -5792,6 +5807,11 @@
                     "url": "https://sticker.oooo.so/"
                   },
                   {
+                    "name": "https://trazo.akoder.xyz/",
+                    "url": "https://trazo.akoder.xyz/",
+                    "description": "Hand-drawn crayon stickers"
+                  },
+                  {
                     "name": "https://github.com/ddoemonn/interior",
                     "url": "https://github.com/ddoemonn/interior"
                   },
@@ -5950,6 +5970,10 @@
                   {
                     "name": "https://transition-kit.space/",
                     "url": "https://transition-kit.space/"
+                  },
+                  {
+                    "name": "https://ui.wensity.com/",
+                    "url": "https://ui.wensity.com/"
                   }
                 ],
                 "children": []
@@ -6312,6 +6336,10 @@
           {
             "name": "https://roadmap.sh/",
             "url": "https://roadmap.sh/"
+          },
+          {
+            "name": "https://ai-engineer-roadmap-2026.vercel.app/",
+            "url": "https://ai-engineer-roadmap-2026.vercel.app/"
           }
         ],
         "children": []
@@ -7412,6 +7440,10 @@
       {
         "name": "https://interneto.github.io/",
         "url": "https://interneto.github.io/"
+      },
+      {
+        "name": "https://freesaasrepos.surge.sh/",
+        "url": "https://freesaasrepos.surge.sh/"
       }
     ],
     "children": [
@@ -10127,6 +10159,28 @@
           {
             "name": "https://open-channel-high-plains.jesus-is-god.chatgpt.site/",
             "url": "https://open-channel-high-plains.jesus-is-god.chatgpt.site/"
+          },
+          {
+            "name": "https://2075.emersoftware.cl/",
+            "url": "https://2075.emersoftware.cl/",
+            "description": "arcade de rescate aéreo en el Chile de 2075"
+          },
+          {
+            "name": "https://1879.cl/",
+            "url": "https://1879.cl/",
+            "description": "Combate Naval de Iquique"
+          },
+          {
+            "name": "https://black-mass-survivor.openai.chatgpt.site/",
+            "url": "https://black-mass-survivor.openai.chatgpt.site/"
+          },
+          {
+            "name": "https://sand-drive.imaginestudio.fun/",
+            "url": "https://sand-drive.imaginestudio.fun/"
+          },
+          {
+            "name": "https://noniv.github.io/atlantis/",
+            "url": "https://noniv.github.io/atlantis/"
           }
         ],
         "children": []
@@ -11606,6 +11660,16 @@
             "description": "Pinterest mirror"
           },
           {
+            "name": "https://pinterest.bunk.im/",
+            "url": "https://pinterest.bunk.im/",
+            "description": "Pinterest mirror"
+          },
+          {
+            "name": "https://github.com/Ahwxorg/binternet/",
+            "url": "https://github.com/Ahwxorg/binternet/",
+            "description": "Pinterest mirrors"
+          },
+          {
             "name": "https://github.com/shsfwork/awesome-inspiration",
             "url": "https://github.com/shsfwork/awesome-inspiration"
           },
@@ -11742,6 +11806,10 @@
           {
             "name": "https://abtest.design/",
             "url": "https://abtest.design/"
+          },
+          {
+            "name": "https://eastasiangraphicsarchive.com/",
+            "url": "https://eastasiangraphicsarchive.com/"
           }
         ],
         "children": []
@@ -13566,6 +13634,11 @@
             "name": "https://github.com/adventists-ai/sophon-realtime",
             "url": "https://github.com/adventists-ai/sophon-realtime",
             "description": "an open full-duplex voice model family: it listens while you talk, hears how you say things, and answers with a voice that laughs, sighs and breathes when the moment calls for it"
+          },
+          {
+            "name": "https://huggingface.co/inworld/voice-isolator",
+            "url": "https://huggingface.co/inworld/voice-isolator",
+            "description": "Open-license (Apache-2.0) 48 kHz voice isolation for noisy speech recordings and live audio"
           }
         ],
         "children": []
@@ -14417,6 +14490,11 @@
             "name": "https://github.com/rohitg00/agentmemory",
             "url": "https://github.com/rohitg00/agentmemory",
             "description": "Persistent memory for AI coding agents based on real-world benchmarks"
+          },
+          {
+            "name": "https://github.com/JustVugg/colibri",
+            "url": "https://github.com/JustVugg/colibri",
+            "description": "A hierarchical inference engine for frontier MoE models: hot experts on the GPU (CUDA, Vulkan), warm ones in RAM, cold ones streamed from NVMe. Written in C, runs on the hardware you already own"
           }
         ],
         "children": [
@@ -16356,6 +16434,10 @@
             "name": "https://aarivi.com",
             "url": "https://aarivi.com",
             "description": "Pagada, Requiere cuenta, arivi finds jobs, cold emails your profile to founders, tracks every application, and builds your resume and portfolio"
+          },
+          {
+            "name": "https://backdoorai.app/match",
+            "url": "https://backdoorai.app/match"
           }
         ],
         "children": []
@@ -16463,6 +16545,16 @@
             "name": "https://spanishtoptechcompanies.com/en/",
             "url": "https://spanishtoptechcompanies.com/en/",
             "description": "AI, MCP"
+          },
+          {
+            "name": "https://www.theantijobboard.com/",
+            "url": "https://www.theantijobboard.com/",
+            "description": "AI, Pagada"
+          },
+          {
+            "name": "https://higo.wtf/",
+            "url": "https://higo.wtf/",
+            "description": "AI, Telegram Bot"
           }
         ],
         "children": [

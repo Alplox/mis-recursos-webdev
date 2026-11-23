@@ -758,6 +758,7 @@ Mirrors:
 - <https://postspark.app/>
 - <https://vi-text-generator.vercel.app/>
 - <https://motionmockups.com/> (Pagada)
+- <https://luciameme.com/> (GTA 6 meme built on a mission card from the game)
 
 #### Remover Fondos
 
@@ -1485,6 +1486,8 @@ Mirrors:
 - <https://glisse.kelvinzhang.com/> (Glisse is a faithful implementation of Apple’s Liquid Glass for the web)
 - <https://github.com/onlymoein/liquidglass> (Liquid Glass)
 - <https://spec-01.vercel.app/> (A hardware theme for Vercel UI SDK)
+- <https://slopstrap.mikelacher.com/> (AI Slop - Make your site look hastily vibecoded)
+- <https://marcelochaman.com/repository/hitbox> (Extend clickable areas with CSS while keeping content aligned)
 
 ##### Animación Recursos
 
@@ -1585,6 +1588,7 @@ Mirrors:
 - <https://www.tripwire.sh/dither-kit> (5 chart types)
 - <https://github.com/opc8838-hub/cover-flow-showcase>
 - <https://sticker.oooo.so/>
+- <https://trazo.akoder.xyz/> (Hand-drawn crayon stickers)
 - <https://github.com/ddoemonn/interior>
 - <https://github.com/mintdotgg/mint-playground/tree/main>
 - <https://github.com/TanStack/charts>
@@ -1622,6 +1626,7 @@ Mirrors:
 - <https://ruixen.com/> (Freemium)
 - <https://arindam200.github.io/termui/> (shadcn-style terminal UI components for React + Ink)
 - <https://transition-kit.space/>
+- <https://ui.wensity.com/>
 
 ### Web Audio API
 
@@ -1714,6 +1719,7 @@ Mirrors:
 - <https://learn-anything.xyz/web-development>
 - <https://medium.com/better-programming/become-a-web-developer-in-180-days-without-cs-degree-e869395972e1>
 - <https://roadmap.sh/>
+- <https://ai-engineer-roadmap-2026.vercel.app/>
 
 ### Diseño Guías
 
@@ -1973,6 +1979,7 @@ Mirrors:
 - <https://hackerbooks.org/>
 - <https://codeberg.org/ethical-foss/ai-free-foss-alternatives>
 - <https://interneto.github.io/>
+- <https://freesaasrepos.surge.sh/>
 
 ### Iconos Gratuitos
 
@@ -2657,6 +2664,11 @@ Mirrors:
 - <https://github.com/thebuggeddev/books>
 - <https://remix.ui8.ai/fly>
 - <https://open-channel-high-plains.jesus-is-god.chatgpt.site/>
+- <https://2075.emersoftware.cl/> (arcade de rescate aéreo en el Chile de 2075)
+- <https://1879.cl/> (Combate Naval de Iquique)
+- <https://black-mass-survivor.openai.chatgpt.site/>
+- <https://sand-drive.imaginestudio.fun/>
+- <https://noniv.github.io/atlantis/>
 
 ## Cheatsheets
 
@@ -3037,6 +3049,8 @@ Mirrors:
 - <https://whatships.com/>
 - <https://designeer.xyz/> (curated collection of interface craft, component libraries, AI tools, and resources for builders)
 - <https://pinlite.app/> (Pinterest mirror)
+- <https://pinterest.bunk.im/> (Pinterest mirror)
+- <https://github.com/Ahwxorg/binternet/> (Pinterest mirrors)
 - <https://github.com/shsfwork/awesome-inspiration>
 - <https://mkdir.directory/> (segregador)
 - <https://cosign.co/landing>
@@ -3069,6 +3083,7 @@ Mirrors:
 - <https://themuseumofads.com/> (A museum of great advertising. Films, launches and campaigns worth studying)
 - <https://pixlpin.com/>
 - <https://abtest.design/>
+- <https://eastasiangraphicsarchive.com/>
 
 ## Cursos de pago
 
@@ -3510,6 +3525,7 @@ Mirrors:
 - <https://huggingface.co/nvidia/NVIDIA-Nemotron-3.5-Transcribe-30B-A4B>
 - <https://github.com/anomalyco/hex> (MacOs, Local-first voice dictation for macOS)
 - <https://github.com/adventists-ai/sophon-realtime> (an open full-duplex voice model family: it listens while you talk, hears how you say things, and answers with a voice that laughs, sighs and breathes when the moment calls for it)
+- <https://huggingface.co/inworld/voice-isolator> (Open-license (Apache-2.0) 48 kHz voice isolation for noisy speech recordings and live audio)
 
 ### AI Música
 
@@ -3700,6 +3716,7 @@ Mirrors:
 - <https://github.com/tirth8205/code-review-graph> (A local code knowledge graph that gives AI coding tools precise review context over MCP)
 - <https://antiwebslop.com> (Freemium)
 - <https://github.com/rohitg00/agentmemory> (Persistent memory for AI coding agents based on real-world benchmarks)
+- <https://github.com/JustVugg/colibri> (A hierarchical inference engine for frontier MoE models: hot experts on the GPU (CUDA, Vulkan), warm ones in RAM, cold ones streamed from NVMe. Written in C, runs on the hardware you already own)
 
 #### Skills AI Vibe Coding
 
@@ -4184,6 +4201,7 @@ También conocidos como: pagan por tarea
 - <https://devlist.co/> (Requiere cuenta, Marketing via email, No permite busqueda manual)
 - <https://fonzi.ai/>
 - <https://aarivi.com> (Pagada, Requiere cuenta, arivi finds jobs, cold emails your profile to founders, tracks every application, and builds your resume and portfolio)
+- <https://backdoorai.app/match>
 
 ### Herramientas Trabajo
 
@@ -4212,6 +4230,8 @@ También conocidos como: pagan por tarea
 - <https://www.chileemprende.gob.cl/chile-emprende/inicio>
 - <https://www.sercotec.cl/>
 - <https://spanishtoptechcompanies.com/en/> (AI, MCP)
+- <https://www.theantijobboard.com/> (AI, Pagada)
+- <https://higo.wtf/> (AI, Telegram Bot)
 
 #### CV
 
