@@ -2669,6 +2669,7 @@ Mirrors:
 - <https://black-mass-survivor.openai.chatgpt.site/>
 - <https://sand-drive.imaginestudio.fun/>
 - <https://noniv.github.io/atlantis/>
+- <https://claude.ai/artifact/Cy2d8Vn63CnzCtonA1LSah> (The Last Boring Slide)
 
 ## Cheatsheets
 
@@ -3308,7 +3309,6 @@ Mirrors:
 - <https://laia.uno/>
 - <https://gitmind.com/es/ai-chat>
 - <https://you.com/search?fromSearchBar=true&tbm=youchat>
-- <https://www.llama2.ai/>
 - <https://academicgpt.net/>
 - <https://0dai.omegaai.io/>
 - <https://kagi.com/fastgpt>
@@ -3803,6 +3803,7 @@ Ejem [Are Repository-Level Context Files Helpful for Coding Agents?](https://arx
 - <https://github.com/dotslashsimran/simcraft> (Skill for Video, Engineering, Learning, Design and Planning)
 - <https://github.com/Appllama/appllama-skills> (Agent skills that turn top-grossing app patterns into native-quality mobile screens)
 - <https://github.com/Leonxlnx/cook> (An agent skill for ambitious visual builds that have to hold up next to references: 3D worlds in code, films, launch videos, games and UI)
+- <https://github.com/samber/cc-skills> (marketing, design and engineering skills)
 
 #### Design.md
 
@@ -3874,6 +3875,9 @@ Ejem [Are Repository-Level Context Files Helpful for Coding Agents?](https://arx
 - <https://github.com/kosta4a/tactile-design>
 - <https://shiftnudge.com/skill> (Requiere correo y es skill es basicamente publicidad - https://rentry.co/d8gqwqor)
 - <https://github.com/NiazMorshed2007/reanimate> (Reverse-engineer animations)
+- <https://github.com/frankxai/awesome-motion-design-agent-skills> (Curated motion design agent skills: GSAP, Motion, Remotion, Lottie and Rive for web animation, programmatic video and motion QA)
+- <https://github.com/kaankiziltug/logo-design-skill>
+- <https://github.com/Akxan/ppt-agent-skill>
 
 ### AI Software
 
@@ -4202,6 +4206,7 @@ También conocidos como: pagan por tarea
 - <https://fonzi.ai/>
 - <https://aarivi.com> (Pagada, Requiere cuenta, arivi finds jobs, cold emails your profile to founders, tracks every application, and builds your resume and portfolio)
 - <https://backdoorai.app/match>
+- <https://layoffsandhires.com/jobs>
 
 ### Herramientas Trabajo
 
@@ -4232,6 +4237,7 @@ También conocidos como: pagan por tarea
 - <https://spanishtoptechcompanies.com/en/> (AI, MCP)
 - <https://www.theantijobboard.com/> (AI, Pagada)
 - <https://higo.wtf/> (AI, Telegram Bot)
+- <https://github.com/Overrid3CL/cv-tailor> (Turn your AI agent into your job-application assistant with MCP)
 
 #### CV
 

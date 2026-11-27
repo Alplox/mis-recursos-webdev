@@ -10181,6 +10181,11 @@
           {
             "name": "https://noniv.github.io/atlantis/",
             "url": "https://noniv.github.io/atlantis/"
+          },
+          {
+            "name": "https://claude.ai/artifact/Cy2d8Vn63CnzCtonA1LSah",
+            "url": "https://claude.ai/artifact/Cy2d8Vn63CnzCtonA1LSah",
+            "description": "The Last Boring Slide"
           }
         ],
         "children": []
@@ -12693,10 +12698,6 @@
             "url": "https://you.com/search?fromSearchBar=true&tbm=youchat"
           },
           {
-            "name": "https://www.llama2.ai/",
-            "url": "https://www.llama2.ai/"
-          },
-          {
             "name": "https://academicgpt.net/",
             "url": "https://academicgpt.net/"
           },
@@ -14852,6 +14853,11 @@
                 "name": "https://github.com/Leonxlnx/cook",
                 "url": "https://github.com/Leonxlnx/cook",
                 "description": "An agent skill for ambitious visual builds that have to hold up next to references: 3D worlds in code, films, launch videos, games and UI"
+              },
+              {
+                "name": "https://github.com/samber/cc-skills",
+                "url": "https://github.com/samber/cc-skills",
+                "description": "marketing, design and engineering skills"
               }
             ],
             "children": []
@@ -15140,6 +15146,19 @@
                 "name": "https://github.com/NiazMorshed2007/reanimate",
                 "url": "https://github.com/NiazMorshed2007/reanimate",
                 "description": "Reverse-engineer animations"
+              },
+              {
+                "name": "https://github.com/frankxai/awesome-motion-design-agent-skills",
+                "url": "https://github.com/frankxai/awesome-motion-design-agent-skills",
+                "description": "Curated motion design agent skills: GSAP, Motion, Remotion, Lottie and Rive for web animation, programmatic video and motion QA"
+              },
+              {
+                "name": "https://github.com/kaankiziltug/logo-design-skill",
+                "url": "https://github.com/kaankiziltug/logo-design-skill"
+              },
+              {
+                "name": "https://github.com/Akxan/ppt-agent-skill",
+                "url": "https://github.com/Akxan/ppt-agent-skill"
               }
             ],
             "children": []
@@ -16438,6 +16457,10 @@
           {
             "name": "https://backdoorai.app/match",
             "url": "https://backdoorai.app/match"
+          },
+          {
+            "name": "https://layoffsandhires.com/jobs",
+            "url": "https://layoffsandhires.com/jobs"
           }
         ],
         "children": []
@@ -16555,6 +16578,11 @@
             "name": "https://higo.wtf/",
             "url": "https://higo.wtf/",
             "description": "AI, Telegram Bot"
+          },
+          {
+            "name": "https://github.com/Overrid3CL/cv-tailor",
+            "url": "https://github.com/Overrid3CL/cv-tailor",
+            "description": "Turn your AI agent into your job-application assistant with MCP"
           }
         ],
         "children": [
